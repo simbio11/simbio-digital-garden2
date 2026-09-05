@@ -102,6 +102,11 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{if(!localStorage.getItem("theme")){document.documentElement.setAttribute("saved-theme","light")}}catch(e){}})();`,
+          }}
+        />
         {additionalHead.map((resource) => {
           if (typeof resource === "function") {
             return resource(fileData)

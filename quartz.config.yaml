@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Simbio Garden
+  pageTitle: Simbio Cortex
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -28,20 +28,20 @@ configuration:
         gray: "#b0b0b0"
         darkgray: "#454545"
         dark: "#191919"
-        secondary: "#c0552e"
-        tertiary: "#8a3a26"
-        highlight: rgba(192, 85, 46, 0.1)
-        textHighlight: "rgba(240, 197, 105, 0.5)"
+        secondary: "#5b5bd6"
+        tertiary: "#4646b8"
+        highlight: rgba(91, 91, 214, 0.1)
+        textHighlight: "rgba(128, 120, 235, 0.28)"
       darkMode:
         light: "#171717"
         lightgray: "#262626"
         gray: "#6f6f6f"
         darkgray: "#d6d6d6"
         dark: "#f2f2f2"
-        secondary: "#e0835b"
-        tertiary: "#eda083"
-        highlight: rgba(224, 131, 91, 0.15)
-        textHighlight: "rgba(224, 184, 108, 0.42)"
+        secondary: "#8b8ff0"
+        tertiary: "#a8acff"
+        highlight: rgba(139, 143, 240, 0.16)
+        textHighlight: "rgba(165, 155, 250, 0.3)"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

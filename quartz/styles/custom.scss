@@ -105,88 +105,105 @@ a.internal:not(.broken):hover {
 
 /* ═══════════════════════════════════════════════════════
    폴더별 링크 색상 — 지식 카테고리 컬러 코딩
+   (하위 폴더 단위로 색을 부여해 어디 지식인지 바로 구분)
    ═══════════════════════════════════════════════════════ */
 :root {
-  /* 응급/레드플래그 */
-  --cat-danger: #dd4b3e;
-  /* 근골격계 */
-  --cat-muscle: #b06a3e;
-  --cat-bone: #71808f;
-  --cat-nerve: #6158c4;
-  /* 약리 */
-  --cat-herb: #2b9d5f;
-  --cat-formula: #a08a26;
-  /* 이론 / 독서 */
+  /* 0. 기본의학 */
+  --cat-danger: #dd4b3e; /* 응급·레드플래그 */
+  --cat-gi: #d9772b; /* 소화기 */
+  /* 1. 근골격계 */
+  --cat-muscle: #b06a3e; /* 근육 */
+  --cat-bone: #71808f; /* 골격·인대 */
+  --cat-nerve: #7a4fd6; /* 신경·신경계·자율신경계 */
+  --cat-exam: #3f7dae; /* 이학적 검사 */
+  --cat-seminar: #c05f6a; /* 원추연 */
+  --cat-chuna: #7c6bb5; /* 추나 */
+  /* 2. 약리 */
+  --cat-herb: #2b9d5f; /* 본초 */
+  --cat-formula: #a08a26; /* 처방·상한론 */
+  --cat-phytochem: #c2458c; /* 약리성분·약침 */
+  --cat-western: #3a7ca5; /* 양방 약·양방의약품 */
+  /* 3. 이론 / 5. 독서 */
   --cat-theory: #1f8a84;
   --cat-books: #8d8072;
 }
 
 :root[saved-theme="dark"] {
   --cat-danger: #f18a7d;
+  --cat-gi: #efab6e;
   --cat-muscle: #e0a475;
   --cat-bone: #9fb0c0;
-  --cat-nerve: #a9a1f0;
+  --cat-nerve: #b5a6f5;
+  --cat-exam: #86b6dd;
+  --cat-seminar: #e59aa3;
+  --cat-chuna: #ab9be8;
   --cat-herb: #6fcf9c;
   --cat-formula: #d3bc55;
+  --cat-phytochem: #e88cc2;
+  --cat-western: #7fb2da;
   --cat-theory: #63c9c1;
   --cat-books: #b8ab9c;
 }
 
-/* 0. 기본의학 공부 — 응급/레드플래그 */
+/* ── 0. 기본의학 공부 ─────────────────────────────────── */
 a.internal[data-slug^="0.-기본의학-공부/01.-레드플래그"] {
   color: var(--cat-danger);
 }
-
-/* 1. 근골격계 공부 */
-a.internal[data-slug^="1.-근골격계-공부/근육/"] {
-  color: var(--cat-muscle);
+a.internal[data-slug^="0.-기본의학-공부/소화기/"] {
+  color: var(--cat-gi);
 }
-a.internal[data-slug^="1.-근골격계-공부/골격/"] {
-  color: var(--cat-bone);
-}
-a.internal[data-slug^="1.-근골격계-공부/신경/"] {
+a.internal[data-slug^="0.-기본의학-공부/신경계/"] {
   color: var(--cat-nerve);
 }
 
-/* 2. 약리 공부 */
+/* ── 1. 근골격계 공부 ─────────────────────────────────── */
+a.internal[data-slug^="1.-근골격계-공부/근육/"] {
+  color: var(--cat-muscle);
+}
+a.internal[data-slug^="1.-근골격계-공부/골격/"],
+a.internal[data-slug^="1.-근골격계-공부/인대/"] {
+  color: var(--cat-bone);
+}
+a.internal[data-slug^="1.-근골격계-공부/신경/"],
+a.internal[data-slug^="1.-근골격계-공부/자율신경계/"] {
+  color: var(--cat-nerve);
+}
+a.internal[data-slug^="1.-근골격계-공부/이학적-검사/"] {
+  color: var(--cat-exam);
+}
+a.internal[data-slug^="1.-근골격계-공부/원추연/"] {
+  color: var(--cat-seminar);
+}
+a.internal[data-slug^="1.-근골격계-공부/추나/"] {
+  color: var(--cat-chuna);
+}
+
+/* ── 2. 약리 공부 ─────────────────────────────────────── */
 a.internal[data-slug^="2.-약리-공부/본초/"] {
   color: var(--cat-herb);
 }
-a.internal[data-slug^="2.-약리-공부/처방/"] {
+a.internal[data-slug^="2.-약리-공부/처방/"],
+a.internal[data-slug^="2.-약리-공부/상한론/"] {
   color: var(--cat-formula);
 }
+a.internal[data-slug^="2.-약리-공부/약리성분/"],
+a.internal[data-slug^="2.-약리-공부/약침/"] {
+  color: var(--cat-phytochem);
+}
+a.internal[data-slug^="2.-약리-공부/양방-약/"],
+a.internal[data-slug^="2.-약리-공부/양방의약품·성분/"] {
+  color: var(--cat-western);
+}
 
-/* 3. 이론 공부 */
+/* ── 3. 이론 공부 ─────────────────────────────────────── */
 a.internal[data-slug^="3.-이론-공부/"] {
   color: var(--cat-theory);
 }
 
-/* 5. 독서·노트 */
+/* ── 5. 독서·노트 ─────────────────────────────────────── */
 a.internal[data-slug^="5.-독서,-노트/"],
 a.internal[data-slug^="5.-독서-노트/"] {
   color: var(--cat-books);
-}
-
-/* 카테고리 hover — 다크에서 살짝 밝게, 라이트에서 살짝 진하게 */
-:root[saved-theme="dark"]
-  a.internal[data-slug^="0.-기본의학-공부/01.-레드플래그"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="1.-근골격계-공부/근육/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="1.-근골격계-공부/골격/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="1.-근골격계-공부/신경/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="2.-약리-공부/본초/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="2.-약리-공부/처방/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="3.-이론-공부/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="5.-독서,-노트/"]:hover,
-:root[saved-theme="dark"]
-  a.internal[data-slug^="5.-독서-노트/"]:hover {
-  filter: brightness(1.12);
 }
 
 /* ── 탐색기(Explorer) ─────────────────────────────────── */
