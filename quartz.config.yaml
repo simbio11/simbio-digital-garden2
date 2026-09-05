@@ -23,25 +23,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#fbf6ef"
-        lightgray: "#eae1d2"
-        gray: "#a3947e"
-        darkgray: "#4d4336"
-        dark: "#2c2520"
-        secondary: "#a84e2a"
-        tertiary: "#7c3123"
-        highlight: rgba(168, 78, 42, 0.12)
-        textHighlight: "rgba(216, 166, 82, 0.45)"
+        light: "#ffffff"
+        lightgray: "#e9e9e9"
+        gray: "#b0b0b0"
+        darkgray: "#454545"
+        dark: "#191919"
+        secondary: "#c0552e"
+        tertiary: "#8a3a26"
+        highlight: rgba(192, 85, 46, 0.1)
+        textHighlight: "rgba(240, 197, 105, 0.5)"
       darkMode:
-        light: "#1e1a16"
-        lightgray: "#2d2721"
-        gray: "#857863"
-        darkgray: "#d6cbbe"
-        dark: "#f0e8dc"
-        secondary: "#e0875b"
-        tertiary: "#eda282"
-        highlight: rgba(224, 135, 91, 0.16)
-        textHighlight: "rgba(214, 174, 92, 0.4)"
+        light: "#171717"
+        lightgray: "#262626"
+        gray: "#6f6f6f"
+        darkgray: "#d6d6d6"
+        dark: "#f2f2f2"
+        secondary: "#e0835b"
+        tertiary: "#eda083"
+        highlight: rgba(224, 131, 91, 0.15)
+        textHighlight: "rgba(224, 184, 108, 0.42)"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -111,10 +111,10 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
     options:
-      title: "Noto Serif KR"
-      header: "Noto Serif KR"
+      title: "Noto Sans KR"
+      header: "Noto Sans KR"
       body: "Noto Sans KR"
       code: "IBM Plex Mono"
       fontOrigin: googleFonts

@@ -1,3 +1,368 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* ═══════════════════════════════════════════════════════
+   Simbio Garden — 커스텀 디자인 (모던 미니멀 · 테라코타)
+   ═══════════════════════════════════════════════════════ */
+
+/* ── Pretendard 폰트 적용 ─────────────────────────────── */
+:root {
+  --titleFont: "Pretendard Variable", Pretendard, "Noto Sans KR",
+    -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
+  --headerFont: "Pretendard Variable", Pretendard, "Noto Sans KR",
+    -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
+  --bodyFont: "Pretendard Variable", Pretendard, "Noto Sans KR",
+    -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
+}
+
+/* ── 기본 타이포 ──────────────────────────────────────── */
+html {
+  font-size: 16px;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.75;
+  letter-spacing: -0.006em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p,
+li,
+td,
+tbody {
+  line-height: 1.85;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+h1 {
+  font-size: 2.15rem;
+  line-height: 1.3;
+  margin-top: 2.6rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 1.35;
+  margin-top: 2.5rem;
+}
+
+h3 {
+  font-size: 1.22rem;
+}
+
+/* ── 링크: 미니멀 ─────────────────────────────────────── */
+a {
+  text-decoration: none;
+}
+
+a.internal,
+a.external {
+  font-weight: 600;
+  color: var(--secondary);
+  text-underline-offset: 3px;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+a.internal {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+}
+
+a.internal:hover,
+a.external:hover {
+  color: var(--tertiary);
+}
+
+/* 내부 위키링크에만 부드러운 밑줄 (broken 제외) */
+a.internal:not(.broken):hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+}
+
+/* ── 본문 콘텐츠 폭 ───────────────────────────────────── */
+.article-title,
+.popover-hint article,
+.content-meta {
+  max-width: 46rem;
+}
+
+.page-header .page-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* ═══════════════════════════════════════════════════════
+   폴더별 링크 색상 — 지식 카테고리 컬러 코딩
+   ═══════════════════════════════════════════════════════ */
+:root {
+  /* 응급/레드플래그 */
+  --cat-danger: #dd4b3e;
+  /* 근골격계 */
+  --cat-muscle: #b06a3e;
+  --cat-bone: #71808f;
+  --cat-nerve: #6158c4;
+  /* 약리 */
+  --cat-herb: #2b9d5f;
+  --cat-formula: #a08a26;
+  /* 이론 / 독서 */
+  --cat-theory: #1f8a84;
+  --cat-books: #8d8072;
+}
+
+:root[saved-theme="dark"] {
+  --cat-danger: #f18a7d;
+  --cat-muscle: #e0a475;
+  --cat-bone: #9fb0c0;
+  --cat-nerve: #a9a1f0;
+  --cat-herb: #6fcf9c;
+  --cat-formula: #d3bc55;
+  --cat-theory: #63c9c1;
+  --cat-books: #b8ab9c;
+}
+
+/* 0. 기본의학 공부 — 응급/레드플래그 */
+a.internal[data-slug^="0.-기본의학-공부/01.-레드플래그"] {
+  color: var(--cat-danger);
+}
+
+/* 1. 근골격계 공부 */
+a.internal[data-slug^="1.-근골격계-공부/근육/"] {
+  color: var(--cat-muscle);
+}
+a.internal[data-slug^="1.-근골격계-공부/골격/"] {
+  color: var(--cat-bone);
+}
+a.internal[data-slug^="1.-근골격계-공부/신경/"] {
+  color: var(--cat-nerve);
+}
+
+/* 2. 약리 공부 */
+a.internal[data-slug^="2.-약리-공부/본초/"] {
+  color: var(--cat-herb);
+}
+a.internal[data-slug^="2.-약리-공부/처방/"] {
+  color: var(--cat-formula);
+}
+
+/* 3. 이론 공부 */
+a.internal[data-slug^="3.-이론-공부/"] {
+  color: var(--cat-theory);
+}
+
+/* 5. 독서·노트 */
+a.internal[data-slug^="5.-독서,-노트/"],
+a.internal[data-slug^="5.-독서-노트/"] {
+  color: var(--cat-books);
+}
+
+/* 카테고리 hover — 다크에서 살짝 밝게, 라이트에서 살짝 진하게 */
+:root[saved-theme="dark"]
+  a.internal[data-slug^="0.-기본의학-공부/01.-레드플래그"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="1.-근골격계-공부/근육/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="1.-근골격계-공부/골격/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="1.-근골격계-공부/신경/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="2.-약리-공부/본초/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="2.-약리-공부/처방/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="3.-이론-공부/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="5.-독서,-노트/"]:hover,
+:root[saved-theme="dark"]
+  a.internal[data-slug^="5.-독서-노트/"]:hover {
+  filter: brightness(1.12);
+}
+
+/* ── 탐색기(Explorer) ─────────────────────────────────── */
+.explorer {
+  font-size: 0.92rem;
+}
+
+.nav-folder-title,
+.nav-file-title {
+  border-radius: 6px;
+  transition: background-color 0.12s ease, color 0.12s ease;
+}
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  background-color: var(--lightgray);
+}
+
+.nav-file-title.is-active {
+  background-color: var(--highlight);
+  color: var(--secondary);
+  font-weight: 700;
+}
+
+/* ── 검색: 필 버튼 ───────────────────────────────────── */
+.search .search-button {
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  background-color: transparent;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.search .search-button:hover {
+  border-color: var(--gray);
+  background-color: var(--lightgray);
+}
+
+.search .search-button svg {
+  color: var(--gray);
+}
+
+/* ── 표: 의학 데이터 테이블 ───────────────────────────── */
+.table-container > table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 1.2rem 0;
+  padding: 0;
+  width: 100%;
+}
+
+.table-container > table th {
+  background-color: var(--lightgray);
+  border-bottom: 1px solid var(--gray);
+  font-weight: 700;
+  padding: 0.55rem 0.8rem;
+}
+
+.table-container > table td {
+  padding: 0.45rem 0.8rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.table-container > table tr:last-child td {
+  border-bottom: none;
+}
+
+.table-container > table tbody tr:hover {
+  background-color: color-mix(in srgb, var(--secondary) 4%, transparent);
+}
+
+/* ── 코드 ─────────────────────────────────────────────── */
+code {
+  font-size: 0.875em;
+  background-color: var(--lightgray);
+}
+
+pre > code {
+  font-size: 0.85rem;
+  line-height: 1.7;
+  background: transparent;
+}
+
+pre {
+  background-color: color-mix(in srgb, var(--lightgray) 45%, var(--light));
+}
+
+/* ── 콜아웃 ───────────────────────────────────────────── */
+.callout {
+  border-radius: 12px;
+}
+
+.callout-title {
+  font-weight: 700;
+}
+
+/* ── 우측 사이드바 위젯: 플랫 카드 ────────────────────── */
+.right.sidebar .toc,
+.right.sidebar .backlinks,
+.right.sidebar .graph {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 0.7rem 0.95rem;
+  background-color: transparent;
+}
+
+.toc .toc-header,
+.backlinks .backlinks-title,
+.graph .graph-header {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+/* ── 태그 칩 ──────────────────────────────────────────── */
+a.tag-link {
+  background-color: color-mix(in srgb, var(--secondary) 9%, var(--light));
+  border: 1px solid color-mix(in srgb, var(--secondary) 20%, transparent);
+  border-radius: 999px;
+  padding: 0.06rem 0.55rem;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+a.tag-link:hover {
+  text-decoration: none;
+  background-color: color-mix(in srgb, var(--secondary) 14%, var(--light));
+}
+
+/* ── 콘텐츠 메타 ──────────────────────────────────────── */
+.content-meta {
+  color: var(--gray);
+  font-size: 0.88rem;
+}
+
+/* ── 선택 / 스크롤바 ──────────────────────────────────── */
+::selection {
+  background: color-mix(in srgb, var(--tertiary) 28%, #fff0);
+  color: var(--dark);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--lightgray) transparent;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--lightgray);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--gray);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ── 팝오버 ───────────────────────────────────────────── */
+.popover > .popover-inner {
+  border-radius: 12px;
+  box-shadow: 0 14px 44px color-mix(in srgb, #000 14%, transparent);
+}
+
+/* ── 모바일 보정 ──────────────────────────────────────── */
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    padding: 0.5rem 0 0;
+  }
+}
