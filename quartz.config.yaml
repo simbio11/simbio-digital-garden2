@@ -13,7 +13,7 @@ configuration:
     - templates
     - .obsidian
     - "5. 독서, 노트/생각"
-    - "7. 첨부·자료/임상례
+    - "7. 첨부·자료/임상례"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -245,7 +245,13 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: "🌱 최근 추가 · 수정된 노트"
+      limit: 8
+      showTags: true
+      hideTagPages: true
+      hideFolderPages: true
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
