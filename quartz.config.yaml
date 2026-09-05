@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "simbio11.github.io/simbio-digital-garden2",
+  baseUrl: "simbio11.github.io/simbio-digital-garden2"
   ignorePatterns:
     - private
     - templates
