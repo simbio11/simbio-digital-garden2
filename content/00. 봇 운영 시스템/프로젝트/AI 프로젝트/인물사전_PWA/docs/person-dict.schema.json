@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://person-dict.local/schema/v1/person.schema.json",
+  "title": "인물 사전 데이터 스키마 v1 (person-dict.v1)",
+  "description": "만난 사람 기록 카드의 데이터 구조. localStorage 키 person-dict.v1은 이 스키마를 따르는 객체 배열이다. 기획서: docs/인물사전_UIUX_기획서.md (v1.0, 비비)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "createdAt", "updatedAt"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 32,
+      "description": "고유 식별자. 생성 시각 기반 + 난수로 자동 생성, 사용자 입력 금지"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 50,
+      "description": "이름/별칭/호칭. 유일한 필수 입력 필드"
+    },
+    "place": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "만난 장소"
+    },
+    "metAt": {
+      "type": "string",
+      "pattern": "^$|^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "첫 만남 날짜 (YYYY-MM-DD). 빈 문자열 허용"
+    },
+    "emotion": {
+      "type": "string",
+      "enum": ["good", "neutral", "hard"],
+      "default": "neutral",
+      "description": "감정 상태 3단계: good(😊 좋음) / neutral(😐 보통) / hard(😅 어려움)"
+    },
+    "level": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "default": 1,
+      "description": "관계 깊이: 1=인사, 2=아는 사이, 3=친분, 4=가까움, 5=최고 친밀"
+    },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "maxItems": 5,
+      "items": {
+        "type": "string",
+        "enum": ["business", "personal", "family", "school", "community"]
+      },
+      "description": "관계 유형 태그(복수 선택): business(💼 비즈니스) / personal(💛 사적) / family(👨‍👩‍👧 가족) / school(🎓 학교) / community(🤝 모임)"
+    },
+    "memo": {
+      "type": "string",
+      "maxLength": 5000,
+      "description": "주요 메모(자유 텍스트). 라벨 가이드: 🗣 대화 / 💕 취향 / 📌 약속 — 파싱 의존 없음"
+    },
+    "createdAt": {
+      "type": "integer",
+      "description": "최초 생성 시각 (epoch milliseconds)"
+    },
+    "updatedAt": {
+      "type": "integer",
+      "description": "마지막 수정 시각 (epoch milliseconds)"
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "639e1995-7c2c-482a-adbc-462775f0c005",
+  "title": "안녕",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "안녕",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n안녕\n\n"
+        }
+      ],
+      "id": "84f0e920-f9f0-4479-a0c5-e8ab2fe6970a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "00. 봇 운영 시스템/봇_운영_규칙.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "안녕",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n안녕\n\n"
+        }
+      ],
+      "id": "742d390a-1475-46c9-b316-eac1338001cd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "00. 봇 운영 시스템/봇_운영_규칙.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "안녕",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n안녕\n\n"
+        }
+      ],
+      "id": "f3c31528-e346-47f1-8a15-36a66dbf0cb1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "00. 봇 운영 시스템/봇_운영_규칙.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "안녕하세요! 제공해주신 지침에 따라 `봇_운영_규칙.md` 파일에 **닥터허**의 특화 산출물(닥터가이던스 및 근육 정리) 작성 규칙을 추가했습니다.\n\n<smtcmp_block filename=\"00. 봇 운영 시스템/봇_운영_규칙.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n## 9️⃣ 보고서 라우팅 요약 (파일이 어디로 가는지)\n\n```\n신규 메모·생각·강의 → 0. 인박스/ → (매일 22:00 카이) → 분류\n정기 보고서        → 00. 봇 운영 시스템/보고서/ (크론이 직접 저장)\n일정/생활         → 00. 봇 운영 시스템/일정관리·생활관리 (아린)\n세션/일일 기록     → 00. 봇 운영 시스템/프로젝트/헤르메스/작업기록 (카이)\n공부자료          → 1~4번 (비오님 직접 — 봇 금지)\n```\n\n## 🔟 닥터허 특화 산출물 규칙 (의학)\n\n### 1. 환자 맞춤형 닥터가이던스\n환자 차트 및 메모를 바탕으로 실제 진료 후 전달하는 문서처럼 구성한다. 어려운 용어는 배제하고 실질적인 조언 위주로 작성한다.\n- **포맷**: 현재 상태 요약 / 치료 방향 / 생활관리 수칙 / 주의사항 / 예후 및 경과 예측 / 다음 내원 시 계획 / 맞춤 한마디\n\n### 2. 근육 정리 규칙 (의사 전용 전문 자료)\n근육 및 질환 이름은 반드시 `[[ ]]` 위키링크로 표시하며, 전문적인 의학 내용을 포함한다.\n- **포맷**: 영어 이름(필수) / 기능 / 기시와 정지 / 지배 신경 / **(신경지배 아래 근육 사진 삽입)** / 접근법 / 임상적 활용 / 생체역학적 내용(자세) / 관련 질환(오다리, 관절염 등) / 기타 내용\n- **주의**: 기존 내용은 유지하되, 생체역학 및 관련 질환 내용을 보강하여 작성한다.\n</smtcmp_block>\n\n추가로 궁금한 점이 있으시면 말씀해 주세요.",
+      "id": "c99f3115-69f1-4e50-abd1-58eae33323ed",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-3-flash-preview",
+          "model": "gemini-3-flash-preview"
+        },
+        "usage": {
+          "prompt_tokens": 3848,
+          "completion_tokens": 534,
+          "total_tokens": 5511
+        }
+      },
+      "providerMetadata": {
+        "gemini": {
+          "thoughtSignature": "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"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "굿",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n굿\n\n"
+        }
+      ],
+      "id": "d3a51d6b-35e4-4bbd-b19b-6d3e152b9d2d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "00. 봇 운영 시스템/봇_운영_규칙.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "감사합니다! 더 궁금하신 점이나 도움이 필요하신 내용이 있으면 언제든 말씀해 주세요.",
+      "id": "b0bdd338-4a13-4d4f-83aa-954050241ee0",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-3-flash-preview",
+          "model": "gemini-3-flash-preview"
+        },
+        "usage": {
+          "prompt_tokens": 4387,
+          "completion_tokens": 21,
+          "total_tokens": 4736
+        }
+      },
+      "providerMetadata": {
+        "gemini": {
+          "thoughtSignature": "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"
+        }
+      }
+    }
+  ],
+  "createdAt": 1788251903449,
+  "updatedAt": 1788251999369,
+  "schemaVersion": 1
+}

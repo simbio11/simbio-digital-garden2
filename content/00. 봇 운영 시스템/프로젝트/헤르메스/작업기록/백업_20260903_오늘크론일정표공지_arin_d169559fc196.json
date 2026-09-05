@@ -1,0 +1,22 @@
+{
+  "id": "d169559fc196",
+  "name": "오늘 크론 일정표 공지 (매일 10:00)",
+  "profile": "ROOT(default) - 아린 게이트웨이 소관",
+  "backup_reason": "2026-09-03 카이로 이관하며 삭제 전 백업 (비오님 지시)",
+  "prompt": "비오님의 서버에 매일 아침 10시에 \"오늘의 크론 일정표\"를 공지하는 시간입니다.\n\n작업 순서:\n1) cronjob(action='list')으로 모든 크론 작업을 조회하세요.\n2) 오늘 날짜(대한민국 KST)에 실행 예정이거나 이미 실행된 작업 중 **오늘 당일 실행되는 작업들**만 선별하세요. (예: '매일 08:30', '매일 13:30' 등 일일 스케줄. 단, 이미 지난 것도 오늘 일정이므로 포함하되 '✅ 완료'로 표시)\n3) 이 작업 자신(\"오늘 크론 일정표 공지 (매일 10:00)\")도 오늘 일정에 포함시키세요.\n4) 다정한 비서(아린) 말투로, 아래 형식처럼 시간순으로 깔끔하게 정리해서 출력하세요:\n\n📋 오늘의 크론 일정 (M월 D일 요일)\n\n🕗 오전\n- 08:30 유튜브 다이제스트 (✅/예정)\n...\n\n🕐 오후/저녁\n...\n\n끝에 \"오늘도 알차게 보내세요!\" 같은 한 줄 멘트를 붙여주세요.\n\n⚠️ 규칙: 기술적 로그, 코드, 잡다한 시스템 출력은 절대 넣지 마세요. 오직 사람이 읽는 깔끔한 일정표만 출력하세요. 최종 응답이 그대로 채널에 게시됩니다.",
+  "skills": [],
+  "skill": null,
+  "model": null,
+  "provider": null,
+  "provider_snapshot": "deepseek",
+  "model_snapshot": "deepseek-v4-flash",
+  "base_url": null,
+  "script": null,
+  "no_agent": false,
+  "schedule": {"kind": "cron", "expr": "0 10 * * *", "display": "0 10 * * *"},
+  "repeat": {"times": null, "completed": 0},
+  "enabled": true,
+  "created_at": "2026-09-03T14:32:02.630109+09:00",
+  "deliver": "discord:1544197962194747484",
+  "origin": {"platform": "discord", "chat_id": "1544197962194747484", "chat_name": "Simbio님의 서버 / #일반", "thread_id": null, "user_id": "1544191854847860757", "scope_id": "1544197961175539775"}
+}

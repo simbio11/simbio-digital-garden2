@@ -1,0 +1,15 @@
+{
+  "name": "person-dict-pwa",
+  "version": "0.1.0",
+  "private": true,
+  "description": "인물 사전 PWA - 만난 사람을 기록하고 관계를 관리하는 로컬 우선 웹앱",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/tailwind.css --minify",
+    "build:css": "tailwindcss -i ./src/input.css -o ./public/tailwind.css --minify",
+    "start": "python -m http.server 4173 -d public",
+    "preview": "npx serve public"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
