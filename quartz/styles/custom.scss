@@ -383,3 +383,20 @@ a.tag-link:hover {
     padding: 0.5rem 0 0;
   }
 }
+
+/* ── 그래프 뷰: 허브 노트(백링크 다수)도 잘 보이게 ────── */
+.right.sidebar .graph .graph-outer,
+.graph .graph-outer {
+  width: 100%;
+}
+
+.right.sidebar .graph .graph-container,
+.graph .graph-container {
+  height: 340px;
+}
+
+@media all and ($mobile) {
+  .graph .graph-container {
+    height: 260px;
+  }
+}
