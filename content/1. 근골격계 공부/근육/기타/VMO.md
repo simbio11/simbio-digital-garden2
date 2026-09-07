@@ -109,7 +109,7 @@ aliases:
 
 * Standring S. *Gray's Anatomy: The Anatomical Basis of Clinical Practice*. 42nd ed. Elsevier, 2020: 1354.
   * `[연구 요약]`: 내측광근 사두(VMO)의 독자적 섬유 주행각도(50~55도) 및 슬개골 안정화 해부학 분석.
-* Powers CM. The influence of altered lower-extremity kinematics on patellofemoral joint dysfunction: a theoretical perspective. *J Orthop Sports Phys Ther*. 2003;33(11):639-646.
+* Powers CM. *The influence of altered lower-extremity kinematics on patellofemoral joint dysfunction: a theoretical perspective*. J Orthop Sports Phys Ther, 2003; 33(11): 639-646. [PMID: 14669959](https://pubmed.ncbi.nlm.nih.gov/14669959/)
   * `[연구 요약]`: VMO 근력 저하와 슬개골 외측 트래킹 이상이 PFPS에 미치는 생체역학적 기전 규명.
 * Travell, J. G., & Simons, D. G. *Myofascial Pain and Dysfunction*. Williams & Wilkins, 1999.
   * `[연구 요약]`: 내측광근 사두 발통점과 슬개골 내측 방사통 패턴.
