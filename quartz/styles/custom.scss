@@ -152,11 +152,7 @@ a.internal:not(.broken):hover {
   letter-spacing: -0.028em;
 }
 
-.page-header .page-title {
-  font-size: 1.25rem;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
+/* 좌상단 브랜드 스펙은 "10. 좌측 상단 로고" 에서 인체 지도와 통일 관리 */
 
 /* ═══════════════════════════════════════════════════════════════════
    5. 폴더별 링크 색상 — 지식 카테고리 컬러 코딩
@@ -573,8 +569,18 @@ a.tag-link:hover {
 }
 
 /* ═══════════════════════════════════════════════════════════════════
-   10. 좌측 상단 로고
+   10. 좌상단 브랜드 — 인체 지도(Sim_Bio_Atlas)와 픽셀 단위로 동일
+   공통 스펙: 로고 30px + gap 10px + Pretendard 700 / 1.5rem / -0.02em / var(--dark)
+   위치: 뷰포트 기준 left 32px, top ~66px (공용 스위치 밴드 아래)
    ═══════════════════════════════════════════════════════════════════ */
+/* 좌측 사이드바 상단 여백을 줄여 브랜드가 스위치 바로 아래에서 시작 */
+.page > #quartz-body .sidebar.left {
+  padding-top: 66px;
+}
+.left.sidebar .page-header,
+.page-header:has(.page-title) {
+  margin-top: 0 !important;
+}
 .page .page-header .page-title,
 .left.sidebar .page-header .page-title,
 .left.sidebar .page-title,
@@ -582,13 +588,27 @@ a.tag-link:hover {
   display: flex;
   align-items: center;
   gap: 10px;
+  margin: 0;
+}
+.page-title,
+.page-title > a,
+.page-title a.internal {
+  font-family: var(--sc-sans) !important;
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  line-height: 1.25 !important;
+  letter-spacing: -0.02em !important;
+  color: var(--dark) !important;
+  text-decoration: none !important;
+  background: none !important;
 }
 .page-title::before {
   content: "";
   width: 30px;
   height: 30px;
   flex-shrink: 0;
-  background: url("/static/simbio-logo.png") center / contain no-repeat;
+  /* 상대 경로 — 루트/서브패스/커스텀도메인 어디서든 해석됨 */
+  background: url("static/simbio-logo.png") center / contain no-repeat;
 }
 
 /* ═══════════════════════════════════════════════════════════════════
