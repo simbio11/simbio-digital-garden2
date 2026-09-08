@@ -19,7 +19,7 @@ aliases:
 ---
 
 ## 📌 목차
-1. [기본 효소 정보 & 생화학적 반응 (Biochemistry)](#1-기본-효소-정보--생화학적-반응-biochemistry)
+1. [기본 생화학 정보 & 분자 구조식 (Biochemical Identity)](#1-기본-생화학-정보--분자-구조식-biochemical-identity)
 2. [활성화 및 인산화 조절 네트워크 (Regulation)](#2-활성화-및-인산화-조절-네트워크-regulation)
 3. [eNOS 탈공액(Uncoupling)과 내피기능부전](#3-enos-탈공액uncoupling과-내피기능부전)
 4. [생리적 작용 및 혈관 보호 기능 (Functions)](#4-생리적-작용-및-혈관-보호-기능-functions)
@@ -29,7 +29,10 @@ aliases:
 
 ---
 
-## 1. 기본 효소 정보 & 생화학적 반응 (Biochemistry)
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 * **효소 분류**: 산화질소 합성효소(Nitric Oxide Synthase, NOS) 계열 중 제3형 (NOS3).
 * **촉매 반응**:

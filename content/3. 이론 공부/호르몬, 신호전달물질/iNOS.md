@@ -20,7 +20,10 @@ tags:
 
 ---
 
-## 1. 개요 및 NOS 동형단백질 비교
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 산화질소 합성효소(NOS) 패밀리는 인체 내 3가지 동형 단백질(Isoform)로 구분된다:
 

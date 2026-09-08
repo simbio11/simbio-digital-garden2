@@ -16,6 +16,11 @@ aliases:
 - 2026-09-01 심층리뷰 1번(고령 만성 요통, 침+물리치료 RCT): 침 병행군에서 혈중 TNF-α·[[IL-6]] 농도가 유의하게 낮아진 것이 진통·항염 기전으로 보고됨
 - [[MMP]]·[[ROS]] 등 연골 파괴 경로의 상류 신호로 작용
 
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132414" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 🔗 함께 보기
 - [[IL-6]] · [[NF-κB]] · [[MMP]] · [[퇴행성 관절염]] · [[만성 요통]] · [[사이토카인]]
 - 관련 논문: [[2026-09-01_근골격계_척추관절_심층리뷰]] 1번

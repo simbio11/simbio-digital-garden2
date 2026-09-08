@@ -7,7 +7,10 @@
 
 ---
 
-## 1. 화합물 기본 정보 및 화학 구조
+## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5280805" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 센노사이드 A(Sennoside A)는 [[대황]](大黃, *Rheum palmatum* L.) 및 센나(*Cassia angustifolia* Vahl)에 존재하는 안트라퀴논 유도체 중 두 분자의 레인안트론이 C10-C10' 탄소 결합으로 연결된 다이안트론(Dianthrone) 비스-글루코사이드 화합물이다.
 

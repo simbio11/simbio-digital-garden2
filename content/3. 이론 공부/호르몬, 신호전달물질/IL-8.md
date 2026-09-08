@@ -3,3 +3,8 @@
 - 혈관 신생 촉진, 표적 세포에서 세포 내 [[칼슘]] 증가를 통해 [[히스타민]] 방출, 호흡 폭발 유도
 - 호중구의 CXCR1/2에 결합하면 인테그린 LFA-1을 발현시켜 ICAM-1 수용체와의 결합을 유도한다.(롤링)
 - 산화 스트레스에 의해 분비가 증가하므로 비만 환자에게서 염증이 잘 발생하게 함
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>

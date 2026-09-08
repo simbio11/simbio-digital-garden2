@@ -10,6 +10,11 @@ aliases:
 
 > **핵심 요약**: 세인트존스워트(St. John's wort)의 대표 활성·지표 성분(플로로글루시놀 유도체). 항우울 효과에 기여하는 동시에 **핵 수용체 PXR(pregnane X receptor)을 작용시켜 CYP3A4·P-gp를 강력하게 유도**하는 '유도성 지표 물질'이다. 세인트존스워트 제제의 약물상호작용 위험은 이 성분 함량·용량에 비례한다.
 
+## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=441298" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 구조·함량
 - 플로로글루시놀(phloroglucinol) 유도체 — *Hypericum perforatum* 지상부에 함유
 - 제제별 함량 편차 큼(표준화 여부에 따라 상호작용 위험 다름)
@@ -20,7 +25,6 @@ aliases:
 
 ![[Hyperforin_구조.png|480]]
 > [그림 1] Hyperforin(C₃₅H₅₂O₄) 분자 구조 — 출처: Wikimedia Commons
-
 
 ## 작용 기전
 - 항우울: 세로토닌·도파민·노르에피네프린 재흡수 억제 등(여러 기전 제안)

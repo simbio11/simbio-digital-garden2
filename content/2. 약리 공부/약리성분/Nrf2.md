@@ -9,8 +9,9 @@ aliases: [NFE2L2, Nrf2전사인자, Keap1-Nrf2]
 > 만성 염증, 혈관 내피 손상, 신경퇴행성 질환 방어의 핵심 약리 표적이자 당귀의 페룰산, 감초의 리퀴리틴 등 다수 한약 성분의 공통 분자 타깃.
 
 ---
+
 ## 📌 목차
-1. [분자 구조 및 Keap1-Nrf2 신호 축 (Canonical Pathway)](#1-분자-구조-및-keap1-nrf2-신호-축-canonical-pathway)
+1. [기본 화학 정보 & 분자 구조식 (Chemical Identity)](#1-기본-화학-정보--분자-구조식-chemical-identity)
 2. [ARE(Antioxidant Response Element) 하류 표적 유전자망](#2-areantioxidant-response-element-하류-표적-유전자망)
 3. [NF-κB와의 상호 크로스토크(Cross-talk) & 항염증 연계](#3-nf-κb와의-상호-크로스토크cross-talk--항염증-연계)
 4. [대사증후군·허혈성 뇌심혈관 질환 보호 기전](#4-대사증후군허혈성-뇌심혈관-질환-보호-기전)
@@ -18,7 +19,10 @@ aliases: [NFE2L2, Nrf2전사인자, Keap1-Nrf2]
 6. [출처 및 학술 참고 문헌 (References)](#6-출처-및-학술-참고-문헌-references)
 
 ---
-## 1. 분자 구조 및 Keap1-Nrf2 신호 축 (Canonical Pathway)
+## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281767" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 | 항목 | 상세 분자생물학적 정보 |
 | :--- | :--- |

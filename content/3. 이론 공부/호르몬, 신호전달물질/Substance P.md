@@ -20,7 +20,10 @@ tags:
 
 ---
 
-## 1. 개요 및 생화학적 특성
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132378" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 Substance P(SP)는 1931년 von Euler와 Gaddum이 말의 뇌와 장관 조직에서 처음 발견한 신경펩타이드로, 감각신경계에서 통증 신호를 전달하는 주동 물질이다.
 

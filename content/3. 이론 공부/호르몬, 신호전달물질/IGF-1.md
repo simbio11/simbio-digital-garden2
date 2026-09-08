@@ -12,6 +12,11 @@ aliases:
 
 > **핵심 요약**: 인슐린과 구조가 유사한 성장인자로, **성장호르몬(GH) 자극 시 간·표적 조직에서 분비**되어 세포 성장·증식과 근단백 동화를 촉진한다. 반감기가 길어 GH-IGF-1 축의 말초 효과를 대표하며, 저항운동 후 상승이 보고되는 **근비대·근감소증 중재의 생체지표**다.
 
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132492" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 정의·구조·합성
 - 성장호르몬(GH)이 뇌하수체에서 분비되면 간이나 다른 표적 조직에서 IGF-1 분비 유도 — 반감기 길다
 - 인슐린과 비슷한 분자 구조(insulin-like) — 성장에 중요한 역할

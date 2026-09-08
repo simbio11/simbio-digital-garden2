@@ -30,6 +30,9 @@ updated: 2026-09-04
 
 ## 1. 생합성 및 대사 역학
 
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132444" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 | 항목 | 내용 |
 | :--- | :--- |
 | **펩타이드 구조** | 프로글루카곤(Proglucagon) 유전자로부터 프로호르몬 전환효소-1/3(PC1/3)에 의해 절단 생성 |

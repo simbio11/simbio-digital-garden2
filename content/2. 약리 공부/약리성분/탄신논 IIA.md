@@ -16,7 +16,10 @@ updated: 2026-09-05
 
 ---
 
-## 1. 물리화학적 특성 및 화학 구조
+## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=164676" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 탄신논 IIA는 단삼의 적색 색소를 구성하는 주요 친유성 지표 성분 중 하나로, 페난트로[1,2-b]퓨란-10,11-디온 골격을 지닌 디테르펜 퀴논 화합물이다.
 

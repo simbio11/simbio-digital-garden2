@@ -21,7 +21,10 @@ tags:
 
 ---
 
-## 1. 약물 개요 및 화학적 분류
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=3672" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 비스테로이드성 소염진통제(NSAIDs)는 마약성 진통제(Opioids)나 스테로이드제(Corticosteroids)와 달리 중독성이나 호르몬 부작용 없이 염증과 통증을 완화하는 대표적인 1차 치료 약물군입니다.
 

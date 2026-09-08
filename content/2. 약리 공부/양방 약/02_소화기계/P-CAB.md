@@ -29,7 +29,10 @@ aliases:
 
 ---
 
-## 1. 약물 기본 정보 및 화학적 특성
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=12025114" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 칼륨 경쟁적 위산분비억제제(P-CAB)는 기존 PPI의 한계(느린 약효 발현, 식전 복용 강제, 야간 산분비 돌파, CYP2C19 유전적 변이)를 극복하기 위해 개발된 신약 계열이다. 국내에서는 HK이노엔의 **케이캡(테고프라잔)**과 대웅제약의 **펙수클루(펙수프라잔)**가 처방 시장을 주도하고 있다.
 

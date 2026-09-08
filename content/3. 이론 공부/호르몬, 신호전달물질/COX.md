@@ -18,3 +18,8 @@ aliases:
 - [[아스피린]]: 생성 자체를 차단, 다른 NSAID 약물은 COX 회로를 억제하는 역할을 함
 - [[3. 이론 공부/영양학/NSAID]]는 COX 1,2 를 차단하기 때문에 위장관 출혈을 유발할 수 있으며, 이를 방지하기 위해 선택적 COX2 차단제가 개발되었지만 이는 또 [[3. 이론 공부/호르몬, 신호전달물질/프로스타사이클린]] 형성을 억제하기에 부작용이 발생한다.
 - [[아세트아미노펜]]([[타이레놀]], [[게보린]]): 중추에 작용하여 COX2를 일정 부분 억제하여 해열 진통의 효과가 있다.(COX1에 작용하지 않기에 위장관 부작용도 없다), 간독성이 있다.
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5280360" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>

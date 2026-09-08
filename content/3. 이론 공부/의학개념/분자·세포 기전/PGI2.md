@@ -30,6 +30,9 @@ updated: 2026-09-04
 
 ## 1. 분자 구조 및 생화학적 특성
 
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5280362" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 | 항목 | 내용 |
 | :--- | :--- |
 | **화학명** | (5Z,9α,11α,13E,15S)-6,9-epoxy-11,15-dihydroxyprosta-5,13-dien-1-oic acid |

@@ -8,6 +8,11 @@ created: 2026-09-03
 
 > **핵심 요약**: 면역·염증·대사에 두루 관여하는 **대표적 다기능 사이토카인**. 급성기 반응(CRP 합성 유도), B세포 항체 생산, 조혈, 염증 증폭을 매개하며, 근육에서도 분비되어(운동성 IL-6) 대사 조절에 관여한다. 류마티스 관절염 등 만성 염증 질환과 비만 관련 저등급 염증의 핵심 매개자로, 항-IL-6 수용체 항체(토실리주맙)가 치료에 쓰인다.
 
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132416" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 합성과 분포
 - 생산 세포: 대식세포, 단핵구, T세포, 활막세포, 지방세포, **골격근세포**(수축 시 분비) 등 다양
 - 자극: IL-1β·TNF-α 등 염증 신호, 운동, 손상

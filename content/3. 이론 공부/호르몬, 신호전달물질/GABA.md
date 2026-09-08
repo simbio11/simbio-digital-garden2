@@ -21,7 +21,7 @@ aliases:
 ---
 
 ## 📌 목차
-1. [분자 구조 및 생합성 대사 (Biosynthesis & Shunt)](#1-분자-구조-및-생합성-대사-biosynthesis--shunt)
+1. [기본 생화학 정보 & 분자 구조식 (Biochemical Identity)](#1-기본-생화학-정보--분자-구조식-biochemical-identity)
 2. [GABA 수용체 아형별 분자약리 기전 (GABA_A vs GABA_B)](#2-gaba-수용체-아형별-분자약리-기전-gaba_a-vs-gaba_b)
 3. [중추신경 억제 네트워크 & 흥분성 글루타메이트 균형](#3-중추신경-억제-네트워크--흥분성-글루타메이트-균형)
 4. [임상 질환 및 양방 약물 작용점 (벤조디아제핀·바클로펜)](#4-임상-질환-및-양방-약물-작용점-벤조디아제핀바클로펜)
@@ -30,7 +30,10 @@ aliases:
 
 ---
 
-## 1. 분자 구조 및 생합성 대사 (Biosynthesis & Shunt)
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=119" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 * **화학식**: $C_4H_9NO_2$ / **분자량**: 103.12 g/mol
 * **생합성 (Glutamate Decarboxylase, GAD)**:

@@ -13,6 +13,11 @@ aliases:
 
 > **핵심 요약**: 편두통 병태생리의 핵심 매개인 [[CGRP]] 경로를 차단하는 신예방약 계열. **단일클론항체**(erenumab·galcanezumab·fremanezumab·eptinezumab — 주사·수개월 간격)와 **gepant 계열 경구 소분자**(atogepant·rimegepant — CGRP 수용체 길항제)로 나뉜다. AAN 2026 가이드라인(217건 RCT)에서 삽화성 편두통의 galcanezumab·erenumab, 만성 편두통의 fremanezumab·galcanezumab이 **고신뢰도** 예방 효과로 평가되어 기존 경구약과 함께 1차 선택지가 되었다. 고가·주사제라는 장벽이 있어 한의 임상에서는 '기존 예방약 실패/불응' 환자군의 치료 맥락 이해가 중요하다.
 
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=134689033" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 분류와 약물
 - **항-CGRP/수용체 단일클론항체(주사)**:
   - erenumab — CGRP **수용체** 차단

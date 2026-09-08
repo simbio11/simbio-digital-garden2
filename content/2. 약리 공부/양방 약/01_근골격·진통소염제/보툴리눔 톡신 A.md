@@ -21,7 +21,10 @@ aliases:
 
 ---
 
-## 1. 약물 기본 정보 및 생화학적 구조
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16130953" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 보툴리눔 톡신 A(OnabotulinumtoxinA)는 그람양성 혐기성 간균인 *Clostridium botulinum* 발효액에서 정제 추출한 고분자 단백질 신경독소이다.
 

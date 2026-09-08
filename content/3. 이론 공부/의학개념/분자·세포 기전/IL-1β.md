@@ -9,6 +9,9 @@
 
 ## 1. 분자 정체성 및 성숙 경로
 
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132410" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 인터루킨-1 베타(Interleukin-1 beta, **IL-1β**)는 면역계의 대표적인 초기 전염증성 사이토카인(Pro-inflammatory cytokine)으로, 림프구 활성화, 혈관 내피세포 활성화, 전신 발열 및 조직 파괴를 주도한다.
 
 ### 1.1 인플라마좀(Inflammasome) 매개 2단계 성숙 기전
@@ -27,10 +30,12 @@
 
 | 표적 조직 | IL-1β의 생물학적 작용 | 임상 발현 |
 | :--- | :--- | :--- |
-| 시상하부 발열 중추 | 내피세포 COX-2 유도 $ightarrow$ PGE2 합성 촉진 | 전신 오한 및 고열 반응 |
+| 시상하부 발열 중추 | 내피세포 COX-2 유도 $
+ightarrow$ PGE2 합성 촉진 | 전신 오한 및 고열 반응 |
 | 혈관 내피세포 | [[ICAM-1]], VCAM-1, E-selectin 발현 촉진 | 백혈구 유출 및 국소 부종, 발적 |
 | 관절 활막 및 연골 | [[MMP-1]], [[MMP-13]], ADAMTS-5 유도, 프로테오글리칸 분해 | 퇴행성 관절염, 류마티스 관절염 연골 파괴 |
-| 파골세포(Osteoclast) | RANKL 발현 증가 $ightarrow$ 파골세포 분화 촉진 | 관절 골 미란(Bone erosion), 골다공증 |
+| 파골세포(Osteoclast) | RANKL 발현 증가 $
+ightarrow$ 파골세포 분화 촉진 | 관절 골 미란(Bone erosion), 골다공증 |
 | 중성구(Neutrophil) | 급격한 침윤 및 탈과립 자극 | 급성 통풍성 관절염의 극심한 통증 |
 
 ---

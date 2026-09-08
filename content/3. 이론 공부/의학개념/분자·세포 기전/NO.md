@@ -23,6 +23,9 @@ tags:
 
 ## 1. 생합성 경로 및 효소 동위체 (NOS Isoforms)
 
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=14506" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 생체 내에서 NO는 산화질소 합성효소(Nitric Oxide Synthase, NOS)에 의해 다음과 같이 합성됩니다:
 `L-아르기닌 + O2 + NADPH → L-시트룰린 + NO + NADP+`
 

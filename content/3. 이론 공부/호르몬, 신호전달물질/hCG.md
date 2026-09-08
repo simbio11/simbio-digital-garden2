@@ -21,3 +21,8 @@
 - [[hCG]] 자극과 합쳐지는 위장관에서 올라오는 유해 정보를 차단하고 호흡과 통증 관리(속과 장이 편안해야함)
 <font color="#fa7e7e">-> 떡볶이, 치킨, 빵, 유제품, 과일 등등 섭취를 주의할 것</font>
 ![[Pasted image 20240228172300.png]]
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132368" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>

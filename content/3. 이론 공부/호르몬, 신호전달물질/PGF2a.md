@@ -12,6 +12,11 @@ aliases:
 
 > **핵심 요약**: 아라키돈산 → COX 경로로 생성되는 프로스타글란딘의 하나. **자궁근 수축·혈관수축**이 강해 원발성 월경통 통증의 핵심 매개자다. 배란 후 프로게스테론 상승-하강 주기에 따라 자궁내막에서 합성이 늘어난다. NSAIDs는 COX를 차단해 PGF2α 생성을 억제함으로써 월경통을 줄인다.
 
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5280361" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 정의·합성 (기존 노트 보존)
 - 위와 관련된 [[프로스타글란딘]]은 PGF2α이며, 이는 COX-2 회로를 통해 생성된다.
 - [[사이클로옥시게나제]]: 프로스타글란딘을 만들기 위한 효소

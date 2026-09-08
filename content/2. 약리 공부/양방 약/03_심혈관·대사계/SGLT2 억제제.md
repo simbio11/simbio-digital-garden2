@@ -28,7 +28,10 @@ aliases:
 
 ---
 
-## 1. 약물 기본 정보 및 화학적 특성
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=11949646" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 SGLT2(Sodium-Glucose Cotransporter 2) 억제제는 사과나무 뿌리껍질에서 발견된 천연 배당체 플로리진(Phlorizin)의 신장 선택성을 높이고 대사 안정성을 개선하여 개발된 C-글루코사이드(C-glucoside) 유도체이다.
 

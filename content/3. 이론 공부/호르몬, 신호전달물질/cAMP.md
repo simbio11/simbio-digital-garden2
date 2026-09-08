@@ -32,3 +32,8 @@
 # 중독
 - 외인성 [[오피오이드]]의 복용으로 인해 [[3. 이론 공부/호르몬, 신호전달물질/GABA]] 신경전달물질이 감소하고, 이는 [[cAMP]] 분비를 증가시키게 됨
 - 이후 약물 복용을 중지하면 [[cAMP]] 분비가 증가한 상태가 유지되면서 여러 부작용이 발생함.
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=2405" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ aliases:
 ---
 
 ## 📌 목차
-1. [분자 구조 및 HPO 축 분비 조절 (Hypothalamic-Pituitary-Ovarian Axis)](#1-분자-구조-및-hpo-축-분비-조절-hypothalamic-pituitary-ovarian-axis)
+1. [기본 생화학 정보 & 분자 구조식 (Biochemical Identity)](#1-기본-생화학-정보--분자-구조식-biochemical-identity)
 2. [생리학적 작용 기전 (여성 난포 발달 vs 남성 정자 형성)](#2-생리학적-작용-기전-여성-난포-발달-vs-남성-정자-형성)
 3. [월경주기 4단계 동역학 및 에스트로겐 음성/양성 피드백](#3-월경주기-4단계-동역학-및-에스트로겐-음성양성-피드백)
 4. [핵심 임상 질환 및 감별 지표 (PCOS & 조기 폐경)](#4-핵심-임상-질환-및-감별-지표-pcos--조기-폐경)
@@ -24,7 +24,10 @@ aliases:
 
 ---
 
-## 1. 분자 구조 및 HPO 축 분비 조절 (Hypothalamic-Pituitary-Ovarian Axis)
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132364" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 * **당단백질 복합체 구조**:
   * **공통 $\alpha$-서브유닛**: 92개 아미노산으로 구성되며 LH, TSH, hCG와 동일한 구조 공유.

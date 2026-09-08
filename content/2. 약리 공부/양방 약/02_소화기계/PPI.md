@@ -26,7 +26,10 @@ aliases:
 
 ---
 
-## 1. 약물 기본 정보 및 화학적 특성
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=4594" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 프로톤 펌프 억제제(PPI)는 벤즈이미다졸(Benzimidazole) 유도체로, 산에 불안정한 약염기성 전구약물(Prodrug)이다. 위산에 의한 조기 분해를 막기 위해 특수 코팅된 장용정(Enteric-coated tablet/capsule) 형태로 제형화된다.
 

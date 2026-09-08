@@ -6,3 +6,8 @@
 - 세포막에 박혀있는 양이온 통로 단백질로 절대적인 온도나 상대적인 온도변화, 물리적 신호, 염증 신호, 산염기 변화, 화학적 신호에 반응하여 열리고 생리적 활성이 나타난다. 
 ![[Pasted image 20240513145130.png|437]]
 - TRPA1은 17도 이하, TRPM8은 20-28도, TRPV4는 33-39도, TRPV1은 42도, TRPV2는 52도에서 주로 열린다. 
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>

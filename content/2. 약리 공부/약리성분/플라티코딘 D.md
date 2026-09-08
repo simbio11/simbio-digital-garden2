@@ -7,7 +7,10 @@
 
 ---
 
-## 1. 화학적 구조 및 물리화학적 특성
+## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=71306914" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 플라티코딘 D(Platycodin D, PD)는 아글리콘인 플라티코디게닌(Platycodigenin)에 포도당과 올리고당 사슬이 이중으로 결합된 비스데스모시딕(Bisdesmosidic) 사포닌이다.
 

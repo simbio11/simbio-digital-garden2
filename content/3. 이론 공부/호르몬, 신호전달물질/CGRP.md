@@ -11,6 +11,11 @@ aliases:
 
 > **핵심 요약**: 37개 아미노산으로 된 **신경펩타이드**로, 삼차신경절·후근신경절의 감각신경(C·Aδ 섬유) 말단에서 유리되어 **강력한 혈관 확장과 신경성 염증**을 일으킨다. 경수막 혈관 주변에서 유리된 CGRP가 편두통 발작의 핵심 매개로 작용하며, 최근 CGRP 경로를 차단하는 단일클론항체·gepant 계열 예방약이 개발되었다. 말초 통증(축삭 반사)과 중추 감작 유지에도 관여한다.
 
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132480" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+
 ## 정의·구조·합성
 - 37-아미노산 펩타이드 — 칼시토닌 유전자의 대체 스플라이싱으로 생성(α-CGRP: 신경계, β-CGRP: 장관 등)
 - **분포**: 삼차신경절·후근신경절(DRG) 감각신경, 척수후각, 심혈관계·위장관 신경

@@ -16,7 +16,7 @@ aliases:
 ---
 
 ## 📌 목차
-1. [효소 구조 및 생화학적 활성화 기전 (Biochemistry)](#1-효소-구조-및-생화학적-활성화-기전-biochemistry)
+1. [기본 생화학 정보 & 분자 구조식 (Biochemical Identity)](#1-기본-생화학-정보--분자-구조식-biochemical-identity)
 2. [아라키돈산 대사 경로 및 류코트리엔 합성 캐스케이드](#2-아라키돈산-대사-경로-및-류코트리엔-합성-캐스케이드)
 3. [COX 회로와의 상호작용 및 아스피린 유발 천식 병리](#3-cox-회로와의-상호작용-및-아스피린-유발-천식-병리)
 4. [관련 임상 질환 및 병태생리](#4-관련-임상-질환-및-병태생리)
@@ -25,7 +25,10 @@ aliases:
 
 ---
 
-## 1. 효소 구조 및 생화학적 활성화 기전 (Biochemistry)
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5280492" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 * **효소 정체성**: ALOX5 유전자에 의해 암호화되는 673개 아미노산(약 78 kDa) 단백질로, 활성 중심에 1개의 비헴 철($Fe^{2+}/Fe^{3+}$) 이온을 보유.
 * **세포 내 위치 및 핵막 이동**:

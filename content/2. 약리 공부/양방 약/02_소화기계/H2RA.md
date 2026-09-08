@@ -24,7 +24,10 @@ aliases:
 
 ---
 
-## 1. 약물 기본 정보 및 화학적 특성
+## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=3325" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 H2 수용체 길항제(H2RA)는 과거 라니티딘(Ranitidine)의 NDMA 불순물 사태 이후, 안전성이 입증된 **파모티딘(Famotidine)**을 중심으로 처방 및 일반의약품 시장이 재편되었다.
 

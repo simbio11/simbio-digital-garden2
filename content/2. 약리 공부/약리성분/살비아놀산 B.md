@@ -22,7 +22,10 @@ tags:
 
 ---
 
-## 1. 화학 구조 및 기본 물성 (Chemical Properties)
+## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=164676" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 * **IUPAC 명칭**: (2R)-3-(3,4-dihydroxyphenyl)-2-[[(E)-3-[2-[(E)-2-(3,4-dihydroxyphenyl)ethenyl]-3,4-dihydroxyphenyl]prop-2-enoyl]oxy]propanoic acid
 * **화학식 (Molecular Formula)**: $C_{36}H_{30}O_{16}$
