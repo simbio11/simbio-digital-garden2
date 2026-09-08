@@ -1029,9 +1029,43 @@ a.sc-card .sc-go {
 }
 .sbc-switch-btn[data-active="true"] .sbc-switch-dot {
   opacity: 1;
-  background: #fff;
-  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.28), 0 0 10px rgba(255, 255, 255, 0.7);
+  background: #3fb950; /* 현재 열린 사이트 = 초록 불 */
+  box-shadow: 0 0 0 3px rgba(63, 185, 80, 0.22), 0 0 12px rgba(63, 185, 80, 0.9);
 }
+
+/* 테마 토글 버튼 (스위치에 포함) */
+.sbc-theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  margin-left: 2px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--gray);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.sbc-theme-toggle:hover {
+  background: var(--sc-accent-soft);
+  color: var(--secondary);
+}
+.sbc-theme-toggle svg {
+  width: 15px;
+  height: 15px;
+}
+.sbc-theme-toggle .sbc-sun {
+  display: none;
+}
+:root[saved-theme="dark"] .sbc-theme-toggle .sbc-sun {
+  display: block;
+}
+:root[saved-theme="dark"] .sbc-theme-toggle .sbc-moon {
+  display: none;
+}
+
 /* 스위치가 상단 중앙을 차지하므로 페이지 헤더를 살짝 아래로 */
 .page > #quartz-body {
   padding-top: 8px;
