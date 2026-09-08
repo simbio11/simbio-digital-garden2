@@ -107,6 +107,24 @@ export default (() => {
             __html: `(function(){try{if(!localStorage.getItem("theme")){document.documentElement.setAttribute("saved-theme","light")}}catch(e){}})();`,
           }}
         />
+        {/* Simbio: 홈 인트로 워프는 세션 첫 방문에만 재생. 재방문·뒤로가기 시 html.sc-intro-seen 로 CSS 숨김 (헤드 스크립트는 매 nav 재실행 → 페인트 전에 클래스 세팅) */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{if(sessionStorage.getItem("scIntroSeen")){document.documentElement.classList.add("sc-intro-seen");}else{sessionStorage.setItem("scIntroSeen","1");}}catch(e){}})();`,
+          }}
+        />
+        {/* Simbio: 탐색기에서 상위 폴더를 접으면 하위 폴더도 모두 접히도록. MutationObserver 로 .folder-outer 의 open 제거를 감지 (explorer 의 stopPropagation 우회) */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){if(window.__scFolderRecurse)return;window.__scFolderRecurse=1;function collapseKids(el){var subs=el.querySelectorAll(".folder-outer.open");if(!subs.length)return;var saved;try{saved=JSON.parse(localStorage.getItem("fileTree")||"[]")}catch(_){saved=[]}subs.forEach(function(s){s.classList.remove("open");var c=s.previousElementSibling,p=c&&c.dataset?c.dataset.folderpath:null;if(p){var i=saved.findIndex(function(x){return x.path===p});if(i>=0)saved[i].collapsed=true;else saved.push({path:p,collapsed:true})}});try{localStorage.setItem("fileTree",JSON.stringify(saved))}catch(_){}}var mo=new MutationObserver(function(muts){muts.forEach(function(m){var el=m.target;if(m.attributeName==="class"&&el.classList&&el.classList.contains("folder-outer")&&!el.classList.contains("open"))collapseKids(el)})});function wire(){document.querySelectorAll(".explorer-ul").forEach(function(u){mo.observe(u,{subtree:true,attributes:true,attributeFilter:["class"]})})}wire();document.addEventListener("nav",function(){setTimeout(wire,120)})})();`,
+          }}
+        />
+        {/* Simbio: 정원 ↔ 인체 지도 공용 상단 스위치. 인체 지도(simbio-atlas) 쪽에도 동일 마크업/스타일 */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var A="https://simbio-atlas.vercel.app/";function mk(){if(document.querySelector(".sbc-switch")||!document.body)return;var n=document.createElement("nav");n.className="sbc-switch";n.setAttribute("aria-label","사이트 전환");n.innerHTML='<span class="sbc-switch-btn" data-active="true" aria-current="page"><span class="sbc-switch-dot"></span>코텍스</span><a class="sbc-switch-btn" data-active="false" href="'+A+'"><span class="sbc-switch-dot"></span>인체 지도</a>';document.body.appendChild(n);}mk();document.addEventListener("DOMContentLoaded",mk);document.addEventListener("nav",function(){setTimeout(mk,0)});})();`,
+          }}
+        />
         {additionalHead.map((resource) => {
           if (typeof resource === "function") {
             return resource(fileData)

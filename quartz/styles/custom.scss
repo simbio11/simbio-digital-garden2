@@ -1,20 +1,59 @@
 @use "./variables.scss" as *;
 
-/* ═══════════════════════════════════════════════════════
-   Simbio Garden — 커스텀 디자인 (모던 미니멀 · 테라코타)
-   ═══════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════════════
+   Simbio Cortex — 커스텀 디자인 v2
+   LIGHT = 모던 뉴트럴 · DARK = 차분한 다크 블루
+   ═══════════════════════════════════════════════════════════════════ */
 
-/* ── Pretendard 폰트 적용 ─────────────────────────────── */
+/* ───────────────────────────────────────────────
+   0. 폰트
+   ─────────────────────────────────────────────── */
 :root {
-  --titleFont: "Pretendard Variable", Pretendard, "Noto Sans KR",
-    -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
-  --headerFont: "Pretendard Variable", Pretendard, "Noto Sans KR",
-    -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
-  --bodyFont: "Pretendard Variable", Pretendard, "Noto Sans KR",
-    -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
+  /* 전체를 Pretendard 하나로 통일 — 세련된 산세리프 */
+  --sc-sans: "Pretendard Variable", Pretendard, "Noto Sans KR", -apple-system,
+    BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
+  --titleFont: var(--sc-sans);
+  --headerFont: var(--sc-sans);
+  --bodyFont: var(--sc-sans);
 }
 
-/* ── 기본 타이포 ──────────────────────────────────────── */
+/* ───────────────────────────────────────────────
+   1. 디자인 토큰 — 모드별 표면/보더/그림자
+   ─────────────────────────────────────────────── */
+:root {
+  --sc-radius: 14px;
+  --sc-radius-sm: 9px;
+
+  /* LIGHT (모던 뉴트럴) */
+  --sc-bg: #ffffff;
+  --sc-surface: #fafaf9;
+  --sc-surface-2: #f3f3f1;
+  --sc-border: #e7e7e4;
+  --sc-border-strong: #d8d8d4;
+  --sc-shadow-sm: 0 1px 2px rgba(20, 20, 25, 0.04),
+    0 1px 3px rgba(20, 20, 25, 0.06);
+  --sc-shadow-md: 0 4px 14px rgba(20, 20, 25, 0.07),
+    0 2px 6px rgba(20, 20, 25, 0.05);
+  --sc-shadow-lg: 0 18px 48px rgba(20, 20, 25, 0.12);
+  --sc-accent-soft: rgba(60, 74, 104, 0.08);
+}
+
+:root[saved-theme="dark"] {
+  /* DARK (차분한 다크 블루) */
+  --sc-bg: #0f1626;
+  --sc-surface: #131c30;
+  --sc-surface-2: #1a2540;
+  --sc-border: #1e2942;
+  --sc-border-strong: #2b3958;
+  --sc-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.25);
+  --sc-shadow-md: 0 6px 20px rgba(0, 0, 0, 0.38), 0 2px 8px rgba(0, 0, 0, 0.3);
+  --sc-shadow-lg: 0 22px 60px rgba(0, 0, 0, 0.5);
+  --sc-accent-soft: rgba(135, 173, 239, 0.12);
+}
+
+/* ───────────────────────────────────────────────
+   2. 기본 타이포
+   ─────────────────────────────────────────────── */
 html {
   font-size: 16px;
 }
@@ -23,6 +62,7 @@ body {
   font-size: 1rem;
   line-height: 1.75;
   letter-spacing: -0.006em;
+  background-color: var(--sc-bg);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -34,33 +74,41 @@ tbody {
   line-height: 1.85;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+/* 본문(article) 제목 — 산세리프, 굵기·간격으로만 위계 — UI 헤딩은 건드리지 않음 */
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+  font-family: var(--sc-sans);
   font-weight: 700;
-  letter-spacing: -0.015em;
+  letter-spacing: -0.022em;
+  color: var(--dark);
 }
 
-h1 {
-  font-size: 2.15rem;
+article h1 {
+  font-size: 2rem;
   line-height: 1.3;
   margin-top: 2.6rem;
 }
 
-h2 {
-  font-size: 1.5rem;
-  line-height: 1.35;
-  margin-top: 2.5rem;
+article h2 {
+  font-size: 1.45rem;
+  line-height: 1.38;
+  margin-top: 2.6rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--sc-border);
 }
 
-h3 {
-  font-size: 1.22rem;
+article h3 {
+  font-size: 1.18rem;
+  margin-top: 1.8rem;
 }
 
-/* ── 링크: 미니멀 ─────────────────────────────────────── */
+/* ───────────────────────────────────────────────
+   3. 링크 — 미니멀
+   ─────────────────────────────────────────────── */
 a {
   text-decoration: none;
 }
@@ -84,17 +132,24 @@ a.external:hover {
   color: var(--tertiary);
 }
 
-/* 내부 위키링크에만 부드러운 밑줄 (broken 제외) */
 a.internal:not(.broken):hover {
   text-decoration: underline;
   text-decoration-thickness: 1.5px;
 }
 
-/* ── 본문 콘텐츠 폭 ───────────────────────────────────── */
+/* ───────────────────────────────────────────────
+   4. 콘텐츠 폭 / 헤더
+   ─────────────────────────────────────────────── */
 .article-title,
 .popover-hint article,
 .content-meta {
   max-width: 46rem;
+}
+
+.article-title {
+  font-family: var(--sc-sans);
+  font-weight: 800;
+  letter-spacing: -0.028em;
 }
 
 .page-header .page-title {
@@ -103,214 +158,205 @@ a.internal:not(.broken):hover {
   letter-spacing: -0.01em;
 }
 
-/* ═══════════════════════════════════════════════════════
-   폴더별 링크 색상 — 지식 카테고리 컬러 코딩
-   (하위 폴더 단위로 색을 부여해 어디 지식인지 바로 구분)
-   ═══════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════════════
+   5. 폴더별 링크 색상 — 지식 카테고리 컬러 코딩
+   ═══════════════════════════════════════════════════════════════════ */
 :root {
-  /* 0. 기본의학 */
-  --cat-danger: #dd4b3e; /* 응급·레드플래그 */
-  --cat-gi: #d9772b; /* 소화기 */
-  /* 1. 근골격계 */
-  --cat-muscle: #b06a3e; /* 근육 */
-  --cat-bone: #71808f; /* 골격·인대 */
-  --cat-nerve: #7a4fd6; /* 신경·신경계·자율신경계 */
-  --cat-exam: #3f7dae; /* 이학적 검사 */
-  --cat-seminar: #c05f6a; /* 원추연 */
-  --cat-chuna: #7c6bb5; /* 추나 */
-  /* 2. 약리 */
-  --cat-herb: #2b9d5f; /* 본초 */
-  --cat-formula: #a08a26; /* 처방·상한론 */
-  --cat-phytochem: #c2458c; /* 약리성분·약침 */
-  --cat-western: #3a7ca5; /* 양방 약·양방의약품 */
-  /* 3. 이론 / 5. 독서 */
-  --cat-theory: #1f8a84;
-  --cat-books: #8d8072;
+  --cat-danger: #cc4436;
+  --cat-gi: #c76d28;
+  --cat-muscle: #a5623a;
+  --cat-bone: #63788c;
+  --cat-nerve: #6f4bcc;
+  --cat-exam: #386f9e;
+  --cat-seminar: #b1545f;
+  --cat-chuna: #6f5faa;
+  --cat-herb: #248a54;
+  --cat-formula: #927c20;
+  --cat-phytochem: #b23c80;
+  --cat-western: #337193;
+  --cat-theory: #1a7d78;
+  --cat-books: #7d7266;
 }
 
 :root[saved-theme="dark"] {
-  --cat-danger: #f18a7d;
-  --cat-gi: #efab6e;
-  --cat-muscle: #e0a475;
-  --cat-bone: #9fb0c0;
-  --cat-nerve: #b5a6f5;
-  --cat-exam: #86b6dd;
-  --cat-seminar: #e59aa3;
-  --cat-chuna: #ab9be8;
-  --cat-herb: #6fcf9c;
-  --cat-formula: #d3bc55;
-  --cat-phytochem: #e88cc2;
-  --cat-western: #7fb2da;
-  --cat-theory: #63c9c1;
-  --cat-books: #b8ab9c;
+  --cat-danger: #f79a8e;
+  --cat-gi: #f2b782;
+  --cat-muscle: #e6b088;
+  --cat-bone: #a7b8ca;
+  --cat-nerve: #bcaef7;
+  --cat-exam: #92befe;
+  --cat-seminar: #eba7b0;
+  --cat-chuna: #b7a9ec;
+  --cat-herb: #7fdaab;
+  --cat-formula: #dcc667;
+  --cat-phytochem: #ef9ecd;
+  --cat-western: #8fbde4;
+  --cat-theory: #74d3cb;
+  --cat-books: #c2b6a8;
 }
 
-/* ── 0. 기본의학 공부 ─────────────────────────────────── */
-a.internal[data-slug^="0.-기본의학-공부/01.-레드플래그"] {
-  color: var(--cat-danger);
-}
-a.internal[data-slug^="0.-기본의학-공부/소화기/"] {
-  color: var(--cat-gi);
-}
-a.internal[data-slug^="0.-기본의학-공부/신경계/"] {
-  color: var(--cat-nerve);
-}
-
-/* ── 1. 근골격계 공부 ─────────────────────────────────── */
-a.internal[data-slug^="1.-근골격계-공부/근육/"] {
-  color: var(--cat-muscle);
-}
+a.internal[data-slug^="0.-기본의학-공부/01.-레드플래그"] { color: var(--cat-danger); }
+a.internal[data-slug^="0.-기본의학-공부/소화기/"] { color: var(--cat-gi); }
+a.internal[data-slug^="0.-기본의학-공부/신경계/"] { color: var(--cat-nerve); }
+a.internal[data-slug^="1.-근골격계-공부/근육/"] { color: var(--cat-muscle); }
 a.internal[data-slug^="1.-근골격계-공부/골격/"],
-a.internal[data-slug^="1.-근골격계-공부/인대/"] {
-  color: var(--cat-bone);
-}
+a.internal[data-slug^="1.-근골격계-공부/인대/"] { color: var(--cat-bone); }
 a.internal[data-slug^="1.-근골격계-공부/신경/"],
-a.internal[data-slug^="1.-근골격계-공부/자율신경계/"] {
-  color: var(--cat-nerve);
-}
-a.internal[data-slug^="1.-근골격계-공부/이학적-검사/"] {
-  color: var(--cat-exam);
-}
-a.internal[data-slug^="1.-근골격계-공부/원추연/"] {
-  color: var(--cat-seminar);
-}
-a.internal[data-slug^="1.-근골격계-공부/추나/"] {
-  color: var(--cat-chuna);
-}
-
-/* ── 2. 약리 공부 ─────────────────────────────────────── */
-a.internal[data-slug^="2.-약리-공부/본초/"] {
-  color: var(--cat-herb);
-}
+a.internal[data-slug^="1.-근골격계-공부/자율신경계/"] { color: var(--cat-nerve); }
+a.internal[data-slug^="1.-근골격계-공부/이학적-검사/"] { color: var(--cat-exam); }
+a.internal[data-slug^="1.-근골격계-공부/원추연/"] { color: var(--cat-seminar); }
+a.internal[data-slug^="1.-근골격계-공부/추나/"] { color: var(--cat-chuna); }
+a.internal[data-slug^="2.-약리-공부/본초/"] { color: var(--cat-herb); }
 a.internal[data-slug^="2.-약리-공부/처방/"],
-a.internal[data-slug^="2.-약리-공부/상한론/"] {
-  color: var(--cat-formula);
-}
+a.internal[data-slug^="2.-약리-공부/상한론/"] { color: var(--cat-formula); }
 a.internal[data-slug^="2.-약리-공부/약리성분/"],
-a.internal[data-slug^="2.-약리-공부/약침/"] {
-  color: var(--cat-phytochem);
-}
+a.internal[data-slug^="2.-약리-공부/약침/"] { color: var(--cat-phytochem); }
 a.internal[data-slug^="2.-약리-공부/양방-약/"],
-a.internal[data-slug^="2.-약리-공부/양방의약품·성분/"] {
-  color: var(--cat-western);
-}
-
-/* ── 3. 이론 공부 ─────────────────────────────────────── */
-a.internal[data-slug^="3.-이론-공부/"] {
-  color: var(--cat-theory);
-}
-
-/* ── 5. 독서·노트 ─────────────────────────────────────── */
+a.internal[data-slug^="2.-약리-공부/양방의약품·성분/"] { color: var(--cat-western); }
+a.internal[data-slug^="3.-이론-공부/"] { color: var(--cat-theory); }
 a.internal[data-slug^="5.-독서,-노트/"],
-a.internal[data-slug^="5.-독서-노트/"] {
-  color: var(--cat-books);
+a.internal[data-slug^="5.-독서-노트/"] { color: var(--cat-books); }
+
+/* ═══════════════════════════════════════════════════════════════════
+   6. 좌측 사이드바 + 탐색기
+   ═══════════════════════════════════════════════════════════════════ */
+.sidebar.left {
+  gap: 1rem;
 }
 
-/* ── 탐색기(Explorer) ─────────────────────────────────── */
+.page-header {
+  padding-bottom: 0.4rem;
+}
+
+/* 탐색기: 패널 카드 */
 .explorer {
-  font-size: 0.92rem;
+  font-size: 0.9rem;
+  border: 1px solid var(--sc-border);
+  border-radius: var(--sc-radius);
+  background-color: var(--sc-surface);
+  padding: 0.55rem 0.6rem;
+  box-shadow: var(--sc-shadow-sm);
+}
+
+.explorer > button.explorer-toggle.mobile-explorer {
+  border-radius: var(--sc-radius-sm);
+}
+
+.explorer-content {
+  padding-right: 2px;
 }
 
 .nav-folder-title,
 .nav-file-title {
-  border-radius: 6px;
-  transition: background-color 0.12s ease, color 0.12s ease;
+  position: relative;
+  border-radius: var(--sc-radius-sm);
+  transition: background-color 0.16s ease, color 0.16s ease,
+    transform 0.16s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
+.nav-folder-title {
+  font-weight: 600;
+  color: var(--dark);
+}
+
+/* hover: 부드러운 배경 + 살짝 오른쪽으로 */
 .nav-file-title:hover,
 .nav-folder-title:hover {
-  background-color: var(--lightgray);
+  background-color: var(--sc-surface-2);
+}
+.nav-file-title:hover {
+  transform: translateX(3px);
 }
 
+/* active: 왼쪽에서 미끄러져 들어오는 둥근 액센트 바 + 틴트 배경 (괄호 아티팩트 없음) */
 .nav-file-title.is-active {
   background-color: var(--highlight);
   color: var(--secondary);
   font-weight: 700;
 }
+.nav-file-title.is-active::before {
+  content: "";
+  position: absolute;
+  left: -2px;
+  top: 50%;
+  width: 3px;
+  height: 58%;
+  border-radius: 3px;
+  background-color: var(--tertiary);
+  transform: translateY(-50%) scaleY(0);
+  transform-origin: center;
+  animation: navBarIn 0.32s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
 
-/* ── 검색: 필 버튼 ───────────────────────────────────── */
+@keyframes navBarIn {
+  from {
+    opacity: 0;
+    transform: translateY(-50%) scaleY(0);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(-50%) scaleY(1);
+  }
+}
+
+.explorer-content .folder-outer {
+  transition: grid-template-rows 0.32s cubic-bezier(0.4, 0, 0.2, 1),
+    visibility 0.32s ease;
+}
+.explorer-content .folder-container svg {
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* 검색 버튼: 필 */
 .search .search-button {
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--sc-border);
   border-radius: 999px;
-  padding: 0.35rem 0.7rem;
-  background-color: transparent;
-  transition: border-color 0.15s ease, background-color 0.15s ease;
+  padding: 0.4rem 0.8rem;
+  background-color: var(--sc-surface);
+  box-shadow: var(--sc-shadow-sm);
+  transition: border-color 0.15s ease, background-color 0.15s ease,
+    box-shadow 0.15s ease;
 }
-
 .search .search-button:hover {
-  border-color: var(--gray);
-  background-color: var(--lightgray);
+  border-color: var(--sc-border-strong);
+  background-color: var(--sc-surface-2);
+  box-shadow: var(--sc-shadow-md);
 }
-
 .search .search-button svg {
   color: var(--gray);
 }
-
-/* ── 표: 의학 데이터 테이블 ───────────────────────────── */
-.table-container > table {
-  border-collapse: separate;
-  border-spacing: 0;
-  border: 1px solid var(--lightgray);
-  border-radius: 10px;
-  overflow: hidden;
-  margin: 1.2rem 0;
-  padding: 0;
-  width: 100%;
+.search .search-button > p {
+  color: var(--gray);
 }
 
-.table-container > table th {
-  background-color: var(--lightgray);
-  border-bottom: 1px solid var(--gray);
-  font-weight: 700;
-  padding: 0.55rem 0.8rem;
+/* 다크모드 / 리더모드 토글 버튼 */
+.darkmode,
+.readermode {
+  border-radius: var(--sc-radius-sm);
 }
 
-.table-container > table td {
-  padding: 0.45rem 0.8rem;
-  border-bottom: 1px solid var(--lightgray);
+/* 검색 모달 */
+.search-container {
+  border-radius: var(--sc-radius);
+  border: 1px solid var(--sc-border-strong);
+  box-shadow: var(--sc-shadow-lg);
 }
 
-.table-container > table tr:last-child td {
-  border-bottom: none;
+/* ═══════════════════════════════════════════════════════════════════
+   7. 우측 사이드바 위젯 — 통일된 카드
+   ═══════════════════════════════════════════════════════════════════ */
+.right.sidebar {
+  gap: 1rem;
 }
 
-.table-container > table tbody tr:hover {
-  background-color: color-mix(in srgb, var(--secondary) 4%, transparent);
-}
-
-/* ── 코드 ─────────────────────────────────────────────── */
-code {
-  font-size: 0.875em;
-  background-color: var(--lightgray);
-}
-
-pre > code {
-  font-size: 0.85rem;
-  line-height: 1.7;
-  background: transparent;
-}
-
-pre {
-  background-color: color-mix(in srgb, var(--lightgray) 45%, var(--light));
-}
-
-/* ── 콜아웃 ───────────────────────────────────────────── */
-.callout {
-  border-radius: 12px;
-}
-
-.callout-title {
-  font-weight: 700;
-}
-
-/* ── 우측 사이드바 위젯: 플랫 카드 ────────────────────── */
 .right.sidebar .toc,
 .right.sidebar .backlinks,
 .right.sidebar .graph {
-  border: 1px solid var(--lightgray);
-  border-radius: 12px;
-  padding: 0.7rem 0.95rem;
-  background-color: transparent;
+  border: 1px solid var(--sc-border);
+  border-radius: var(--sc-radius);
+  padding: 0.85rem 1rem;
+  background-color: var(--sc-surface);
+  box-shadow: var(--sc-shadow-sm);
 }
 
 .toc .toc-header,
@@ -318,85 +364,684 @@ pre {
 .graph .graph-header {
   font-weight: 700;
   font-size: 0.9rem;
+  color: var(--dark);
 }
 
-/* ── 태그 칩 ──────────────────────────────────────────── */
-a.tag-link {
-  background-color: color-mix(in srgb, var(--secondary) 9%, var(--light));
-  border: 1px solid color-mix(in srgb, var(--secondary) 20%, transparent);
-  border-radius: 999px;
-  padding: 0.06rem 0.55rem;
-  font-size: 0.8em;
-  font-weight: 600;
+.toc-content .in-view {
+  color: var(--gray);
+}
+.toc-content .active {
   color: var(--secondary);
+  font-weight: 700;
 }
 
+.backlinks .backlinks-list a {
+  font-size: 0.86rem;
+}
+
+/* 그래프 뷰 */
+.right.sidebar .graph .graph-outer,
+.graph .graph-outer {
+  width: 100%;
+  border-radius: var(--sc-radius-sm);
+}
+.right.sidebar .graph .graph-container,
+.graph .graph-container {
+  height: 340px;
+}
+@media all and ($mobile) {
+  .graph .graph-container {
+    height: 260px;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   8. 본문 요소
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* 표 */
+.table-container > table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--sc-border);
+  border-radius: var(--sc-radius-sm);
+  overflow: hidden;
+  margin: 1.3rem 0;
+  width: 100%;
+}
+.table-container > table th {
+  background-color: var(--sc-surface-2);
+  border-bottom: 1px solid var(--sc-border-strong);
+  font-weight: 700;
+  padding: 0.55rem 0.85rem;
+}
+.table-container > table td {
+  padding: 0.48rem 0.85rem;
+  border-bottom: 1px solid var(--sc-border);
+}
+.table-container > table tr:last-child td {
+  border-bottom: none;
+}
+.table-container > table tbody tr:hover {
+  background-color: var(--sc-accent-soft);
+}
+
+/* 코드 */
+code {
+  font-size: 0.875em;
+  background-color: var(--sc-surface-2);
+  border: 1px solid var(--sc-border);
+  border-radius: 5px;
+  padding: 0.1em 0.35em;
+}
+pre {
+  border-radius: var(--sc-radius-sm);
+  border: 1px solid var(--sc-border);
+  background-color: var(--sc-surface) !important;
+}
+pre > code {
+  font-size: 0.85rem;
+  line-height: 1.7;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+/* 콜아웃 */
+.callout {
+  border-radius: var(--sc-radius-sm);
+  box-shadow: var(--sc-shadow-sm);
+}
+.callout-title {
+  font-weight: 700;
+}
+
+/* 인용 */
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background-color: var(--sc-surface);
+  border-radius: 0 var(--sc-radius-sm) var(--sc-radius-sm) 0;
+  padding: 0.5rem 1rem;
+}
+
+/* 태그 칩 — 줄바꿈으로 글자 깨지지 않게 */
+ul.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.45rem;
+  padding-left: 0;
+  margin: 0.4rem 0 0;
+  list-style: none;
+}
+ul.tags > li {
+  margin: 0;
+  padding: 0;
+}
+a.tag-link {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  background-color: var(--sc-accent-soft);
+  border: 1px solid color-mix(in srgb, var(--secondary) 24%, transparent);
+  border-radius: 999px;
+  padding: 0.12rem 0.62rem;
+  font-size: 0.78em;
+  font-weight: 600;
+  line-height: 1.7;
+  color: var(--secondary);
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
 a.tag-link:hover {
   text-decoration: none;
-  background-color: color-mix(in srgb, var(--secondary) 14%, var(--light));
+  background-color: color-mix(in srgb, var(--secondary) 16%, transparent);
+  border-color: color-mix(in srgb, var(--secondary) 40%, transparent);
 }
 
-/* ── 콘텐츠 메타 ──────────────────────────────────────── */
+/* 메타 */
 .content-meta {
   color: var(--gray);
   font-size: 0.88rem;
 }
 
-/* ── 선택 / 스크롤바 ──────────────────────────────────── */
+/* 팝오버 */
+.popover > .popover-inner {
+  border-radius: var(--sc-radius);
+  border: 1px solid var(--sc-border-strong);
+  box-shadow: var(--sc-shadow-lg);
+  background-color: var(--sc-bg);
+}
+
+/* 선택 / 스크롤바 */
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 28%, #fff0);
+  background: var(--textHighlight);
   color: var(--dark);
 }
-
 * {
   scrollbar-width: thin;
-  scrollbar-color: var(--lightgray) transparent;
+  scrollbar-color: var(--sc-border-strong) transparent;
 }
-
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
-
 ::-webkit-scrollbar-thumb {
-  background-color: var(--lightgray);
+  background-color: var(--sc-border-strong);
   border-radius: 4px;
 }
-
 ::-webkit-scrollbar-thumb:hover {
   background-color: var(--gray);
 }
-
 ::-webkit-scrollbar-track {
   background: transparent;
 }
 
-/* ── 팝오버 ───────────────────────────────────────────── */
-.popover > .popover-inner {
-  border-radius: 12px;
-  box-shadow: 0 14px 44px color-mix(in srgb, #000 14%, transparent);
+/* ═══════════════════════════════════════════════════════════════════
+   9. 페이지 전환 — 순수 CSS 페이드업 (SPA 안전)
+   ═══════════════════════════════════════════════════════════════════ */
+.center > article,
+.popover-hint > article {
+  animation: scPageEnter 0.42s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-/* ── 모바일 보정 ──────────────────────────────────────── */
+.center > article > * {
+  animation: scPageEnter 0.5s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+.center > article > *:nth-child(1) { animation-delay: 0.02s; }
+.center > article > *:nth-child(2) { animation-delay: 0.06s; }
+.center > article > *:nth-child(3) { animation-delay: 0.1s; }
+.center > article > *:nth-child(4) { animation-delay: 0.14s; }
+.center > article > *:nth-child(n + 5) { animation-delay: 0.18s; }
+
+@keyframes scPageEnter {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .center > article,
+  .center > article > *,
+  .popover-hint > article,
+  article.popover-hint {
+    animation: none !important;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   10. 좌측 상단 로고
+   ═══════════════════════════════════════════════════════════════════ */
+.page .page-header .page-title,
+.left.sidebar .page-header .page-title,
+.left.sidebar .page-title,
+.page-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.page-title::before {
+  content: "";
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: url("/static/simbio-logo.png") center / contain no-repeat;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   11. 홈 대시보드 — 인트로 워프 + 저장소 카드
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── 인트로: CSS 애니메이션으로 자동 사라짐 ── */
+#sc-intro {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: #0a0f1c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  pointer-events: none;
+  animation: scIntroOut 2s ease forwards;
+}
+@keyframes scIntroOut {
+  0% { opacity: 1; visibility: visible; }
+  68% { opacity: 1; visibility: visible; }
+  99% { opacity: 0; visibility: hidden; }
+  100% { opacity: 0; visibility: hidden; display: none; }
+}
+.sc-warp {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  animation: scWarp 1.6s cubic-bezier(0.5, 0, 0.5, 1) forwards;
+}
+.sc-ring {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid #87adef;
+  opacity: 0;
+  animation: scRing 1.6s ease-out forwards;
+}
+.sc-ring:nth-child(2) { inset: 20%; border-color: #a9c4ff; animation-delay: 0.14s; }
+.sc-ring:nth-child(3) { inset: 30%; border-color: #7fdaab; animation-delay: 0.28s; }
+.sc-ring:nth-child(4) { inset: 40%; border-color: #dcc667; animation-delay: 0.42s; }
+.sc-ring:nth-child(5) { inset: 50%; border-color: #87adef; animation-delay: 0.56s; }
+@keyframes scRing {
+  0% { opacity: 0; transform: scale(0.3); }
+  30% { opacity: 0.75; }
+  100% { opacity: 0; transform: scale(2.5); }
+}
+@keyframes scWarp {
+  0% { transform: scale(1); opacity: 1; }
+  70% { transform: scale(8); opacity: 0.5; }
+  100% { transform: scale(20); opacity: 0; }
+}
+.sc-mark {
+  position: relative;
+  z-index: 2;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: scPulse 2s ease-in-out infinite;
+}
+.sc-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 0 18px rgba(135, 173, 239, 0.55));
+}
+@keyframes scPulse {
+  0%, 100% { transform: scale(0.92); opacity: 0.85; }
+  50% { transform: scale(1.05); opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #sc-intro { display: none; }
+}
+/* 세션 재방문·뒤로가기: 인트로 아예 표시 안 함 (Head.tsx 가 페인트 전에 클래스 부여) */
+:root.sc-intro-seen #sc-intro {
+  display: none !important;
+}
+
+/* ── 현황도 (stats) ── */
+.sc-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 0.6rem 0 1.4rem;
+}
+.sc-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px 16px;
+  border: 1px solid var(--sc-border);
+  border-radius: var(--sc-radius);
+  background-color: var(--sc-surface);
+  box-shadow: var(--sc-shadow-sm);
+  transition: transform 0.2s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.2s ease;
+}
+.sc-stat:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--sc-shadow-md);
+}
+.sc-stat-k {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--gray);
+}
+.sc-stat-v {
+  font-size: 1.55rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--dark);
+  font-variant-numeric: tabular-nums;
+}
+.sc-stat-v.sc-stat-green { color: #2fa565; }
+.sc-stat-v.sc-stat-amber { color: #c98a2b; }
+.sc-stat-v.sc-stat-blue { color: var(--secondary); }
+:root[saved-theme="dark"] .sc-stat-v.sc-stat-green { color: #63d69b; }
+:root[saved-theme="dark"] .sc-stat-v.sc-stat-amber { color: #e6b45f; }
+
+/* ── 저장소 카드 그리드 (플랫 마크업: a > span만) ── */
+.sc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 14px;
+  margin: 1rem 0 2rem;
+}
+
+a.sc-card,
+a.sc-card.internal {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 15px 16px;
+  border-radius: var(--sc-radius);
+  background-color: var(--sc-surface);
+  border: 1px solid var(--sc-border);
+  box-shadow: var(--sc-shadow-sm);
+  color: var(--dark);
+  font-weight: 400;
+  text-decoration: none !important;
+  overflow: hidden;
+  transition: transform 0.24s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.24s ease, border-color 0.24s ease;
+}
+
+a.sc-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    120deg,
+    color-mix(in srgb, var(--c, #3c4a68) 10%, transparent),
+    transparent 55%
+  );
+  opacity: 0;
+  transition: opacity 0.24s ease;
+  pointer-events: none;
+}
+
+a.sc-card:hover {
+  transform: translateY(-4px);
+  border-color: color-mix(in srgb, var(--c, #3c4a68) 45%, var(--sc-border));
+  box-shadow: 0 14px 32px
+    color-mix(in srgb, var(--c, #3c4a68) 22%, transparent);
+}
+a.sc-card:hover::before {
+  opacity: 1;
+}
+a.sc-card:hover .sc-go {
+  transform: translateX(4px);
+  opacity: 1;
+}
+a.sc-card:hover .sc-ico {
+  transform: scale(1.08) rotate(-5deg);
+}
+
+a.sc-card .sc-ico {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  line-height: 1;
+  background-color: color-mix(in srgb, var(--c, #3c4a68) 15%, transparent);
+  transition: transform 0.24s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+a.sc-card .sc-txt {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+a.sc-card .sc-name {
+  font-family: var(--sc-sans);
+  font-size: 1.02rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  color: var(--c, var(--secondary));
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* desc / count 를 같은 그리드 칸에 겹쳐 쌓아 카드 높이 = 둘 중 큰 쪽. 겹침·칸 부족 없음 */
+a.sc-card .sc-sub {
+  display: grid;
+  min-width: 0;
+}
+a.sc-card .sc-sub > .sc-desc,
+a.sc-card .sc-sub > .sc-count {
+  grid-area: 1 / 1;
+  min-width: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+a.sc-card .sc-desc {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: var(--gray);
+}
+a.sc-card .sc-count {
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: var(--c, var(--secondary));
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  opacity: 0;
+  transform: translateY(3px);
+  pointer-events: none;
+}
+a.sc-card:hover .sc-desc {
+  opacity: 0;
+  transform: translateY(-3px);
+}
+a.sc-card:hover .sc-count {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+a.sc-card .sc-go {
+  flex-shrink: 0;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--c, var(--secondary));
+  opacity: 0.55;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+/* ── 홈: 인트로 리드 (텍스트 + 신경망 그래픽) ── */
+.sc-lead {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0.25rem 0 2rem;
+  padding: 1.3rem 1.4rem;
+  border: 1px solid var(--sc-border);
+  border-left: 3px solid var(--secondary);
+  border-radius: var(--sc-radius);
+  background-color: var(--sc-surface);
+  box-shadow: var(--sc-shadow-sm);
+}
+.sc-lead-body {
+  flex: 1;
+  min-width: 0;
+  font-size: 1.0rem;
+  line-height: 1.85;
+  color: var(--darkgray);
+}
+.sc-lead-body strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.16rem;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  color: var(--dark);
+}
+.sc-lead-body .sc-lead-p {
+  display: block;
+}
+.sc-lead-body .sc-lead-sub {
+  display: block;
+  margin-top: 0.55rem;
+  font-size: 0.92rem;
+  color: var(--gray);
+}
+.sc-lead-viz {
+  flex-shrink: 0;
+  width: 190px;
+  height: auto;
+  align-self: center;
+  opacity: 0.92;
+}
+:root[saved-theme="dark"] .sc-lead-viz {
+  opacity: 0.85;
+}
+
+/* ══ 홈: 최근 생성된 노트 — 목록형 ══ */
+.sc-recent {
+  margin: 0.4rem 0 0;
+}
+.sc-recent ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--sc-border);
+}
+.sc-recent li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0 0.6rem;
+  border-bottom: 1px solid var(--sc-border);
+  border-radius: 6px;
+  transition: background-color 0.14s ease, padding-left 0.16s ease;
+}
+.sc-recent li::before {
+  content: "›";
+  flex-shrink: 0;
+  color: var(--secondary);
+  opacity: 0.55;
+}
+.sc-recent li:hover {
+  background-color: var(--sc-surface-2);
+  padding-left: 0.85rem;
+}
+.sc-recent li a.internal {
+  flex: 1;
+  min-width: 0;
+  padding: 0.72rem 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 500;
+  color: var(--dark);
+  text-decoration: none !important;
+}
+.sc-recent li:hover a.internal {
+  color: var(--secondary);
+}
+.sc-recent .sc-recent-d {
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── 모바일 보정 ── */
 @media all and ($mobile) {
   .page > #quartz-body .sidebar.left {
     padding: 0.5rem 0 0;
   }
+  .explorer {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+  }
+  .sc-grid {
+    grid-template-columns: 1fr;
+  }
+  .sc-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .sc-lead {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  .sc-lead-viz {
+    width: 150px;
+    align-self: center;
+  }
 }
 
-/* ── 그래프 뷰: 허브 노트(백링크 다수)도 잘 보이게 ────── */
-.right.sidebar .graph .graph-outer,
-.graph .graph-outer {
-  width: 100%;
+/* ═══════════════════════════════════════════════════════════════════
+   공용 상단 스위치 (Sim_Bio_Cortex ↔ 인체 지도) — simbio-atlas 와 동일 UI
+   ═══════════════════════════════════════════════════════════════════ */
+.sbc-switch {
+  position: fixed;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 900;
+  display: flex;
+  gap: 3px;
+  padding: 4px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--light) 92%, transparent);
+  border: 1px solid var(--sc-border, var(--lightgray));
+  box-shadow: var(--sc-shadow-md, 0 8px 30px rgba(20, 20, 25, 0.1));
+  backdrop-filter: blur(16px);
 }
-
-.right.sidebar .graph .graph-container,
-.graph .graph-container {
-  height: 340px;
+.sbc-switch-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 16px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--gray);
+  text-decoration: none !important;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease;
 }
-
-@media all and ($mobile) {
-  .graph .graph-container {
-    height: 260px;
+.sbc-switch-btn:hover {
+  color: var(--secondary);
+}
+.sbc-switch-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.35;
+  transition: opacity 0.18s ease, box-shadow 0.18s ease;
+}
+.sbc-switch-btn[data-active="true"] {
+  color: #fff;
+  background: var(--secondary);
+  box-shadow: 0 2px 10px color-mix(in srgb, var(--secondary) 45%, transparent);
+  cursor: default;
+}
+.sbc-switch-btn[data-active="true"] .sbc-switch-dot {
+  opacity: 1;
+  background: #fff;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.28), 0 0 10px rgba(255, 255, 255, 0.7);
+}
+/* 스위치가 상단 중앙을 차지하므로 페이지 헤더를 살짝 아래로 */
+.page > #quartz-body {
+  padding-top: 8px;
+}
+@media all and (max-width: 640px) {
+  .sbc-switch {
+    top: 10px;
+  }
+  .sbc-switch-btn {
+    padding: 7px 12px;
+    font-size: 0.78rem;
   }
 }

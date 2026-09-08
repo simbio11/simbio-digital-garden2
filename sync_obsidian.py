@@ -84,9 +84,19 @@ def git_commit_and_push():
     else:
         print(f"Git push failed: {push_res.stderr}")
 
+def regen_home():
+    """홈(index.md)의 현황도·저장소 카드 수·최근 생성 노트 목록을 다시 생성."""
+    script = quartz_repo_path / "scripts" / "gen_home.mjs"
+    if not script.exists():
+        return
+    try:
+        subprocess.run(["node", str(script)], cwd=quartz_repo_path, check=True)
+    except Exception as e:
+        print(f"gen_home.mjs 실행 실패(무시하고 계속): {e}")
+
+
 if __name__ == "__main__":
-    changed = sync_folders()
-    if changed:
-        git_commit_and_push()
-    else:
-        print("No changes detected in synced folders.")
+    sync_folders()
+    # 볼트 변경 여부와 무관하게 홈 통계 최신화. git_commit_and_push 가 실제 변경분만 커밋한다.
+    regen_home()
+    git_commit_and_push()
