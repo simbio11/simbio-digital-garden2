@@ -1,0 +1,45 @@
+<svg width="600" height="400" version="1.1" viewBox="0 0 159 106" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="a" overflow="visible" orient="auto"><path transform="scale(.4)" d="m6 0-9 5v-10l9 5z"/></marker>
+<marker id="g" overflow="visible" orient="auto"><path transform="scale(-.4)" d="m6 0-9 5v-10l9 5z"/></marker>
+</defs>
+<g transform="translate(0 -191)">
+<g fill="none" stroke="#000" stroke-width=".5">
+<rect x="3" y="211" width="154" height="62" fill="#efe"/>
+<path d="m118 261v-36" marker-start="url(#g)"/>
+<path d="m37 217a16 15 0 0 1-11-14" marker-end="url(#a)"/>
+<path d="m36 217a45 15 0 0 1-29-14" marker-end="url(#a)"/>
+<path d="m87 201a16 15 0 0 1-8 13 16 15 0 0 1-16 0 16 15 0 0 1-8-13" marker-start="url(#g)"/>
+<path d="m43 277a16 15 0 0 1-16 15" marker-start="url(#g)"/>
+<g marker-end="url(#a)">
+<path d="m66 268h34" marker-start="url(#g)"/>
+<path d="m51 216h40" marker-start="url(#g)"/>
+<path d="m133 268a16 15 0 0 1 13 15"/>
+<path d="m154 202a16 15 0 0 1-11 14"/>
+<path d="m43 262v-4"/>
+<path d="m43 244v-4"/>
+<path d="m43 227v-4"/>
+</g>
+</g>
+<g font-family="sans" font-size="7px" fill="#000">
+<text x="32" y="236" dy="0 0 0 0 -2">E1 K+</text>
+<text x="93" y="219" dy="0 0 0 0 0 0 0 2 -2 -2 2">E1-P [H3O+]</text>
+<text x="23" y="270" dy="0 0 0 0 0 0 2 -2 -2 2">E2-P H3O+ </text>
+<text x="49" y="197" dy="0 0 0">ATP</text>
+<text x="38" y="219" dy="0 0">E1</text>
+<text x="81" y="197" dy="0 0 0">ADP</text>
+<text x="20" y="199" dy="0 -2">K+</text>
+<text x="4" y="199" dy="0 0">Pi</text>
+<text x="29" y="253" dy="0 0 0 0 0 -2 2">E2 [K+]</text>
+<text x="103" y="271" dy="0 0 0 0 0 0 -2">E2-P K+</text>
+<text x="134" y="293" dy="0 2 -2 -2">H3O+</text>
+<text x="14" y="295" dy="0 -2">K+</text>
+<text x="136" y="198" dy="0 2 -2 -2">H3O+</text>
+<g fill="#aaa" font-size="5px">
+<text><tspan x="52" y="243">Parietal cell membrane</tspan></text>
+<text x="96" y="206">Cytoplasm</text>
+<text x="79" y="288">Lumen</text>
+</g>
+</g>
+</g>
+</svg>
