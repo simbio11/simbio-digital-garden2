@@ -982,10 +982,10 @@ a.sc-card .sc-go {
    ═══════════════════════════════════════════════════════════════════ */
 .sbc-switch {
   position: fixed;
-  top: 16px;
+  top: 12px;
   left: 50%;
   transform: translateX(-50%);
-  z-index: 900;
+  z-index: 1200;
   display: flex;
   gap: 3px;
   padding: 4px;
@@ -1077,5 +1077,36 @@ a.sc-card .sc-go {
   .sbc-switch-btn {
     padding: 7px 12px;
     font-size: 0.78rem;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   임베드 모드 (?sbcEmbed=1) — 인체 지도의 우측 노트 칸에서 리더 뷰로
+   좌측 탐색기 · 페이지 헤더 · 공용 스위치를 숨기고 본문에 집중
+   ═══════════════════════════════════════════════════════════════════ */
+:root.sbc-embed .sidebar.left,
+:root.sbc-embed .sbc-switch,
+:root.sbc-embed .page-header,
+:root.sbc-embed footer.page-footer,
+:root.sbc-embed .page-footer {
+  display: none !important;
+}
+:root.sbc-embed .page > #quartz-body {
+  grid-template-columns: auto #{$sidePanelWidth};
+  grid-template-areas:
+    "grid-center grid-sidebar-right"
+    "grid-center grid-sidebar-right";
+  padding-top: 0;
+}
+:root.sbc-embed .center {
+  padding: 1.5rem 1.5rem 3rem;
+}
+@media all and (max-width: 800px) {
+  :root.sbc-embed .page > #quartz-body {
+    grid-template-columns: auto;
+    grid-template-areas: "grid-center";
+  }
+  :root.sbc-embed .sidebar.right {
+    display: none !important;
   }
 }
