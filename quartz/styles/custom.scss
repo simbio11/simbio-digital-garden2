@@ -1125,32 +1125,48 @@ a.sc-card .sc-go {
 }
 
 /* ═══════════════════════════════════════════════════════════════════
-   임베드 모드 (?sbcEmbed=1) — 인체 지도의 우측 노트 칸에서 리더 뷰로
-   좌측 탐색기 · 페이지 헤더 · 공용 스위치를 숨기고 본문에 집중
+   임베드 모드 (?sbcEmbed=1) — 인체 지도 우측 노트 칸용 리더 뷰
+   양쪽 사이드바 · 헤더 · 스위치 · 푸터를 모두 숨기고 본문만 단일 컬럼 전폭
    ═══════════════════════════════════════════════════════════════════ */
+:root.sbc-embed .sidebar,
 :root.sbc-embed .sidebar.left,
+:root.sbc-embed .sidebar.right,
 :root.sbc-embed .sbc-switch,
 :root.sbc-embed .page-header,
+:root.sbc-embed footer,
 :root.sbc-embed footer.page-footer,
-:root.sbc-embed .page-footer {
+:root.sbc-embed .page-footer,
+:root.sbc-embed .graph,
+:root.sbc-embed .backlinks,
+:root.sbc-embed .toc {
   display: none !important;
 }
 :root.sbc-embed .page > #quartz-body {
-  grid-template-columns: auto #{$sidePanelWidth};
-  grid-template-areas:
-    "grid-center grid-sidebar-right"
-    "grid-center grid-sidebar-right";
-  padding-top: 0;
+  display: block !important;
+  grid-template-columns: none !important;
+  grid-template-areas: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 :root.sbc-embed .center {
-  padding: 1.5rem 1.5rem 3rem;
+  grid-area: auto !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 1.4rem 1.6rem 3rem !important;
+}
+:root.sbc-embed .center > article,
+:root.sbc-embed article {
+  max-width: 100% !important;
+}
+:root.sbc-embed .popover-hint article,
+:root.sbc-embed .article-title,
+:root.sbc-embed .content-meta {
+  max-width: 100% !important;
 }
 @media all and (max-width: 800px) {
-  :root.sbc-embed .page > #quartz-body {
-    grid-template-columns: auto;
-    grid-template-areas: "grid-center";
-  }
-  :root.sbc-embed .sidebar.right {
-    display: none !important;
+  :root.sbc-embed .center {
+    padding: 1rem 1.1rem 2.5rem !important;
   }
 }
