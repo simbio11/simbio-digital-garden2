@@ -18,6 +18,49 @@ import { styleText } from "util"
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
 
+/**
+ * Simbio: 옵시디언에서 만든 원시 HTML 블록(다이어그램 등)이 사이트에서 코드로 깨지는 문제 방지.
+ * CommonMark 는 빈 줄에서 HTML 블록(type 6)을 닫아버리고, 그 뒤 4칸 들여쓰기 줄을
+ * 코드블록으로 처리한다. 태그와 태그 사이에 낀 빈 줄만 제거하면 하나의 HTML 블록으로 유지된다.
+ * (앞 비어있지-않은 줄이 '>' 로 끝나고 뒤 줄이 '<' 로 시작할 때만 제거 → 산문에는 영향 없음)
+ */
+export function stitchRawHtmlBlocks(src: string): string {
+  const lines = src.split("\n")
+  const out: string[] = []
+  let inFence = false
+  let fenceMarker = ""
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    const t = line.trim()
+    const fenceOpen = t.match(/^(`{3,}|~{3,})/)
+    if (fenceOpen) {
+      if (!inFence) {
+        inFence = true
+        fenceMarker = fenceOpen[1][0]
+      } else if (t.startsWith(fenceMarker.repeat(3))) {
+        inFence = false
+      }
+      out.push(line)
+      continue
+    }
+    if (inFence || t !== "") {
+      out.push(line)
+      continue
+    }
+    // blank line: peek prev non-blank (in out) and next non-blank (in lines)
+    let p = out.length - 1
+    while (p >= 0 && out[p].trim() === "") p--
+    let n = i + 1
+    while (n < lines.length && lines[n].trim() === "") n++
+    const prev = p >= 0 ? out[p].trimEnd() : ""
+    const next = n < lines.length ? lines[n].trimStart() : ""
+    const betweenTags = /[>]$/.test(prev) && /^<[a-zA-Z/!]/.test(next)
+    if (!betweenTags) out.push(line) // keep the blank line
+    // else: drop it
+  }
+  return out.join("\n")
+}
+
 export function createMdProcessor(ctx: BuildCtx): QuartzMdProcessor {
   const transformers = ctx.cfg.plugins.transformers
 
@@ -93,6 +136,9 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
         // strip leading and trailing whitespace
         file.value = file.value.toString().trim()
+
+        // Simbio: 원시 HTML 다이어그램 블록이 코드로 깨지지 않게 태그 사이 빈 줄 제거
+        file.value = stitchRawHtmlBlocks(file.value.toString())
 
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
