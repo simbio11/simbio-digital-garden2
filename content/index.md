@@ -28,7 +28,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">2,835</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">2,833</span></div>
 <div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">65,924</span></div>
 <div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+257</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,800</span></div>
@@ -44,7 +44,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1304" data-folders="40" data-tags="1026"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1304 · 📁 40 · 🏷️ 1026</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="693" data-folders="36" data-tags="464"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 693 · 📁 36 · 🏷️ 464</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="4.-임상/00_임상_MOC" style="--c:var(--cat-seminar)" data-files="58" data-folders="11" data-tags="175"><span class="sc-ico">🏥</span><span class="sc-txt"><span class="sc-name">임상</span><span class="sc-sub"><span class="sc-desc">케이스 · 임상 질문 아카이브 · 꿀팁</span><span class="sc-count">📄 58 · 📁 11 · 🏷️ 175</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="5.-독서,-노트/00_독서_노트_MOC" style="--c:var(--cat-books)" data-files="179" data-folders="21" data-tags="31"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서 · 노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 독서 · 논문 리뷰</span><span class="sc-count">📄 179 · 📁 21 · 🏷️ 31</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="5.-독서,-노트/00_독서_노트_MOC" style="--c:var(--cat-books)" data-files="177" data-folders="21" data-tags="31"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서 · 노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 독서 · 논문 리뷰</span><span class="sc-count">📄 177 · 📁 21 · 🏷️ 31</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="보고서/주식 브리핑" style="--c:var(--cat-formula)" data-files="118" data-folders="45" data-tags="51"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 118 · 📁 45 · 🏷️ 51</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
