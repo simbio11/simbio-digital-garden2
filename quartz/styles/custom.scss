@@ -573,13 +573,15 @@ a.tag-link:hover {
    공통 스펙: 로고 30px + gap 10px + Pretendard 700 / 1.5rem / -0.02em / var(--dark)
    위치: 뷰포트 기준 left 32px, top ~66px (공용 스위치 밴드 아래)
    ═══════════════════════════════════════════════════════════════════ */
-/* 좌측 사이드바 상단 여백을 줄여 브랜드가 스위치 바로 아래에서 시작 */
-.page > #quartz-body .sidebar.left {
-  padding-top: 66px;
-}
-.left.sidebar .page-header,
-.page-header:has(.page-title) {
-  margin-top: 0 !important;
+/* 데스크탑: 좌측 사이드바 상단 여백을 줄여 브랜드가 스위치 바로 아래에서 시작 */
+@media all and (min-width: 801px) {
+  .page > #quartz-body .sidebar.left {
+    padding-top: 66px;
+  }
+  .left.sidebar .page-header,
+  .page-header:has(.page-title) {
+    margin-top: 0 !important;
+  }
 }
 .page .page-header .page-title,
 .left.sidebar .page-header .page-title,
@@ -1090,13 +1092,35 @@ a.sc-card .sc-go {
 .page > #quartz-body {
   padding-top: 8px;
 }
-@media all and (max-width: 640px) {
+/* 모바일: 고정 스위치가 상단 헤더 행을 가리지 않게 콘텐츠를 내림 + 스위치 압축 */
+@media all and (max-width: 800px) {
+  .page > #quartz-body {
+    padding-top: 46px;
+  }
   .sbc-switch {
-    top: 10px;
+    top: 8px;
+    padding: 3px;
+    gap: 2px;
   }
   .sbc-switch-btn {
-    padding: 7px 12px;
+    padding: 6px 11px;
     font-size: 0.78rem;
+  }
+  .sbc-theme-toggle {
+    width: 28px;
+    height: 28px;
+  }
+  /* 좌상단 브랜드: 모바일에선 살짝 축소 */
+  .page-title,
+  .page-title > a,
+  .page-title a.internal {
+    font-size: 1.3rem !important;
+  }
+}
+@media all and (max-width: 420px) {
+  .sbc-switch-btn {
+    padding: 6px 9px;
+    font-size: 0.72rem;
   }
 }
 
