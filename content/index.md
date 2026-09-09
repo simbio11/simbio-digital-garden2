@@ -1,5 +1,7 @@
 ---
-title: Sim_Bio_Cortex
+title: Sim_Bi
+
+o_Cortex
 description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·약리·이론·임상·독서·투자 노트가 뉴런처럼 연결된 지식의 신경망
 ---
 
