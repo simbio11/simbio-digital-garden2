@@ -72,6 +72,15 @@ tags: [근골격계, MOC, 근육, 골격, 신경, 이학적검사, 추나]
 - 대표: [[Abson test]] · [[Allis test]] · [[Apley compression-distraction test]] · [[Apprehension test]] · [[Babinski tesr]] · [[back scratch test]]
 - 근골격 환자 진단 접근: [[근골격계 환자 진단]] · [[LPHC 개인 변수 기반 이학적 검사 해석]] · [[Pelvic incidence]]
 
+### 📋 이학적 검사 목록 일괄 등재 (09-09 다빈치, 고아 워크리스트 승인 처리 · 47편)
+> 고아 노트 워크리스트에서 `1. 근골격계 공부\이학적 검사\` 하위 미등재 47건을 가나다·알파벳순으로 일괄 등재합니다.
+
+**영문 검사명(29종)**
+[[1. 근골격계 공부/이학적 검사/Beevor's sign|Beevor's sign]] · [[1. 근골격계 공부/이학적 검사/Brudzinski test|Brudzinski test]] · [[1. 근골격계 공부/이학적 검사/Burn's Bench test|Burn's Bench test]] · [[1. 근골격계 공부/이학적 검사/Costoclavicular test|Costoclavicular test]] · [[1. 근골격계 공부/이학적 검사/Dejerene's triad|Dejerene's triad]] · [[1. 근골격계 공부/이학적 검사/Elevated arm stress test|Elevated arm stress test]] · [[1. 근골격계 공부/이학적 검사/Finkelstein test|Finkelstein test]] · [[1. 근골격계 공부/이학적 검사/Flip test|Flip test]] · [[1. 근골격계 공부/이학적 검사/Gillett test|Gillett test]] · [[1. 근골격계 공부/이학적 검사/Goldthwaith's test|Goldthwaith's test]] · [[1. 근골격계 공부/이학적 검사/Golfer elbow test|Golfer elbow test]] · [[1. 근골격계 공부/이학적 검사/Hoffmann's sign|Hoffmann's sign]] · [[1. 근골격계 공부/이학적 검사/Hoover test|Hoover test]] · [[1. 근골격계 공부/이학적 검사/Kemp's test|Kemp's test]] · [[1. 근골격계 공부/이학적 검사/L'Hermittee sign|L'Hermittee sign]] · [[1. 근골격계 공부/이학적 검사/Milgram's test|Milgram's test]] · [[1. 근골격계 공부/이학적 검사/Nachlas test|Nachlas test]] · [[1. 근골격계 공부/이학적 검사/Ortolani test|Ortolani test]] · [[1. 근골격계 공부/이학적 검사/popliteal angle test|popliteal angle test]] · [[1. 근골격계 공부/이학적 검사/Schepelmann's test|Schepelmann's test]] · [[1. 근골격계 공부/이학적 검사/Schober test|Schober test]] · [[1. 근골격계 공부/이학적 검사/Seated Laseque test|Seated Laseque test]] · [[1. 근골격계 공부/이학적 검사/Soto-hall test|Soto-hall test]] · [[1. 근골격계 공부/이학적 검사/Spurling test|Spurling test]] · [[1. 근골격계 공부/이학적 검사/Tennis elbow test|Tennis elbow test]] · [[1. 근골격계 공부/이학적 검사/Trendelenburg test|Trendelenburg test]] · [[1. 근골격계 공부/이학적 검사/Vertebral artery patency test|Vertebral artery patency test]] · [[1. 근골격계 공부/이학적 검사/Well leg SLRT|Well leg SLRT]] · [[1. 근골격계 공부/이학적 검사/Yeoman's test|Yeoman's test]]
+
+**국문 검사명(18종)**
+[[1. 근골격계 공부/이학적 검사/극상근건염 검사|극상근건염 검사]] · [[1. 근골격계 공부/이학적 검사/내선 스트레스 검사|내선 스트레스 검사]] · [[1. 근골격계 공부/이학적 검사/대퇴신경 신장 검사|대퇴신경 신장 검사]] · [[1. 근골격계 공부/이학적 검사/발목-요추 검사|발목-요추 검사]] · [[1. 근골격계 공부/이학적 검사/손가락 이탈 징후|손가락 이탈 징후]] · [[1. 근골격계 공부/이학적 검사/슬개골 압박 검사|슬개골 압박 검사]] · [[1. 근골격계 공부/이학적 검사/슬개골 탈구 불안검사|슬개골 탈구 불안검사]] · [[1. 근골격계 공부/이학적 검사/슬관절 전후 견인 검사|슬관절 전후 견인 검사]] · [[1. 근골격계 공부/이학적 검사/심부건 반사|심부건 반사]] · [[1. 근골격계 공부/이학적 검사/외선 스트레스 검사|외선 스트레스 검사]] · [[1. 근골격계 공부/이학적 검사/족관절 내측 불안정성 검사|족관절 내측 불안정성 검사]] · [[1. 근골격계 공부/이학적 검사/족관절 외측 불안정성 검사|족관절 외측 불안정성 검사]] · [[1. 근골격계 공부/이학적 검사/족관절 전방견인 검사|족관절 전방견인 검사]] · [[1. 근골격계 공부/이학적 검사/척추 타진 검사|척추 타진 검사]] · [[1. 근골격계 공부/이학적 검사/추간공 압박 검사|추간공 압박 검사]] · [[1. 근골격계 공부/이학적 검사/추골뇌저 동맥 청진 및 촉진|추골뇌저 동맥 청진 및 촉진]] · [[1. 근골격계 공부/이학적 검사/흉골 압박 검사|흉골 압박 검사]] · [[1. 근골격계 공부/이학적 검사/흉곽 확장 검사|흉곽 확장 검사]]
+
 ## ✋ 5. 추나 (10노트)
 
 [[경추 추나]] · [[어깨 추나]] · [[요골반 추나]] · [[요골반 리스팅]] · [[복잡추나]] · [[자세분석]] · [[골반 전방경사(추나)]] · [[추나 리스팅]] · [[흉추 추나]] · [[편평등]]
