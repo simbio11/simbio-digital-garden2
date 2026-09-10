@@ -23,7 +23,8 @@ const CARDS = [
   { dir: "1. 근골격계 공부", href: "1.-근골격계-공부/00_근골격계_MOC", icon: "🦴", color: "var(--cat-muscle)", name: "근골격계", desc: "근육 · 골격 · 신경 · 이학적 검사 · 추나" },
   { dir: "2. 약리 공부", href: "2.-약리-공부/00_약리_공부_MOC", icon: "🌿", color: "var(--cat-herb)", name: "약리 공부", desc: "본초 · 처방 · 약리성분 · 약침" },
   { dir: "3. 이론 공부", href: "3.-이론-공부/00_이론_공부_MOC", icon: "🧠", color: "var(--cat-theory)", name: "이론 공부", desc: "경락 · 생리 · 질환 · 영양학" },
-  { dir: "보고서", href: "보고서/주식 브리핑", icon: "📊", color: "var(--cat-formula)", name: "라이프 보고서", desc: "주식 · 부동산 브리핑 · 일상 리서치" },
+  { dir: "보고서", href: "보고서/주식-브리핑", icon: "📊", color: "var(--cat-formula)", name: "라이프 보고서", desc: "주식 · 부동산 브리핑 · 일상 리서치" },
+  { dir: "5. 독서, 노트", href: "5.-독서,-노트/00_독서_노트_moc", icon: "📚", color: "var(--cat-books)", name: "독서·노트", desc: "강의록 · 논문 리뷰 · 독서 노트 · 여행" },
 ]
 
 const RECENT_LIMIT = 8
