@@ -9,10 +9,24 @@ updated: 2026-09-05
 
 # 말반 A (Malvan A)
 
-> **핵심 요약 (Key Summary)**
-> 아욱과 식물인 [[동규자]](*Malva verticillata*)의 종자 및 아욱 전초에서 분리되는 대표적인 생체활성 산성 점액 다당류(Mucilage polysaccharide).
-> 람노갈락투로난 I(RG-I) 핵심 골격을 기반으로 소화관 점막 수분 저류 및 장벽 보호를 유도하여 완만하고 부드러운 완화(윤장통변)와 이뇨 작용 발현.
-> 한의학의 이수통림(利水通淋) 및 윤장통변(潤腸通便) 효능을 뒷받침하는 핵심 지표 성분으로 임질, 요로결석, 산후 변비 치료에 응용.
+> **핵심 3줄 요약 (Key Summary)**:
+> - 🌿 기원 본초 & 화학 계열: 아욱과 식물인 [[동규자]](*Malva verticillata*)의 종자 및 아욱 전초에서 분리되는 대표적인 생체활성 산성 점액 다당류(Mucilage polysaccharide).
+> - 🎯 핵심 분자 표적 & 조절 경로: 람노갈락투로난 I(RG-I) 핵심 골격 기반의 장관 점막 수화 겔 형성, 신장 수송체 조절을 통한 삼투성 이뇨, TLR4 매개 대식세포 탐식능 활성화.
+> - 🩺 주요 약리 활성 & 질환 치료 기전: 소화관 점막 수분 저류 및 장벽 보호를 유도하여 완만하고 부드러운 완화(윤장통변)와 이뇨 작용 발현. 한의학의 이수통림(利水通淋) 및 윤장통변(潤腸通便) 효능을 뒷받침하는 핵심 지표 성분.
+> - <font color="#fa7e7e">⚠️ 독성·생체이용률 한계 & 상호작용: 비허설사(脾虛泄瀉) 환자 및 임산부의 과도한 활장(滑腸) 작용 주의, 다른 경구 약물과의 장관 내 물리적 흡수 지연 가능성.</font>
+
+---
+
+## 📌 목차
+1. [기본 화학 정보 & 분자 구조식 (Chemical Identity)](#1-기본-화학-정보--분자-구조식-chemical-identity)
+2. [주요 함유 본초 및 천연 기원 (Botanical Sources & Content)](#2-주요-함유-본초-및-천연-기원-botanical-sources--content)
+3. [분자약리 표적 & 신호전달 네트워크 (Molecular Targets)](#3-분자약리-표적--신호전달-네트워크-molecular-targets)
+4. [생체 내 흡수·대사·생체이용률 (Pharmacokinetics: ADME)](#4-생체-내-흡수대사생체이용률-pharmacokinetics-adme)
+5. [주요 질환별 약리 효능 & 분자 기전 (Therapeutic Efficacy)](#5-주요-질환별-약리-효능--분자-기전-therapeutic-efficacy)
+6. [함유 본초 방제 시너지 & 약재 배오 매트릭스 (Herbal Synergies)](#6-함유-본초-방제-시너지--약재-배오-매트릭스-herbal-synergies)
+7. [양약 상호작용 & 약물동태학적 간섭 (Drug Interactions)](#7-양약-상호작용--약물동태학적-간섭-drug-interactions)
+8. [💡 사용자 진료실 핵심 필기 & 임상 응용 팁 (Melt-In & High-Yield)](#8--사용자-진료실-핵심-필기--임상-응용-팁-melt-in--high-yield)
+9. [출처 및 학술 참고 문헌 (References)](#9-출처-및-학술-참고-문헌-references)
 
 ---
 
@@ -43,7 +57,15 @@ updated: 2026-09-05
 
 ---
 
-## 2. 분자 약리 작용 및 기전
+## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
+
+| 함유 본초 (한글/한자) | 기원 식물학적 명칭 (과명 / 학명) | 주요 함유 부위 | 한의학적 귀경 및 약효 특성 |
+| :--- | :--- | :--- | :--- |
+| [[동규자]] (冬葵子) | 아욱과 / *Malva verticillata* | 성숙 종자(잎·뿌리에도 소량) | 대장·소장·방광경 귀경, 이수통림(利水通淋)·활장통변(滑腸通便)·하유(下乳) |
+
+---
+
+## 3. 분자약리 표적 & 신호전달 네트워크 (Molecular Targets)
 
 ```
                      [말반 A (Malvan A)]
@@ -72,18 +94,54 @@ updated: 2026-09-05
 
 ---
 
-## 3. 기원 본초 및 배합 방제 연계
+## 4. 생체 내 흡수·대사·생체이용률 (Pharmacokinetics: ADME)
 
-- **기원 본초**:
-  - [[동규자]](Malvae Semen): 한방 이수통림(利水通淋), 활장통변(滑腸通便), 하유(下乳)의 대표 본초. 성질이 차고 매끄러워(한활, 寒滑) 열림(熱淋), 혈림(血淋), 임신부 수종, 산후 유즙 불통 및 변비에 요약으로 활용.
-- **대표 수록 처방**:
-  - [[동규자탕]]: 임질(淋疾)로 인한 배뇨 곤란, 뇨도 작열통 치료.
-  - [[동규회향산]]: 요로 결석 및 소변 불통 치료.
-  - 임상 다이어트·완화차: 동규자차(Malva tea)의 핵심 완화 성분으로 활용.
+* 말반 A는 고분자 산성 다당류(평균 분자량 약 5.0×10⁴~1.2×10⁵ Da)로, 소화관에서 전신 흡수되기보다는 장관 내강에서 국소적으로 겔을 형성해 작용하는 것으로 추정됨. 신장 관련 동물 모델 연구(Jeong JC, 2004)에서 사구체 여과율 유지 및 이뇨 활성이 보고되었으나, 사람 대상의 흡수·전신 분포 정량 데이터는 확인되지 않음.
 
 ---
 
-## 4. 복용 안전성 및 주의사항
+## 5. 주요 질환별 약리 효능 & 분자 기전 (Therapeutic Efficacy)
+
+* **변비(활장통변)**: 점조성 수화 겔 형성을 통한 장관 내용물 팽창 및 자극 없는 완만한 윤장통변(§3-① 참조).
+* **요로결석 및 배뇨 곤란(이수통림)**: 신사구체 혈류 안정화 및 요로 점막 윤활을 통한 미세 신결석·방광 결석 자연 배출 촉진(§3-② 참조).
+* **장관 면역 조절**: TLR4 매개 대식세포 탐식능 증강을 통한 장내 면역 항상성 증진(§3-③ 참조).
+
+---
+
+## 6. 함유 본초 방제 시너지 & 약재 배오 매트릭스 (Herbal Synergies)
+
+| 함유 본초 / 방제 | 공존 유효 성분군 | 분자약리 시너지 기전 | 전통 한의학적 효능 연계 |
+| :--- | :--- | :--- | :--- |
+| [[동규자탕]] ([[동규자]] 단미 또는 배오) | 말반 A, 점액다당류 | 요로 점막 윤활 및 이수통림 상승 | 임질(淋疾), 배뇨 곤란, 요도 작열통 |
+| [[동규회향산]] ([[동규자]]+회향) | 말반 A, 회향 정유 | 이기(理氣)와 이수(利水)의 상가 효과 | 요로 결석, 소변 불통 |
+
+* 임상 다이어트·완화차: 동규자차(Malva tea)의 핵심 완화 성분으로 활용.
+
+---
+
+## 7. 양약 상호작용 & 약물동태학적 간섭 (Drug Interactions)
+
+* 말반 A는 비흡수성 고분자 점액 다당류의 특성상 전신 순환계에 직접 작용하는 양약과의 CYP450 매개 상호작용 가능성은 낮을 것으로 추정되나, 이를 직접 검증한 임상 연구는 확인되지 않음.
+* 팽윤성 다당류 특성상 다른 경구 약물과 동시 복용 시 장관 내에서 약물 흡수를 물리적으로 지연시킬 가능성을 이론적으로 배제할 수 없어, 복용 간격을 두는 것이 보수적으로 권장될 수 있음.
+
+---
+
+## 8. 💡 사용자 진료실 핵심 필기 & 임상 응용 팁 (Melt-In & High-Yield)
+
+* 현재 별도로 기록된 원장님 임상 필기가 없습니다.
+
+---
+
+## 9. 출처 및 학술 참고 문헌 (References)
+
+- Tomoda M, et al. Characterization of an acidic polysaccharide, malvan A, from the seeds of Malva verticillata. *Chem Pharm Bull*. 1989;37(11):3029-3032.
+  - [연구 요약] 동규자 종자에서 말반 A의 분리 정제 및 람노갈락투로난 복합체 화학 구조 분석 원전.
+- Gonda R, et al. The chemical structure of a mucus polysaccharide from the seeds of Malva verticillata. *Carbohydr Res*. 1990;198(2):323-329.
+  - [연구 요약] 말반 A의 단당류 결합 부위 및 점액성 콜로이드 수화 특성 규명.
+- Jeong JC, et al. Renal protective and diuretic effects of Malva verticillata seed polysaccharide in nephritic models. *Phytother Res*. 2004;18(8):642-646.
+  - [연구 요약] 동규자 다당류의 신사구체 여과율 유지 및 삼투성 이뇨 활성 동물 모델 검증.
+
+## 기타 — 복용 안전성 및 주의사항 (원문 보존)
 
 - **비허설사(脾虛泄瀉) 환자 주의**:
   - 성질이 차고 활리(滑利)시키는 특성이 강하므로, 평소 비위가 허약하여 만성 설사를 하거나 대변이 묽은 자는 복용을 피해야 한다.
@@ -92,11 +150,3 @@ updated: 2026-09-05
 
 ---
 
-## 5. 참고 문헌 (References)
-
-- Tomoda M, et al. Characterization of an acidic polysaccharide, malvan A, from the seeds of Malva verticillata. *Chem Pharm Bull*. 1989;37(11):3029-3032.
-  - [연구 요약] 동규자 종자에서 말반 A의 분리 정제 및 람노갈락투로난 복합체 화학 구조 분석 원전.
-- Gonda R, et al. The chemical structure of a mucus polysaccharide from the seeds of Malva verticillata. *Carbohydr Res*. 1990;198(2):323-329.
-  - [연구 요약] 말반 A의 단당류 결합 부위 및 점액성 콜로이드 수화 특성 규명.
-- Jeong JC, et al. Renal protective and diuretic effects of Malva verticillata seed polysaccharide in nephritic models. *Phytother Res*. 2004;18(8):642-646.
-  - [연구 요약] 동규자 다당류의 신사구체 여과율 유지 및 삼투성 이뇨 활성 동물 모델 검증.
