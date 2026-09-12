@@ -1,6 +1,12 @@
+---
+aliases:
+  - tannin
+tags:
+  - 약리성분
+---
 
+# tannin
 
-## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+이 문서는 표준 노트인 **[[탄닌]]**으로 통합 관리됩니다.
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16211014" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+👉 상세한 약리 기전 및 임상 정보는 **[[탄닌]]** 문서를 참조하십시오.

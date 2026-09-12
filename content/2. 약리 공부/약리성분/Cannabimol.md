@@ -1,6 +1,23 @@
+---
+aliases:
+  - Cannabimol
+  - 대마지방산
+tags:
+  - 약리성분
+  - 마자인
+  - 리놀레산
+created: 2024-03-12
+updated: 2026-09-12
+---
 
+# Cannabimol (대마 종자 지방산 / 리놀레산)
 
-## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+> [!abstract]+ 🌿 본초 약리 성분 안내
+> 본 파일에 수록되었던 PubChem CID 5280450 분자는 대마 종자인 **[[마자인]](麻子仁, 화마인)** 지방유의 50~60% 이상을 차지하는 핵심 윤하(潤下) 성분인 **[[리놀레산]] (Linoleic Acid)**입니다.
+> 
+> 자세한 화학 구조식, 3D 뷰어, 장관 윤활 및 피부 장벽 수호 메커니즘, 관련 한방 처방([[마자인환]], [[오인환]])의 상세 약리는 **[[리놀레산]]** 노트를 참조하십시오.
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5280450" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+![[리놀레산_화학구조식.png|300]]
+> [리놀레산 (Linoleic Acid) 분자 구조식 (PubChem CID: 5280450)]
+
+👉 **상세 학술 문서**: **[[리놀레산]]**

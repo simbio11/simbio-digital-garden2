@@ -1,6 +1,12 @@
+---
+aliases:
+  - Spinosin
+tags:
+  - 약리성분
+---
 
+# Spinosin
 
-## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+이 문서는 국문 표준 노트인 [[스피노신]]으로 통합 관리됩니다.
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281643" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+👉 상세한 수면 약리 기전, 산조인 지표 성분 기준, 3D 분자 구조식, 최신 연구 논문 등은 **[[스피노신]]** 문서를 참조하십시오.

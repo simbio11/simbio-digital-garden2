@@ -1,6 +1,12 @@
+---
+aliases:
+  - Amygdalin
+tags:
+  - 약리성분
+---
 
+# Amygdalin
 
-## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+이 문서는 국문 표준 노트인 **[[아미그달린]]**으로 통합 관리됩니다.
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=656516" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+👉 상세한 분자 약리 기전, 기원 본초 및 규격, 3D 분자 구조식, 최신 실존 연구 논문 등은 **[[아미그달린]]** 문서를 참조하십시오.

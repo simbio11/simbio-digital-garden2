@@ -1,6 +1,12 @@
+---
+aliases:
+  - Platycodin D
+tags:
+  - 약리성분
+---
 
+# Platycodin D
 
-## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
+이 문서는 국문 표준 노트인 **[[플라티코딘 D]]**로 통합 관리됩니다.
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=71306914" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+👉 상세한 기도 표면활성물질 분비 거담 기전, 길경탕 배오, 3D 분자 구조식, 최신 연구 논문 등은 **[[플라티코딘 D]]** 문서를 참조하십시오.
