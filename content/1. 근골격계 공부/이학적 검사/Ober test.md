@@ -2,7 +2,7 @@
 aliases: [오버 검사, Ober Test, Ober's Test, Obers Test, 변형 오버 검사, Modified Ober Test, 장경인대 구축 검사, 대퇴근막장근 검사]
 tags: [이학적검사, 고관절, 장경인대, 대퇴근막장근, 중둔근, 장경인대증후군, 무릎외측통증]
 검사분류: 고관절 외전근군 및 장경인대 구축 검사
-대상관절_조직: [[대퇴근막장근]](TFL), 장경인대(ITB), [[중둔근]](Gluteus medius), [[소둔근]](Gluteus minimus), 고관절낭
+대상관절_조직: "[[대퇴근막장근]](TFL), 장경인대(ITB), [[중둔근]](Gluteus medius), [[소둔근]](Gluteus minimus), 고관절낭"
 민감도: 73% ~ 84% (임상적 유용성 높음)
 특이도: 82% ~ 90% (측정자 간 신뢰도 ICC 0.88~0.91)
 ---

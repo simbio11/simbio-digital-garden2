@@ -2,7 +2,7 @@
 aliases: [갠슬렌 검사, Gaenslen Test, Gaenslen's Test, Gaenslens Test, 겐슬렌 검사, 천장관절 비틀림 검사, Sacroiliac Joint Torsion Test]
 tags: [이학적검사, 천장관절, 골반, 천골, 장골, 천장관절염, 강직성척추염]
 검사분류: 천장관절 유발 및 골반 전단력 검사
-대상관절_조직: [[천장관절]](Sacroiliac joint), 전·후 천장인대, 천결절인대, 천극인대, [[장요근]], [[대퇴직근]]
+대상관절_조직: "[[천장관절]](Sacroiliac joint), 전·후 천장인대, 천결절인대, 천극인대, [[장요근]], [[대퇴직근]]"
 민감도: 53% ~ 71% (Laslett et al., 2005; Van der Wurff et al., 2006)
 특이도: 71% ~ 86% (Laslett et al., 2005)
 ---

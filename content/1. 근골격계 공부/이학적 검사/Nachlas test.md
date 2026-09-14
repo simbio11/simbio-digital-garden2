@@ -2,7 +2,7 @@
 aliases: [나클라스 검사, Nachlas Test, Nachlas' Test, Nachlas Knee Flexion Test, 슬관절 굴곡 검사, 복와위 무릎 굴곡 검사, Prone Knee Bending Test, PKB Test, 대퇴신경 신장 검사, Reversed Lasegue Test]
 tags: [이학적검사, 요천추, 천장관절, 대퇴신경, 요수신경근, 대퇴사두근, 추간판탈출증]
 검사분류: 요천추·천장관절 및 대퇴신경 복합 유발 검사
-대상관절_조직: [[천장관절]](SI joint), 요천추 연접부(L5-S1), [[대퇴신경]](Femoral nerve, L2~L4), [[대퇴사두근]](Quadriceps)
+대상관절_조직: "[[천장관절]](SI joint), 요천추 연접부(L5-S1), [[대퇴신경]](Femoral nerve, L2~L4), [[대퇴사두근]](Quadriceps)"
 민감도: 50% ~ 70% (L2~L4 신경근병증; Suri et al., 2011)
 특이도: 88% ~ 100% (L2~L4 신경근 압박 확진력 우수; Suri et al., 2011)
 ---
