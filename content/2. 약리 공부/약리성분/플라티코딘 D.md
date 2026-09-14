@@ -1,6 +1,8 @@
 ---
 aliases:
   - Platycodin D
+  - Platycodin A
+  - Platycodin C
   - 플라티코딘D
   - 플라티코딘 D
   - 길경사포닌
