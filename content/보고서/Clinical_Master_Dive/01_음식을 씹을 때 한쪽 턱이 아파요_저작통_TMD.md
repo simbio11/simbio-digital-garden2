@@ -28,14 +28,14 @@ tags: [clinical-master-dive, simbio-vault, organically-coupled, TMJ, TMD, mastic
 
 ## 🩺 2. 감별 진단 — 빨간 깃발(위험 신호) 먼저
 
-> ⚠️ 아래 '빨간 깃발'은 표준 임상 감별 지식(볼트 전용 노트 없음 — 검토 필요 표기)이며, 볼트 노트에서 직접 발췌한 항목은 출처를 병기합니다.
+> ⚠️ 아래 '빨간 깃발' 중 측두동맥염·심장 연관통 항목은 볼트에 전용 노트가 없어 외부 문헌으로 근거를 보강했다([외부 조사], 출처는 문서 맨 끝). 볼트 노트에서 직접 발췌한 항목은 본문에 출처를 병기한다.
 
 ### 2-1. 배제해야 할 위험 신호 (Red Flags)
 | 구분 | 의심 | 특징적 단서 |
 | :--- | :--- | :--- |
 | 🚩 **종양** | 구강암·두경부암·하악 골종양 | 지속·진행성 통증, 점막 궤양/종괴, 개구장애 급진전, 체중감소, 경부 림프절 종대, 흡연·음주력 |
 | 🚩 **감염** | 치성 농양·골수염·이하선 농양 | 발열·오한, 국소 발적·부종, 연하곤란, 심한 개구장애(Trismus), 악취 |
-| 🚩 **혈관/허혈** | 측두동맥염(Giant cell arteritis) | 50세 이상, **저작 파행(jaw claudication)**, 두피 압통, 시력 장애, 측두동맥 경조·압통 → ESR/CRP 상승 시 즉시 스테로이드 |
+| 🚩 **혈관/허혈** | 측두동맥염(Giant cell arteritis) [외부 조사] | 50세 이상, **저작 파행(jaw claudication)**, 두피 압통, 시력 장애, 측두동맥 경조·압통 → ESR/CRP 상승 시 즉시 스테로이드. TMD로 오인되어 진단이 지연된 증례가 다수 보고됨 |
 | 🚩 **심장** | 비전형 심근 허혈 | 저작통이 아닌 **운동 시 턱·하악 방사통**, 위험인자(고령·당뇨·흡연) — 협심증의 비전형 방사통 기억 |
 | 🚩 **신경** | 삼차신경통(CN V) | 전격성·전기충격양 통증, 무통기, **trigger zone(자극점)**, 신경학적 결손 동반 시 이차성(MS·종양) 의심 → 영상 |
 | 🚩 **골절/탈구** | 외상성 하악 골절·과두 탈구 | 외상력, 교합 변화, 개구 불능 |
@@ -171,7 +171,7 @@ tags: [clinical-master-dive, simbio-vault, organically-coupled, TMJ, TMD, mastic
 
 1. **치과(구강내과/보철과) 협진**: 치수염·치근단 병변·부정교합 감별 + 야간 **교합 스플린트(occlusal splint)** — 이갈이·이악물기로 인한 근 과부하 차단은 근성 TMD 치료의 표준적 축
 2. **영상 선택**: 파노라마(골병변·치근단·하악 골절 1차) → MRI(관절원판 위치·ADD 의심 시) → CT(골 병변 정밀)
-3. **약물 (양방 표준 — 볼트 노트 없음, 검토 필요 표기)**: 단기 NSAIDs·근이완제, 만성 통증·수면 장애 동반 시 저용량 TCA(amitriptyline) — 단, 처방은 협진 의료진 판단
+3. **약물 (양방 표준)** [외부 조사]: 급성기 NSAIDs를 10~14일 단기 사용(계열 중 나프록센이 통증 감소 근거가 가장 뚜렷), 근긴장이 뚜렷하면 근이완제(사이클로벤자프린) 병용, 벤조디아제핀은 초기 2~4주 이내로만 단기 사용, 만성 통증·수면장애 동반 시 저용량 TCA(amitriptyline 등) — 처방은 협진 의료진 판단
 4. **Red flag 발생 시**: 측두동맥염 의심(50세↑·저작 파행·시력 증상) → 즉시 류마티스/안과; 진행성 개구장애·신경학적 결손 → 신경과·두경부외과
 5. **주의**: 관절 Click만으로 수술(관절경 등)을 서두르지 않기 — 대부분 근성·보존적 치료(침·도수·스플린트)에 반응
 
@@ -230,4 +230,6 @@ graph TD
 | [[내익상근]] | Chen H et al. (2017) *J Oral Rehabil* 44(10):779-790 — [PMID 28664577](https://pubmed.ncbi.nlm.nih.gov/28664577/) · DOI [10.1111/joor.12542](https://doi.org/10.1111/joor.12542) |
 | [[외익상근]] | Tanaka E et al. (2007) *J Biomech Eng* 129(6):890-897 — [PMID 18067393](https://pubmed.ncbi.nlm.nih.gov/18067393/) · DOI [10.1115/1.2800825](https://doi.org/10.1115/1.2800825) |
 | [[작약감초탕]] | Hinoshita F et al. (2003) *Am J Chin Med* 31(2):221-229 · Nishi A et al. (2017) *J Smooth Muscle Res* 53:67-78 · 『상한론』 |
-| 변증 시나리오·양방 표준 항목 | 볼트 직접 노트 없음 → **'큐레이터 제안/검토 필요'로 명시** (할루시네이션 없음) |
+| 변증 시나리오 | 볼트 직접 노트 없음 → 큐레이터의 한의학적 임상 제안 (비오님 검토 필요, 할루시네이션 없음) |
+| 측두동맥염 레드플래그·양방 표준 약물요법 | [외부 조사] AAFP — "Diagnosis and Treatment of Temporomandibular Disorders" (2015). https://www.aafp.org/pubs/afp/issues/2015/0315/p378.html |
+| 측두동맥염이 TMD로 오인된 증례 | [외부 조사] "Giant Cell Arteritis Misdiagnosed as Temporomandibular Disorder: A Case Report and Review of the Literature" — J Oral Facial Pain Headache. https://www.jofph.com/articles/10.11607/ofph.23.4.13 |
