@@ -1,3 +1,17 @@
+---
+aliases:
+  - "Valsalva test"
+  - "Valsalva maneuver"
+  - "발살바 검사"
+  - "발살바 수기"
+tags:
+  - "이학적검사"
+  - "요추"
+  - "경추"
+  - "추간판탈출증"
+  - "복압"
+---
+
 # 🩺 [[Valsalva test]] (발살바 검사 / Valsalva Maneuver Test)
 
 > **핵심 3줄 요약 (Key Summary)**:
