@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>실시간 히트맵 (자동 새로고침)</title>
+<!--
+  Simbio Cortex — 사이트(Quartz)용 히트맵 래퍼 (2026-09-15 신설)
+  왜 필요한가:
+   1) TradingView **전체 페이지 히트맵**(www.tradingview.com/heatmap/stock/)과 **Finviz 맵**(finviz.com/map.ashx)은
+      X-Frame-Options·frame-ancestors 때문에 일반 웹사이트 iframe 임베드가 **차단**된다
+      (실측: 회색 빈 화면). 옵시디언 Custom Frames는 웹뷰라 가능.
+   2) 임베드 히트맵 위젯(s.tradingview.com/embed-widget/stock-heatmap)은 임베드는 되지만
+      **로드 후 값이 멈추는** 문제가 있어 주기적으로 다시 불러와야 최신 정규장 데이터가 유지된다.
+  이 페이지는 같은 사이트(github.io) 정적 파일이라 대시보드·브리핑 노트에서 iframe 으로 문제없이 불린다.
+
+  사용: heatmap_live.html[?src=spx500|world|etf|allusa|crypto|forex][&label=표시이름]
+-->
+<style>
+html,body{margin:0;padding:0;height:100%;background:#131722;overflow:hidden}
+iframe{display:block;width:100%;height:100%;border:0}
+#badge{position:fixed;right:6px;top:6px;z-index:9;font:11px/1.5 sans-serif;color:#c9cdd6;
+       background:rgba(19,23,34,.72);padding:2px 6px;border-radius:6px;pointer-events:none}
+</style></head><body>
+<div id="badge">정규장 기준 · 자동 갱신 대기</div>
+<iframe id="hm" title="TradingView 히트맵"></iframe>
+<script>
+(function(){
+  var q = new URLSearchParams(location.search);
+  var SRC = (q.get("src") || "spx500").toLowerCase();
+  var LABEL = q.get("label") || "S&P500 섹터";
+  var CFG = {dataSource: SRC, grouping: (SRC === "world" ? "country" : "sector"),
+             blockSize:"market_cap_basic", blockColor:"change",
+             colorTheme:"dark", hasTopBar:true, isZoomEnabled:true, hasSymbolTooltip:true,
+             width:"100%", height:"100%"};
+  var BASE = "https://s.tradingview.com/embed-widget/stock-heatmap/?locale=kr";
+  var HASH = "#" + encodeURIComponent(JSON.stringify(CFG));
+  var f = document.getElementById("hm"), badge = document.getElementById("badge"), n = 0;
+  function load(){
+    n++;                       /* 캐시버스터는 반드시 해시(#) 앞 쿼리스트링에 — 해시 안에 넣으면 설정 JSON이 깨진다 */
+    f.src = BASE + "&_r=" + n + HASH;
+    badge.textContent = LABEL + " · 정규장 기준 · " + new Date().toLocaleTimeString("ko-KR") + " 갱신";
+  }
+  load();
+  setInterval(load, 180000);   /* 3분마다 새로고침 */
+})();
+</script>
+</body></html>
