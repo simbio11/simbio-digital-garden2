@@ -26,7 +26,7 @@ tags:
 
 | 항목 | 상세 내용 |
 | :--- | :--- |
-| **IUPAC 명칭** | (3$\beta$,4$\alpha$)-28-(Acetyloxy)-3-[[2-O-(2-O-D-xylopyranosyl-$\beta$-D-glucopyranosyl)-$\beta$-D-xylopyranosyl]oxy]olean-12-en-23-oic acid dimethyl ester |
+| **IUPAC 명칭** | `(3β,4α)-28-(Acetyloxy)-3-[[2-O-(2-O-D-xylopyranosyl-β-D-glucopyranosyl)-β-D-xylopyranosyl]oxy]olean-12-en-23-oic acid dimethyl ester` |
 | **화학식** | $C_{42}H_{66}O_{16}$ |
 | **분자량** | 826.97 g/mol |
 | **기원 본초** | [[상륙]](*Phytolacca esculenta* van Houtte / *Phytolacca acinosa* Roxb.) |
