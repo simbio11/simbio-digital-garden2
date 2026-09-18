@@ -33,6 +33,18 @@ updated: 2026-09-16
 
 ---
 
+## 목차
+- [[#1. 개요 및 역학 (Overview & Epidemiology)|1. 개요 및 역학 (Overview & Epidemiology)]]
+- [[#2. 해부학적 구조 및 병태생리 (Anatomy & Pathophysiology)|2. 해부학적 구조 및 병태생리 (Anatomy & Pathophysiology)]]
+- [[#3. 임상 증상 및 단계별 진행 (Clinical Presentation & Classification)|3. 임상 증상 및 단계별 진행 (Clinical Presentation & Classification)]]
+- [[#4. 진단 및 이학적 검사 (Diagnosis & Physical Examination)|4. 진단 및 이학적 검사 (Diagnosis & Physical Examination)]]
+- [[#5. 감별 진단 (Differential Diagnosis)|5. 감별 진단 (Differential Diagnosis)]]
+- [[#6. 한의학적 변증 및 다각적 치료 프로토콜 (KMD Treatment Protocol)|6. 한의학적 변증 및 다각적 치료 프로토콜 (KMD Treatment Protocol)]]
+- [[#7. 진료실 핵심 필기 & 임상 실전 노하우 (Clinical Pearls & Practice Tips)|7. 진료실 핵심 필기 & 임상 실전 노하우 (Clinical Pearls & Practice Tips)]]
+- [[#8. 출처 및 학술 참고 문헌 (References)|8. 출처 및 학술 참고 문헌 (References)]]
+
+---
+
 ## 1. 개요 및 역학 (Overview & Epidemiology)
 
 ### 1.1 정의
@@ -100,6 +112,10 @@ updated: 2026-09-16
 3. **이두근 건 연계 유발 검사**:
    - [[야거슨 검사]](Yergason's test): 주관절 90도 굴곡 상태에서 전완 회외 저항 시 결절간구 및 심부 어깨 통증.
    - 스피드 검사(Speed's test): 견관절 90도 굴곡, 전완 회외 상태에서 하방 저항 시 결절간구 통증.
+
+### 4.2 영상의학적 정밀 진단 (MR Arthrography)
+![[SLAP병변_제2형_어깨_MRI_소견.jpg|450]]
+> [도해] 견관절 관절조영 자기공명영상(MR Arthrography) 관상면 T1 강조 영상. 상부 관절와순 기저부와 관절와 골면 사이에 조영제가 침투하여 고신호 강도를 보이는 전형적인 제2형 SLAP 병변(적색 화살표).
 
 ---
 
