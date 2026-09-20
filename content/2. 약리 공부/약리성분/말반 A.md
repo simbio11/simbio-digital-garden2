@@ -32,8 +32,7 @@ updated: 2026-09-05
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281767" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+말반 A는 고분자 다당류이므로 단일 PubChem CID·3D 뷰어를 제시하지 않습니다. (원문에 있던 3D 뷰어 CID 5281767은 커큐민(curcumin)의 CID였습니다.)
 
 말반 A(Malvan A)는 아욱속 식물의 종실에서 추출되는 고분자 산성 람노갈락투로난(Rhamnogalacturonan) 복합체이다.
 
@@ -54,6 +53,8 @@ updated: 2026-09-05
 | 물리적 성상 | 미백색 내지 담황색의 흡습성 무정형 분말, 점성이 매우 강함 |
 | 용해도 | 온수 및 열수에 점조한 콜로이드 용액으로 용해; 에탄올, 아세톤에 불용 |
 | 주요 추출 기원 | [[동규자]](*Malva verticillata* L.)의 성숙 종자, 아욱 잎 및 뿌리 |
+
+<font color="#fa7e7e">⚠️ 내용 검토 필요</font>: 아래 반복 단위 도식, "구성 단당류 약 2:2:3:1", "평균 분자량 5.0×10⁴~1.2×10⁵ Da", "미백색 흡습성 분말" 등은 원문 서술이며, "말반 A"라는 명칭과 이 구조를 대응시키는 원 논문은 이 노트에서 확인하지 못했습니다. 동규자 종자의 산성 다당류 특성 연구는 Gonda 1990(Planta Med 56(1):73-76, DOI 10.1055/s-2006-960888)·Gonda 1990(Chem Pharm Bull 38(10):2771-2774, DOI 10.1248/cpb.38.2771)이 있습니다.
 
 ---
 
@@ -92,11 +93,15 @@ updated: 2026-09-05
 ### ③ 장관 면역 조절 및 탐식능 활성화
 - 장관 림프조직(GALT) 및 파이어판(Peyer's patch)의 수지상세포와 대식세포 표면의 TLR4 수용체에 결합하여 대식세포의 탐식능(Phagocytosis)을 증강시키고, 적절한 수준의 인터루킨 분비를 유도하여 장내 면역 항상성을 증진한다.
 
+### 근거 보충 (검증됨)
+* 동규자(*Malva verticillata*) 종자의 산성 다당류가 세망내피계(RES) 세포의 탐식 활성을 자극한다는 보고가 있습니다(Gonda 1990, Planta Med, 제목: *Characterization of an Acidic Polysaccharide from the Seeds of Malva verticillata Stimulating the Phagocytic Activity of Cells of the RES*). 같은 종자의 다당류 면역활성 연구로 Gonda 1990(Chem Pharm Bull), RES 활성화 글리칸 Tomoda 1989(Phytochemistry 28(10):2609-2611)가 있습니다.
+* <font color="#fa7e7e">⚠️ 내용 검토 필요</font>: "TLR4 수용체 결합", "NO 분비·인터루킨 유도", "사구체 여과율 촉진·삼투성 이뇨", "요로 결석 배출 촉진", "수화 겔 형성에 의한 통변"은 이 노트에서 말반 A 단독 근거를 확인하지 못했습니다.
+
 ---
 
 ## 4. 생체 내 흡수·대사·생체이용률 (Pharmacokinetics: ADME)
 
-* 말반 A는 고분자 산성 다당류(평균 분자량 약 5.0×10⁴~1.2×10⁵ Da)로, 소화관에서 전신 흡수되기보다는 장관 내강에서 국소적으로 겔을 형성해 작용하는 것으로 추정됨. 신장 관련 동물 모델 연구(Jeong JC, 2004)에서 사구체 여과율 유지 및 이뇨 활성이 보고되었으나, 사람 대상의 흡수·전신 분포 정량 데이터는 확인되지 않음.
+* 말반 A는 고분자 산성 다당류(평균 분자량 약 5.0×10⁴~1.2×10⁵ Da)로, 소화관에서 전신 흡수되기보다는 장관 내강에서 국소적으로 겔을 형성해 작용하는 것으로 추정됨. 신장 관련 동물 모델 연구(Jeong JC, 2004)에서 사구체 여과율 유지 및 이뇨 활성이 보고되었으나(<font color="#fa7e7e">⚠️ 내용 검토 필요</font>: 이 인용은 PubMed·Crossref에서 확인되지 않아 §9에서 삭제했습니다), 사람 대상의 흡수·전신 분포 정량 데이터는 확인되지 않음.
 
 ---
 
@@ -117,12 +122,23 @@ updated: 2026-09-05
 
 * 임상 다이어트·완화차: 동규자차(Malva tea)의 핵심 완화 성분으로 활용.
 
+<font color="#fa7e7e">⚠️ 내용 검토 필요</font>: [[동규자탕]]·[[동규회향산]]의 구성과 처방 내 말반 A의 기여는 원문 서술이며 이 노트에서 확인하지 못했습니다. "동규자차의 핵심 완화 성분"도 확인하지 못했습니다.
+
 ---
 
 ## 7. 양약 상호작용 & 약물동태학적 간섭 (Drug Interactions)
 
 * 말반 A는 비흡수성 고분자 점액 다당류의 특성상 전신 순환계에 직접 작용하는 양약과의 CYP450 매개 상호작용 가능성은 낮을 것으로 추정되나, 이를 직접 검증한 임상 연구는 확인되지 않음.
 * 팽윤성 다당류 특성상 다른 경구 약물과 동시 복용 시 장관 내에서 약물 흡수를 물리적으로 지연시킬 가능성을 이론적으로 배제할 수 없어, 복용 간격을 두는 것이 보수적으로 권장될 수 있음.
+
+### 복용 안전성 및 주의사항 (원문 보존)
+
+- **비허설사(脾虛泄瀉) 환자 주의**:
+  - 성질이 차고 활리(滑利)시키는 특성이 강하므로, 평소 비위가 허약하여 만성 설사를 하거나 대변이 묽은 자는 복용을 피해야 한다.
+- **임산부 주의**:
+  - 임신 말기 수종 치료에 제한적으로 사용되기도 하나, 활장(滑腸) 작용이 과도할 경우 자궁 수축을 반사적으로 유도할 수 있으므로 임산부의 무분별한 남용은 금기.
+
+<font color="#fa7e7e">⚠️ 내용 검토 필요</font>: 비허설사·임산부 주의(활장 작용, 자궁 수축 유도 가능성)는 한의학 원문 서술이며 이 노트에서 확인하지 못했습니다.
 
 ---
 
@@ -134,19 +150,11 @@ updated: 2026-09-05
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-- Tomoda M, et al. Characterization of an acidic polysaccharide, malvan A, from the seeds of Malva verticillata. *Chem Pharm Bull*. 1989;37(11):3029-3032.
-  - [연구 요약] 동규자 종자에서 말반 A의 분리 정제 및 람노갈락투로난 복합체 화학 구조 분석 원전.
-- Gonda R, et al. The chemical structure of a mucus polysaccharide from the seeds of Malva verticillata. *Carbohydr Res*. 1990;198(2):323-329.
-  - [연구 요약] 말반 A의 단당류 결합 부위 및 점액성 콜로이드 수화 특성 규명.
-- Jeong JC, et al. Renal protective and diuretic effects of Malva verticillata seed polysaccharide in nephritic models. *Phytother Res*. 2004;18(8):642-646.
-  - [연구 요약] 동규자 다당류의 신사구체 여과율 유지 및 삼투성 이뇨 활성 동물 모델 검증.
+1. **Gonda R, Tomoda M, Shimizu N, Kanari M** (1990). *Characterization of an Acidic Polysaccharide from the Seeds of Malva verticillata Stimulating the Phagocytic Activity of Cells of the RES.* Planta Medica, 56(1):73-76. DOI: [10.1055/s-2006-960888](https://doi.org/10.1055/s-2006-960888)
+   - **[연구 요약]**: 동규자 종자의 산성 다당류가 세망내피계 세포의 탐식 활성을 자극함을 보고(Crossref 확인).
+2. **Gonda R, Tomoda M, et al.** (1990). *Constituents of the seed of Malva verticillata. VI. Characterization and immunological activities of a novel acidic polysaccharide.* Chemical and Pharmaceutical Bulletin, 38(10):2771-2774. DOI: [10.1248/cpb.38.2771](https://doi.org/10.1248/cpb.38.2771)
+   - **[연구 요약]**: 동규자 종자의 새로운 산성 다당류의 특성과 면역활성을 보고(Crossref 확인).
+3. **Tomoda M, Kanari M, et al.** (1989). *A reticuloendothelial system-activating glycan from the seeds of Malva verticillata.* Phytochemistry, 28(10):2609-2611. DOI: [10.1016/s0031-9422(00)98050-6](https://doi.org/10.1016/s0031-9422(00)98050-6)
+   - **[연구 요약]**: 동규자 종자의 세망내피계 활성화 글리칸을 보고(Crossref 확인).
 
-## 기타 — 복용 안전성 및 주의사항 (원문 보존)
-
-- **비허설사(脾虛泄瀉) 환자 주의**:
-  - 성질이 차고 활리(滑利)시키는 특성이 강하므로, 평소 비위가 허약하여 만성 설사를 하거나 대변이 묽은 자는 복용을 피해야 한다.
-- **임산부 주의**:
-  - 임신 말기 수종 치료에 제한적으로 사용되기도 하나, 활장(滑腸) 작용이 과도할 경우 자궁 수축을 반사적으로 유도할 수 있으므로 임산부의 무분별한 남용은 금기.
-
----
-
+> 원문의 인용 3건(Tomoda 1989 *Chem Pharm Bull* 37(11):3029, Gonda 1990 *Carbohydr Res* 198(2):323, Jeong 2004 *Phytother Res* 18(8):642)은 PubMed·Crossref에서 확인되지 않아 위 실측 문헌으로 대체했습니다.
