@@ -1,0 +1,162 @@
+48376 2026-09-21 19:56:16,698 webull.core.client ERROR ServerException occurred. Host:api.webull.com.sg SDK-Version:3.0.2 Request:{
+  "_version": "v3",
+  "_action_name": "/openapi/config",
+  "_protocol_type": "https",
+  "_accept_format": "JSON",
+  "_params": {},
+  "_method": "GET",
+  "_header": {
+    "x-version": "v3",
+    "Accept-Encoding": "gzip",
+    "x-app-key": "x",
+    "x-timestamp": "2026-09-21T10:56:16Z",
+    "x-signature-version": "1.0",
+    "x-signature-algorithm": "HMAC-SHA256",
+    "x-signature-nonce": "71dc4bcf-db66-5480-9271-4d29c220e1bc",
+    "x-signature": "N/fTD/YMG77OdnYogVsJX1qinQjy5cKcFUAZG8H9UNY=",
+    "User-Agent": "WebullApiSDK (Windows 10;AMD64) Python/3.11.16 Core/3.0.2 python-requests/2.34.2",
+    "x-webull-client-source": "sdk"
+  },
+  "_body_params": null,
+  "_uri_pattern": null,
+  "_uri_params": null,
+  "_content": null,
+  "_extra_user_agent": {},
+  "string_to_sign": "",
+  "_request_connect_timeout": null,
+  "_request_read_timeout": null,
+  "endpoint": "api.webull.com.sg",
+  "_signer_spec": "<module 'webull.core.auth.algorithm.sha_hmac1' from 'C:\\\\Users\\\\cmksc\\\\AppData\\\\Local\\\\hermes\\\\profiles\\\\vivi\\\\webull-env\\\\Lib\\\\site-packages\\\\webull\\\\core\\\\auth\\\\algorithm\\\\sha_hmac1.py'>"
+} Response:{'error_code': 'UNAUTHORIZED', 'message': 'Invalid credentials. Please verify your credentials and ensure you are connecting to the correct environment'} ServerException:HTTP Status: 401, Code: UNAUTHORIZED, Msg: Invalid credentials. Please verify your credentials and ensure you are connecting to the correct environment, RequestID: c1d941e7-9c73-42d0-b22e-00c1ccb6c1d8
+48376 2026-09-21 19:56:16,698 webull.core.client ERROR get_response exception. {
+  "error_code": "UNAUTHORIZED",
+  "error_msg": "Invalid credentials. Please verify your credentials and ensure you are connecting to the correct environment",
+  "http_status": 401,
+  "request_id": "c1d941e7-9c73-42d0-b22e-00c1ccb6c1d8"
+}
+42792 2026-09-21 19:56:36,359 webull.core.http.initializer.client_initializer INFO _check_token_enable result is False
+7268 2026-09-21 19:56:51,002 webull.core.http.initializer.client_initializer INFO _check_token_enable result is False
+16792 2026-09-21 20:00:03,033 webull.core.http.initializer.client_initializer INFO _check_token_enable result is False
+16792 2026-09-21 20:00:08,112 webull.core.client ERROR ServerException occurred. Host:sg-api.uat.webullbroker.com SDK-Version:3.0.2 Request:{
+  "_version": "v3",
+  "_action_name": "/market-data/stocks/noii-snapshots/list",
+  "_protocol_type": "https",
+  "_accept_format": "JSON",
+  "_params": {
+    "symbol": "AAPL",
+    "category": "US_STOCK",
+    "imbalance_action_type": "OPEN"
+  },
+  "_method": "GET",
+  "_header": {
+    "x-version": "v3",
+    "Accept-Encoding": "gzip",
+    "x-app-key": "b218ce5429c07d0d5023140145361492",
+    "x-timestamp": "2026-09-21T11:00:07Z",
+    "x-signature-version": "1.0",
+    "x-signature-algorithm": "HMAC-SHA256",
+    "x-signature-nonce": "3f7313f4-2316-5576-b8b3-46939351feea",
+    "x-signature": "kdtdkoIpEDqB1bnK8aSqc7Nn+e54xr4GgQ2vyV1TBSQ=",
+    "User-Agent": "WebullApiSDK (Windows 10;AMD64) Python/3.11.16 Core/3.0.2 python-requests/2.34.2",
+    "x-webull-client-source": "sdk"
+  },
+  "_body_params": null,
+  "_uri_pattern": null,
+  "_uri_params": null,
+  "_content": null,
+  "_extra_user_agent": {},
+  "string_to_sign": "",
+  "_request_connect_timeout": null,
+  "_request_read_timeout": null,
+  "endpoint": "sg-api.uat.webullbroker.com",
+  "_signer_spec": "<module 'webull.core.auth.algorithm.sha_hmac1' from 'C:\\\\Users\\\\cmksc\\\\AppData\\\\Local\\\\hermes\\\\profiles\\\\vivi\\\\webull-env\\\\Lib\\\\site-packages\\\\webull\\\\core\\\\auth\\\\algorithm\\\\sha_hmac1.py'>"
+} Response:{'msg': 'Inner System Error', 'traceId': 'f30513c8-0d8a-4034-9d0f-6d10d3ec2b9f', 'code': 'ILLEGAL_PARAMETER', 'data': {'lastSerialId': 'R5JS9IGNDLIGAKND6FKB08VEG9'}, 'success': False} ServerException:HTTP Status: 417, Code: SDK.UnknownServerError, Msg: , RequestID: f30513c8-0d8a-4034-9d0f-6d10d3ec2b9f
+16792 2026-09-21 20:00:08,112 webull.core.client ERROR get_response exception. {
+  "error_code": "SDK.UnknownServerError",
+  "error_msg": "",
+  "http_status": 417,
+  "request_id": "f30513c8-0d8a-4034-9d0f-6d10d3ec2b9f"
+}
+16792 2026-09-21 20:00:08,490 webull.core.client ERROR ServerException occurred. Host:sg-api.uat.webullbroker.com SDK-Version:3.0.2 Request:{
+  "_version": "v3",
+  "_action_name": "/market-data/stocks/depths/list",
+  "_protocol_type": "https",
+  "_accept_format": "JSON",
+  "_params": {
+    "symbol": "AAPL",
+    "category": "US_STOCK",
+    "depth": 5
+  },
+  "_method": "GET",
+  "_header": {
+    "x-version": "v3",
+    "Accept-Encoding": "gzip",
+    "x-app-key": "b218ce5429c07d0d5023140145361492",
+    "x-timestamp": "2026-09-21T11:00:08Z",
+    "x-signature-version": "1.0",
+    "x-signature-algorithm": "HMAC-SHA256",
+    "x-signature-nonce": "65882f0b-8ba1-5e18-88ac-12b06a55b666",
+    "x-signature": "hjh7CRSL4cegtXNytqh2XSuM+wXWj309CZ+iVOnX6VQ=",
+    "User-Agent": "WebullApiSDK (Windows 10;AMD64) Python/3.11.16 Core/3.0.2 python-requests/2.34.2",
+    "x-webull-client-source": "sdk"
+  },
+  "_body_params": null,
+  "_uri_pattern": null,
+  "_uri_params": null,
+  "_content": null,
+  "_extra_user_agent": {},
+  "string_to_sign": "",
+  "_request_connect_timeout": null,
+  "_request_read_timeout": null,
+  "endpoint": "sg-api.uat.webullbroker.com",
+  "_signer_spec": "<module 'webull.core.auth.algorithm.sha_hmac1' from 'C:\\\\Users\\\\cmksc\\\\AppData\\\\Local\\\\hermes\\\\profiles\\\\vivi\\\\webull-env\\\\Lib\\\\site-packages\\\\webull\\\\core\\\\auth\\\\algorithm\\\\sha_hmac1.py'>"
+} Response:{'msg': 'Inner System Error', 'traceId': '98214ab6-5259-47ce-9419-68ac5478cbe6', 'code': 'ILLEGAL_PARAMETER', 'data': {'lastSerialId': 'M8I2EP29MGN4A39C9PVL0Q1QPB'}, 'success': False} ServerException:HTTP Status: 417, Code: SDK.UnknownServerError, Msg: , RequestID: 98214ab6-5259-47ce-9419-68ac5478cbe6
+16792 2026-09-21 20:00:08,490 webull.core.client ERROR get_response exception. {
+  "error_code": "SDK.UnknownServerError",
+  "error_msg": "",
+  "http_status": 417,
+  "request_id": "98214ab6-5259-47ce-9419-68ac5478cbe6"
+}
+48956 2026-09-21 20:01:32,720 webull.core.http.initializer.client_initializer INFO _check_token_enable result is False
+48956 2026-09-21 20:01:36,860 webull.core.client ERROR ServerException occurred. Host:sg-api.uat.webullbroker.com SDK-Version:3.0.2 Request:{
+  "_version": "v2",
+  "_action_name": "/openapi/market-data/screener/52whl",
+  "_protocol_type": "https",
+  "_accept_format": "JSON",
+  "_params": {
+    "rank_type": "H",
+    "category": "US_STOCK",
+    "page_size": 15
+  },
+  "_method": "GET",
+  "_header": {
+    "x-version": "v2",
+    "Accept-Encoding": "gzip",
+    "x-app-key": "b218ce5429c07d0d5023140145361492",
+    "x-timestamp": "2026-09-21T11:01:36Z",
+    "x-signature-version": "1.0",
+    "x-signature-algorithm": "HMAC-SHA256",
+    "x-signature-nonce": "d07c8900-7b0d-5ca1-8d25-5068b39f2f07",
+    "x-signature": "2X6HHttr3yUsDEgUqyVc2YvHpGTxKfNyiIvdZxtXILs=",
+    "User-Agent": "WebullApiSDK (Windows 10;AMD64) Python/3.11.16 Core/3.0.2 python-requests/2.34.2",
+    "x-webull-client-source": "sdk"
+  },
+  "_body_params": null,
+  "_uri_pattern": null,
+  "_uri_params": null,
+  "_content": null,
+  "_extra_user_agent": {},
+  "string_to_sign": "",
+  "_request_connect_timeout": null,
+  "_request_read_timeout": null,
+  "endpoint": "sg-api.uat.webullbroker.com",
+  "_signer_spec": "<module 'webull.core.auth.algorithm.sha_hmac1' from 'C:\\\\Users\\\\cmksc\\\\AppData\\\\Local\\\\hermes\\\\profiles\\\\vivi\\\\webull-env\\\\Lib\\\\site-packages\\\\webull\\\\core\\\\auth\\\\algorithm\\\\sha_hmac1.py'>"
+} Response:{'error_code': 'UNSUPPORTED_RANK_TYPE', 'message': 'Unsupported rank_type:H', 'status': 417} ServerException:HTTP Status: 417, Code: UNSUPPORTED_RANK_TYPE, Msg: Unsupported rank_type:H, RequestID: fffe5ce9-f55e-4b2a-92e5-6d40d237bf72
+48956 2026-09-21 20:01:36,860 webull.core.client ERROR get_response exception. {
+  "error_code": "UNSUPPORTED_RANK_TYPE",
+  "error_msg": "Unsupported rank_type:H",
+  "http_status": 417,
+  "request_id": "fffe5ce9-f55e-4b2a-92e5-6d40d237bf72"
+}
+43000 2026-09-21 20:01:58,512 webull.core.http.initializer.client_initializer INFO _check_token_enable result is False
+42664 2026-09-21 20:02:29,770 webull.core.http.initializer.client_initializer INFO _check_token_enable result is False

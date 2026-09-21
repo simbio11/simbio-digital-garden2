@@ -36,7 +36,7 @@ tags:
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
 ![[사이코사포닌 d_화학구조식.png|320]]
-> [그림 1: 사이코사포닌 D의 2D 화학 분자 구조식 (Chemical Structure)] ⚠️ 내용 검토 필요 — 구조식 이미지 파일은 아직 첨부되지 않았습니다. `7. 첨부·자료/첨부파일/`에 실제 구조식 이미지를 추가해 주세요.
+> [그림 1: 사이코사포닌 d 2D 화학 분자 구조식 (출처: 위키미디어 공용 · NCI CACTVS 구조 데이터)]
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
 > <iframe src="https://molecule-viewer-rho.vercel.app/?cid=107793" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
