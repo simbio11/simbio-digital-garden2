@@ -68,7 +68,7 @@ main_pharmacology:
 
 ### 1.3 3D 약리 분자 구조 (Interactive Viewer)
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=71306914" style="width: 100%; height: 500px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=162859" style="width: 100%; height: 500px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 ---
 

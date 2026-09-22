@@ -26,8 +26,8 @@ tags:
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281767" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> MR(무기질코르티코이드수용체)는 소분자가 아닌 핵수용체 단백질이라 PubChem 소분자 CID가 없습니다. 인체 유전자 NR3C2, UniProt [P08235](https://www.uniprot.org/uniprotkb/P08235)로 확인하세요.
 
 | 항목 | 내용 |
 | :--- | :--- |

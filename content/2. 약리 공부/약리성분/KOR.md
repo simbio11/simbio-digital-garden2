@@ -37,8 +37,8 @@ tags:
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281767" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> KOR(카파 오피오이드 수용체)는 소분자가 아닌 7-TM 막단백질이라 PubChem 소분자 CID가 없습니다. 인체 유전자 OPRK1, UniProt [P41145](https://www.uniprot.org/uniprotkb/P41145)로 확인하세요.
 
 | 항목 | 상세 내용 |
 | :--- | :--- |

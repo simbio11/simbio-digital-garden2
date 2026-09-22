@@ -37,8 +37,8 @@ tags:
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281767" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> LPS(지질다당류)는 균종·균주마다 구조가 다른 복합 당지질이라 단일 PubChem CID로 대표할 수 없습니다. 공통 골격인 Kdo2-Lipid A 등 세부 구조는 문헌을 참고하세요.
 
 | 항목 | 상세 내용 |
 | :--- | :--- |

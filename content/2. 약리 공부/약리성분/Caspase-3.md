@@ -36,8 +36,8 @@ tags:
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=12304918" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> Caspase-3은 소분자가 아닌 효소 단백질이라 PubChem 소분자 CID가 없습니다. UniProt [P42574](https://www.uniprot.org/uniprotkb/P42574)로 확인하세요. (⚠️ 정정: 기존 CID 12304918은 이 효소와 무관한 다른 화합물이었습니다.)
 
 | 항목 | 상세 내용 |
 | :--- | :--- |

@@ -49,7 +49,7 @@ CID: 9294
 > [그림 1: 5-HMF의 2D 화학 분자 구조식 (PubChem CID: 9294)]
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=9294" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=237332" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
 
 | 항목 | 상세 내용 |
 | :--- | :--- |

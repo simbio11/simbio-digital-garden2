@@ -12,8 +12,8 @@ aliases: [NFE2L2, Nrf2전사인자, Keap1-Nrf2]
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5281767" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> Nrf2는 소분자가 아닌 전사인자 단백질이라 PubChem 소분자 CID가 없습니다. 인체 유전자 NFE2L2, UniProt [Q16236](https://www.uniprot.org/uniprotkb/Q16236)로 확인하세요.
 
 | 항목 | 상세 분자생물학적 정보 |
 | :--- | :--- |
