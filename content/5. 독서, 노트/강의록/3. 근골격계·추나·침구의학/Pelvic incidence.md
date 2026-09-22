@@ -14,6 +14,5 @@
 - 성별에 따라 PI를 고려하여 여성은 일반적인 치료를 하고, 남성은 관골 후방 경사가 중립 상태일 수 있다는 것을 명심하자
 - 추가로 PI가 작은 동양인 남성은 관골 후방 경사가 있어도 요추 전만이 강조될 수 있으며, 중립자세가 sway back으로 나타날 수 있다(대퇴 전방 활주 증후군)
 
-
 출처:
 Normal Patterns of Sagittal Alignment of the Spine in Young Adults Radiological Analysis in a Korean Population

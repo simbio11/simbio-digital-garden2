@@ -1,4 +1,6 @@
 ---
+tags:
+  - status/draft
 aliases:
   - B형 간염병
   - 독상소성 신염

@@ -3,6 +3,7 @@ aliases:
   - Cannabimol
   - 대마지방산
 tags:
+  - status/draft
   - 약리성분
   - 마자인
   - 리놀레산

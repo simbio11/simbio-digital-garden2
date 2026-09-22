@@ -5,6 +5,7 @@ aliases:
   - 알도스테론수용체
   - NR3C2
 tags:
+  - status/draft
   - 약리성분
   - 수용체
   - 핵수용체

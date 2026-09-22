@@ -4,7 +4,7 @@ title: "Sarcopenia: Muscle Wasting Disease (2nd Edition)"
 publisher: 대한근감소증학회
 edition: 2판
 published: 2025-09-11
-source_file: "근감소증 ocr+선명도 (1).pdf"
+source_file: "[[근감소증]] ocr+선명도 (1).pdf"
 total_pages: 566
 total_sections: 15
 status: in_progress
@@ -18,7 +18,7 @@ tags:
 
 # 📚 Sarcopenia: Muscle Wasting Disease (2판)
 
-> **핵심 요약**: 대한근감소증학회가 2025년 발간한 국내 표준 교과서. 8 PART / 41 Chapter / 566페이지로, 근감소증의 **개요·진단·노쇠·Cachexia·근육과 타장기·비약물 치료(영양·운동)·약물 치료**를 망라한다. 관련 개념은 [[근감소증]] 노트와 연결.
+> **핵심 요약**: 대한근감소증학회가 2025년 발간한 국내 표준 교과서. 8 PART / 41 Chapter / 566페이지로, [[근감소증]] **개요·진단·노쇠·Cachexia·근육과 타장기·비약물 치료(영양·운동)·약물 치료**를 망라한다. 관련 개념은 [[근감소증]] 노트와 연결.
 
 ---
 

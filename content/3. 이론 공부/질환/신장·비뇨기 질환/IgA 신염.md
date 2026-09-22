@@ -1,4 +1,6 @@
 ---
+tags:
+  - status/draft
 aliases:
   - 상역구단백 신병, 면역글로불린A 신장병
   - 버거스병
