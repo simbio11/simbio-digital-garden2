@@ -28,8 +28,8 @@ aliases:
 | **결합 특성** | **테스토스테론 > 에스트라디올** 친화력. 약 40~60%는 테스토스테론, 일부는 E2와 결합 |
 | **주요 생성 기관** | **간**(주 합성), 지방조직 유래 신호가 합성을 억제 |
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> SHBG은(는) 소분자가 아닌 성호르몬결합글로불린(SHBG) 단백질이라 PubChem 소분자 CID가 없습니다. UniProt [P04278](https://www.uniprot.org/uniprotkb/P04278)로 확인하세요.
 
 ---
 

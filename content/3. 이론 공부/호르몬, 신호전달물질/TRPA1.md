@@ -21,8 +21,8 @@ tags:
 
 ## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> TRPA1은(는) 소분자가 아닌 이온채널(TRPA1) 막단백질이라 PubChem 소분자 CID가 없습니다. UniProt [O75762](https://www.uniprot.org/uniprotkb/O75762)로 확인하세요.
 
 TRPA1(Transient Receptor Potential Ankyrin 1)은 감각신경계에서 유해 화학물질, 산화 스트레스, 냉각 자극을 감지하는 다기능 센서 단백질이다. N-말단 세포질 영역에 14~18개의 고유한 안키린 반복 도메인(Ankyrin Repeats)을 보유하고 있어 '안키린(Ankyrin)' 명칭이 부여되었다.
 

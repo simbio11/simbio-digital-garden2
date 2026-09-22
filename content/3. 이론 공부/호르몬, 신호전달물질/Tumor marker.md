@@ -11,5 +11,5 @@
 
 ## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=5754" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> '종양표지자'는 단일 물질이 아니라 CA-125·AFP 등 여러 검사 지표를 아우르는 범주라 대표 CID를 쓰지 않습니다.
