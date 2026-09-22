@@ -76,7 +76,6 @@ flowchart TD
 
 ## 2. 정거장(Bony Stations) 및 근막 트랙(Tracks) 정밀 매트릭스
 
-![[AnatomyTrains_Fig_6_2.png|500]]
 
 > [그림 2. 나선선의 골성 정거장과 근막 트랙 구조].
 
