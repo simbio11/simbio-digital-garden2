@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8"><title>비비 실시간 시장 대시보드</title>
+<style>
+ body{background:#111418;color:#e8eaed;font-family:'Malgun Gothic',system-ui,sans-serif;margin:0;padding:16px}
+ h1{font-size:20px;margin:0 0 4px} .sub{color:#9aa0a6;font-size:12px;margin-bottom:14px}
+ .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+ .card{background:#1a1f24;border:1px solid #2a3038;border-radius:10px;padding:10px}
+ .card h2{font-size:13px;margin:0 0 8px;color:#c8cdd3} .full{grid-column:1/-1}
+</style></head><body>
+<h1>📊 비비 실시간 시장 대시보드</h1>
+<div class="sub">생성 2026-09-14 17:14 · 지표: widget_spec.py (4탭 23지표 + 관심종목)</div>
+<div class="grid">
+ <div class="card full"><h2>📈 핵심 지표 티커</h2>
+  <div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div>
+  <script src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {"symbols":[{"proName":"FOREXCOM:SPXUSD","title":"S&P500"}, {"proName":"FOREXCOM:NSXUSD","title":"나스닥100"}, {"proName":"TVC:USOIL","title":"WTI"}, {"proName":"AMEX:VXX","title":"VIX선물"}, {"proName":"FX_IDC:USDKRW","title":"원/달러"}, {"proName":"NASDAQ:SMH","title":"반도체"}, {"proName":"NASDAQ:NVDA","title":"NVDA"}, {"proName":"NASDAQ:AAPL","title":"AAPL"}],"showSymbolLogo":true,"isTransparent":true,"displayMode":"adaptive","colorTheme":"dark","locale":"kr","largeChartUrl":"https://www.tradingview.com/chart/?symbol={{symbol}}"}
+  </script></div></div>
+ <div class="card"><h2>🗺️ S&P 500 섹터 히트맵 (실시간)</h2>
+  <div class="tradingview-widget-container" style="height:380px"><div class="tradingview-widget-container__widget" style="height:100%"></div>
+  <script src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
+  {"dataSource":"SPX500","grouping":"sector","blockSize":"market_cap_basic","blockColor":"change","locale":"kr","colorTheme":"dark","hasTopBar":true,"isZoomEnabled":true,"width":"100%","height":"100%"}
+  </script></div></div>
+ <div class="card"><h2>🎯 QQQ 차트 (일봉 캔들)</h2>
+  <div class="tradingview-widget-container" style="height:380px"><div class="tradingview-widget-container__widget" style="height:100%"></div>
+  <script src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {"symbol":"NASDAQ:QQQ","interval":"D","timezone":"Asia/Seoul","theme":"dark","style":"1","locale":"kr","hide_side_toolbar":true,"allow_symbol_change":true,"width":"100%","height":"100%"}
+  </script></div></div>
+ <div class="card full"><h2>🌏 시장 개요 — ① 지수 / ② 금리·환율·변동성 / ③ 원자재·대안 / ④ 관심종목</h2>
+  <div class="tradingview-widget-container" style="height:460px"><div class="tradingview-widget-container__widget" style="height:100%"></div>
+  <script src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+  {"colorTheme":"dark","dateRange":"1D","showChart":true,"locale":"kr","width":"100%","height":"100%","largeChartUrl":"https://www.tradingview.com/chart/?symbol={{symbol}}","tabs":[{"title": "① 지수", "symbols": [{"s": "FOREXCOM:SPXUSD", "d": "S&P500"}, {"s": "FOREXCOM:NSXUSD", "d": "나스닥100"}, {"s": "AMEX:IWM", "d": "러셀2000"}, {"s": "NASDAQ:SMH", "d": "반도체"}]}, {"title": "② 금리·환율·변동성", "symbols": [{"s": "NASDAQ:TLT", "d": "미장기채(TLT)"}, {"s": "NASDAQ:IEF", "d": "미10년채(IEF)"}, {"s": "CAPITALCOM:DXY", "d": "달러인덱스"}, {"s": "FX_IDC:USDKRW", "d": "원/달러"}, {"s": "AMEX:VXX", "d": "VIX선물(VXX)"}]}, {"title": "③ 원자재·대안", "symbols": [{"s": "TVC:USOIL", "d": "WTI"}, {"s": "TVC:GOLD", "d": "금"}, {"s": "TVC:COPPER", "d": "구리"}, {"s": "BITSTAMP:BTCUSD", "d": "비트코인"}]}, {"title": "④ 관심종목", "symbols": [{"s": "NASDAQ:NVDA", "d": "NVDA"}, {"s": "NASDAQ:AVGO", "d": "AVGO"}, {"s": "NASDAQ:AAPL", "d": "AAPL"}, {"s": "NASDAQ:MU", "d": "MU"}, {"s": "AMEX:QLD", "d": "QLD"}, {"s": "NASDAQ:RKLB", "d": "RKLB"}]}]}
+  </script></div></div>
+</div></body></html>

@@ -124,6 +124,56 @@ function titleOf(file, raw) {
 // ── 스캔 ────────────────────────────────────────────────────────
 const allFiles = walk(CONTENT).filter((f) => path.basename(f).toLowerCase() !== "index.md")
 
+// ── 실시간 시장 위젯 (2026-09-14) ────────────────────────────────
+//  index.md 안에서는 custom-frames 블록을 쓸 수 없다(변환은 sync_obsidian.py 의
+//  convert_custom_frames 가 처리하는데, 그건 이 스크립트보다 먼저 돌아간다)
+//  → scripts/widget_frames.json 의 URL 을 그대로 읽어 <iframe> 을 직접 찍는다.
+const WIDGETS_FILE = path.join(ROOT, "scripts", "widget_frames.json")
+const HOME_WIDGETS = [
+  { frame: "티커 테이프", height: 110 },
+  { frame: "시장 개요", height: 520 },
+]
+
+function widgetUrl(name) {
+  try {
+    const raw = JSON.parse(fs.readFileSync(WIDGETS_FILE, "utf8"))
+    const frames = raw && raw.frames ? raw.frames : raw
+    const url = frames && frames[name]
+    return typeof url === "string" && !url.startsWith("link:") ? url : null
+  } catch {
+    return null
+  }
+}
+
+function marketBlock() {
+  const blocks = HOME_WIDGETS.map((w) => {
+    const url = widgetUrl(w.frame)
+    if (!url) return null
+    const margin = w.height === 110 ? "0" : "10px 0 0"
+    return (
+      `<iframe src="${url}" loading="lazy" title="${w.frame} (TradingView)" ` +
+      `style="width:100%;height:${w.height}px;margin:${margin};border:1px solid var(--lightgray);border-radius:10px;" ` +
+      `allowfullscreen></iframe>`
+    )
+  }).filter(Boolean)
+
+  if (!blocks.length) {
+    return `<p class="sc-live-empty">실시간 위젯 매핑(scripts/widget_frames.json)을 찾지 못했습니다 — <code>export_quartz_widgets.py</code>를 실행하세요.</p>`
+  }
+
+  return (
+    `<div class="sc-live">\n` +
+    blocks.join("\n") +
+    `\n</div>\n` +
+    `<a class="sc-card" href="보고서/주식-브리핑/📊-주식-브리핑-대시보드" style="--c:var(--cat-formula)">` +
+    `<span class="sc-ico">📊</span><span class="sc-txt">` +
+    `<span class="sc-name">주식 브리핑 대시보드</span>` +
+    `<span class="sc-sub"><span class="sc-desc">실시간 차트뷰 · If-Then 액션 플랜 · 최신 브리핑 스냅샷 · 지난 브리핑 목록</span>` +
+    `<span class="sc-count">📈 실시간 위젯 16 · 🕯️ 차트뷰 14</span></span></span>` +
+    `<span class="sc-go">→</span></a>`
+  )
+}
+
 const now = new Date()
 const curYM = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`
 
@@ -209,6 +259,7 @@ function replaceRegion(text, key, block) {
 
 let idx = fs.readFileSync(INDEX, "utf8")
 idx = replaceRegion(idx, "STATS", statsBlock)
+idx = replaceRegion(idx, "MARKET", marketBlock())
 idx = replaceRegion(idx, "GRID", gridBlock)
 idx = replaceRegion(idx, "RECENT", recentBlock)
 fs.writeFileSync(INDEX, idx)

@@ -1,6 +1,9 @@
 import os
+import json
+import re
 import shutil
 import subprocess
+import sys
 from pathlib import Path
 from datetime import datetime
 
@@ -11,15 +14,23 @@ quartz_repo_path = Path(r"C:\Users\cmksc\quartz")
 # 볼트 소스 경로가 쿼츠 폴더명과 다른 경우의 매핑.
 # (2026-09-09 볼트 개편으로 00. 봇 운영 시스템/보고서 → _헤르메스/보고서 로 이동)
 FOLDER_MAPPINGS = {
-    "보고서": vault_path / "_헤르메스" / "보고서",
-    "5. 독서, 노트": vault_path / "5. 독서, 노트",
+    # 2026-09-25 볼트 4축 대개편 반영 — **사이트 경로명은 유지하고 소스만 새 경로로 연결**(URL 보존).
+    "0. 기본의학 공부": vault_path / "의학" / "00_기본의학",
+    "1. 근골격계 공부": vault_path / "의학" / "01_근골격계",
+    "2. 약리 공부": vault_path / "의학" / "02_약리",
+    "3. 이론 공부": vault_path / "의학" / "03_이론",
+    "5. 독서, 노트": vault_path / "의학" / "05_독서·논문",
+    "보고서": vault_path / "_생활" / "보고서",
+    "강의록": vault_path / "_지식" / "강의",   # 2026-09-24 비오님: 공개 유지
 }
 
 # 사이트에 올리지 않을 볼트 상대경로(posix). quartz.config.yaml 의 ignorePatterns 와 일치시킬 것.
 EXCLUDE_REL_PREFIXES = (
     "5. 독서, 노트/생각",
-    # 케이스리포트(환자 식별정보 포함) — 2026-09-10 볼트에서 6. 개발,자산/임상례 로 이동(비공개).
+    # 케이스리포트(환자 식별정보 포함) — 비공개.
     "7. 첨부·자료/임상례",
+    # 2026-09-24 비오님 결정: 개인 단톡방 내용은 공개하지 않는다.
+    "_지식/한의원 AI 자동화 톡방",
 )
 
 # 개별 파일 단위 비공개 목록(content/ 기준 상대경로). scripts/phi_exclude.txt 참조.
@@ -62,6 +73,7 @@ def sync_folders():
     targets |= set(FOLDER_MAPPINGS.keys())
 
     updated_count = 0
+    updated_files = []
     missing_sources = []
 
     for folder_name in sorted(targets):
@@ -104,23 +116,277 @@ def sync_folders():
                     shutil.copy2(src_file, dst_file)
                     print(f"Updated: {folder_name}/{file}")
                     updated_count += 1
+                    updated_files.append(dst_file)
 
     if missing_sources:
         print(f"[WARN] 매핑이 끊긴 폴더: {missing_sources} — 볼트 경로가 바뀌었는지 확인하세요.")
 
     print(f"Sync completed. Total files updated/added: {updated_count}")
-    return updated_count > 0
+    return updated_count > 0, updated_files
+
+
+# ─────────────────────────────────────────────────────────────
+# 미러 정리(prune) — 볼트에서 옮겨지거나 지워진 노트의 '유령 사본' 제거 (2026-09-14)
+#  · sync_folders() 는 복사만 하고 삭제하지 않는다 → 볼트에서 노트를 옮겨도 옛 경로
+#    사본이 content/ 에 남아 계속 발행된다(사이트에 옛 분류가 보이는 원인).
+#  · 실측 사례: 주식 브리핑 주간 요약 3건이 '주간 요약/2026-09/'로 이동된 뒤에도
+#    미러 루트 사본이 라이브에 계속 노출됨.
+#  · 안전장치 — 볼트 소스 폴더가 없으면 그 폴더는 절대 건드리지 않고,
+#    삭제 예정이 PRUNE_MAX_FILES 를 넘으면 '경로 이상'으로 보고 중단한다.
+PRUNE_MAX_FILES = 40  # 이 수를 넘으면 자동 삭제 중단(매핑 오작동으로 인한 대량 삭제 방지)
+PRUNE_SKIP_NAMES = {"index.md"}  # 미러에서 생성/관리되는 파일 보호
+PRUNE_LOG = quartz_repo_path / "logs" / "mirror_prune.log"
+
+
+def _prune_log(msg):
+    try:
+        PRUNE_LOG.parent.mkdir(parents=True, exist_ok=True)
+        with PRUNE_LOG.open("a", encoding="utf-8") as fh:
+            fh.write(f"[{datetime.now():%Y-%m-%d %H:%M}] {msg}\n")
+    except Exception:
+        pass
+
+
+def prune_stale(apply=True):
+    """볼트 소스가 사라진 미러 파일(=유령 사본)을 찾아 제거한다. 제거 개수를 반환."""
+    if not quartz_content_path.exists():
+        return 0
+
+    targets = sorted(
+        item.name
+        for item in quartz_content_path.iterdir()
+        if item.is_dir() and not item.name.startswith(".")
+    )
+
+    stale = []
+    for folder_name in targets:
+        src_folder = FOLDER_MAPPINGS.get(folder_name, vault_path / folder_name)
+        if not src_folder.exists():
+            # 볼트 경로가 사라진 상태에서 지우면 사이트가 통째로 날아간다 → 건너뛴다.
+            print(f"[WARN] prune 건너뜀 — 볼트 소스 없음: {src_folder}")
+            continue
+        dst_folder = quartz_content_path / folder_name
+        for path in sorted(dst_folder.rglob("*")):
+            if not path.is_file():
+                continue
+            rel = path.relative_to(quartz_content_path)
+            if any(part.startswith(".") for part in rel.parts):
+                continue
+            if rel.name in PRUNE_SKIP_NAMES:
+                continue
+            if not (src_folder / path.relative_to(dst_folder)).exists():
+                stale.append(path)
+
+    if not stale:
+        print("Mirror prune: 유령 사본 없음 (0개)")
+        return 0
+
+    print(f"Mirror prune: 볼트에 없는 유령 사본 {len(stale)}개 발견")
+    for path in stale:
+        print(f"       · {path.relative_to(quartz_content_path).as_posix()}")
+
+    if len(stale) > PRUNE_MAX_FILES:
+        msg = f"유령 사본 {len(stale)}개 > 한도 {PRUNE_MAX_FILES}개 → 자동 삭제 중단(볼트 경로/매핑 확인 필요)"
+        print(f"[WARN] {msg}")
+        _prune_log(f"ABORT — {msg}")
+        return 0
+
+    if not apply:
+        print("Mirror prune: 확인만 수행 — 삭제하지 않았습니다.")
+        return 0
+
+    removed = 0
+    for path in stale:
+        try:
+            path.unlink()
+            removed += 1
+        except Exception as e:
+            print(f"[WARN] 삭제 실패: {path} :: {e}")
+
+    # 비게 된 폴더 정리(사이트 표시에는 영향 없음, 미러 청결용)
+    for folder_name in targets:
+        dst_folder = quartz_content_path / folder_name
+        for path in sorted(dst_folder.rglob("*"), reverse=True):
+            if path.is_dir() and not any(path.iterdir()):
+                try:
+                    path.rmdir()
+                except Exception:
+                    pass
+
+    print(f"Mirror prune: {removed}개 삭제 완료")
+    _prune_log(f"REMOVED {removed} — " + ", ".join(
+        p.relative_to(quartz_content_path).as_posix() for p in stale[:20]
+    ))
+    return removed
+
+
+# ─────────────────────────────────────────────────────────────
+# custom-frames(옵시디언 실시간 위젯) → 사이트용 <iframe> 변환 (2026-09-14 추가)
+#  · 옵시디언은 웹뷰라 TradingView 차트/심볼 페이지도 보이지만, 웹사이트는 iframe만 가능
+#    → `s.tradingview.com/embed-widget/*` URL만 사용(매핑은 scripts/widget_frames.json)
+#  · 지수·국채·VIX 원지수는 프록시(ETF/CFD)·링크로 자동 치환됨 (export_quartz_widgets.py 생성)
+WIDGET_FRAMES_FILE = quartz_repo_path / "scripts" / "widget_frames.json"
+CUSTOM_FRAMES_RE = re.compile(r"^```custom-frames[ \t]*\r?\n(.*?)^```[ \t]*$", re.S | re.M)
+
+
+def _load_widget_frames():
+    """{'frames': {이름: URL}, 'notes': {이름: 캡션}} 반환 (구버전 평면 dict도 지원)"""
+    if not WIDGET_FRAMES_FILE.exists():
+        return {}, {}
+    try:
+        data = json.loads(WIDGET_FRAMES_FILE.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[WARN] widget_frames.json 파싱 실패: {e}")
+        return {}, {}
+    if isinstance(data, dict) and "frames" in data:
+        return data.get("frames", {}) or {}, data.get("notes", {}) or {}
+    return data, {}
+
+
+def convert_custom_frames(paths):
+    """복사된 노트의 ```custom-frames 블록을 사이트에서 실제로 보이는 <iframe>으로 바꾼다."""
+    mapping, notes = _load_widget_frames()
+    if not mapping:
+        print("[WARN] 위젯 매핑이 없어 custom-frames 변환을 건너뜁니다 (export_quartz_widgets.py 실행 필요)")
+        return 0
+    converted_files = 0
+    converted_blocks = 0
+
+    for path in paths:
+        if not str(path).lower().endswith((".md", ".markdown")):
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        if "custom-frames" not in text:
+            continue
+
+        def repl(match):
+            nonlocal converted_blocks
+            body = match.group(1)
+            name, height = None, "440px"
+            for line in body.splitlines():
+                line = line.strip()
+                low = line.lower()
+                if low.startswith("frame:"):
+                    name = line.split(":", 1)[1].strip()
+                elif low.startswith("style:"):
+                    hm = re.search(r"height:\s*(\d+)px", line)
+                    if hm:
+                        height = f"{hm.group(1)}px"
+            url = mapping.get(name or "")
+            if not url:
+                return f"\n> [!note] 실시간 위젯 `{name}` — 이 항목은 사이트에 임베드할 수 없어 생략했습니다.\n"
+            converted_blocks += 1
+            if url.startswith("link:"):
+                target = url[len("link:"):]
+                return f"\n> [!info] **{name}** → [TradingView에서 실시간으로 보기]({target})\n"
+            caption = notes.get(name or "")
+            caption_html = (
+                f'\n<div style="font-size:0.78em;color:var(--gray);margin:-6px 0 14px;">※ {caption}</div>'
+                if caption else ""
+            )
+            return (
+                f'\n<iframe src="{url}" loading="lazy" title="{name} (TradingView)" '
+                f'style="width:100%;height:{height};border:1px solid var(--lightgray);border-radius:10px;" '
+                f'allowfullscreen></iframe>{caption_html}\n'
+            )
+
+        new_text = CUSTOM_FRAMES_RE.sub(repl, text)
+        if new_text != text:
+            path.write_text(new_text, encoding="utf-8")
+            converted_files += 1
+
+    print(f"custom-frames 변환: {converted_files}개 파일 / {converted_blocks}개 위젯")
+    return converted_files
+
+
+def validate_frontmatter(paths):
+    """이번 실행에서 복사한 .md 파일의 YAML 프런트매터가 유효한지 검사한다.
+
+    2026-09-14 실측: 부동산 브리핑 노트의 `작성: 비비(Vivi) · 데이터: ...` 처럼
+    값 안에 콜론(: )을 인용 없이 쓰면 Quartz 파서가 죽고 **사이트 배포 전체가 중단**된다.
+    여기서는 고치지 않고 경고만 남긴다(볼트 원본은 사용자 영역).
+    """
+    try:
+        import yaml
+    except ImportError:
+        return
+    bad = []
+    for path in paths:
+        if str(path).lower().endswith((".md", ".markdown")) is False:
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        if text.startswith("\ufeff"):
+            text = text[1:]
+        lines = text.splitlines()
+        idx = 0
+        while idx < len(lines) and lines[idx].strip() == "":
+            idx += 1
+        if idx >= len(lines) or lines[idx].strip() != "---":
+            continue
+        end = None
+        for j in range(idx + 1, len(lines)):
+            if lines[j].strip() == "---":
+                end = j
+                break
+        if end is None:
+            continue
+        body_lines = lines[idx + 1:end]
+        try:
+            yaml.safe_load("\n".join(body_lines))
+        except Exception as e:
+            bad.append((path, str(e).splitlines()[0]))
+            continue
+        # 2026-09-19 실측: 심부전.md 가 `tags:` 를 두 번(인라인 리스트 + 블록 리스트) 써서
+        # Quartz(js-yaml)가 `duplicated mapping key (12:1)` 로 fatal 종료 → Pages 배포 전면 중단.
+        # PyYAML safe_load 는 중복 키를 조용히 덮어쓰므로 따로 세어야 잡힌다.
+        seen, dups = set(), []
+        for ln in body_lines:
+            if not ln or ln[0] in " \t-":
+                continue
+            s = ln.strip()
+            if ":" not in s or s.startswith("#"):
+                continue
+            key = s.split(":", 1)[0].strip()
+            if key in seen and key not in dups:
+                dups.append(key)
+            seen.add(key)
+        if dups:
+            bad.append((path, "duplicated mapping key: " + ", ".join(dups)))
+
+    if bad:
+        print("[WARN] YAML 프런트매터 오류 — 이대로 푸시하면 Quartz 빌드가 실패합니다:")
+        for path, err in bad:
+            print(f"       · {path} :: {err}")
+        print("[WARN] 값에 콜론/대괄호가 들어가면 따옴표로 감싸 주세요 (예: 작성: \"비비(Vivi) · 데이터: ...\")")
+    else:
+        print("Frontmatter check: OK")
 
 
 def git_commit_and_push():
     os.chdir(quartz_repo_path)
-    result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+    # 스테이징 대상 = 사이트가 실제로 서빙하는 것만: content/ (노트) + quartz/static/ (정적 자산·래퍼 페이지).
+    # ⚠️ 2026-09-15: 종전엔 content/ 만 스테이징해서 quartz/static/ 에 추가한 래퍼 페이지(heatmap_live.html)가
+    #    커밋되지 않아 사이트에서 404 가 났다. 정적 자산도 함께 올린다.
+    # (작업 트리에 다른 미커밋 변경(quartz.ts 등)이 있으면 예전 로직은 빈 커밋을 시도해 죽었다 — 2026-09-14)
+    paths = ["content/", "quartz/static/"]
+    result = subprocess.run(["git", "status", "--porcelain", "--", *paths], capture_output=True, text=True)
     if not result.stdout.strip():
         print("No changes to commit in Quartz repo.")
         return
 
     print("Staging changes...")
-    subprocess.run(["git", "add", "content/"], check=True)
+    subprocess.run(["git", "add", *paths], check=True)
+
+    staged = subprocess.run(["git", "diff", "--cached", "--quiet", "--", *paths]).returncode != 0
+    if not staged:
+        print("No changes to commit in Quartz repo.")
+        return
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     commit_msg = f"Auto-update obsidian notes: {timestamp}"
@@ -146,8 +412,48 @@ def regen_home():
         print(f"gen_home.mjs 실행 실패(무시하고 계속): {e}")
 
 
+def regen_stock_dashboard():
+    """📊 주식 브리핑 대시보드를 볼트에서 재생성한다 (2026-09-14).
+
+    Dataview 는 Quartz 사이트에서 렌더되지 않으므로, 목록을 '정적 표'로 구워 넣고
+    실시간 차트는 custom-frames 블록으로 넣는다(아래 convert_custom_frames 가 iframe 으로 변환).
+    **반드시 sync_folders() 보다 먼저** 실행해야 이번 실행에서 사이트로 복사된다.
+    """
+    script = quartz_repo_path / "scripts" / "gen_stock_dashboard.py"
+    if not script.exists():
+        print("[WARN] gen_stock_dashboard.py 없음 — 주식 대시보드 재생성 생략")
+        return
+    try:
+        subprocess.run([sys.executable, str(script)], cwd=quartz_repo_path, check=True)
+    except Exception as e:
+        print(f"[WARN] 주식 대시보드 재생성 실패(무시하고 계속): {e}")
+
+
 if __name__ == "__main__":
-    sync_folders()
+    # 운영 플래그 — 2026-09-14 추가
+    #   --prune-only     : 미러 정리만 수행(동기화·커밋 없음)
+    #   --prune-dry-run  : 정리 대상만 보고(삭제 안 함)
+    #   --no-prune       : 이번 실행에서는 자동 정리를 끔
+    prune_only = "--prune-only" in sys.argv
+    prune_apply = not ("--prune-dry-run" in sys.argv or "--no-prune" in sys.argv)
+
+    if prune_only:
+        prune_stale(apply=prune_apply)
+        sys.exit(0)
+
+    # 0) 주식 브리핑 대시보드를 볼트에서 먼저 재생성(정적 표 + 실시간 위젯).
+    #    sync_folders() 보다 앞이어야 이번 실행에서 사이트로 복사된다 — 2026-09-14.
+    regen_stock_dashboard()
+    _, updated_files = sync_folders()
+    # 1) 볼트에서 옮겨졌거나 지워진 노트의 '유령 사본'을 미러에서 제거한다.
+    #    이 단계가 없으면 볼트 재분류가 사이트에 반영되지 않고 옛 분류가 계속 발행된다 — 2026-09-14.
+    if prune_apply:
+        prune_stale(apply=True)
+    # 새로 들어온 노트의 프런트매터를 검사(빌드 실패 사전 경고) — 2026-09-14 추가.
+    validate_frontmatter(updated_files)
+    # 실시간 위젯 블록 → iframe 변환. 새 파일뿐 아니라 기존 content/ 노트 전체를 훑어 변환한다.
+    all_content_md = list(quartz_content_path.rglob("*.md"))
+    convert_custom_frames(all_content_md)
     # 볼트 변경 여부와 무관하게 홈 통계 최신화. git_commit_and_push 가 실제 변경분만 커밋한다.
     regen_home()
     git_commit_and_push()

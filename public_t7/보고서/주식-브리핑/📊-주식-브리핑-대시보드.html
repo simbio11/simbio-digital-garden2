@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr"><head><title>📊 주식 브리핑 대시보드</title><meta charset="utf-8"/><link rel="preload" href="../../index-d540e9dd.css" as="style"/><link rel="preload" href="../../prescript-ec601caa.js" as="script"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans KR:wght@400;700&amp;family=Noto Sans KR:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin="anonymous"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Sim_Bio_Cortex"/><meta property="og:title" content="📊 주식 브리핑 대시보드"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="📊 주식 브리핑 대시보드"/><meta name="twitter:description" content="📊 주식 브리핑 대시보드 자동 생성 페이지 이 대시보드는 동기화 때마다 자동 재생성됩니다. 사이트(Quartz)는 Dataview 플러그인이 없어서, 목록은 정적 표로 미리 구워 두었습니다 — 옵시디언과 사이트 양쪽에서 똑같이 보여요."/><meta property="og:description" content="📊 주식 브리핑 대시보드 자동 생성 페이지 이 대시보드는 동기화 때마다 자동 재생성됩니다. 사이트(Quartz)는 Dataview 플러그인이 없어서, 목록은 정적 표로 미리 구워 두었습니다 — 옵시디언과 사이트 양쪽에서 똑같이 보여요."/><meta property="og:image:alt" content="📊 주식 브리핑 대시보드 자동 생성 페이지 이 대시보드는 동기화 때마다 자동 재생성됩니다. 사이트(Quartz)는 Dataview 플러그인이 없어서, 목록은 정적 표로 미리 구워 두었습니다 — 옵시디언과 사이트 양쪽에서 똑같이 보여요."/><meta property="twitter:domain" content="simbio11.github.io/simbio-digital-garden2"/><meta property="og:url" content="https://simbio11.github.io/simbio-digital-garden2/보고서/주식-브리핑/📊-주식-브리핑-대시보드"/><meta property="twitter:url" content="https://simbio11.github.io/simbio-digital-garden2/보고서/주식-브리핑/📊-주식-브리핑-대시보드"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="📊 주식 브리핑 대시보드 자동 생성 페이지 이 대시보드는 동기화 때마다 자동 재생성됩니다. 사이트(Quartz)는 Dataview 플러그인이 없어서, 목록은 정적 표로 미리 구워 두었습니다 — 옵시디언과 사이트 양쪽에서 똑같이 보여요."/><meta name="generator" content="Quartz"/><link href="../../index-d540e9dd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-735924e0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-589c1cea.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-bbc3f7c0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-2911f5d1.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-e427079e.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-53b25b2b.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-c93c6a44.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-8a06014f.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-77d6a441.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-6ee21cee.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-1ea6ad18.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-34bdfded.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-788c9ca3.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-642859cd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-4abc06bd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-274a3dfe.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-94cb6c84.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-58d5ff56.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-7262b5a7.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-a5c806d2.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-6bd36952.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../../prescript-ec601caa.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><script>(function(){try{if(!localStorage.getItem("theme")){document.documentElement.setAttribute("saved-theme","light")}}catch(e){}})();</script><script>(function(){try{if(sessionStorage.getItem("scIntroSeen")){document.documentElement.classList.add("sc-intro-seen");}else{sessionStorage.setItem("scIntroSeen","1");}}catch(e){}})();</script><script>(function(){if(window.__scFolderRecurse)return;window.__scFolderRecurse=1;function collapseKids(el){var subs=el.querySelectorAll(".folder-outer.open");if(!subs.length)return;var saved;try{saved=JSON.parse(localStorage.getItem("fileTree")||"[]")}catch(_){saved=[]}subs.forEach(function(s){s.classList.remove("open");var c=s.previousElementSibling,p=c&&c.dataset?c.dataset.folderpath:null;if(p){var i=saved.findIndex(function(x){return x.path===p});if(i>=0)saved[i].collapsed=true;else saved.push({path:p,collapsed:true})}});try{localStorage.setItem("fileTree",JSON.stringify(saved))}catch(_){}}var mo=new MutationObserver(function(muts){muts.forEach(function(m){var el=m.target;if(m.attributeName==="class"&&el.classList&&el.classList.contains("folder-outer")&&!el.classList.contains("open"))collapseKids(el)})});function wire(){document.querySelectorAll(".explorer-ul").forEach(function(u){mo.observe(u,{subtree:true,attributes:true,attributeFilter:["class"]})})}wire();document.addEventListener("nav",function(){setTimeout(wire,120)})})();</script><script>(function(){var A="https://simbio-atlas.vercel.app/";function cur(){try{return document.documentElement.getAttribute("saved-theme")||localStorage.getItem("theme")||"light"}catch(e){return "light"}}try{if(new URLSearchParams(location.search).get("sbcEmbed")==="1")document.documentElement.classList.add("sbc-embed")}catch(e){}try{var u=new URL(location.href),p=u.searchParams.get("sbcTheme");if(p==="dark"||p==="light"){document.documentElement.setAttribute("saved-theme",p);try{localStorage.setItem("theme",p)}catch(e){}var ap=function(){if(document.body){document.body.classList.remove("theme-dark","theme-light");document.body.classList.add("theme-"+p)}};ap();document.addEventListener("DOMContentLoaded",ap);u.searchParams.delete("sbcTheme");history.replaceState(null,"",u.pathname+u.search+u.hash)}}catch(e){}var M='<svg class="sbc-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>',S='<svg class="sbc-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M6.3 17.7l-1.4 1.4M19.1 4.9l-1.4 1.4"/></svg>';function mk(){if(document.querySelector(".sbc-switch")||!document.body)return;var n=document.createElement("nav");n.className="sbc-switch";n.setAttribute("aria-label","사이트 전환");n.innerHTML='<span class="sbc-switch-btn" data-active="true" aria-current="page"><span class="sbc-switch-dot"></span>코텍스</span><a class="sbc-switch-btn sbc-to-atlas" data-active="false" href="'+A+'"><span class="sbc-switch-dot"></span>인체 지도</a><button type="button" class="sbc-theme-toggle" aria-label="테마 전환" title="테마 전환">'+M+S+'</button>';document.body.appendChild(n);n.querySelector(".sbc-to-atlas").addEventListener("click",function(e){e.preventDefault();location.href=A+"?sbcTheme="+cur()});n.querySelector(".sbc-theme-toggle").addEventListener("click",function(){var d=document.querySelector(".darkmode");if(d){d.click()}else{var t=cur()==="dark"?"light":"dark";document.documentElement.setAttribute("saved-theme",t);try{localStorage.setItem("theme",t)}catch(e){}document.body.classList.remove("theme-dark","theme-light");document.body.classList.add("theme-"+t);document.dispatchEvent(new CustomEvent("themechange",{detail:{theme:t}}))}})}mk();document.addEventListener("DOMContentLoaded",mk);document.addEventListener("nav",function(){setTimeout(mk,0)})})();</script><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://simbio11.github.io/simbio-digital-garden2/보고서/주식-브리핑/📊-주식-브리핑-대시보드-og-image.webp"/><meta property="og:image:url" content="https://simbio11.github.io/simbio-digital-garden2/보고서/주식-브리핑/📊-주식-브리핑-대시보드-og-image.webp"/><meta name="twitter:image" content="https://simbio11.github.io/simbio-digital-garden2/보고서/주식-브리핑/📊-주식-브리핑-대시보드-og-image.webp"/><meta property="og:image:type" content="image/webp"/></head><body data-slug="보고서/주식-브리핑/📊-주식-브리핑-대시보드" data-basepath="/simbio-digital-garden2"><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">Sim_Bio_Cortex</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="검색" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>검색</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="검색어를 입력하세요" placeholder="검색어를 입력하세요"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="다크 모드"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="다크 모드"><title>다크 모드</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="라이트 모드"><title>라이트 모드</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="리더 모드"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="리더 모드"><title>리더 모드</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-26" aria-label="탐색기"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>탐색기</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-26" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../보고서/">보고서</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../보고서/주식-브리핑/">주식 브리핑</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>📊 주식 브리핑 대시보드</a></div></nav><h1 class="article-title">📊 주식 브리핑 대시보드</h1><p show-comma="true" class="content-meta"><time datetime="2026-09-14T12:19:41.793Z">2026년 9월 14일</time><span>11 min read</span></p></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><h1 id="-주식-브리핑-대시보드">📊 주식 브리핑 대시보드<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-주식-브리핑-대시보드" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>자동 생성 페이지 </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>이 대시보드는 <strong>동기화 때마다 자동 재생성</strong>됩니다. 사이트(Quartz)는 Dataview 플러그인이 없어서,<br/>
+목록은 <strong>정적 표</strong>로 미리 구워 두었습니다 — 옵시디언과 사이트 양쪽에서 똑같이 보여요.<br/>
+실시간 시세·차트는 <strong>실시간 위젯</strong>으로 들어가 있고, 옵시디언=Custom Frames / 사이트=iframe 으로 자동 변환됩니다.<br/>
+데이터 기준: 최신 브리핑 <strong>2026-09-14</strong> · 최신 프리뷰 <strong>2026-09-11</strong> ｜ 브리핑 <strong>10</strong>건 · 미장 프리뷰 <strong>9</strong>건 · 주간 요약 <strong>3</strong>건</p>
+</div>
+</blockquote>
+<p><strong>바로가기</strong> — <a href="#-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8B%9C%EC%9E%A5-%EC%A7%80%EA%B8%88-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EA%B0%92" class="internal internal-link alias">📈 실시간 시장</a> · <a href="#-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B0%A8%ED%8A%B8%EB%B7%B0" class="internal internal-link alias">🕯️ 실시간 차트뷰</a> · <a href="#-%EC%B5%9C%EC%8B%A0-%EB%B8%8C%EB%A6%AC%ED%95%91-%EC%8A%A4%EB%83%85%EC%83%B7" class="internal internal-link alias">🔥 최신 브리핑 스냅샷</a> · <a href="#-%EC%B5%9C%EA%B7%BC-%EB%B8%8C%EB%A6%AC%ED%95%91" class="internal internal-link alias">📄 지난 브리핑 목록</a> · <a href="#-%EC%B0%A8%ED%8A%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C" class="internal internal-link alias">🖼️ 차트 아카이브</a></p>
+<hr/>
+<h2 id="-실시간-시장-지금-움직이는-값">📈 실시간 시장 (지금 움직이는 값)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-실시간-시장-지금-움직이는-값" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>옵시디언에서 위젯이 안 보이면 </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>설정 → 커뮤니티 플러그인 → <strong>Custom Frames</strong> 를 껐다 켜 주세요. (iframes 로딩에 20~30초 걸립니다)</p>
+</div>
+</blockquote>
+<p><strong>핵심 8지표 한 줄 요약 — S&amp;P500 · 나스닥100 · WTI · VIX선물 · 원/달러 · 반도체 · NVDA · AAPL</strong></p>
+<iframe src="https://s.tradingview.com/embed-widget/ticker-tape/?locale=kr#%7B%22symbols%22%3A%20%5B%7B%22proName%22%3A%20%22FOREXCOM%3ASPXUSD%22%2C%20%22title%22%3A%20%22S%26P500%22%7D%2C%20%7B%22proName%22%3A%20%22FOREXCOM%3ANSXUSD%22%2C%20%22title%22%3A%20%22%5Cub098%5Cuc2a4%5Cub2e5100%22%7D%2C%20%7B%22proName%22%3A%20%22TVC%3AUSOIL%22%2C%20%22title%22%3A%20%22WTI%22%7D%2C%20%7B%22proName%22%3A%20%22AMEX%3AVXX%22%2C%20%22title%22%3A%20%22VIX%5Cuc120%5Cubb3c%22%7D%2C%20%7B%22proName%22%3A%20%22FX_IDC%3AUSDKRW%22%2C%20%22title%22%3A%20%22%5Cuc6d0/%5Cub2ec%5Cub7ec%22%7D%2C%20%7B%22proName%22%3A%20%22NASDAQ%3ASMH%22%2C%20%22title%22%3A%20%22%5Cubc18%5Cub3c4%5Cuccb4%22%7D%2C%20%7B%22proName%22%3A%20%22NASDAQ%3ANVDA%22%2C%20%22title%22%3A%20%22NVDA%22%7D%2C%20%7B%22proName%22%3A%20%22NASDAQ%3AAAPL%22%2C%20%22title%22%3A%20%22AAPL%22%7D%5D%2C%20%22colorTheme%22%3A%20%22dark%22%2C%20%22displayMode%22%3A%20%22adaptive%22%2C%20%22isTransparent%22%3A%20false%2C%20%22locale%22%3A%20%22kr%22%2C%20%22largeChartUrl%22%3A%20%22https%3A//www.tradingview.com/chart/%3Fsymbol%3D%7B%7Bsymbol%7D%7D%22%7D" loading="lazy" title="티커 테이프 (TradingView)" style="width:100%;height:110px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<p><strong>①지수 ②금리·환율·변동성 ③원자재·대안 ④관심종목 — 4탭 (탭을 눌러 전환)</strong></p>
+<iframe src="https://s.tradingview.com/embed-widget/market-overview/?locale=kr#%7B%22colorTheme%22%3A%20%22dark%22%2C%20%22dateRange%22%3A%20%221D%22%2C%20%22showChart%22%3A%20true%2C%20%22locale%22%3A%20%22kr%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22largeChartUrl%22%3A%20%22https%3A//www.tradingview.com/chart/%3Fsymbol%3D%7B%7Bsymbol%7D%7D%22%2C%20%22showSymbolLogo%22%3A%20true%2C%20%22isTransparent%22%3A%20false%2C%20%22tabs%22%3A%20%5B%7B%22title%22%3A%20%22%5Cu2460%20%5Cuc9c0%5Cuc218%22%2C%20%22symbols%22%3A%20%5B%7B%22s%22%3A%20%22FOREXCOM%3ASPXUSD%22%2C%20%22d%22%3A%20%22S%26P500%22%7D%2C%20%7B%22s%22%3A%20%22FOREXCOM%3ANSXUSD%22%2C%20%22d%22%3A%20%22%5Cub098%5Cuc2a4%5Cub2e5100%22%7D%2C%20%7B%22s%22%3A%20%22AMEX%3AIWM%22%2C%20%22d%22%3A%20%22%5Cub7ec%5Cuc1402000%22%7D%2C%20%7B%22s%22%3A%20%22NASDAQ%3ASMH%22%2C%20%22d%22%3A%20%22%5Cubc18%5Cub3c4%5Cuccb4%22%7D%5D%7D%2C%20%7B%22title%22%3A%20%22%5Cu2461%20%5Cuae08%5Cub9ac%5Cu00b7%5Cud658%5Cuc728%5Cu00b7%5Cubcc0%5Cub3d9%5Cuc131%22%2C%20%22symbols%22%3A%20%5B%7B%22s%22%3A%20%22NASDAQ%3ATLT%22%2C%20%22d%22%3A%20%22%5Cubbf8%5Cuc7a5%5Cuae30%5Cucc44%28TLT%29%22%7D%2C%20%7B%22s%22%3A%20%22NASDAQ%3AIEF%22%2C%20%22d%22%3A%20%22%5Cubbf810%5Cub144%5Cucc44%28IEF%29%22%7D%2C%20%7B%22s%22%3A%20%22CAPITALCOM%3ADXY%22%2C%20%22d%22%3A%20%22%5Cub2ec%5Cub7ec%5Cuc778%5Cub371%5Cuc2a4%22%7D%2C%20%7B%22s%22%3A%20%22FX_IDC%3AUSDKRW%22%2C%20%22d%22%3A%20%22%5Cuc6d0/%5Cub2ec%5Cub7ec%22%7D%2C%20%7B%22s%22%3A%20%22AMEX%3AVXX%22%2C%20%22d%22%3A%20%22VIX%5Cuc120%5Cubb3c%28VXX%29%22%7D%5D%7D%2C%20%7B%22title%22%3A%20%22%5Cu2462%20%5Cuc6d0%5Cuc790%5Cuc7ac%5Cu00b7%5Cub300%5Cuc548%22%2C%20%22symbols%22%3A%20%5B%7B%22s%22%3A%20%22TVC%3AUSOIL%22%2C%20%22d%22%3A%20%22WTI%22%7D%2C%20%7B%22s%22%3A%20%22TVC%3AGOLD%22%2C%20%22d%22%3A%20%22%5Cuae08%22%7D%2C%20%7B%22s%22%3A%20%22TVC%3ACOPPER%22%2C%20%22d%22%3A%20%22%5Cuad6c%5Cub9ac%22%7D%2C%20%7B%22s%22%3A%20%22BITSTAMP%3ABTCUSD%22%2C%20%22d%22%3A%20%22%5Cube44%5Cud2b8%5Cucf54%5Cuc778%22%7D%5D%7D%2C%20%7B%22title%22%3A%20%22%5Cu2463%20%5Cuad00%5Cuc2ec%5Cuc885%5Cubaa9%22%2C%20%22symbols%22%3A%20%5B%7B%22s%22%3A%20%22NASDAQ%3ANVDA%22%2C%20%22d%22%3A%20%22NVDA%22%7D%2C%20%7B%22s%22%3A%20%22NASDAQ%3AAVGO%22%2C%20%22d%22%3A%20%22AVGO%22%7D%2C%20%7B%22s%22%3A%20%22NASDAQ%3AAAPL%22%2C%20%22d%22%3A%20%22AAPL%22%7D%2C%20%7B%22s%22%3A%20%22NASDAQ%3AMU%22%2C%20%22d%22%3A%20%22MU%22%7D%2C%20%7B%22s%22%3A%20%22AMEX%3AQLD%22%2C%20%22d%22%3A%20%22QLD%22%7D%2C%20%7B%22s%22%3A%20%22NASDAQ%3ARKLB%22%2C%20%22d%22%3A%20%22RKLB%22%7D%5D%7D%5D%7D" loading="lazy" title="시장 개요 (TradingView)" style="width:100%;height:640px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<p><strong>S&amp;P500 섹터 히트맵 — 오늘 자금이 어디로 도는지 한눈에</strong></p>
+<iframe src="https://s.tradingview.com/embed-widget/stock-heatmap/?locale=kr#%7B%22dataSource%22%3A%20%22SPX500%22%2C%20%22grouping%22%3A%20%22sector%22%2C%20%22blockSize%22%3A%20%22market_cap_basic%22%2C%20%22blockColor%22%3A%20%22change%22%2C%20%22colorTheme%22%3A%20%22dark%22%2C%20%22hasTopBar%22%3A%20true%2C%20%22isZoomEnabled%22%3A%20true%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%7D" loading="lazy" title="S&amp;P 히트맵 (TradingView)" style="width:100%;height:560px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<hr/>
+<h2 id="️-실시간-차트뷰">🕯️ 실시간 차트뷰<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-실시간-차트뷰" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="️-지수--금리--변동성--내-if-then-트리거가-걸린-6개-차트">🏛️ 지수 · 금리 · 변동성 — 내 If-Then 트리거가 걸린 6개 차트<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-지수--금리--변동성--내-if-then-트리거가-걸린-6개-차트" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="-sp-500">🇺🇸 S&amp;P 500<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-sp-500" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><em>미국 대형주 전체 방향</em></p>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22FOREXCOM%3ASPXUSD%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="TV차트 S&amp;P500 (TradingView)" style="width:100%;height:460px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<div style="font-size:0.78em;color:var(--gray);margin:-6px 0 14px;">※ 사이트 버전 — S&amp;P500 지수는 **SPXUSD(CFD)** 차트로 표시됩니다.</div>
+<h4 id="-나스닥-100">🇺🇸 나스닥 100<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-나스닥-100" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><em>성장주·빅테크 방향 (QLD 의 기초자산)</em></p>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22FOREXCOM%3ANSXUSD%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="TV차트 나스닥100 (TradingView)" style="width:100%;height:460px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<div style="font-size:0.78em;color:var(--gray);margin:-6px 0 14px;">※ 사이트 버전 — 나스닥100은 **NSXUSD(CFD)** 차트로 표시됩니다.</div>
+<h4 id="-vix-공포지수">😱 VIX (공포지수)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-vix-공포지수" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><em>20 상회 = 위험 구간 (If-Then 4번 트리거)</em></p>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22AMEX%3AVXX%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="TV차트 VIX (TradingView)" style="width:100%;height:460px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<div style="font-size:0.78em;color:var(--gray);margin:-6px 0 14px;">※ 사이트 버전 — VIX는 **VXX(VIX 단기선물 ETF)** 차트로 표시됩니다.</div>
+<h4 id="️-미국-10년물">🏛️ 미국 10년물<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-미국-10년물" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><em>5.00% 돌파 = 성장주 압박 (If-Then 1번 트리거)</em></p>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3AIEF%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="TV차트 미10년물 (TradingView)" style="width:100%;height:460px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<div style="font-size:0.78em;color:var(--gray);margin:-6px 0 14px;">※ 사이트 버전 — 미10년물 금리는 **IEF(7~10년 국채 ETF)** 차트로 대체 표시됩니다.</div>
+<h4 id="️-미국-2년물">🏛️ 미국 2년물<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-미국-2년물" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><em>FOMC 정책금리 기대를 가장 먼저 반영</em></p>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3ASHY%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="TV차트 미2년물 (TradingView)" style="width:100%;height:460px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<div style="font-size:0.78em;color:var(--gray);margin:-6px 0 14px;">※ 사이트 버전 — 미2년물 금리는 **SHY(1~3년 국채 ETF)** 차트로 대체 표시됩니다.</div>
+<h4 id="-코스피">🇰🇷 코스피<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-코스피" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><em>6,800선 이탈 = 국내 분할매수 조건 (If-Then 2번 트리거)</em></p>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>코스피는 TradingView 임베드가 값을 제공하지 않는 심볼이라 👉 <a href="https://www.tradingview.com/symbols/KRX-KOSPI/" class="external external-link"><strong>TradingView에서 실시간으로 보기</strong><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> 로 연결합니다.</p></div>
+                  
+                </div>
+</blockquote>
+<h3 id="-관심종목-실시간-캔들-차트-일봉">⭐ 관심종목 실시간 캔들 차트 (일봉)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-관심종목-실시간-캔들-차트-일봉" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>종목</th><th>무엇을 보나</th></tr></thead><tbody><tr><td><strong>QQQ</strong></td><td>나스닥100 ETF</td></tr><tr><td><strong>QLD</strong></td><td>나스닥100 2배 레버리지 — 내 포트 핵심</td></tr><tr><td><strong>NVDA</strong></td><td>AI 반도체 대장</td></tr><tr><td><strong>AAPL</strong></td><td>관심종목 1개월 1위</td></tr><tr><td><strong>AVGO</strong></td><td>커스텀 실리콘·네트워킹</td></tr><tr><td><strong>MU</strong></td><td>HBM·메모리 사이클</td></tr><tr><td><strong>SOXX</strong></td><td>반도체 섹터 ETF</td></tr><tr><td><strong>RKLB</strong></td><td>우주테크 테마</td></tr></tbody></table></div>
+<h4 id="qqq">QQQ<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#qqq" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3AQQQ%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 QQQ (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="qld">QLD<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#qld" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22AMEX%3AQLD%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 QLD (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="nvda">NVDA<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nvda" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3ANVDA%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 NVDA (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="aapl">AAPL<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#aapl" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3AAAPL%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 AAPL (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="avgo">AVGO<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#avgo" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3AAVGO%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 AVGO (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="mu">MU<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mu" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3AMU%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 MU (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="soxx">SOXX<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#soxx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3ASOXX%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 SOXX (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<h4 id="rklb">RKLB<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rklb" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<iframe src="https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#%7B%22symbol%22%3A%20%22NASDAQ%3ARKLB%22%2C%20%22interval%22%3A%20%22D%22%2C%20%22theme%22%3A%20%22dark%22%2C%20%22style%22%3A%20%221%22%2C%20%22locale%22%3A%20%22kr%22%2C%20%22timezone%22%3A%20%22Asia/Seoul%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22height%22%3A%20%22100%25%22%2C%20%22hide_side_toolbar%22%3A%20true%2C%20%22hide_top_toolbar%22%3A%20true%2C%20%22hide_legend%22%3A%20true%2C%20%22save_image%22%3A%20false%2C%20%22allow_symbol_change%22%3A%20false%2C%20%22withdateranges%22%3A%20false%2C%20%22details%22%3A%20false%2C%20%22calendar%22%3A%20false%7D" loading="lazy" title="차트 RKLB (TradingView)" style="width:100%;height:420px;border:1px solid var(--lightgray);border-radius:10px;" allowfullscreen></iframe>
+<hr/>
+<h2 id="-최신-브리핑-스냅샷--2026-09-14-월요일">🔥 최신 브리핑 스냅샷 — 2026-09-14 월요일<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-최신-브리핑-스냅샷--2026-09-14-월요일" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p>원문 전체: <a href="../../보고서/주식-브리핑/2026-09/w3/주식-브리핑-2026-09-14" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w3/주식-브리핑-2026-09-14">📈 주식 브리핑-2026-09-14</a> (위치 <code>2026-09/W3</code>)</p>
+</blockquote>
+<blockquote class="callout quote" data-callout="quote">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>☀️ 오늘의 한 줄 </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>지난 금요일(9/11) 미장은 **8월 근원 CPI가 예상을 웃돈 +0.3%(예상 +0.2%)**였는데도 <strong>유가 급락</strong>과 **AI 인프라 재료(MS 데이터센터 3배 확대·오라클 호실적)**에 힘입어 3대 지수가 <strong>상승 마감</strong>했어요(S&amp;P <strong>+0.86%</strong>·나스닥 <strong>+0.96%</strong>·다우 <strong>+0.98%</strong>, 필라델피아 반도체 <strong>+1.81%</strong>, VIX 15.84). 그런데 <strong>주말 사이 판이 뒤집혔습니다</strong> — 일요일 호르무즈 해협·사우디 선박에 대한 <strong>추가 공격</strong>으로 <strong>브렌트유 107<del>108달러(+3%대)·WTI 102</del>103달러</strong>로 다시 튀고, <strong>오만이 이란-걸프 회담을 연기</strong>하면서 **나스닥선물 −1.21%·S&amp;P선물 −0.54%**로 내려와 있어요. 오늘 국장은 <strong>갭하락 출발</strong>이 예상되고, 오늘의 두 숫자는 **미 10년물 5.00%**와 <strong>코스피 6,800선</strong>입니다♡</p>
+</div>
+</blockquote>
+<h3 id="-조건부-액션-플랜-if-then">🔫 조건부 액션 플랜 (If-Then)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-조건부-액션-플랜-if-then" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>#</th><th>IF (트리거 · 현재값)</th><th>THEN (행동 · 시점)</th></tr></thead><tbody><tr><td>1</td><td><strong>미 10년물이 5.00% 돌파</strong> <em>(현재 4.975%, +2.5bp 남음)</em></td><td>개장 직후 <strong>QLD·TQQQ·TIGER 미국나스닥100레버리지 신규 매수 전면 중단</strong>, SGOV 비중 <strong>+10%p</strong> 확대</td></tr><tr><td>2</td><td><strong>코스피 장중 6,800선 이탈</strong> <em>(현재 6,909.91 · −1.6% 이하)</em></td><td><strong>삼성전자·SK하이닉스 1차 분할 25%만 집행</strong> — 2차는 FOMC(9/16) 통과 후로 예약 <em>(근거: 9월 1~10일 반도체 수출 +270.1%)</em></td></tr><tr><td>3</td><td><strong>브렌트유 110달러 돌파</strong> <em>(현재 107.53)</em></td><td><strong>QLD 비중 10% 기계적 축소</strong>, 축소분은 SGOV·에너지로 회전 <em>(금리·물가 재점화 방어)</em></td></tr><tr><td>4</td><td><strong>VIX 20 상회</strong> <em>(현재 15.84)</em></td><td><strong>QLD·TQQQ 각 10% 축소 + SGOV 20% 확대</strong>, 익일 아침 재평가</td></tr><tr><td>5</td><td><strong>나스닥선물 −2.0% 이탈</strong> <em>(현재 −1.21%)</em></td><td>오늘 밤 미국장(22:30 KST) <strong>신규 진입 전면 보류</strong>, 현금 대기 후 수요일 FOMC 확인</td></tr></tbody></table></div>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>6번째 규칙 — <strong>IF FOMC(9/16)에서 인상 단행 + 점도표 매파적</strong> THEN 레버리지(QLD·TQQQ)는 <strong>연말까지 '적립식 소액'으로만</strong> 접근 <em>(단일 이벤트에 비중을 싣지 않기)</em></p></div>
+                  
+                </div>
+</blockquote>
+<h3 id="-시장-지표">📊 시장 지표<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-시장-지표" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><em>🇰🇷 코스피·코스닥·🇺🇸 미국 지수 = <strong>9/11(금) 종가</strong> · 🛢️원자재·💵달러인덱스·🌙선물 = <strong>9/13(일) 글로벌 개장 시점</strong> · ₿비트코인 = 9/14 현재가. 등락률은 직전 거래일(9/10 또는 9/11) 종가 대비입니다 — Yahoo 일봉 9/11 봉이 결측인 달러/원은 <strong>9/10 종가 대비</strong> 기준이에요.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th style="text-align:center;">지표</th><th style="text-align:right;">가격</th><th style="text-align:center;">등락률</th><th style="text-align:center;"></th><th style="text-align:center;">지표</th><th style="text-align:right;">가격</th><th style="text-align:center;">등락률</th></tr></thead><tbody><tr><td style="text-align:center;">🇰🇷 코스피</td><td style="text-align:right;">6,909.91</td><td style="text-align:center;">🔵 -1.76%</td><td style="text-align:center;">🇰🇷 코스닥</td><td style="text-align:center;">820.64</td><td style="text-align:right;">🔵 -1.95%</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">🇺🇸 S&amp;P 500</td><td style="text-align:right;">7,656.98</td><td style="text-align:center;">🔴 +0.86%</td><td style="text-align:center;">🇺🇸 나스닥</td><td style="text-align:center;">26,333.04</td><td style="text-align:right;">🔴 +0.96%</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">🇺🇸 다우</td><td style="text-align:right;">52,573.29</td><td style="text-align:center;">🔴 +0.98%</td><td style="text-align:center;">🇺🇸 필라델피아 반도체</td><td style="text-align:center;">11,824.00</td><td style="text-align:right;">🔴 +1.81%</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">💱 달러/원</td><td style="text-align:right;">1,343.98</td><td style="text-align:center;">🔵 -0.31%</td><td style="text-align:center;">🥇 금</td><td style="text-align:center;">4,375.20</td><td style="text-align:right;">🔴 +0.21%</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">🛢️ WTI</td><td style="text-align:right;">102.43</td><td style="text-align:center;">🔴 +2.38%</td><td style="text-align:center;">🛢️ 브렌트유</td><td style="text-align:center;">107.53</td><td style="text-align:right;">🔴 +2.79%</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">😱 VIX</td><td style="text-align:right;">15.84</td><td style="text-align:center;">🔵 -11.21%</td><td style="text-align:center;">🏛️ 미 10년물</td><td style="text-align:center;">4.975%</td><td style="text-align:right;">▲ +3.1bp</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">₿ 비트코인(원)</td><td style="text-align:right;">103,358,136</td><td style="text-align:center;">🔵 -0.29%</td><td style="text-align:center;">💵 달러인덱스</td><td style="text-align:center;">99.13</td><td style="text-align:right;">🔴 +0.01%</td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;">🌙 나스닥선물</td><td style="text-align:right;">29,031.00</td><td style="text-align:center;">🔵 -1.21%</td><td style="text-align:center;">🌙 S&amp;P선물</td><td style="text-align:center;">7,618.00</td><td style="text-align:right;">🔵 -0.54%</td><td style="text-align:center;"></td></tr></tbody></table></div>
+<h3 id="-관심-종목-내-포트폴리오">⭐ 관심 종목 (내 포트폴리오)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-관심-종목-내-포트폴리오" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>종목</th><th style="text-align:right;">9/11 종가</th><th style="text-align:right;">1일</th><th style="text-align:center;">5일</th><th style="text-align:center;">1개월</th></tr></thead><tbody><tr><td>📈 <strong>QLD</strong></td><td style="text-align:right;">89.55</td><td style="text-align:right;">🔴 +1.74%</td><td style="text-align:center;">🔵 -0.92%</td><td style="text-align:center;">🔵 <strong>-3.00%</strong></td></tr><tr><td>📈 <strong>QQQ</strong></td><td style="text-align:right;">714.88</td><td style="text-align:right;">🔴 +0.87%</td><td style="text-align:center;">🔵 -0.39%</td><td style="text-align:center;">🔵 -1.22%</td></tr><tr><td>📈 TQQQ</td><td style="text-align:right;">70.98</td><td style="text-align:right;">🔴 +2.56%</td><td style="text-align:center;">🔵 —</td><td style="text-align:center;">🔵 —</td></tr><tr><td>🖥️ <strong>NVDA</strong></td><td style="text-align:right;">218.29</td><td style="text-align:right;">🔵 -0.03%</td><td style="text-align:center;">🔵 <strong>-4.45%</strong></td><td style="text-align:center;">🔵 -2.59%</td></tr><tr><td>🤖 <strong>AVGO</strong></td><td style="text-align:right;">361.99</td><td style="text-align:right;">🔴 +0.32%</td><td style="text-align:center;">🔴 +1.35%</td><td style="text-align:center;">🔵 <strong>-12.99%</strong></td></tr><tr><td>🍎 <strong>AAPL</strong></td><td style="text-align:right;">332.27</td><td style="text-align:right;">🔴 +1.75%</td><td style="text-align:center;">🔴 +1.24%</td><td style="text-align:center;">🔴 <strong>+9.93%</strong></td></tr><tr><td>💾 <strong>SOXX</strong></td><td style="text-align:right;">527.07</td><td style="text-align:right;">🔴 +1.86%</td><td style="text-align:center;">🔴 <strong>+4.95%</strong></td><td style="text-align:center;">🔵 -3.57%</td></tr><tr><td>💾 <strong>MU</strong></td><td style="text-align:right;">975.26</td><td style="text-align:right;">🔵 -0.22%</td><td style="text-align:center;">🔴 +1.78%</td><td style="text-align:center;">🔴 +7.02%</td></tr><tr><td>🚀 <strong>RKLB</strong></td><td style="text-align:right;">62.95</td><td style="text-align:right;">🔴 +1.60%</td><td style="text-align:center;">🔵 -1.35%</td><td style="text-align:center;">🔵 <strong>-22.45%</strong></td></tr><tr><td>🚀 <strong>ASTS</strong></td><td style="text-align:right;">59.86</td><td style="text-align:right;">🔵 -0.08%</td><td style="text-align:center;">🔵 -3.65%</td><td style="text-align:center;">🔵 <strong>-19.45%</strong></td></tr><tr><td>🔬 <strong>IONQ</strong></td><td style="text-align:right;">36.75</td><td style="text-align:right;">🔵 -0.24%</td><td style="text-align:center;">🔵 <strong>-5.82%</strong></td><td style="text-align:center;">🔵 <strong>-18.69%</strong></td></tr><tr><td>💵 <strong>SGOV</strong></td><td style="text-align:right;">100.52</td><td style="text-align:right;">🔴 +0.02%</td><td style="text-align:center;">🔴 +0.09%</td><td style="text-align:center;">⚪ 0.00%</td></tr></tbody></table></div>
+<hr/>
+<h2 id="-최근-브리핑">📄 최근 브리핑<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-최근-브리핑" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>총 <strong>10</strong>건 — 사이트에서는 Dataview 대신 이 표가 목록을 대신합니다</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th style="text-align:center;">날짜</th><th style="text-align:center;">요일</th><th style="text-align:center;">위치</th></tr></thead><tbody><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w3/주식-브리핑-2026-09-14" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w3/주식-브리핑-2026-09-14">2026-09-14</a></td><td style="text-align:center;">월요일</td><td style="text-align:center;"><code>2026-09/W3</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-11" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-11">2026-09-11</a></td><td style="text-align:center;">금요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-10" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-10">2026-09-10</a></td><td style="text-align:center;">목요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-09" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-09">2026-09-09</a></td><td style="text-align:center;">수요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-08" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-08">2026-09-08</a></td><td style="text-align:center;">화요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-07" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-07">2026-09-07</a></td><td style="text-align:center;">월요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-04" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-04">2026-09-04</a></td><td style="text-align:center;">금요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-03" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-03">2026-09-03</a></td><td style="text-align:center;">목요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-02" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-02">2026-09-02</a></td><td style="text-align:center;">수요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-01" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-01">2026-09-01</a></td><td style="text-align:center;">화요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr></tbody></table></div>
+<h2 id="-최근-미장-프리뷰">🌙 최근 미장 프리뷰<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-최근-미장-프리뷰" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>총 <strong>9</strong>건</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th style="text-align:center;">날짜</th><th style="text-align:center;">요일</th><th style="text-align:center;">위치</th></tr></thead><tbody><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-11" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-11">2026-09-11</a></td><td style="text-align:center;">금요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-10" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-10">2026-09-10</a></td><td style="text-align:center;">목요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-09" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-09">2026-09-09</a></td><td style="text-align:center;">수요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-08" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-08">2026-09-08</a></td><td style="text-align:center;">화요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-07" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-07">2026-09-07</a></td><td style="text-align:center;">월요일</td><td style="text-align:center;"><code>2026-09/W2</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-04" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-04">2026-09-04</a></td><td style="text-align:center;">금요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-03" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-03">2026-09-03</a></td><td style="text-align:center;">목요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-02" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-02">2026-09-02</a></td><td style="text-align:center;">수요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-01" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-01">2026-09-01</a></td><td style="text-align:center;">화요일</td><td style="text-align:center;"><code>2026-09/W1</code></td></tr></tbody></table></div>
+<h2 id="-월별--주차별-구조">📁 월별 · 주차별 구조<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-월별--주차별-구조" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th style="text-align:center;">위치</th><th style="text-align:center;">브리핑</th><th style="text-align:center;">미장 프리뷰</th></tr></thead><tbody><tr><td style="text-align:center;"><code>2026-09/W1</code></td><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-04" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-04">2026-09-04</a>, <a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-03" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-03">2026-09-03</a>, <a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-02" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-02">2026-09-02</a>, <a href="../../보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-01" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/주식-브리핑-2026-09-01">2026-09-01</a></td><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-04" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-04">2026-09-04</a>, <a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-03" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-03">2026-09-03</a>, <a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-02" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-02">2026-09-02</a>, <a href="../../보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-01" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w1/미장-프리뷰-2026-09-01">2026-09-01</a></td></tr><tr><td style="text-align:center;"><code>2026-09/W2</code></td><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-11" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-11">2026-09-11</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-10" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-10">2026-09-10</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-09" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-09">2026-09-09</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-08" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-08">2026-09-08</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-07" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/주식-브리핑-2026-09-07">2026-09-07</a></td><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-11" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-11">2026-09-11</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-10" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-10">2026-09-10</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-09" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-09">2026-09-09</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-08" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-08">2026-09-08</a>, <a href="../../보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-07" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w2/미장-프리뷰-2026-09-07">2026-09-07</a></td></tr><tr><td style="text-align:center;"><code>2026-09/W3</code></td><td style="text-align:center;"><a href="../../보고서/주식-브리핑/2026-09/w3/주식-브리핑-2026-09-14" class="internal internal-link alias" data-slug="보고서/주식-브리핑/2026-09/w3/주식-브리핑-2026-09-14">2026-09-14</a></td><td style="text-align:center;">—</td></tr></tbody></table></div>
+<h2 id="-주간-요약-주차별">📅 주간 요약 (주차별)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-주간-요약-주차별" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th style="text-align:center;">회차</th><th style="text-align:center;">월</th></tr></thead><tbody><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/주간-요약/2026-09/3주차_주식·매크로_주간_요약" class="internal internal-link alias" data-slug="보고서/주식-브리핑/주간-요약/2026-09/3주차_주식·매크로_주간_요약">3주차_주식·매크로_주간_요약</a></td><td style="text-align:center;"><code>2026-09</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/주간-요약/2026-09/2주차_주식·매크로_주간_요약" class="internal internal-link alias" data-slug="보고서/주식-브리핑/주간-요약/2026-09/2주차_주식·매크로_주간_요약">2주차_주식·매크로_주간_요약</a></td><td style="text-align:center;"><code>2026-09</code></td></tr><tr><td style="text-align:center;"><a href="../../보고서/주식-브리핑/주간-요약/2026-09/1주차_주식·매크로_주간_요약" class="internal internal-link alias" data-slug="보고서/주식-브리핑/주간-요약/2026-09/1주차_주식·매크로_주간_요약">1주차_주식·매크로_주간_요약</a></td><td style="text-align:center;"><code>2026-09</code></td></tr></tbody></table></div>
+<blockquote>
+<p>📁 저장: <code>주식 브리핑/주간 요약/&lt;YYYY-MM>/&lt;N>주차_주식·매크로_주간_요약.md</code> (주차는 <strong>매월 1주차부터 다시 시작</strong> → 월 폴더로 구분)</p>
+</blockquote>
+<hr/>
+<h2 id="️-차트-아카이브">🖼️ 차트 아카이브<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-차트-아카이브" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p>실시간 위젯은 <strong>지금</strong>을 보여주고, 여기 PNG는 <strong>그날의 기록</strong>입니다 (드라이브 공유·아카이브용). 최신 8장.</p>
+</blockquote>
+<p><strong>tradingview_heatmap_2026-09-14</strong></p>
+<p><img src="../../보고서/주식-브리핑/차트/tradingview_heatmap_2026-09-14.png" alt width="700" height="auto"/></p>
+<p><strong>cnn_fg_2026-09-14</strong></p>
+<p><img src="../../보고서/주식-브리핑/차트/cnn_fg_2026-09-14.png" alt width="700" height="auto"/></p>
+<p><strong>finviz_sp500_2026-09-14</strong></p>
+<p><img src="../../보고서/주식-브리핑/차트/finviz_sp500_2026-09-14.png" alt width="700" height="auto"/></p>
+<p><strong>stock_2026-09-14_민감도매트릭스</strong></p>
+<p><img src="../../보고서/주식-브리핑/차트/stock_2026-09-14_민감도매트릭스.png" alt width="700" height="auto"/></p>
+<p><strong>stock_2026-09-14_관심종목주간</strong></p>
+<p><img src="../../보고서/주식-브리핑/차트/stock_2026-09-14_관심종목주간.png" alt width="700" height="auto"/></p>
+<p><strong>stock_2026-09-14_매크로트리거</strong></p>
+<p><img src="../../보고서/주식-브리핑/차트/stock_2026-09-14_매크로트리거.png" alt width="700" height="auto"/></p>
+<hr/>
+<h2 id="-브리핑-시스템-안내">📌 브리핑 시스템 안내<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-브리핑-시스템-안내" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th style="text-align:center;">시각</th><th>작업</th><th>산출물</th></tr></thead><tbody><tr><td style="text-align:center;"><strong>평일 09:00</strong></td><td>주식 브리핑 (전일 미장 리뷰 + 오늘 국장 프리뷰)</td><td><code>주식 브리핑-YYYY-MM-DD.md</code></td></tr><tr><td style="text-align:center;"><strong>평일 22:30</strong></td><td>미장 프리뷰 (오늘 밤 미국장 관전 포인트)</td><td><code>미장 프리뷰-YYYY-MM-DD.md</code></td></tr></tbody></table></div>
+<ul>
+<li><strong>📁 저장</strong>: <code>_헤르메스/보고서/주식 브리핑/&lt;YYYY-MM>/&lt;W#>/</code> (W# = 월요일 시작 주차, 매월 1주차부터)</li>
+<li><strong>📚 출처</strong>: SAVE 리포트 · 오선의 미국 증시 라이브 · insidertracking·KimchiTerminal(텔레그램) · Yahoo Finance · FRED · 한국은행 ECOS · 관세청 · SEC EDGAR · DART · Finviz</li>
+<li><strong>⭐ 관심 종목</strong>: QLD · QQQ · TQQQ · TIGER 미국나스닥100 · NVDA · AVGO · AAPL · 반도체(SOXX·MU) · 우주테크(RKLB·ASTS) · 양자(IONQ) · SGOV</li>
+<li><strong>🧭 위젯 지표 정의</strong>: <code>scripts/widget_spec.py</code> 한 곳에서 관리 — 지표를 바꾸면 브리핑·프리뷰·패널·대시보드에 동시 반영</li>
+</ul></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>그래프 뷰</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.3,&quot;repelForce&quot;:0.85,&quot;centerForce&quot;:0.15,&quot;linkDistance&quot;:48,&quot;fontSize&quot;:0.7,&quot;opacityScale&quot;:1,&quot;showTags&quot;:false,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc"><button type="button" class="toc-header" aria-controls="toc-26" aria-expanded="true"><h3>목차</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#-주식-브리핑-대시보드" data-for="-주식-브리핑-대시보드">📊 주식 브리핑 대시보드</a></li><li class="depth-1"><a href="#-실시간-시장-지금-움직이는-값" data-for="-실시간-시장-지금-움직이는-값">📈 실시간 시장 (지금 움직이는 값)</a></li><li class="depth-1"><a href="#️-실시간-차트뷰" data-for="️-실시간-차트뷰">🕯️ 실시간 차트뷰</a></li><li class="depth-2"><a href="#️-지수--금리--변동성--내-if-then-트리거가-걸린-6개-차트" data-for="️-지수--금리--변동성--내-if-then-트리거가-걸린-6개-차트">🏛️ 지수 · 금리 · 변동성 — 내 If-Then 트리거가 걸린 6개 차트</a></li><li class="depth-2"><a href="#-관심종목-실시간-캔들-차트-일봉" data-for="-관심종목-실시간-캔들-차트-일봉">⭐ 관심종목 실시간 캔들 차트 (일봉)</a></li><li class="depth-1"><a href="#-최신-브리핑-스냅샷--2026-09-14-월요일" data-for="-최신-브리핑-스냅샷--2026-09-14-월요일">🔥 최신 브리핑 스냅샷 — 2026-09-14 월요일</a></li><li class="depth-2"><a href="#-조건부-액션-플랜-if-then" data-for="-조건부-액션-플랜-if-then">🔫 조건부 액션 플랜 (If-Then)</a></li><li class="depth-2"><a href="#-시장-지표" data-for="-시장-지표">📊 시장 지표</a></li><li class="depth-2"><a href="#-관심-종목-내-포트폴리오" data-for="-관심-종목-내-포트폴리오">⭐ 관심 종목 (내 포트폴리오)</a></li><li class="depth-1"><a href="#-최근-브리핑" data-for="-최근-브리핑">📄 최근 브리핑</a></li><li class="depth-1"><a href="#-최근-미장-프리뷰" data-for="-최근-미장-프리뷰">🌙 최근 미장 프리뷰</a></li><li class="depth-1"><a href="#-월별--주차별-구조" data-for="-월별--주차별-구조">📁 월별 · 주차별 구조</a></li><li class="depth-1"><a href="#-주간-요약-주차별" data-for="-주간-요약-주차별">📅 주간 요약 (주차별)</a></li><li class="depth-1"><a href="#️-차트-아카이브" data-for="️-차트-아카이브">🖼️ 차트 아카이브</a></li><li class="depth-1"><a href="#-브리핑-시스템-안내" data-for="-브리핑-시스템-안내">📌 브리핑 시스템 안내</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>백링크</h3><ul id="list-0" class="overflow"><li><a href="../../보고서/주식-브리핑/대시보드/📊-실시간-대시보드-사용법" class="internal">📊 실시간 대시보드 사용법</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script src="../../static/resource-after-e13fffa1.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-8b336f9a.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-baba652b.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-5eb75950.js" type="module" data-persist="true"></script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../../postscript-71bb7528.js" type="module" data-persist="true"></script></html>

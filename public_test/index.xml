@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Sim_Bio_Cortex</title>
+      <link>https://simbio11.github.io/simbio-digital-garden2</link>
+      <description>Last 10 notes on Sim_Bio_Cortex</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>태그 목록</title>
+    <link>https://simbio11.github.io/simbio-digital-garden2/tags/</link>
+    <guid>https://simbio11.github.io/simbio-digital-garden2/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 08:42:55 GMT</pubDate>
+  </item><item>
+    <title>🔴 실시간 위젯 데모</title>
+    <link>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%94%B4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%A0%AF-%EB%8D%B0%EB%AA%A8</link>
+    <guid>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%94%B4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%A0%AF-%EB%8D%B0%EB%AA%A8</guid>
+    <description><![CDATA[ 🔴 실시간 위젯 데모 (노트 안에서 움직임) 사용 전 1회만 옵시디언에서 설정 → 커뮤니티 플러그인 → Custom Frames 끄기 → 켜기 (설정 반영) 그 다음 이 노트를 읽기 모드로 보면 위젯이 실시간으로 움직입니다. ]]></description>
+    <pubDate>Mon, 14 Sep 2026 08:18:45 GMT</pubDate>
+  </item><item>
+    <title>🖥️ 실시간 위젯 넣는 방법</title>
+    <link>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%96%A5%EF%B8%8F-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%A0%AF-%EB%84%A3%EB%8A%94-%EB%B0%A9%EB%B2%95</link>
+    <guid>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%96%A5%EF%B8%8F-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%A0%AF-%EB%84%A3%EB%8A%94-%EB%B0%A9%EB%B2%95</guid>
+    <description><![CDATA[ 🖥️ 실시간 위젯 넣는 방법 (2026-09-14 검증판) ⚠️ 먼저 알아둘 제약 (브라우저 실측) 구분표시 가능?비고미국 주식·ETF (NVDA·AAPL·SOXX·QLD…)✅위젯에서 값 정상CFD·프록시 (SPXUSD·NSXUSD·VXY·DXY·WTI·금·구리·BTC)✅실측 확인지수·국채·VIX 원지수 (SP:SPX·NDX·US10Y·VIX·KOSPI)❌ 위젯 불가”이 심볼은 트레이딩뷰에서만 쓸 수 있습니다” → 실시간 페이지 프레임 사용 📋 등록된 프레임 (24개) ① 위젯형 (임베드) 프레임내용티커 테이프핵심 8지표 한 줄... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 08:18:45 GMT</pubDate>
+  </item><item>
+    <title>🃏 관심종목 카드 샘플</title>
+    <link>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%83%8F-%EA%B4%80%EC%8B%AC%EC%A2%85%EB%AA%A9-%EC%B9%B4%EB%93%9C-%EC%83%98%ED%94%8C</link>
+    <guid>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%83%8F-%EA%B4%80%EC%8B%AC%EC%A2%85%EB%AA%A9-%EC%B9%B4%EB%93%9C-%EC%83%98%ED%94%8C</guid>
+    <description><![CDATA[ 🃏 관심종목 카드 — 새 형식 샘플 무엇이 바뀌나 기존: 종목당 5~7줄 줄글 → 새 형식: 4줄 카드(왜/수치/판정/출처) + 실시간 미니차트 정보량은 그대로, 스캔 속도는 2배! ① 한눈 요약 표 종목현재가1일5일1개월판정AVGO361.99+0.32%+1.35%−12.99%⏳ 관망MU975.26−0.22%+1.78%—⚔️ 충돌AAPL332.27+1.75%—+9.93%🟢 강세QLD——−0.92%−3.00%⚠️ 리스크 ② 종목별 카드 🤖 AVGO — 반도체 반등의 숨은 수혜 왜: MS 데이터센터 12GW→2032년 38GW(3... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 08:01:25 GMT</pubDate>
+  </item><item>
+    <title>📊 실시간 대시보드 사용법</title>
+    <link>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%93%8A-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EC%82%AC%EC%9A%A9%EB%B2%95</link>
+    <guid>https://simbio11.github.io/simbio-digital-garden2/%F0%9F%93%8A-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EC%82%AC%EC%9A%A9%EB%B2%95</guid>
+    <description><![CDATA[ 📊 실시간 시장 대시보드 — 사용법 두 가지 방법 (역할이 달라요) ① 옵시디언 안 (TradingView Widget 플러그인) = 패널에서 실시간으로 움직이는 차트 ② HTML 대시보드 = 브라우저에서 여러 위젯을 한 화면에 ① 옵시디언 패널 (실시간) Ctrl + P → “Open stock view” 실행 → 실시간 위젯 패널이 열림 패널 ⚙️ 에서 위젯 종류(히트맵·티커·심볼 요약·고급 차트)·심볼·테마 선택 🔄 = 새로고침 오른쪽에 이 패널, 왼쪽에 그날 브리핑 노트 → 노트 보면서 실시간 시장 (권장) workspa... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 08:01:25 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
