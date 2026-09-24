@@ -81,7 +81,7 @@ date: 2026-09-08
 ## 3. COX 회로와의 상호작용 및 아스피린 유발 천식 병리
 
 * **기질 션팅 현상 (Substrate Shunting)**:
-  * 통증 치료를 위해 [[의학/03_이론/호르몬, 신호전달물질/COX|COX]] 저해제(NSAIDs, 아스피린)를 투여하여 COX 경로를 차단하면, 잉여 아라키돈산이 대거 [[5-LOX]] 경로로 쏠리는(Shunting) 현상 발생.
+  * 통증 치료를 위해 [[_의학/03_이론/호르몬, 신호전달물질/COX|COX]] 저해제(NSAIDs, 아스피린)를 투여하여 COX 경로를 차단하면, 잉여 아라키돈산이 대거 [[5-LOX]] 경로로 쏠리는(Shunting) 현상 발생.
 * **아스피린 유발 천식 (Aspirin-Exacerbated Respiratory Disease, AERD)**:
   * COX 차단으로 기관지 확장 인자인 PGE2는 급감하고, 5-LOX 산물인 CysLTs(LTC4/LTD4)가 폭발적으로 합성되어 치명적인 급성 기관지 연축, 천명음, 비강 폴립 발작 유발.
   * 따라서 호흡기 환자에게는 단순 COX 억제제보다 **COX/5-LOX 이중 억제제(Dual inhibitor)**가 훨씬 안전함.

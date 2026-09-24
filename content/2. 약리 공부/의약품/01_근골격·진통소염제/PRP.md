@@ -74,7 +74,7 @@ graph TD
 
 ---
 
-## 의학/04_임상 용법·용량 (Dosage & Administration)
+## _의학/04_임상 용법·용량 (Dosage & Administration)
 
 | 적응 | 용법·용량 | 비고 |
 | :--- | :--- | :--- |
