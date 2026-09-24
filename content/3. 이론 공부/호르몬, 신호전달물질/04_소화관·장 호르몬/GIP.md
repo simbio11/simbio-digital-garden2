@@ -1,0 +1,26 @@
+---
+aliases:
+  - gastrointestinal peptides
+  - 위 억제 펩타이드
+tags:
+  - 이론
+title: GIP
+date: 2026-09-22
+출처: "https://www.uniprot.org/uniprotkb/P09681"
+---
+- 분비 위치: 상부 소장의 점막
+- 분비 자극: 지방산, 아미노산 
+- 역할:
+1) 위의 운동성을 감소시킴-> 상부 소장에 음식물이 과부화되면 위에서 더 내려오는 것을 느리게 함 
+2) [[인슐린]] 분비를 촉진
+- 고혈당에서는 [[인슐린]] 분비 촉진, 저혈당에서는 [[글루카곤]] 분비 촉진 
+# [[GIP]]와 [[GLP-1]]
+- [[GIP]]와 [[GLP-1]]은 둘 다 장점막에서 영양분 섭취 자극에 의해 분비되어 췌장의 베타세포에서 [[인슐린]] 분비를 촉진하는 [[인크레틴]] 호르몬이다. 
+- 하지만 [[GIP]]는 [[글루카곤]] 분비를 촉진하고 [[GLP-1]]은 [[글루카곤]] 분비를 억제 
+- 지방조직에서 [[GIP]]는 fat diposition을 촉진하지만 [[GLP-1]]은 그런 기능이 없음 
+- 뼈조직에서 [[GIP]]는 bone formation을 촉진하지만 [[GLP-1]]은 bone absorption을 억제 
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!info] 🧪 3D 뷰어 미적용
+> GIP은(는) 소분자가 아닌 위억제펩타이드(GIP) 단백질이라 PubChem 소분자 CID가 없습니다. UniProt [P09681](https://www.uniprot.org/uniprotkb/P09681)로 확인하세요.

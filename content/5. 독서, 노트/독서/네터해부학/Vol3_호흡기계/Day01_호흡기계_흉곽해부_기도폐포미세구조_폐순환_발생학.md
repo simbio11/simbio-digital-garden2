@@ -8,22 +8,20 @@ total_plates: 43
 source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
 source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 호흡기학
-  - 흉곽해부학
   - 횡격막
-  - 기관기관지나무
-  - 폐포모세혈관단위
   - 계면활성제
-  - 폐순환
-  - 폐발생학
-  - 선천성횡격막헤르니아
 aliases:
   - "Netter Respiratory Day 01"
   - "Netter 호흡기계 해부발생"
   - "Respiratory Anatomy & Embryology Master Note"
 status: completed
 created: 2026-09-18
+title: Day01_호흡기계_흉곽해부_기도폐포미세구조_폐순환_발생학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 ---
 
 # Netter Respiratory Day 01: 호흡기계의 해부학 및 발생학 (Anatomy and Embryology) — 흉곽·기도·폐포·폐순환·발생단계 (pp. 3–45)
@@ -513,3 +511,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 1 전체 43개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 흉곽해부학, 기관기관지나무, 폐포모세혈관단위, 폐순환, 폐발생학, 선천성횡격막헤르니아 -->

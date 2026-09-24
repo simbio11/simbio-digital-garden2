@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=911nK2zX9Q0"
 ---
 
 # 📌 2026년 최신 AI 트렌드 리포트 오픈AI AGI 임계점 도달 및 아스트라·할라피뇨부터 글로벌 AI 빅테크 주요 신제품 총정리

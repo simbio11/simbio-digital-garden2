@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-07
 created_at: 2026-09-07 08:32:10
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=t4XEda3CB3Q"
 ---
 
 # 📌 옵시디언과 클로드 코드를 활용한 LLM 위키(LLM Wiki) 구축 및 RAG와의 차이점 분석

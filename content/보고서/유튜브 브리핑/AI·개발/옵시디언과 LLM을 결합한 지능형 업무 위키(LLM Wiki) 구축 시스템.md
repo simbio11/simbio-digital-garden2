@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=UbxFpDuWt8Q"
 ---
 
 # 📌 옵시디언과 LLM을 결합한 지능형 업무 위키(LLM Wiki) 구축 시스템

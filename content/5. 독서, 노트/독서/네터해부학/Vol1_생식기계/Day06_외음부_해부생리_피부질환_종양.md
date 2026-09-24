@@ -8,21 +8,22 @@ total_plates: 18
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 산부인과
   - 생식기계
-  - 외음부
-  - 여성생식기
   - 피부질환
   - 성매개감염
-  - 외음부암
 aliases:
   - 네터 생식기계 Day 06
   - 외음부
 status: completed
 created: 2026-09-16
+title: Day06_외음부_해부생리_피부질환_종양
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 06: 외음부 - 해부·림프배액·피부병변·감염 및 악성종양학 (Section 6 완독)
@@ -609,3 +610,5 @@ graph TD
   - 분만 시 **전방 회음절개술 (Anterior episiotomy)** 시행.
   - *법적 금기 사항*: **분만 후 절개된 부위를 과거의 봉쇄 상태로 다시 꿰매는 재봉쇄술(Reinfibulation)은 영국 등 다수 국가에서 법적으로 엄격히 금지된 불법 행위**임.
   - 환자에 대해 편견 없는 공감적·수용적(Nurturing, nonjudgmental) 진료 필수.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 외음부, 여성생식기, 외음부암 -->

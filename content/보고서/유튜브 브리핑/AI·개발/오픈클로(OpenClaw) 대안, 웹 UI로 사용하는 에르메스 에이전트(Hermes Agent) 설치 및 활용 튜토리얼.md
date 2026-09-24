@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=VBWM5ZEQtcY"
 ---
 
 # 📌 오픈클로(OpenClaw) 대안, 웹 UI로 사용하는 에르메스 에이전트(Hermes Agent) 설치 및 활용 튜토리얼

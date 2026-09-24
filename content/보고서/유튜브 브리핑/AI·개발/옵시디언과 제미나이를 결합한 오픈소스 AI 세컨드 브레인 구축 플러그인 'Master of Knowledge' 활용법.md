@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-07
 created_at: 2026-09-07 08:32:10
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=VYXr0M7IYJk"
 ---
 
 # 📌 옵시디언과 제미나이를 결합한 오픈소스 AI 세컨드 브레인 구축 플러그인 'Master of Knowledge' 활용법

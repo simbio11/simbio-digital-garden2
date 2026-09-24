@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-22
 created_at: 2026-09-22 08:32:01
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=vjSZIyYd0NI"
 ---
 
 # 📌 클로드 코드 필수 플러그인 'Insane-search'로 완성하는 무코드 웹 크롤링 및 데이터 수집 가이드

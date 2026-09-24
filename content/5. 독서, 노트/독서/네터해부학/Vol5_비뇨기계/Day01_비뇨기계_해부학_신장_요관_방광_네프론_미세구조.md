@@ -8,24 +8,22 @@ total_plates: 27
 source_file: "The Netter Collection of Medical Illustrations - Volume 5, Urinary System.pdf"
 source_url: "https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
-  - 신장내과
   - 비뇨의학과
   - 신장
-  - 요관
-  - 방광
-  - 네프론
   - 사구체
-  - 세뇨관
-  - 요로상피
   - 자율신경계
 aliases:
   - "네터 비뇨기계 Day 01"
   - "비뇨기계 해부학"
 status: completed
 created: 2026-09-17
+title: Day01_비뇨기계_해부학_신장_요관_방광_네프론_미세구조
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.5] Day 01: 비뇨기계 해부학 - 신장·요관·방광의 3차원 육안해부, 맥관계·신경망 및 네프론 초미세조직학 (Section 1 완독)
@@ -809,3 +807,5 @@ graph TD
   - 심장의 동방결절(SA node) 및 위장관의 카할간질세포(ICC)와 유사하게 자발적 탈분극(Spontaneous rhythmic depolarization)을 생성하여 요관 연동운동($2\sim 6\text{회/분}$)을 개시함.
 
 ---
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 신장내과, 요관, 방광, 네프론, 세뇨관, 요로상피 -->

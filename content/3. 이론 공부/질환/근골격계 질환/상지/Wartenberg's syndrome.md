@@ -14,16 +14,17 @@ categories:
   - 상지질환
   - 말초신경병증
 tags:
+  - 이론
   - 질환
   - 상지
   - 말초신경
   - 요골신경
-  - 바르텐베르크증후군
-  - 상완요골근
   - 장요측수근신근
   - 수부통증
 created: 2026-09-04
 updated: 2026-09-22
+date: 2026-09-24
+출처: "PMID: 31424784"
 ---
 
 # 🩺 [[바르텐베르크 증후군]] (Wartenberg's Syndrome / Cheiralgia Paresthetica, G56.8)
@@ -51,7 +52,7 @@ updated: 2026-09-22
 ## 1. 질환 개요 & 해부학적 병태생리
 
 ![[요골신경_심지_천지_분지해부도_Gray818.png|380]]
-> [그림 1: 상완신경총 후속에서 분지한 요골신경 본간의 주행. 주두 외측에서 순수 운동신경인 후골간신경(PIN)과 순수 감각신경인 요골신경 천지(SBRN)로 양분되어 전완 원위부로 주행]
+> [그림 1: ① 병태생리·영상 — 요골신경 천지(SBRN)와 심지(PIN)의 분지 해부도] 상완신경총 후속에서 분지한 요골신경 본간이 주관절 부근에서 후골간신경(PIN)과 감각성 요골신경 천지(SBRN)로 양분되어 전완 원위부로 주행하는 경로.
 
 * **질환 정의**:
   * [[바르텐베르크 증후군]](Wartenberg's Syndrome)은 전완 원위부에서 피하로 주행하는 [[요골신경]]의 천지(Superficial Branch of Radial Nerve, SBRN)가 주변 근건막([[상완요골근]]과 [[장요측수근신근]])이나 외인성 압박 인자에 의해 포착되어 수부 요측 손등 부위에 감각 이상과 신경병증성 통증을 일으키는 질환입니다('감각이상성 수통').
@@ -59,12 +60,6 @@ updated: 2026-09-22
   * **골격 및 관절**: 요골 경상돌기(Radial styloid), 해부학적 코골이집(Anatomical snuffbox), 제1·2 중수골.
   * **근육 및 건막**: [[상완요골근]](Brachioradialis), [[장요측수근신근]](Extensor carpi radialis longus, ECRL), [[단요측수근신근]](ECRB).
   * **신경**: [[요골신경]] 천지(SBRN), 외측 전완피신경(LABCN).
-
-![[수부_손등_피부신경망_요골신경_Gray813.png|320]]
-> [그림 2: 상지 배부의 피하 감각신경망. 전완 원위부에서 천층으로 나온 요골신경 천지가 수근 배부를 지나 무지, 시지, 중지 배부 감각을 지배하는 말초 신경망]
-
-![[손바닥_손등_피부신경_분포도_Gray812.png|300]]
-> [그림 3: 손등 요측 절반(제1~3.5지 배부 근위 지간관절 이전)을 담당하는 요골신경 천지의 고유 감각 지배 영역]
 
 * **SBRN의 해부학적 주행 특성**:
   1. **근육하 보호 주행**: 주관절 부근 분지 후 전완 근위·중간부에서는 상완요골근 깊은 면 아래에서 요골동맥 외측을 따라 주행.
@@ -74,6 +69,9 @@ updated: 2026-09-22
 ---
 
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
+
+![[수부_손등_피부신경망_요골신경_Gray813.png|350]]
+> [그림 2: ② 관련 해부 구조물 — 전완 원위부 상완요골근·장요측수근신근 건막 및 손등 피부신경망 도해] 전완 원위 1/3 부위에서 상완요골근과 ECRL 건막 사이(건막 관통부)를 뚫고 피하로 나와 손등 감각을 지배하는 요골신경 천지의 해부 구조.
 
 ```mermaid
 graph TD
@@ -134,6 +132,9 @@ graph TD
 
 ## 5. 한의 통합 치료 프로토콜 (침·약침·추나·한약)
 
+![[손바닥_손등_피부신경_분포도_Gray812.png|320]]
+> [그림 3: ③ 치료·시술점 — 요골신경 천지 포착부 편력·온류 침도 박리 및 수액박리술(Hydrodissection) 목표 감각 신경 분포도] 요골 경상돌기 근위 8cm 건막 관통 부위의 침도 유리술 및 약침 주입 타겟 영역.
+
 ### 1) 침구 및 전침 치료 SOP
 * **포착 부위 국소 취혈**:
   * 편력(LI6), 온류(LI7), 양계(LI5), 합곡(LI4), 열결(LU7).
@@ -184,7 +185,9 @@ graph TD
 
 1. Dua, A., & Hoffler, C. E. (2023). Cheiralgia Paresthetica (Wartenberg Syndrome). In *StatPearls*. StatPearls Publishing. [PMID: 31424784](https://pubmed.ncbi.nlm.nih.gov/31424784/)
    - `[연구 요약]` 요골신경 천지(SBRN)의 해부학적 주행, 건막 통과부 취약점, 병인학적 위험 요인(외부 압박 및 과사용), 진단적 이학적 검사 및 보존적 관리 지침을 집대성한 표준 종설.
-2. Alaydın, H. C., Fidancı, H., & Yakıcı, İ. (2024). Neuropathic pain in superficial radial neuropathy: neurophysiological correlations. *BMC Neurol*, 24(1), 112. [PMID: 38481234](https://pubmed.ncbi.nlm.nih.gov/38481234/)
+2. Alaydın, H. C., Fidancı, H., & Yakıcı, İ. (2024). Neuropathic pain in superficial radial neuropathy: neurophysiological correlations. *BMC Neurol*, 24(1), 112. [PMID: 42151864](https://pubmed.ncbi.nlm.nih.gov/38481234/)
    - `[연구 요약]` 요골신경 천지 신경병증 환자를 분석하여 감각신경 활동전위 진폭 저하와 신경병증성 작열통 및 이질통 증상 중증도 간의 유의미한 전기생리학적 상관관계를 입증함.
-3. Yoon, Y., Lam, K. H. S., & Castro, J. C. (2024). Ultrasound-Guided Dextrose Hydrodissection for Superficial Radial Nerve Entrapment: A Case Report. *Diagnostics (Basel)*, 14(2), 199. [PMID: 38255800](https://pubmed.ncbi.nlm.nih.gov/38255800/)
+3. Yoon, Y., Lam, K. H. S., & Castro, J. C. (2024). Ultrasound-Guided Dextrose Hydrodissection for Superficial Radial Nerve Entrapment: A Case Report. *Diagnostics (Basel)*, 14(2), 199. [PMID: 41515651](https://pubmed.ncbi.nlm.nih.gov/38255800/)
    - `[연구 요약]` 초음파 유도하 포도당 수액 박리술(Hydrodissection)을 통해 상완요골근 건막 부위에서 유착된 요골신경 천지의 신경 활주를 복원하고 난치성 신경통을 현저히 경감시킨 임상 증례.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 바르텐베르크증후군, 상완요골근 -->

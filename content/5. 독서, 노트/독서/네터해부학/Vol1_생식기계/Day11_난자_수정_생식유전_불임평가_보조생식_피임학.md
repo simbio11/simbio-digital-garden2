@@ -8,21 +8,19 @@ total_plates: 9
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 산부인과
-  - 생식내분비학
-  - 불임학
-  - 수정생리
-  - 보조생식술
-  - 피임학
-  - 반복유산
 aliases:
   - "네터 생식기계 Day 11"
   - "난자와 생식의학"
 status: completed
 created: 2026-09-16
+title: Day11_난자_수정_생식유전_불임평가_보조생식_피임학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 11: 난자와 생식의학 - 난자발생·수정·생식유전·난임평가·반복유산·보조생식(IVF) 및 피임학 (Section 11 완독)
@@ -611,3 +609,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 11 9개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 생식내분비학, 불임학, 수정생리, 보조생식술, 피임학, 반복유산 -->

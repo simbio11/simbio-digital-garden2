@@ -3,7 +3,15 @@ date: 2026-09-15
 series_no: 1
 topic: "밤에 자다가 손이 저려서 깨요"
 leading_dx: "손목터널증후군(수근관 증후군, Carpal Tunnel Syndrome, CTS)"
-tags: [Clinical_Master_Dive, 손목, 수근관증후군, CTS, 정중신경, 손저림, 야간통]
+tags:
+  - 생활
+  - Clinical_Master_Dive
+  - 손목
+  - 수근관증후군
+  - CTS
+  - 정중신경
+title: 08_밤에 자다가 손이 저려서 깨요_손목터널증후군_CTS
+출처: "https://www.ncbi.nlm.nih.gov/books/NBK482312/"
 ---
 
 # 🗨️ "밤에 자다가 손이 저려서 깨요"
@@ -160,3 +168,5 @@ tags: [Clinical_Master_Dive, 손목, 수근관증후군, CTS, 정중신경, 손�
 ---
 
 **출처 안내**: 본문 인용은 원칙적으로 볼트 내 실제 노트 원문 발췌이며, 볼트에 전용 노트가 없는 레드플래그 3개 항목([외부 조사] 표시)은 위 외부 문헌을 직접 조사·확인하여 출처 링크와 함께 보완했다. 원문 노트는 수정하지 않았다.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 손저림, 야간통 -->

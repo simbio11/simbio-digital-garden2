@@ -4,6 +4,10 @@ aliases:
   - Vastus Medialis Obliquus
   - 내측광근사두섬유
   - 빗내측넓은근
+tags:
+  - 근골격계
+title: VMO
+date: 2026-09-05
 ---
 # [[VMO]](Vastus Medialis Obliquus / 내측광근 사두섬유)
 
@@ -11,18 +15,6 @@ aliases:
 > [[대퇴골]] 조선 내측순 및 대내전근 원위 건막에서 기시하여 50~55도 사선 각도로 주행해 [[슬개골]] 내측연 상부 및 내측슬개대퇴인대(MPFL)에 정지하는 내측광근 원위부 특수 섬유.
 > [[대퇴신경]](Femoral nerve, L2-L4)의 분지 지배를 받으며, 슬개골의 외측 탈구를 막고 활차구 내 완벽한 중심 궤도를 유지하는 유일한 내측 동적 제동기.
 > 주치 병증은 [[슬개대퇴통증증후군]](PFPS), [[슬개골 연골연화증]], 슬개골 재발성 외측 아탈구 및 무릎 신전 종말 15도 결손(Extension lag).
-
----
-
-## 📌 목차
-1. [해부학적 정밀 구조 및 지배 신경/혈관](#1-해부학적-정밀-구조-및-지배-신경혈관)
-2. [생체역학·토크 분석 & 근막 사슬 (Biomechanical Synergy)](#2-생체역학토크-분석--근막-사슬-biomechanical-synergy)
-3. [근막통증증후군(TP) & 연관통 패턴 (Travell & Simons)](#3-근막통증증후군tp--연관통-패턴-travell--simons)
-4. [초음파 해부학(Sonoanatomy) 및 중재 시술 랜드마크](#4-초음파-해부학sonoanatomy-및-중재-시술-랜드마크)
-5. [⭐ 원장님 심층 임상 고찰 및 원본 필기 (Clinical Pearls)](#5--원장님-심층-임상-고찰-및-원본-필기-clinical-pearls)
-6. [관련 임상 질환 및 운동손상 증후군 총괄](#6-관련-임상-질환-및-운동손상-증후군-총괄)
-7. [추나·도수치료(MET/PIR) & 침구·약침·재활 프로토콜](#7-추나도수치료metpir--침구약침재활-프로토콜)
-8. [출처 및 학술 참고 문헌 (References)](#8-출처-및-학술-참고-문헌-references)
 
 ---
 
@@ -121,7 +113,7 @@ aliases:
 
 * Standring S. *Gray's Anatomy: The Anatomical Basis of Clinical Practice*. 42nd ed. Elsevier, 2020: 1354.
   * `[연구 요약]`: 내측광근 사두(VMO)의 독자적 섬유 주행각도(50~55도) 및 슬개골 안정화 해부학 분석.
-* Powers CM. *The influence of altered lower-extremity kinematics on patellofemoral joint dysfunction: a theoretical perspective*. J Orthop Sports Phys Ther, 2003; 33(11): 639-646. [PMID: 14669959](https://pubmed.ncbi.nlm.nih.gov/14669959/)
+* Powers CM. The influence of altered lower-extremity kinematics on patellofemoral joint dysfunction: a theoretical perspective. *J Orthop Sports Phys Ther*. 2003;33(11):639-646.
   * `[연구 요약]`: VMO 근력 저하와 슬개골 외측 트래킹 이상이 PFPS에 미치는 생체역학적 기전 규명.
 * Travell, J. G., & Simons, D. G. *Myofascial Pain and Dysfunction*. Williams & Wilkins, 1999.
   * `[연구 요약]`: 내측광근 사두 발통점과 슬개골 내측 방사통 패턴.

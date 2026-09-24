@@ -1,3 +1,11 @@
+---
+title: Day01_피부_발생해부생리_및_양성종양_Part1
+date: 2026-09-21
+tags:
+  - 독서
+출처: "https://drive.google.com/file/d/1hNbHNAGsYrJc0hTEAQVe\_R4TlMxQRFF1/view?usp=drivesdk\""
+---
+
 \---
 
 type: 의학원서\_요약노트

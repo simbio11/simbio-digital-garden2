@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=blnnF9ubEVo"
 ---
 
 # 📌 옵시디언, 클로드 코드, VS Code로 구축하는 10배 저렴한 개인용 AI RAG 시스템

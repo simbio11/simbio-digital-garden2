@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-07
 created_at: 2026-09-07 08:32:10
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=jzsn2sGX6b8"
 ---
 
 # 📌 구글 제미나이(Gemini) 업무 효율을 500% 극대화하는 실전 활용법 5가지

@@ -8,21 +8,20 @@ total_plates: 9
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 비뇨의학과
   - 생식기계
-  - 남성불임
-  - 정자학
-  - 사정장애
-  - 무정자증
-  - 미세수술
 aliases:
   - 네터 생식기계 Day 05
   - 정자와 사정
 status: completed
 created: 2026-09-16
+title: Day05_정자_사정_생리_불임학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 05: 정자와 사정 - 미세해부·정액분석·무정자증 및 남성불임 수술학 (Section 5 완독)
@@ -416,3 +415,5 @@ graph TD
 - **수술 후 관리 및 예후**:
   - 24시간 동안 소구경 폴리 도뇨관(Foley catheter) 거치 후 발관.
   - **성적**: 환자의 **60~70%에서 정액 지표가 획기적이고 영구적으로 정상화**되며, **30~40%에서 자연 임신** 달성.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 남성불임, 정자학, 사정장애, 무정자증, 미세수술 -->

@@ -8,14 +8,17 @@ aliases:
   - 경골 조면 골단염
   - 경골 결절 견열 골연골염
 tags:
+  - 이론
   - 질환
   - 근골격계
   - 하지
   - 소아청소년
-  - 성장통
   - 슬관절
   - 경골조면
   - 대퇴사두근
+title: Osgood Schlatter 병
+date: 2026-09-15
+출처: "PMID: 28723024"
 ---
 
 # 🫁 [[Osgood Schlatter 병]] (Osgood-Schlatter Disease, 경골 조면 골단염)
@@ -171,3 +174,5 @@ tags:
   * `[연구 요약]` 청소년 운동선수 집단에서 오스굿-슐라터병의 유병률(9.8%)과 축구 등 규칙적인 스포츠 활동 및 성장 급증과의 밀접한 역학적 상관관계를 규명함.
 * Rathleff MS, Winiarski L, Krommes K, et al. Pain, sports participation, and quality of life in adolescents with Osgood-Schlatter disease: a prospective cohort study. *Br J Sports Med*. 2020;54(8):e1. [PMID: 32066551](https://pubmed.ncbi.nlm.nih.gov/32066551/)
   * `[연구 요약]` 오스굿-슐라터병 청소년 코호트 추적 관찰을 통해 보존적 운동 부하 조절이 장기적인 무릎 기능 회복과 스포츠 복귀에 미치는 긍정적 예후를 입증함.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 성장통 -->

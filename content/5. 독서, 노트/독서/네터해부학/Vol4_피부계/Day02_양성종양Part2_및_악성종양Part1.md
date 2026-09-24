@@ -1,3 +1,11 @@
+---
+title: Day02_양성종양Part2_및_악성종양Part1
+date: 2026-09-21
+tags:
+  - 독서
+출처: "https://drive.google.com/file/d/1hNbHNAGsYrJc0hTEAQVe\_R4TlMxQRFF1/view?usp=drivesdk\""
+---
+
 \---
 
 type: 의학원서\_요약노트

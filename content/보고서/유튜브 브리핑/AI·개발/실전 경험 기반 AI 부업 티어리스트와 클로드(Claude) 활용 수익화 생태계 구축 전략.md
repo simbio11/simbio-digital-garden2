@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-16
 created_at: 2026-09-16 09:11:20
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=x6lcK-7q0T8"
 ---
 
 # 📌 실전 경험 기반 AI 부업 티어리스트와 클로드(Claude) 활용 수익화 생태계 구축 전략

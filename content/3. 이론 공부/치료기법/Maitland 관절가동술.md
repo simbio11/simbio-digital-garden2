@@ -1,7 +1,10 @@
 ---
 type: 의학개념
 category: 치료기법
-tags: [개념사전, 도수치료, Maitland, 관절가동술, 등급, 진동]
+tags:
+  - 이론
+  - 개념사전
+  - 도수치료
 created: 2026-09-15
 aliases:
   - Maitland
@@ -9,6 +12,9 @@ aliases:
   - 관절가동술 등급
   - Grade I-V mobilization
   - 진동성 관절가동
+title: Maitland 관절가동술
+date: 2026-09-15
+출처: PMID 42095617
 ---
 # Maitland 관절가동술 (Maitland Mobilisation, Grade I–V)
 
@@ -53,3 +59,5 @@ aliases:
 
 ## 함께 보기
 - [[도수치료]] · [[Mulligan MWM]] · [[신경가동술]] · [[외측상과염]] · [[운동요법]] · [[압통역치(PPT)]] · [[WDR 뉴런]] · [[MCID]] · [[GRADE 근거수준]]
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): Maitland, 관절가동술, 등급, 진동 -->

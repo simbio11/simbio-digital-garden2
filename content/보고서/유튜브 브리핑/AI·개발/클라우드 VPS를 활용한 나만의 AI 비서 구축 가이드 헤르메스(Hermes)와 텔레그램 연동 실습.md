@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=3Tb9fgyvPNM"
 ---
 
 # 📌 클라우드 VPS를 활용한 나만의 AI 비서 구축 가이드 헤르메스(Hermes)와 텔레그램 연동 실습

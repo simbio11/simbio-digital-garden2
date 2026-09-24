@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-09
 created_at: 2026-09-09 14:41:54
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=wRgJPO_qIT4"
 ---
 
 # 📌 현시점 AX(AI 전환) 접근 방식의 태생적 한계와 '디트윈(Dtwin)' 기반의 안묵지 자산화 해결 방안 설계

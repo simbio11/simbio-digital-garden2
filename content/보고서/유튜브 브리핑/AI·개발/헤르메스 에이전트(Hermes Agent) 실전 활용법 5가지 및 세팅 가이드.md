@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:35:54
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=7XA5qi8Z3zE"
 ---
 
 # 📌 헤르메스 에이전트(Hermes Agent) 실전 활용법 5가지 및 세팅 가이드

@@ -8,23 +8,23 @@ total_plates: 29
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 비뇨의학과
   - 생식기계
-  - 음경
   - 회음부
-  - 근막해부학
   - 발기부전
-  - 요도질환
   - 성매개감염
-  - 음경암
 aliases:
   - 네터 생식기계 Day 02
   - 음경 및 남성 회음부
 status: completed
 created: 2026-09-15
+title: Day02_음경_남성회음부_해부병리
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 02: 음경 및 남성 회음부 해부·생리 및 비뇨기 질환 (Section 2 완독)
@@ -789,3 +789,5 @@ graph TD
   3. **음경 전절제술 (Radical penectomy)**: 침습성 전부 요도암.
   4. **전골반장기적출술 (Anterior pelvic exenteration)**: 근위부/망울막부 침습암 대상. 음경 전절제 + 방광전립선절제 + 치골 전면 절제(Anterior pubic bone resection) + 골반 림프절 곽청 + 요로 전환술(Urinary diversion)의 광범위 일괄 절제.
 - **5년 생존율**: 원위부 요도암은 약 **60%**, 근위부(구부/막부/전립선부) 요도암은 **50% 미만**.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 음경, 근막해부학, 요도질환, 음경암 -->

@@ -4,11 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - sfl
-  - superficial-front-line
   - fascia
   - thomas-myers
+date: 2026-09-21
 ---
 
 # [[2_표면전방선_SFL]](Superficial Front Line)
@@ -162,3 +162,5 @@ flowchart TD
    - **[연구 요약]**: 발등에서 유양돌기까지 이어지는 SFL의 해부학적 경로, 슬개골 종자골 역학 및 [[복직근]]-흉골근막-SCM 연결 입증.
 2. **Findley, T., et al. (2015)**. *Fascia research IV: Basic science and implications for conventional and complementary health care*. **International Journal of Therapeutic Massage & Bodywork**, 8(4), 48-53.
    - **[연구 요약]**: SFL의 전면 하방 견인(Down-drag)과 흉곽 침하 및 거북목 체형 상관관계 분석.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): sfl, superficial-front-line -->

@@ -8,22 +8,21 @@ total_plates: 22
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
-  - 유방외과
   - 종양학
   - 생식기계
-  - 유방
-  - 수유생리
   - 유방암
-  - 섬유선종
-  - 유전성유방암
 aliases:
   - "네터 생식기계 Day 13"
   - "유방과 유방암 종양학"
 status: completed
 created: 2026-09-17
+title: Day13_유방_해부생리_수유_양성질환_유방암_종양학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 13: 유방 - 정상해부·림프순환·수유생리·섬유낭성변화·섬유선종 및 유방암 종양학 (Section 13 완독)
@@ -394,7 +393,8 @@ graph TD
 
 #### 3) 병적 원인 질환 및 약물 유발 인자
 - **내분비 및 전신 질환**:
-  - **갑상선기능항진증 (Hyperthyroidism)**: 갑상선호르몬에 의해 간에서 **성호르몬 결합 글로불린(SHBG) 합성이 급증 $ightarrow$ 순환 유리 테스토스테론(Free T) 감소** + 말초 아로마타제 활성 증가가 복합되어 유효 에스트로겐 우세를 초래함.
+  - **갑상선기능항진증 (Hyperthyroidism)**: 갑상선호르몬에 의해 간에서 **성호르몬 결합 글로불린(SHBG) 합성이 급증 $
+ightarrow$ 순환 유리 테스토스테론(Free T) 감소** + 말초 아로마타제 활성 증가가 복합되어 유효 에스트로겐 우세를 초래함.
   - **간경변증 (Liver Cirrhosis)**: 간의 에스트로겐 대사 저하 및 SHBG 증가.
   - **클라인펠터 증후군 (47,XXY)**: 고환 세정관 초자화(Hyalinization)로 생식선기능저하 유발, **유방암 발생 위험이 20~50배 급증**.
   - **고환 및 부신 종양**: 융모상피암(Chorioepithelioma - hCG 분비), 기형종(Teratoma), 라이디히 간질세포종(Leydig cell tumor), 여성화 부신피질암.
@@ -664,7 +664,8 @@ graph TD
 2. **비정형 없는 증식성 병변 (Proliferative without Atypia, 상대위험도 1.5~2.0배)**:
    - 중등도/현저한 보통 관증식증(UDH), 경화성 선증(Sclerosing adenosis), 관내 유두종증(Papillomatosis).
 3. **비정형 증식증 (Atypical Hyperplasia, 상대위험도 4.0~5.0배 - 고위험 전암성 병변)**:
-   - **비정형 관증식증 (Atypical Ductal Hyperplasia, ADH)** 및 **비정형 소엽증식증 (Atypical Lobular Hyperplasia, ALH)** $ightarrow$ 완전 외과적 절제 및 타목시펜 화학예방 고려.
+   - **비정형 관증식증 (Atypical Ductal Hyperplasia, ADH)** 및 **비정형 소엽증식증 (Atypical Lobular Hyperplasia, ALH)** $
+ightarrow$ 완전 외과적 절제 및 타목시펜 화학예방 고려.
 
 ---
 
@@ -732,7 +733,10 @@ graph TD
   - **유방암(Carcinoma)과의 결정적 감별점: 거대한 크기에도 불구하고 액와 림프절 침범이 완전히 결여됨 (Tremendous size and the ABSENCE of axillary node involvement)!**
 - **치료 및 전이 양상**:
   - 표준 치료: 대흉근막 침윤을 고려한 **근치적 유방절제술 (Radical mastectomy)**.
-  - 전이 경로: 림프관이 아닌 혈행성 전이로, **폐(Lungs, 최다 빈도)** $ightarrow$ 뼈 $ightarrow$ 심장(Heart) $ightarrow$ 간 순으로 파종됨.
+  - 전이 경로: 림프관이 아닌 혈행성 전이로, **폐(Lungs, 최다 빈도)** $
+ightarrow$ 뼈 $
+ightarrow$ 심장(Heart) $
+ightarrow$ 간 순으로 파종됨.
 ---
 
 ## 6. 유방암: 병기, 침윤성 암종 및 특수 아형 (Plates 13-17 ~ 13-19)
@@ -863,7 +867,9 @@ graph TD
   - 피부 펀치 생검(Punch biopsy) 시 진정한 호중구성 염증 반응은 거의 없으며, **진피 림프관(Dermal lymphatics) 및 표재 혈관(Superficial blood vessels) 내에 침윤한 암세포 색전(Tumor emboli)에 의한 완전한 기계적 폐색**이 관찰됨.
 - **치료 원칙**:
   - 즉각적인 수술은 파종을 가속화하므로 절대 금기.
-  - **선행 항암화학요법(Neoadjuvant Chemotherapy)을 최우선 시행**하여 전신 미세전이를 억제하고 종양을 축소시킨 후, **변형 근치절제술(MRM) $ightarrow$ 수술 후 방사선 치료 $ightarrow$ 호르몬 요법**의 적극적 3제 병합 치료 시행.
+  - **선행 항암화학요법(Neoadjuvant Chemotherapy)을 최우선 시행**하여 전신 미세전이를 억제하고 종양을 축소시킨 후, **변형 근치절제술(MRM) $
+ightarrow$ 수술 후 방사선 치료 $
+ightarrow$ 호르몬 요법**의 적극적 3제 병합 치료 시행.
   - HER2 수용체 과발현율이 높아 **트라스투주맙 (Trastuzumab / Herceptin)** 표적 치료가 필수적으로 적용됨.
   - 5년 생존율은 **$25\sim 50\%$**로 유방암 중 가장 공격적인 예후를 보임.
 ---
@@ -1054,3 +1060,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 13 전체 22개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 유방외과, 유방, 수유생리, 섬유선종, 유전성유방암 -->

@@ -10,10 +10,12 @@ total_sections: 15
 status: in_progress
 created: 2026-09-21
 tags:
+  - 독서
   - 의학원서
   - 근감소증
   - sarcopenia
   - MOC
+date: 2026-09-22
 ---
 
 # 📚 Sarcopenia: Muscle Wasting Disease (2판)

@@ -2,6 +2,7 @@
 date: 2026-09-18
 title: "발목을 삐끗했는데 부었어요"
 tags:
+  - 생활
   - Clinical_Master_Dive
   - 발목염좌
   - 족관절

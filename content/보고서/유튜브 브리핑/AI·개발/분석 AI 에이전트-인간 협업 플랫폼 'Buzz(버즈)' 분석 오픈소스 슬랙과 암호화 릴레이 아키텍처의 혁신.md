@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-23
 created_at: 2026-09-23 08:31:17
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=m3JEiSQcagg"
 ---
 
 # 📌 분석 AI 에이전트-인간 협업 플랫폼 'Buzz(버즈)' 분석 오픈소스 슬랙과 암호화 릴레이 아키텍처의 혁신

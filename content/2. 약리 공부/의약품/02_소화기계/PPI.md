@@ -1,7 +1,16 @@
 ---
 type: 의학개념
 category: 양방 약
-tags: [약리학, 위장관약, 소화기계, 제산제, 위산분비억제제, GERD, 위궤양, PPI, 에스오메프라졸]
+tags:
+  - 약리
+  - 약리학
+  - 위장관약
+  - 소화기계
+  - 제산제
+  - 위산분비억제제
+  - GERD
+  - 위궤양
+  - PPI
 created: 2026-09-04
 aliases:
   - PPI
@@ -14,6 +23,9 @@ aliases:
   - 판토프라졸
   - 란소프라졸
   - 라베프라졸
+title: PPI
+date: 2026-09-21
+출처: "PMID: 16645899"
 ---
 
 # 프로톤 펌프 억제제 (PPI, Proton Pump Inhibitor)
@@ -80,7 +92,7 @@ aliases:
 
 ---
 
-## 4. 임상 적응증, 장기 복용 부작용 및 블랙박스 경고
+## 의학/04_임상 적응증, 장기 복용 부작용 및 블랙박스 경고
 
 ### 4.1 주요 임상 적응증
 * **위식도 역류 질환 ([[GERD]])**: 미란성 역류성 식도염의 치유 및 재발 방지 유지 요법.
@@ -130,3 +142,5 @@ aliases:
 * Freedberg, D. E. et al. (2017). The Risks and Benefits of Long-term Use of Proton Pump Inhibitors: Expert Review and Best Practice Advice From the American Gastroenterological Association. *Gastroenterology*, 152(4), 706-715.
   * [PubMed (PMID: 28257716)](https://pubmed.ncbi.nlm.nih.gov/28257716/) | [DOI](https://doi.org/10.1053/j.gastro.2017.01.031)
   * `[연구 요약]` 미국소화기학회(AGA) 전문가 리뷰로 PPI 장기 복용에 따른 골절, 장내 감염, 미네랄 흡수 장애 등 위험성과 안전한 감량(디프리스크라이빙) 임상 권고 제시.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 에스오메프라졸 -->

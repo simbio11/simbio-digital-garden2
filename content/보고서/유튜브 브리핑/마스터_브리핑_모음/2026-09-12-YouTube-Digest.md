@@ -3,9 +3,11 @@ title: "2026-09-12 YouTube Daily Productivity Digest"
 date: 2026-09-12
 created_at: 2026-09-12 08:31:11
 tags:
+  - 생활
   - youtube-digest
   - daily-briefing
   - master-index
+출처: "https://www.youtube.com/watch?v=ulhEyDIxj6Q"
 ---
 
 # 📺 YouTube Daily Productivity Digest (2026-09-12)
@@ -36,4 +38,3 @@ tags:
 > - 최종적으로 생성된 팟캐스트, PPT 프레젠테이션, 인포그래픽 등의 다양한 아웃풋을 다시 옵시디언으로 환류하여 개인 지식 베이스의 가치를 극대화할 수 있습니다.
 
 👉 *상세 분석 및 키워드 사전 보기*: [[옵시디언, 조테로, 노트북LM, 클로드 코드를 결합한 차세대 AI 지식 관리(PKM) 및 연구 워크플로우 구축법]]
-

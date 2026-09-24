@@ -3,9 +3,11 @@ title: "2026-09-07 YouTube Daily Productivity Digest"
 date: 2026-09-07
 created_at: 2026-09-07 08:32:10
 tags:
+  - 생활
   - youtube-digest
   - daily-briefing
   - master-index
+출처: "https://www.youtube.com/watch?v=0JileXURpb4"
 ---
 
 # 📺 YouTube Daily Productivity Digest (2026-09-07)

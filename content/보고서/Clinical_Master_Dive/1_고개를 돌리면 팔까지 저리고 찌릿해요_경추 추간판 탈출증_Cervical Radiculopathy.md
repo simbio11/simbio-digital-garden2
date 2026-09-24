@@ -5,7 +5,15 @@ topic_patient: "고개를 돌리면 팔까지 저리고 찌릿해요"
 topic_medical: 경추 추간판 탈출증(경추 신경근병증, Cervical Radiculopathy) — 흉곽출구증후군·수근관증후군·회전근개 병변·경추 척수증 감별
 domain: 근골격계·경추 — 사각근간극([[사각근]])·추간공(경추신경근)·추골동맥 축을 통과하는 목-팔 통증의 실제 진료 흐름(레드플래그→검사→문진→진단→치료→티칭) 통합
 status: inbox
-tags: [clinical-master-dive, simbio-vault, organically-coupled, cervical, radiculopathy, neck-pain, arm-pain, spurling, clinical-flow, evidence-based, master-note]
+tags:
+  - 생활
+  - clinical-master-dive
+  - simbio-vault
+  - organically-coupled
+  - clinical-flow
+  - evidence-based
+  - master-note
+title: 1_고개를 돌리면 팔까지 저리고 찌릿해요_경추 추간판 탈출증_Cervical Radiculopathy
 ---
 
 # 🗨️ "고개를 돌리면 팔까지 저리고 찌릿해요"
@@ -214,3 +222,5 @@ tags: [clinical-master-dive, simbio-vault, organically-coupled, cervical, radicu
 ---
 
 비오님 볼트의 근골격계·이론·약리·임상 노트를 발췌해 구성했으며, 급성 외상성 골절·화농성 척추염·전이성 골종양 관련 레드플래그는 볼트에 전용 노트가 없어 표준 임상 지식으로 보충했습니다(검토 필요 표기).
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): cervical, radiculopathy, neck-pain, arm-pain, spurling -->

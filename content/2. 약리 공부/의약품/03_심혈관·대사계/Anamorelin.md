@@ -1,9 +1,16 @@
 ---
 type: 약물
 category: 약리/양방약
-tags: [약리/양방약, 항암보조제·식욕촉진제, 그렐린수용체작용제, 근감소증, 암악액질, 식욕부진]
+tags:
+  - 약리
+  - 약리/양방약
+  - 근감소증
+  - 암악액질
 created: 2026-09-22
 aliases: [아나모렐린, 아들루미즈, Adlumiz, Anamorelin, Anamorelin hydrochloride, ONO-7643]
+title: Anamorelin
+date: 2026-09-24
+출처: "PMID: 34445197"
 ---
 
 # 💊 [[아나모렐린]] (Anamorelin, Adlumiz, ATC 코드 미부여)
@@ -17,6 +24,9 @@ aliases: [아나모렐린, 아들루미즈, Adlumiz, Anamorelin, Anamorelin hydr
 ---
 
 ## 1. 약물 기본 정보 및 시판 제품 (Brand Identification)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=9828911" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
 > 본 노트 작성 시점에 **검증된 PubChem CID를 확인하지 못하여 3D 뷰어를 임베드하지 않았다.** 아래 링크에서 CID를 직접 확인한 후 `?cid=` 값에 입력하여 사용한다.
@@ -96,7 +106,7 @@ graph TD
 
 ---
 
-## 4. 임상 용법·용량 및 처방 가이드 (Dosage & Administration)
+## 의학/04_임상 용법·용량 및 처방 가이드 (Dosage & Administration)
 
 | 임상 적응증 | 성인 표준 용법·용량 | 1일 최대 한도 용량 |
 | :--- | :--- | :--- |
@@ -229,3 +239,5 @@ graph TD
   * `[연구 요약]` 비소세포폐암 악액질 환자를 대상으로 한 무작위 이중맹검 3상 2건. 아나모렐린 100 mg 1일 1회 투여가 **제지방량을 유의하게 증가**시켰고 악력은 ROMANA 1에서만 유의하게 개선되었으며, 전체생존기간 개선은 확인되지 않았다. 부작용으로 위장관계 이상반응과 고혈당이 보고되었다.
 * **Nishikawa H, Goto M (2021).** Cancer Cachexia: Its Mechanism and Clinical Significance. *Int J Mol Sci.* **PMID: 34445197**
   * `[연구 요약]` 암 악액질의 병태생리(전신 염증성 사이토카인, 단백분해·지방분해 기전, 시상하부 식욕 조절 교란)와 임상적 의의를 정리한 리뷰. 아나모렐린의 작용 목표점을 이해하기 위한 배경 문헌.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 항암보조제·식욕촉진제, 그렐린수용체작용제, 식욕부진 -->

@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-16
 created_at: 2026-09-16 09:11:20
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=UUNgWvVoT4E"
 ---
 
 # 📌 NotebookLM CLI와 LLM 위키·옵시디언 연동을 통한 자동화된 AI 지식 창고 구축 가이드

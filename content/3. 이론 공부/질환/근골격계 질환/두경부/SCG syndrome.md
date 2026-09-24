@@ -7,11 +7,15 @@ aliases:
   - 경추성 교감신경 항진증
   - Cervical sympathetic hyperactivity
 tags:
+  - 이론
   - 질환
   - 신경계
   - 자율신경
   - 두경부
   - 수면장애
+title: SCG syndrome
+date: 2026-09-22
+출처: "PMID: 31335051"
 ---
 
 # 🩺 [[상경신경절 증후군]] (SCG Syndrome / Superior Cervical Ganglion Syndrome, G90.8)

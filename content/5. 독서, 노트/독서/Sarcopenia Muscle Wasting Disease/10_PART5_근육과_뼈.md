@@ -7,19 +7,14 @@ pages: "pp.311-338"
 chapters: ["Ch20", "Ch21", "Ch22", "Ch23"]
 source_file: "[[근감소증]] ocr+선명도 (1).pdf"
 tags:
+  - 독서
   - 의학원서
-  - [[근감소증]]
   - sarcopenia
-  - [[골다공증]]
-  - osteoporosis
-  - osteosarcopenia
   - 낙상
-  - fall
-  - 운동장애증후군
-  - dysmobility_syndrome
-  - 근육과뼈
 status: completed
 created: 2026-09-21
+title: 10_PART5_근육과_뼈
+date: 2026-09-22
 ---
 
 # 📑 [근감소증] PART 5. 근육과 뼈 (Muscle and Bone)
@@ -511,3 +506,5 @@ flowchart TD
 3. Hong N, Siglinsky E, Krueger D, White R, Kim CO, Kim HC, Yeom Y, Binkley N, Rhee Y, Buehring B. Defining an international cut-off of two-legged countermovement jump power for sarcopenia and dysmobility syndrome. *Osteoporos Int*. 2021;32(3):483-93.
 4. Jung YW, Hong N, Kim CO, Kim HC, Youm Y, Choi JY, Rhee Y. The diagnostic value of phase angle, an integrative bioelectrical marker, for identifying individuals with dysmobility syndrome: the Korean Urban-Rural Elderly study. *Osteoporos Int*. 2021;32:939-49.
 5. Looker AC. Dysmobility syndrome and mortality risk in US men and women age 50 years and older. *Osteoporos Int*. 2015;26:93-102.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 근감소증, 골다공증, osteoporosis, osteosarcopenia, fall, 운동장애증후군, dysmobility_syndrome, 근육과뼈 -->

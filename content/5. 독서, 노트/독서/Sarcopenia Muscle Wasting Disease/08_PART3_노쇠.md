@@ -7,17 +7,16 @@ pages: "pp.263-288"
 chapters: ["Ch16", "Ch17"]
 source_file: "[[근감소증]] ocr+선명도 (1).pdf"
 tags:
+  - 독서
   - 의학원서
-  - [[근감소증]]
   - sarcopenia
   - 노쇠
   - frailty
-  - 노인증후군
-  - Fried기준
-  - Rockwood지수
-  - 포괄적노인평가
 status: completed
 created: 2026-09-21
+title: 08_PART3_노쇠
+date: 2026-09-22
+출처: "https://frailsafe-project.eu/"
 ---
 
 # 📑 [근감소증] PART 3 노쇠 (Frailty)
@@ -386,3 +385,5 @@ Fried 기준은 악력계, 4 m 보행로, 설문 시간 등이 필요하여 바�
 64. Turner G, Clegg A. Best practice guidelines for the management of frailty: a British Geriatrics Society, Age UK and Royal College of General Practitioners report. *Age Ageing.* 2014;43:744-747.
 65. World Health Organization. *Integrated care for older people (ICOPE): Guidance for person-centred assessment and pathways in primary care.* Geneva: WHO; 2019.
 66. Zheng L, Li G, Qiu Y, et al. Clinical practice guidelines for the prevention and management of frailty: A systematic review. *J Adv Nurs.* 2022;78:709-721.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 근감소증, 노인증후군, Fried기준, Rockwood지수, 포괄적노인평가 -->

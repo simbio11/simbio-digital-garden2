@@ -8,21 +8,21 @@ total_plates: 25
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 비뇨의학과
   - 생식기계
-  - 음낭
   - 고환
-  - 정자형성
-  - 성선저하증
-  - 고환암
 aliases:
   - 네터 생식기계 Day 03
   - 음낭 및 고환
 status: completed
 created: 2026-09-16
+title: Day03_음낭_고환_해부생리_질환
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 03: 음낭 및 고환의 해부·발생·기능부전 및 종양학 (Section 3 완독)
@@ -620,3 +620,5 @@ graph TD
 | **융모암종<br>(Choriocarcinoma)** | 20~30대 | 합포체영양막 + 세포영양막, 혈액동 형성, 광범위 출혈 | 정상 (0%) | **100% 폭발적 급증**<br>($> 10^5\text{ mIU/mL}$) | LDH 급증 | 조기 혈행성 전이, 초응급 다약제 병용 화학요법 |
 | **기형종<br>(Teratoma)** | 전 연령 | 3배엽 조직 혼합 (연골, 치아, 모발, 상피, 근육 등) | 순수형 정상 | 순수형 정상 | 정상~경미 상승 | 방사선/화학요법 저항성, 외과적 완전 절제 필수 |
 | **상피내 종양<br>(CIS / GCNIS)** | 성인 생검 | 정세관 기저막 단일층 거대 세포, 세관 위축 | 정상 | 정상 | **PLAP (+)**<br>(태반성 알칼리인산분해효소) | 침습암 전구체, 저용량 국소 방사선(14~16 Gy) |
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 음낭, 정자형성, 성선저하증, 고환암 -->

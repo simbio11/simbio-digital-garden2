@@ -3,7 +3,12 @@ date: 2026-09-08
 type: Clinical_Master_Dive
 topic: "꼬리뼈에 통증이 있어요"
 diagnosis: 미골통(Coccydynia)
-tags: [임상몰입학습, 미골통, coccydynia, 골반저근, 항문거근, 천골]
+tags:
+  - 생활
+  - 골반저근
+  - 천골
+title: 03_꼬리뼈에 통증이 있어요_미골통_Coccydynia
+출처: "https://www.ncbi.nlm.nih.gov/books/NBK563139/"
 ---
 
 # 🗨️ 꼬리뼈에 통증이 있어요
@@ -170,3 +175,5 @@ tags: [임상몰입학습, 미골통, coccydynia, 골반저근, 항문거근, �
 ## 📚 참고문헌
 
 1. Elkhashab Y, Kim D. *Coccyx Pain*. StatPearls [Internet]. NCBI Bookshelf NBK563139 (2024 개정). https://www.ncbi.nlm.nih.gov/books/NBK563139/
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 임상몰입학습, 미골통, coccydynia, 항문거근 -->

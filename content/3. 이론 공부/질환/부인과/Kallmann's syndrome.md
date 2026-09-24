@@ -1,6 +1,9 @@
 ---
 tags:
+  - 이론
   - status/draft
+title: "Kallmann's syndrome"
+date: 2026-09-22
 ---
 
 - 염색체 자체의 유전자 문제로 칼염색체의 문제로 [[GnRH]]의 생성이 감소되고, 이는 성장, 발육, 월경을 저해하게 된다. 

@@ -3,9 +3,11 @@ title: "2026-09-11 YouTube Daily Productivity Digest"
 date: 2026-09-11
 created_at: 2026-09-11 08:30:26
 tags:
+  - 생활
   - youtube-digest
   - daily-briefing
   - master-index
+출처: "https://www.youtube.com/watch?v=O6HbMwD5UL8"
 ---
 
 # 📺 YouTube Daily Productivity Digest (2026-09-11)
@@ -35,4 +37,3 @@ tags:
 > - 이란 지도부 내부에서는 "권력과 존엄이 조금이라도 남아 있을 때 미국과 협상을 매듭지어야 한다"는 목소리가 나오며, 이는 이란 경제가 전쟁 전부터 누적된 인플레이션과 실업률로 이미 한계에 다다랐음을 방증합니다.
 
 👉 *상세 분석 및 키워드 사전 보기*: [[미국의 대이란 고사작전과 세컨더리 제재 격투기 전략으로 보는 중동 패권 전쟁의 본질]]
-

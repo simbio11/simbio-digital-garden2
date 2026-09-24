@@ -4,11 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - ll
-  - lateral-line
   - fascia
   - thomas-myers
+date: 2026-09-14
 ---
 
 # [[3_외측선_LL]](Lateral Line)
@@ -154,3 +154,5 @@ flowchart TD
    - **[연구 요약]**: 비골근에서 [[장경인대]], 복사근, 유양돌기로 이어지는 외측선(LL)의 연속성 및 관상면 안정화 기전 규명.
 2. **Stecco, C., et al. (2013)**. *The fascia profunda of the upper and lower limbs: a systematic review*. **Surgical and Radiologic Anatomy**, 35(6), 469-477.
    - **[연구 요약]**: [[장경인대]](ITB)와 대퇴근막의 다방향 장력 전달 구조 및 외측 근막망의 임상적 중요성 증명.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): ll, lateral-line -->

@@ -3,9 +3,11 @@ title: "2026-09-17 YouTube Daily Productivity Digest"
 date: 2026-09-17
 created_at: 2026-09-17 08:30:50
 tags:
+  - 생활
   - youtube-digest
   - daily-briefing
   - master-index
+출처: "https://www.youtube.com/watch?v=logBnwhp8Jw"
 ---
 
 # 📺 YouTube Daily Productivity Digest (2026-09-17)
@@ -34,4 +36,3 @@ tags:
 > - 마케팅은 제품 완성 후 시작하는 것이 아니라 코딩 첫날부터 진행 상황을 공유하는 '빌드 인 퍼블릭(Build in Public)' 방식을 취하며, 검증된 콘텐츠 데이터를 클로드에 이식하는 '4단계 자동화 파이프라인'을 통해 고객 유치를 자동화합니다.
 
 👉 *상세 분석 및 키워드 사전 보기*: [[클로드 코드(Claude Code) 기반 1인 AI 비즈니스 구축 가이드 아이디어 검증부터 멀티 에이전트 개발 및 마케팅 자동화까지]]
-

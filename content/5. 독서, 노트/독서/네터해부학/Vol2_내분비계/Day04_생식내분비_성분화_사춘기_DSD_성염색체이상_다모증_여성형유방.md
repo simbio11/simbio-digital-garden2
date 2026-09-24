@@ -8,23 +8,19 @@ total_plates: 26
 source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 내분비학
-  - 생식내분비
   - 성분화이상
-  - 사춘기발달
-  - 성조숙증
-  - 클라인펠터증후군
-  - 터너증후군
-  - 다모증
-  - 여성형유방
-  - 유즙누출증
 aliases:
   - "Netter Endocrine Day 04"
   - "Netter 생식내분비"
   - "Reproduction Master Note"
 status: completed
 created: 2026-09-17
+title: Day04_생식내분비_성분화_사춘기_DSD_성염색체이상_다모증_여성형유방
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # Netter Endocrine Day 04: 생식내분비 (Reproduction) — 성분화·사춘기·DSD·성염색체이상·생식주기·유방질환 (pp. 100–126)
@@ -513,3 +509,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 4 전체 26개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 생식내분비, 사춘기발달, 성조숙증, 클라인펠터증후군, 터너증후군, 다모증, 여성형유방, 유즙누출증 -->

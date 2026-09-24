@@ -8,24 +8,21 @@ total_plates: 23
 source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 내분비학
   - 췌장
-  - 인슐린생리
   - 당뇨병
-  - 당뇨병성케톤산증
-  - 당뇨망막병증
-  - 당뇨신증
-  - 당뇨신경병증
   - 당뇨발
-  - 임신성당뇨
-  - 인슐리노마
 aliases:
   - "Netter Endocrine Day 05"
   - "Netter 췌장"
   - "Pancreas & Diabetes Master Note"
 status: completed
 created: 2026-09-17
+title: Day05_췌장_내분비_인슐린대사_당뇨병_합병증_인슐리노마
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # Netter Endocrine Day 05: 췌장 및 당뇨병 (Pancreas & Diabetes) — 인슐린 분비·대사 파탄·합병증·임신성당뇨·인슐리노마 (pp. 129–151)
@@ -484,3 +481,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 5 전체 23개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 인슐린생리, 당뇨병성케톤산증, 당뇨망막병증, 당뇨신증, 당뇨신경병증, 임신성당뇨, 인슐리노마 -->

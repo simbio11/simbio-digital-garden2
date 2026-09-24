@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-01
 created_at: 2026-09-01 11:41:43
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://youtube.com"
 ---
 
 # 📌 AI뉴스 - Astra, AGI 올해 달성, Fable 5.1, 할라피뇨, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등

@@ -1,6 +1,9 @@
 ---
 tags:
+  - 이론
   - status/draft
+title: "Asherman's syndrome"
+date: 2026-09-22
 ---
 
 - D&C, IVD, 골반염에 의해 자궁 내막의 섬유성 변화가 나타나면서 유착이 나타나 월경이 잘 일어나지 않게 된다. 

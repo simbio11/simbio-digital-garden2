@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-09
 created_at: 2026-09-09 14:35:26
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=FORj8GUInYI"
 ---
 
 # 📌 AI 에이전트 4천 개 구축의 함정 범용 슈퍼 에이전트 시대의 기업 AX 전략

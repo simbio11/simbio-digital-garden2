@@ -4,9 +4,12 @@ series: 1
 topic: "행주를 짜거나 물건을 들 때 팔꿈치 바깥쪽이 아파요"
 diagnosis: "외측상과염 (Lateral Epicondylitis, 테니스 엘보)"
 tags:
+  - 생활
   - Clinical_Master_Dive
   - 주관절
   - 외측상과염
+title: 07_행주를 짜거나 물건을 들 때 팔꿈치 바깥쪽이 아파요_외측상과염_Lateral Epicondylitis
+출처: PMID 20579907
 ---
 
 # 🗨️ "행주를 짜거나 물건을 들 때 팔꿈치 바깥쪽이 찌릿해요"

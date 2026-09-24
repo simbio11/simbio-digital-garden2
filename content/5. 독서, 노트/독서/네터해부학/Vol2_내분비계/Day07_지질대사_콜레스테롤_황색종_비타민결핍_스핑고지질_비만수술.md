@@ -8,25 +8,23 @@ total_plates: 27
 source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 내분비학
   - 지질대사
   - 콜레스테롤
-  - 가족성고콜레스테롤혈증
-  - 고중성지방혈증
   - 죽상경화증
   - 대사증후군
   - 지질강하제
-  - 비타민결핍증
-  - 셀리악병
-  - 스핑고지질증
-  - 비만대사수술
 aliases:
   - "Netter Endocrine Day 07"
   - "Netter 지질영양"
   - "Lipids & Nutrition Master Note"
 status: completed
 created: 2026-09-18
+title: Day07_지질대사_콜레스테롤_황색종_비타민결핍_스핑고지질_비만수술
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # Netter Endocrine Day 07: 지질 및 영양 (Lipids and Nutrition) — 콜레스테롤·지단백대사·황색종·비타민결핍·리소좀병·비만수술 (pp. 183–210)
@@ -476,3 +474,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 7 전체 27개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 가족성고콜레스테롤혈증, 고중성지방혈증, 비타민결핍증, 셀리악병, 스핑고지질증, 비만대사수술 -->

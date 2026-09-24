@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-06
 created_at: 2026-09-06 08:32:01
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=oCjG0S8R3F8"
 ---
 
 # 📌 오픈소스 AI 메신저 'Buzz' 셀프 호스팅 및 24시간 Hermes Agent 연동 가이드

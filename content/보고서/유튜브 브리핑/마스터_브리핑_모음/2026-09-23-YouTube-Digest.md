@@ -3,9 +3,11 @@ title: "2026-09-23 YouTube Daily Productivity Digest"
 date: 2026-09-23
 created_at: 2026-09-23 08:31:17
 tags:
+  - 생활
   - youtube-digest
   - daily-briefing
   - master-index
+출처: "https://www.youtube.com/watch?v=kQwxIkspINk"
 ---
 
 # 📺 YouTube Daily Productivity Digest (2026-09-23)
@@ -49,4 +51,3 @@ tags:
 > - **슬랙 완벽 대체를 지향하는 UX/UI**: 다이렉트 메시지(DM), 스레드, 반응 이모지, SNS형 방명록 기능인 Pulse 등 익숙한 협업 툴의 경험에 AI 에이전트를 영구적인 팀원으로 편입시킵니다.
 
 👉 *상세 분석 및 키워드 사전 보기*: [[분석 AI 에이전트-인간 협업 플랫폼 'Buzz(버즈)' 분석 오픈소스 슬랙과 암호화 릴레이 아키텍처의 혁신]]
-

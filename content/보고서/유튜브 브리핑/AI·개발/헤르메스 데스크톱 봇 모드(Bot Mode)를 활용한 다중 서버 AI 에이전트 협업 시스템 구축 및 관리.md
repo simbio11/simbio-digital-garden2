@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-07
 created_at: 2026-09-07 08:32:10
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=0JileXURpb4"
 ---
 
 # 📌 헤르메스 데스크톱 봇 모드(Bot Mode)를 활용한 다중 서버 AI 에이전트 협업 시스템 구축 및 관리

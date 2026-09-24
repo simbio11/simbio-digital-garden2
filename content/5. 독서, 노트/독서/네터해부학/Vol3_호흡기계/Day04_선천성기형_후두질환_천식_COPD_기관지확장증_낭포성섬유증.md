@@ -8,29 +8,21 @@ total_plates: 26
 source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
 source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 호흡기학
-  - 흉곽기형
-  - 오목가슴
-  - 척추후측만증
-  - 폐격리증
-  - 후두질환
-  - 성대결절
-  - 후두암
   - 기관지천식
   - COPD
   - 만성기관지염
-  - 폐기종
-  - 알파1항트립신결핍증
-  - 기관지확장증
-  - 낭포성섬유증
-  - CFTR
 aliases:
   - "Netter Respiratory Day 04"
   - "Netter 폐쇄성기도질환"
   - "Obstructive Lung Diseases Master Note"
 status: completed
 created: 2026-09-18
+title: Day04_선천성기형_후두질환_천식_COPD_기관지확장증_낭포성섬유증
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 ---
 
 # Netter Respiratory Day 04: 선천성 흉곽·폐기형, 후두 질환 및 폐쇄성 기도 질환 (천식·COPD·기관지확장증·낭포성 섬유증) (pp. 110–155)
@@ -44,8 +36,11 @@ created: 2026-09-18
 ## 1. 개요 및 마스터 요약 (Executive Summary)
 
 * **흉곽·척추 기형 및 선천성 폐발생 이상 (Plates 4-1 ~ 4-6)**:  
-  * **오목가슴 (Pectus Excavatum, 누두흉)**: 늑연골의 후방 과성장으로 흉골체 및 검상돌기가 함입. 흉부 CT상 **할러 지수 (Haller Index = 흉곽 횡경 / 흉골-척추 간 전후경)** 가 정상 2.5 이하에서 **≥ 3.25**일 때 중증으로 판정하며, 심장(우심실) 압박 및 심박출량 저하 유발 $ightarrow$ 흉골 거상용 금속 막대를 삽입하는 최소침습 **너스 수술 (Nuss procedure)** 이 표준.  
-  * **척추후측만증 (Kyphoscoliosis)**: 콥 각도(Cobb angle) $> 60^\circ$ 이상 시 심각한 비대칭 흉곽 변형으로 흉벽 순응도(Chest wall compliance) 급감 $ightarrow$ 폐용적(TLC, VC) 감소에 의한 **제한성 환기 장애 (Restrictive defect)**, 미세무기폐, V/Q 불균등 $ightarrow$ 만성 저산소증에 의한 **폐동맥고혈압 및 폐성심(Cor Pulmonale)** 으로 조기 사망 위험.  
+  * **오목가슴 (Pectus Excavatum, 누두흉)**: 늑연골의 후방 과성장으로 흉골체 및 검상돌기가 함입. 흉부 CT상 **할러 지수 (Haller Index = 흉곽 횡경 / 흉골-척추 간 전후경)** 가 정상 2.5 이하에서 **≥ 3.25**일 때 중증으로 판정하며, 심장(우심실) 압박 및 심박출량 저하 유발 $
+ightarrow$ 흉골 거상용 금속 막대를 삽입하는 최소침습 **너스 수술 (Nuss procedure)** 이 표준.  
+  * **척추후측만증 (Kyphoscoliosis)**: 콥 각도(Cobb angle) $> 60^\circ$ 이상 시 심각한 비대칭 흉곽 변형으로 흉벽 순응도(Chest wall compliance) 급감 $
+ightarrow$ 폐용적(TLC, VC) 감소에 의한 **제한성 환기 장애 (Restrictive defect)**, 미세무기폐, V/Q 불균등 $
+ightarrow$ 만성 저산소증에 의한 **폐동맥고혈압 및 폐성심(Cor Pulmonale)** 으로 조기 사망 위험.  
   * **폐 격리증 (Pulmonary Sequestration)**: 정상 기관지나무와 연결되지 않고 복부대동맥 등 체순환 동맥으로부터 비정상 혈류를 공급받는 비기능성 폐조직.  
     * **엽내형 (Intralobar, 75%)**: 정상 폐 실질 내에 존재하며 **내장측 흉막을 공유**, 폐정맥으로 배액, 성인기 반복성 화농성 폐렴으로 발견.  
     * **엽외형 (Extralobar, 25%)**: **독립된 자체 내장측 흉막**을 보유, 체정맥(기정맥/하대정맥)으로 배액, 신생아기 횡격막 탈장 등 타 선천 기형과 흔히 동반.
@@ -59,13 +54,20 @@ created: 2026-09-18
     * **성문상부 암 (Supraglottic, 30~35%)**: 풍부한 양측 림프망으로 인해 조기 경부 림프절 전이 빈발, 연하곤란 및 이통(Otalgy, 미주신경 이개지 반사통).
 
 * **기관지 천식의 2형 면역 병태생리 및 분자 약리학 (Plates 4-11 ~ 4-14)**:  
-  * **면역 캐스케이드 (Th2 / ILC2 Pathway)**: 흡입 항원 $ightarrow$ 수지상세포 제시 $ightarrow$ **Th2 세포 활성화** $ightarrow$ 핵심 사이토카인 3총사 분비:  
-    1. **IL-4**: B세포의 클래스 스위칭을 유도하여 **항원 특이적 IgE** 합성 촉진 $ightarrow$ 비만세포(Mast cell) FcεRI 수용체에 감작 $ightarrow$ 항원 재노출 시 히스타민, PGD2, LTC4/D4/E4 즉각 유리 (조기 반응, 15~30분).  
-    2. **IL-5**: 골수에서 **호산구(Eosinophil)의 분화, 증식, 생존 및 활성화** 전담 $ightarrow$ 주염기성단백질(MBP), 호산구 양이온단백질(ECP) 분비로 기도 상피 박리 (후기 반응, 4~8시간).  
+  * **면역 캐스케이드 (Th2 / ILC2 Pathway)**: 흡입 항원 $
+ightarrow$ 수지상세포 제시 $
+ightarrow$ **Th2 세포 활성화** $
+ightarrow$ 핵심 사이토카인 3총사 분비:  
+    1. **IL-4**: B세포의 클래스 스위칭을 유도하여 **항원 특이적 IgE** 합성 촉진 $
+ightarrow$ 비만세포(Mast cell) FcεRI 수용체에 감작 $
+ightarrow$ 항원 재노출 시 히스타민, PGD2, LTC4/D4/E4 즉각 유리 (조기 반응, 15~30분).  
+    2. **IL-5**: 골수에서 **호산구(Eosinophil)의 분화, 증식, 생존 및 활성화** 전담 $
+ightarrow$ 주염기성단백질(MBP), 호산구 양이온단백질(ECP) 분비로 기도 상피 박리 (후기 반응, 4~8시간).  
     3. **IL-13**: 기도 평활근 과민성(AHR) 유도 및 배상세포(Goblet cell) 점액 화생 자극, 섬유아세포 콜라겐 합성 유도.  
   * **기도 개형 (Airway Remodeling)**: 만성 염증의 지속으로 **상피하 기저막 비후 (Subepithelial reticular basement membrane thickening)**, 평활근 과형성/비대, 신생혈관 증생이 일어나 비가역적 기류 제한으로 고착됨.  
   * **약리학적 차단 표적**:  
-    * **ICS (흡입 코르티코스테로이드)**: 핵내 글루코코르티코이드 수용체 결합 $ightarrow$ NF-κB 전사 차단을 통한 전방위 사이토카인 억제 (기저 치료의 핵심).  
+    * **ICS (흡입 코르티코스테로이드)**: 핵내 글루코코르티코이드 수용체 결합 $
+ightarrow$ NF-κB 전사 차단을 통한 전방위 사이토카인 억제 (기저 치료의 핵심).  
     * **표적 생물학적 제제**: Omalizumab (항-IgE), Mepolizumab/Benralizumab (항-IL-5 / IL-5Rα), Dupilumab (항-IL-4Rα, IL-4/IL-13 경로 동시 차단), Tezepelumab (항-TSLP 상피 유래 알라민 차단).
 
 * **COPD의 병태생리, 폐기종 아형 및 질병 중증도 (Plates 4-15 ~ 4-21)**:  
@@ -82,12 +84,20 @@ created: 2026-09-18
 
 * **기관지확장증 및 낭포성 섬유증 (Plates 4-22 ~ 4-26)**:  
   * **기관지확장증 (Bronchiectasis)**: 기도의 만성 감염과 염증으로 연골 및 탄력 섬유 지지 구조가 파괴되어 비가역적으로 확장되는 병태.  
-    * **Cole의 악순환 가설 (Vicious Cycle Model)**: 점액섬모 청소 장애 또는 면역 결핍 $ightarrow$ 세균 정착(녹농균 *Pseudomonas aeruginosa*, 헤모필루스 *H. influenzae*) $ightarrow$ 호중구 염증 만성화 $ightarrow$ 기도 구조 파괴 $ightarrow$ 청소 장애 악화.  
+    * **Cole의 악순환 가설 (Vicious Cycle Model)**: 점액섬모 청소 장애 또는 면역 결핍 $
+ightarrow$ 세균 정착(녹농균 *Pseudomonas aeruginosa*, 헤모필루스 *H. influenzae*) $
+ightarrow$ 호중구 염증 만성화 $
+ightarrow$ 기도 구조 파괴 $
+ightarrow$ 청소 장애 악화.  
     * **방사선 진단**: 고해상도 CT(HRCT)상 기관지 내경이 동반 폐동맥 직경보다 현저히 큰 **인환 징후 (Signet-ring sign, 비 $\ge 1.0$)**, 기관지벽 비후 **궤도 징후 (Tram-track sign)**, 확장된 기도가 흉막하 1 cm 이내까지 관찰.  
   * **낭포성 섬유증 (Cystic Fibrosis, CF)**: 염색체 7q31.2의 **CFTR (Cystic Fibrosis Transmembrane Conductance Regulator)** ABC 수송체 유전자 돌연변이(최빈도: **$\Delta	ext{F508}$** 3염기 결실, 페닐알라닌 결손에 따른 단백질 접힘 장애 및 소포체 분해).  
-    * **분자 병태**: 기도 상피 관강막의 cAMP 매개 **$Cl^-$ 분비 차단** 및 상피성 나트륨 통로(ENaC) 탈억제로 인한 **$Na^+$ 및 수분의 과다 재흡수** $ightarrow$ 기도 표면 수분 고갈(ASL 탈수) $ightarrow$ 점조한 농축 점액 형성 $ightarrow$ 만성 점막 폐색, 조기 기관지확장증, 녹농균/부르크홀데리아 감염.  
+    * **분자 병태**: 기도 상피 관강막의 cAMP 매개 **$Cl^-$ 분비 차단** 및 상피성 나트륨 통로(ENaC) 탈억제로 인한 **$Na^+$ 및 수분의 과다 재흡수** $
+ightarrow$ 기도 표면 수분 고갈(ASL 탈수) $
+ightarrow$ 점조한 농축 점액 형성 $
+ightarrow$ 만성 점막 폐색, 조기 기관지확장증, 녹농균/부르크홀데리아 감염.  
     * **다기관 침범 3대 홀마크**:  
-      1. **췌장**: 췌관 폐색으로 인한 효소 정체, 선포 자가소화 및 섬유화 $ightarrow$ 외분비 부전(지방변, 흡수장애, 지용성 비타민 A/D/E/K 결핍) 및 2차성 CF 관련 당뇨병(CFRD).  
+      1. **췌장**: 췌관 폐색으로 인한 효소 정체, 선포 자가소화 및 섬유화 $
+ightarrow$ 외분비 부전(지방변, 흡수장애, 지용성 비타민 A/D/E/K 결핍) 및 2차성 CF 관련 당뇨병(CFRD).  
       2. **위장관**: 신생아기 끈적한 태변에 의한 **태변 장폐색 (Meconium ileus, 15~20%)**.  
       3. **생식계**: 남성의 98%에서 **선천성 양측 정관 무발생 (CBAVD)** 에 의한 폐색성 무정자증 불임.  
     * **진단 및 최신 분자 치료**: 필로카르핀 이온토포레시스 **땀 전해질 검사 (Sweat Chloride $\ge 60	ext{ mEq/L}$)** 로 확진. 표적 분자 샤페론/강화제인 **Trikafta (Elexacaftor + Tezacaftor + Ivacaftor)** 로 $\Delta	ext{F508}$ 결함 단백질의 세포막 이동 및 개폐율을 회복시켜 폐기능을 극적으로 개선.
@@ -159,12 +169,18 @@ graph TD
     * 총폐용량(TLC), 폐활량(VC), 기능적 잔기용량(FRC)이 모두 비례적으로 감소하는 전형적인 **제한성 환기 장애 (Restrictive pattern, $FEV_1/FVC \ge 0.75$, $TLC < 80\%$)**.  
   * **호흡근 역학 부전과 만성 호흡부전**:  
     * 횡격막과 늑간근이 기계적 불리함(Mechanical disadvantage)에 놓여 호흡 일량(Work of breathing)이 기하급수적으로 폭증.  
-    * 환자는 얕고 빠른 호흡(Rapid shallow breathing)을 취하게 되어 사강 환기율($V_D/V_T$)이 증가 $ightarrow$ **폐포 저환기(Alveolar hypoventilation)** 발생 $ightarrow$ **만성 고탄산혈증($	ext{PaCO}_2 > 45	ext{ mmHg}$) 및 저산소혈증**.  
+    * 환자는 얕고 빠른 호흡(Rapid shallow breathing)을 취하게 되어 사강 환기율($V_D/V_T$)이 증가 $
+ightarrow$ **폐포 저환기(Alveolar hypoventilation)** 발생 $
+ightarrow$ **만성 고탄산혈증($	ext{PaCO}_2 > 45	ext{ mmHg}$) 및 저산소혈증**.  
   * **폐성심 (Cor Pulmonale)의 발생 단계**:  
-    1. 만성 폐포 저산소증 $ightarrow$ 전폐포성 **저산소성 폐혈관수축 (HPV)** 유도.  
+    1. 만성 폐포 저산소증 $
+ightarrow$ 전폐포성 **저산소성 폐혈관수축 (HPV)** 유도.  
     2. 흉곽 찌그러짐과 무기폐로 인한 폐 모세혈관상의 물리적 소실 및 폐혈관 기질 압박.  
-    3. 폐혈관 저항(PVR)의 영구적 상승 $ightarrow$ **폐동맥고혈압 (Pulmonary Hypertension)** 발생.  
-    4. 우심실 후부하 폭증 $ightarrow$ **우심실 비대(RVH) 및 우심부전 (폐성심)** $ightarrow$ 경정맥 확장, 간비대, 하지 함요부종, 조기 사망.
+    3. 폐혈관 저항(PVR)의 영구적 상승 $
+ightarrow$ **폐동맥고혈압 (Pulmonary Hypertension)** 발생.  
+    4. 우심실 후부하 폭증 $
+ightarrow$ **우심실 비대(RVH) 및 우심부전 (폐성심)** $
+ightarrow$ 경정맥 확장, 간비대, 하지 함요부종, 조기 사망.
 
 ```mermaid
 graph TD
@@ -214,7 +230,9 @@ graph TD
 | **내장측 흉막 (Visceral Pleura)** | **인접 정상 폐엽과 흉막을 공유함** (폐 실질 내 매몰) | **독립된 자체 내장측 흉막으로 완전히 싸여 있음** |
 | **발생 호발 부위** | **좌하엽 후기저분절 (LLL, 60%)**, 우하엽 후기저 (30%) | 좌측 횡격막 인접부 (90%), 횡격막 내/하복부에도 위치 가능 |
 | **동맥 혈액 공급** | **하행 흉부대동맥 또는 상부 복부대동맥** 분지 | **복부대동맥, 복강동맥(Celiac axis)** 또는 비장동맥 분지 |
-| **정맥 배액 혈류** | **폐정맥 (Pulmonary veins) $ightarrow$ 좌심방** (좌-좌 단락) | **체정맥 (기정맥 Azygos, 반기정맥, 하대정맥)** $ightarrow$ 우심방 (좌-우 단락) |
+| **정맥 배액 혈류** | **폐정맥 (Pulmonary veins) $
+ightarrow$ 좌심방** (좌-좌 단락) | **체정맥 (기정맥 Azygos, 반기정맥, 하대정맥)** $
+ightarrow$ 우심방 (좌-우 단락) |
 | **타 선천 기형 동반** | 드묾 ($<15\%$) | **매우 흔함 (50~60%)**: 선천성 횡격막 탈장(CDH), 선천성 심기형 |
 | **임상 발현 시기 및 증상** | **소아기~성인기**: 반복적인 하엽 폐렴, 폐농양, 객혈 | **신생아기~영아기**: 호흡곤란, 청색증, 무증상 산전 초음파 발견 |
 | **수술적 절제술** | 정상 폐조직과 분리가 어려워 **해당 폐엽 절제술 (Lobectomy)** | 독립 흉막이므로 정상 폐 보존하며 **격리증 단독 절제 (Sequestrectomy)** |
@@ -243,7 +261,11 @@ graph TD
 ![[Netter_V3_Plate4-7.png]]
 
 * **성대 점막 미세해부학 및 4대 양성 질환 감별**:  
-  * **히라노(Hirano) 성대 층판 구조**: 표피층 $ightarrow$ **고유층 (Lamina Propria: 천층 라인케 공간 Reinke's space $ightarrow$ 중간층 $ightarrow$ 심층)** $ightarrow$ 성대근(Vocalis m.). 라인케 공간은 무세포성 젤라틴 기질로 성대의 자유로운 파동 진동(Mucosal wave)을 가능케 함.  
+  * **히라노(Hirano) 성대 층판 구조**: 표피층 $
+ightarrow$ **고유층 (Lamina Propria: 천층 라인케 공간 Reinke's space $
+ightarrow$ 중간층 $
+ightarrow$ 심층)** $
+ightarrow$ 성대근(Vocalis m.). 라인케 공간은 무세포성 젤라틴 기질로 성대의 자유로운 파동 진동(Mucosal wave)을 가능케 함.  
   * **4대 양성 병변 비교 매트릭스**:  
 
 | 질환명 | 호발 요인 및 환자군 | 병변 특징 및 위치 | 조직학적 특징 | 1차 표준 치료 |
@@ -263,7 +285,10 @@ graph TD
 
 * **협착 병태생리 및 면윤상 연골의 해부학적 취약성**:  
   * **삽관 후 기관 협착 (Post-Intubation Tracheal Stenosis, PITS)**:  
-    * **기전**: 중환자실 인공호흡기 치료 시 기관내 튜브의 커프(Cuff) 압력이 모세혈관 관류압($> 25\sim30	ext{ mmHg}$)을 초과 $ightarrow$ 기관 점막 허혈 $ightarrow$ 연골막 괴사 $ightarrow$ 섬유아세포 과증식 및 반흔 구축(Cicatricial webbing).  
+    * **기전**: 중환자실 인공호흡기 치료 시 기관내 튜브의 커프(Cuff) 압력이 모세혈관 관류압($> 25\sim30	ext{ mmHg}$)을 초과 $
+ightarrow$ 기관 점막 허혈 $
+ightarrow$ 연골막 괴사 $
+ightarrow$ 섬유아세포 과증식 및 반흔 구축(Cicatricial webbing).  
     * **예방**: 커프 압력을 항상 **$20\sim25	ext{ cmH}_2	ext{O}$** 로 유지.  
   * **성문하 협착증 (Subglottic Stenosis)**:  
     * 성문 하부에서 윤상연골(Cricoid cartilage) 부위까지의 내경 협소화.  
@@ -310,9 +335,14 @@ graph TD
 
 * **2형 염증 분자 캐스케이드와 기도 개형의 병리학**:  
   * **2형 면역 염증 반응 (Type 2 Inflammatory Cascade)**:  
-    * 알레르겐 흡입 $ightarrow$ 기도 상피세포 자극 $ightarrow$ 알라민(Alarmin: TSLP, IL-33, IL-25) 분비.  
-    * 수지상세포에 의해 **Th2 세포** 및 **제2형 선천림프구(ILC2)** 활성화 $ightarrow$ **IL-4, IL-5, IL-13 대량 분비**.  
-    * **비만세포 탈과립**: IgE 가교 $ightarrow$ 히스타민, 류코트리엔($	ext{LTC}_4, 	ext{LTD}_4, 	ext{LTE}_4$), 프로스타글란딘($	ext{PGD}_2$) 방출 $ightarrow$ 기관지 평활근 수축, 미세혈관 혈장 누출로 기도 부종.  
+    * 알레르겐 흡입 $
+ightarrow$ 기도 상피세포 자극 $
+ightarrow$ 알라민(Alarmin: TSLP, IL-33, IL-25) 분비.  
+    * 수지상세포에 의해 **Th2 세포** 및 **제2형 선천림프구(ILC2)** 활성화 $
+ightarrow$ **IL-4, IL-5, IL-13 대량 분비**.  
+    * **비만세포 탈과립**: IgE 가교 $
+ightarrow$ 히스타민, 류코트리엔($	ext{LTC}_4, 	ext{LTD}_4, 	ext{LTE}_4$), 프로스타글란딘($	ext{PGD}_2$) 방출 $
+ightarrow$ 기관지 평활근 수축, 미세혈관 혈장 누출로 기도 부종.  
     * **호산구 염증 침윤**: IL-5에 의해 활성화된 호산구가 주염기성단백(MBP), 호산구 과산화효소(EPO)를 유리하여 기도 상피를 탈락시키고 감각신경 종말을 노출시켜 기도과민성(AHR) 초래.  
   * **기도 개형 (Airway Remodeling)의 5대 병리학적 변화**:  
     1. **상피하 기저막 비후**: 판상 치밀 콜라겐(Type I, III, V) 침착.  
@@ -356,12 +386,22 @@ graph TD
 * **약리학적 표적 및 작용 기전 분류**:  
   * **기관지 확장제 (Bronchodilators)**:  
     * **$eta_2$-작용제 (SABA: Albuterol; LABA: Formoterol, Salmeterol)**:  
-      * 기도 평활근의 $eta_2$ 수용체 결합 $ightarrow$ $G_s$ 단백 활성화 $ightarrow$ 아데닐릴 시클라아제(Adenylyl Cyclase) 촉진 $ightarrow$ **cAMP 증가** $ightarrow$ 단백질 인산화효소 A(PKA) 활성화 $ightarrow$ 세포 내 $	ext{Ca}^{2+}$ 감소 및 MLCK 억제 $ightarrow$ **강력한 기관지 평활근 이완**.  
+      * 기도 평활근의 $eta_2$ 수용체 결합 $
+ightarrow$ $G_s$ 단백 활성화 $
+ightarrow$ 아데닐릴 시클라아제(Adenylyl Cyclase) 촉진 $
+ightarrow$ **cAMP 증가** $
+ightarrow$ 단백질 인산화효소 A(PKA) 활성화 $
+ightarrow$ 세포 내 $	ext{Ca}^{2+}$ 감소 및 MLCK 억제 $
+ightarrow$ **강력한 기관지 평활근 이완**.  
     * **항콜린제 (SAMA: Ipratropium; LAMA: Tiotropium)**:  
-      * 아세틸콜린에 의한 **$M_3$ 무스카린 수용체 차단** $ightarrow$ $G_q$-PLC 경로 차단 $ightarrow$ $	ext{IP}_3/	ext{Ca}^{2+}$ 감소 $ightarrow$ 미주신경성 기관지 수축 및 점액 분비 억제.  
+      * 아세틸콜린에 의한 **$M_3$ 무스카린 수용체 차단** $
+ightarrow$ $G_q$-PLC 경로 차단 $
+ightarrow$ $	ext{IP}_3/	ext{Ca}^{2+}$ 감소 $
+ightarrow$ 미주신경성 기관지 수축 및 점액 분비 억제.  
   * **항염증 조절제 (Anti-inflammatory Controllers)**:  
     * **흡입 스테로이드 (ICS: Fluticasone, Budesonide)**:  
-      * 세포질 내 GR 결합 후 핵으로 이동 $ightarrow$ 전사인자 NF-κB 및 AP-1을 억제(Transrepression)하고 히스톤 탈아세틸화효소-2(HDAC2)를 모집하여 염증성 사이토카인 유전자 발현을 전방위 억제.  
+      * 세포질 내 GR 결합 후 핵으로 이동 $
+ightarrow$ 전사인자 NF-κB 및 AP-1을 억제(Transrepression)하고 히스톤 탈아세틸화효소-2(HDAC2)를 모집하여 염증성 사이토카인 유전자 발현을 전방위 억제.  
     * **류코트리엔 수용체 길항제 (LTRA: Montelukast, Zafirlukast)**:  
       * $	ext{CysLT}_1$ 수용체를 경쟁적으로 차단하여 류코트리엔 매개 기관지 수축, 기도 부종, 호산구 침윤 억제. (아스피린 과민성 천식에 탁월).  
   * **최신 표적 생물학적 제제 (Biologics for Severe Asthma)**:  
@@ -376,11 +416,13 @@ graph TD
 ![[Netter_V3_Plate4-14.png]]
 
 * **급성 천식 발작의 응급 평가 및 단계별 처치 프로토콜**:  
-  * **기이맥 (Pulsus Paradoxus)**: 흡기 시 흉강 내 극단적 음압 형성 및 폐 과팽창으로 우심실 충만이 급증하여 심실중격이 좌심실로 밀림 $ightarrow$ **흡기 시 수축기 혈압이 $10	ext{ mmHg}$ 이상 비정상적으로 하강**.  
+  * **기이맥 (Pulsus Paradoxus)**: 흡기 시 흉강 내 극단적 음압 형성 및 폐 과팽창으로 우심실 충만이 급증하여 심실중격이 좌심실로 밀림 $
+ightarrow$ **흡기 시 수축기 혈압이 $10	ext{ mmHg}$ 이상 비정상적으로 하강**.  
   * **침묵의 흉부 (Silent Chest)**: 기관지 경련과 점액마개 폐쇄가 너무 극심하여 기류 이동 자체가 없어 천명음조차 들리지 않는 **절박한 호흡정지의 초응급 징후**.  
   * **동맥혈 가스 분석(ABGA)의 위기 징후**:  
     * 초기: 과호흡에 의한 호흡성 알칼리증 ($	ext{PaCO}_2 < 35	ext{ mmHg}$).  
-    * **위험 징후**: 호흡근 피로로 인해 **$	ext{PaCO}_2$가 정상화($40	ext{ mmHg}$)되거나 상승($> 45	ext{ mmHg}$)** 하는 경우 $ightarrow$ 즉각적인 기도삽관 및 기계환기 준비.  
+    * **위험 징후**: 호흡근 피로로 인해 **$	ext{PaCO}_2$가 정상화($40	ext{ mmHg}$)되거나 상승($> 45	ext{ mmHg}$)** 하는 경우 $
+ightarrow$ 즉각적인 기도삽관 및 기계환기 준비.  
   * **응급 약물 요법 시퀀스**:  
     1. 고농도 산소 투여 ($	ext{SpO}_2\ 93\sim95\%$ 유지).  
     2. 속효성 $eta_2$-작용제(SABA) + 이프라트로피움(SAMA) 네뷸라이저 20분 간격 연속 3회 흡입.  
@@ -394,8 +436,10 @@ graph TD
 
 * **정의의 상이성과 질병 스펙트럼**:  
   * COPD는 완전히 가역적이지 않은 지속적인 기류 제한(Airflow limitation)을 특징으로 하는 질환군.  
-  * **임상적 정의 (만성 기관지염, Chronic Bronchitis)**: 해부병리학적이 아닌 **임상적 증상으로 정의** $ightarrow$ 다른 원인 질환 없이 **연속 2년 이상, 1년에 최소 3개월 이상 만성 가래를 동반한 기침**.  
-  * **병리학적 정의 (폐기종, Emphysema)**: 증상이 아닌 **조직학적 소견으로 정의** $ightarrow$ 현저한 섬유화 없이 **종말세기관지 원위부 기도 공간의 영구적인 비정상적 확장 및 폐포벽 파괴**.  
+  * **임상적 정의 (만성 기관지염, Chronic Bronchitis)**: 해부병리학적이 아닌 **임상적 증상으로 정의** $
+ightarrow$ 다른 원인 질환 없이 **연속 2년 이상, 1년에 최소 3개월 이상 만성 가래를 동반한 기침**.  
+  * **병리학적 정의 (폐기종, Emphysema)**: 증상이 아닌 **조직학적 소견으로 정의** $
+ightarrow$ 현저한 섬유화 없이 **종말세기관지 원위부 기도 공간의 영구적인 비정상적 확장 및 폐포벽 파괴**.  
   * 대부분의 흡연자 COPD 환자는 만성 기관지염(기도 염증/점액 분비)과 폐기종(폐포 지지 구조 소실)이 다양한 비율로 혼재된 복합 스펙트럼을 보임.
 
 ---
@@ -406,7 +450,8 @@ graph TD
 * **점액선 과다형성과 레이드 지수 (Reid Index)**:  
   * **조직학적 3대 병리**:  
     1. 점막하 점액선의 비대 및 과다형성 (Hypertrophy and hyperplasia of submucosal glands).  
-    2. 표면 상피층 내 **배상세포(Goblet cell) 화생 및 수적 증가** $ightarrow$ 섬모세포 소실로 점액섬모 에스컬레이터 청소능 상실.  
+    2. 표면 상피층 내 **배상세포(Goblet cell) 화생 및 수적 증가** $
+ightarrow$ 섬모세포 소실로 점액섬모 에스컬레이터 청소능 상실.  
     3. 기관지벽의 만성 단핵구 및 호중구 염증 침윤, 평활근 비후.  
   * **레이드 지수 (Reid Index)**:  
     * 주기관지 횡단면 조직학적 검체에서 측정:
@@ -427,12 +472,14 @@ graph TD
 | :--- | :--- | :--- | :--- | :--- |
 | **중심세엽성 (Centriacinar / Centrilobular)** | **호흡세기관지 중심부만 선택적 파괴**, 말초 폐포관/폐포낭은 보존 | **흡연 (Smoking)** (95% 이상) | **폐 상엽 (Upper lobes)**, 특히 첨후분절 | 탄가루(Anthracotic pigment) 침착 동반 낭포 형성 |
 | **범세엽성 (Panacinar / Panlobular)** | 호흡세기관지부터 말초 폐포낭까지 **세엽 전체가 균일하게 파괴** | **$lpha_1$-항트립신 결핍증 (AAT Deficiency)** | **폐 하엽 (Lower lobes)** 및 전폐야 | 폐가 창백하고 스펀지처럼 거대하게 부풀어 오름 |
-| **원위세엽성 / 중격주위 (Paraseptal)** | 세엽의 말초부(폐포관/폐포낭) 침범, 소엽 중격 및 흉막하 위치 | 흡연, 특발성 | 폐첨부 흉막하 (Subpleural) | 직경 $>1	ext{ cm}$의 기낭(Bullae) 형성 $ightarrow$ **청장년 자발성 기흉(Pneumothorax)의 주원인** |
+| **원위세엽성 / 중격주위 (Paraseptal)** | 세엽의 말초부(폐포관/폐포낭) 침범, 소엽 중격 및 흉막하 위치 | 흡연, 특발성 | 폐첨부 흉막하 (Subpleural) | 직경 $>1	ext{ cm}$의 기낭(Bullae) 형성 $
+ightarrow$ **청장년 자발성 기흉(Pneumothorax)의 주원인** |
 
 * **알파-1 항트립신 결핍증 (Alpha-1 Antitrypsin Deficiency, AATD)**:  
   * 염색체 14q32.1의 **SERPINA1** 유전자 동형접합 변이. 정상 대립유전자 PiM, 최중증 결핍 대립유전자 **PiZ**.  
   * **PiZZ 유전자형**: 혈청 AAT 농도가 정상의 $10\sim15\%$ 수준으로 급감.  
-  * **병태생리**: 간세포 내에서 비정상적으로 접힌 AAT 단백질이 다량체(Polymer)를 형성하여 분비되지 못하고 침착 $ightarrow$ 소아/성인 간경변증(PAS 양성 이완 내성 과립) 유발. 혈중 AAT 결핍으로 폐포 내 **호중구 엘라스타제(Neutrophil elastase)** 가 억제되지 않아 30~40대 조기에 비흡연자에서도 중증 범세엽성 폐기종 발병.
+  * **병태생리**: 간세포 내에서 비정상적으로 접힌 AAT 단백질이 다량체(Polymer)를 형성하여 분비되지 못하고 침착 $
+ightarrow$ 소아/성인 간경변증(PAS 양성 이완 내성 과립) 유발. 혈중 AAT 결핍으로 폐포 내 **호중구 엘라스타제(Neutrophil elastase)** 가 억제되지 않아 30~40대 조기에 비흡연자에서도 중증 범세엽성 폐기종 발병.
 
 ---
 
@@ -442,7 +489,8 @@ graph TD
 * **단백분해효소-항단백분해효소 불균형 및 산화 스트레스 가설**:  
   * **염증 세포 구성의 차이**: 천식(CD4+ Th2, 호산구)과 달리 COPD는 **폐포 대식세포, CD8+ 세포독성 T세포, 호중구(Neutrophil)** 가 주도.  
   * **담배 연기 유발 독성 기전**:  
-    1. 담배 연기의 유해 입자가 폐포 대식세포를 활성화 $ightarrow$ CXCL8(IL-8), $	ext{LTB}_4$ 분비로 순환 호중구를 폐로 대량 유인.  
+    1. 담배 연기의 유해 입자가 폐포 대식세포를 활성화 $
+ightarrow$ CXCL8(IL-8), $	ext{LTB}_4$ 분비로 순환 호중구를 폐로 대량 유인.  
     2. 호중구에서 **단백분해효소(Neutrophil Elastase, Cathepsin G, Proteinase 3)** 분비 + 대식세포에서 **기질금속단백분해효소(MMP-9, MMP-12)** 방출.  
     3. 담배 연기 내의 활성산소종(ROS)이 보호 단백질인 **$lpha_1$-항트립신의 활성 부위(메티오닌 잔기)를 직접 산화시켜 불활성화**.  
     4. 폐 실질의 세포외기질(콜라겐, 엘라스틴)이 무차별적으로 파괴되고 폐포 부착 지지(Alveolar attachments)가 소실되어 소기도 허탈 유발.
@@ -513,7 +561,8 @@ graph TD
   * **발생 3대 기전**:  
     1. **만성 저산소성 폐혈관수축 (Chronic HPV)**: 혈관 평활근 비후 및 내막 섬유화(폐혈관 개형 Vascular remodeling).  
     2. **폐포 파괴에 의한 모세혈관상 소실**: 폐기종에서 폐포벽이 녹아내리며 모세혈관 베드가 영구적으로 소멸.  
-    3. **이차성 적혈구증가증 (Polycythemia)**: 신장의 에리스로포이에틴(EPO) 분비 급증으로 헤마토크릿 $>55\%$ 상승 $ightarrow$ 혈액 점도(Viscosity) 증가로 폐혈관 저항 가중.  
+    3. **이차성 적혈구증가증 (Polycythemia)**: 신장의 에리스로포이에틴(EPO) 분비 급증으로 헤마토크릿 $>55\%$ 상승 $
+ightarrow$ 혈액 점도(Viscosity) 증가로 폐혈관 저항 가중.  
   * **신체 검진 및 심전도 소견**:  
     * 제2심음의 폐동맥 성분 항진 ($P_2 > A_2$), 흉골 좌하연 수축기 잡음 (삼첨판 폐쇄부전 TR), 경정맥 확장, 간비대 및 복수.  
     * **심전도(ECG)**: **폐성 P파 (P pulmonale, 유도 II, III, aVF에서 P파 진폭 $> 2.5	ext{ mm}$)**, $V_1$에서 $R/S > 1.0$, 우축 편위(Right axis deviation).
@@ -525,10 +574,17 @@ graph TD
 
 * **Cole의 악순환 가설 및 원인 질환 스펙트럼**:  
   * **Cole의 악순환 모델 (Cole's Vicious Cycle Theory)**:  
-    $$	ext{초기 원인 손상} ightarrow 	ext{점액섬모 청소 장애} ightarrow 	ext{세균 군집화(녹농균)} ightarrow 	ext{호중구 주도 만성 염증} ightarrow 	ext{엘라스타제/활성산소 기도벽 파괴} ightarrow 	ext{기관지 확장 및 청소능 추가 상실}$$
+    $$	ext{초기 원인 손상} 
+ightarrow 	ext{점액섬모 청소 장애} 
+ightarrow 	ext{세균 군집화(녹농균)} 
+ightarrow 	ext{호중구 주도 만성 염증} 
+ightarrow 	ext{엘라스타제/활성산소 기도벽 파괴} 
+ightarrow 	ext{기관지 확장 및 청소능 추가 상실}$$
   * **주요 선행 원인 질환군**:  
     1. **감염 후성 (Post-infectious, 최다)**: 소아기 홍역, 백일해, 중증 아데노바이러스 폐렴, 폐결핵(TB 후유증 결핵성 기관지확장증은 상엽 호발).  
-    2. **섬모 운동 이상증 (Ciliary Dyskinesia)**: **카르타게너 증후군 (Kartagener Syndrome)**: 미세소관 **디네인 팔 (Dynein arms) 결손** $ightarrow$ 섬모 운동 마비 $ightarrow$ **기관지확장증 + 만성 부비동염 + 내장역위증 (Situs inversus)** 의 3징.  
+    2. **섬모 운동 이상증 (Ciliary Dyskinesia)**: **카르타게너 증후군 (Kartagener Syndrome)**: 미세소관 **디네인 팔 (Dynein arms) 결손** $
+ightarrow$ 섬모 운동 마비 $
+ightarrow$ **기관지확장증 + 만성 부비동염 + 내장역위증 (Situs inversus)** 의 3징.  
     3. **낭포성 섬유증 (Cystic Fibrosis)**: 서양인 최다 원인.  
     4. **알레르기성 기관지폐 아스페르길루스증 (ABPA)**: *Aspergillus fumigatus*에 대한 과민반응으로 중심성 기관지확장증(Central bronchiectasis), 혈청 총 IgE 급증, 호산구증가증 동반.  
     5. **면역결핍증**: 저감마글로불린혈증(CVID), X-연관 무감마글로불린혈증.
@@ -548,7 +604,8 @@ graph TD
     2. **기도의 점점 좁아짐(Tapering) 소실**: 정상 기도는 말초로 갈수록 가늘어져야 하나 내경이 일정하게 유지됨.  
     3. **말초 기도 가시화**: 정상적으로는 보이지 않는 **외측 흉벽 및 흉막하 1 cm 이내에서 기관지 내강이 관찰됨**.  
     4. **궤도 징후 (Tram-track sign)**: 주행 방향과 평행하게 절단된 비후된 기관지 벽이 기차 선로처럼 2개의 평행한 선으로 보임.  
-  * **임상 징후 및 객혈 기전**: 매일 다량의 3층 화농성 객담(거품층-점액층-농양 침전물층). 비후된 **기관지동맥(Bronchial artery, 체순환 고압계)** 의 증생 및 가성동맥류 파열로 **치명적 대량 각혈(Massive Hemoptysis)** 호발 $ightarrow$ 기관지동맥 색전술(BAE) 응급 시행.
+  * **임상 징후 및 객혈 기전**: 매일 다량의 3층 화농성 객담(거품층-점액층-농양 침전물층). 비후된 **기관지동맥(Bronchial artery, 체순환 고압계)** 의 증생 및 가성동맥류 파열로 **치명적 대량 각혈(Massive Hemoptysis)** 호발 $
+ightarrow$ 기관지동맥 색전술(BAE) 응급 시행.
 
 ---
 
@@ -559,10 +616,15 @@ graph TD
   * **분자유전학**: 염색체 **7q31.2**에 위치한 **CFTR** 유전자 결함으로 발생하는 상염색체 열성(Autosomal Recessive) 질환. 백인에서 2,500~3,000명당 1명꼴로 호발.  
   * **$\Delta	ext{F508}$ 돌연변이 (Class II, 전체 환자의 70%)**:  
     * 508번째 아미노산인 **페닐알라닌(Phenylalanine)의 3염기 결실(Deletion)**.  
-    * 단백질 합성 후 소포체(ER)에서 3차원 접힘(Folding) 오류 발생 $ightarrow$ 세포질 내 프로테아좀에 의해 조기 분해되어 **세포막 표면으로 전혀 도달하지 못함**.  
+    * 단백질 합성 후 소포체(ER)에서 3차원 접힘(Folding) 오류 발생 $
+ightarrow$ 세포질 내 프로테아좀에 의해 조기 분해되어 **세포막 표면으로 전혀 도달하지 못함**.  
   * **조직별 상이한 전해질 이상 기전**:  
-    * **호흡기 및 장관 상피**: CFTR을 통한 **$Cl^-$ 분비 차단** + ENaC 억제 해제로 인한 **$Na^+$ 및 물의 세포 내 과다 재흡수** $ightarrow$ 기도 표면 수분층(ASL) 고갈 $ightarrow$ **극도로 점조하고 끈적한 점액마개 형성**.  
-    * **땀샘 (Sweat Glands)**: 땀관 상피에서 일차 분비액으로부터 **$Cl^-$ 및 $Na^+$ 재흡수 불가** $ightarrow$ 체표면으로 다량의 염분 배출 $ightarrow$ 피부를 핥았을 때 짠맛, **땀 염소 농도(Sweat Chloride) 급증 ($\ge 60	ext{ mEq/L}$)**.
+    * **호흡기 및 장관 상피**: CFTR을 통한 **$Cl^-$ 분비 차단** + ENaC 억제 해제로 인한 **$Na^+$ 및 물의 세포 내 과다 재흡수** $
+ightarrow$ 기도 표면 수분층(ASL) 고갈 $
+ightarrow$ **극도로 점조하고 끈적한 점액마개 형성**.  
+    * **땀샘 (Sweat Glands)**: 땀관 상피에서 일차 분비액으로부터 **$Cl^-$ 및 $Na^+$ 재흡수 불가** $
+ightarrow$ 체표면으로 다량의 염분 배출 $
+ightarrow$ 피부를 핥았을 때 짠맛, **땀 염소 농도(Sweat Chloride) 급증 ($\ge 60	ext{ mEq/L}$)**.
 
 ```mermaid
 graph TD
@@ -589,7 +651,8 @@ graph TD
 * **연령별 감염 균주의 변천 및 폐 합병증**:  
   * **호흡기계 미생물학적 천이 (Microbiological Succession)**:  
     * **영유아 및 소아기**: **황색포도상구균 (*Staphylococcus aureus*)** 및 비피막형 헤모필루스 인플루엔자 (*H. influenzae*)가 조기 정착.  
-    * **청소년기 및 성인기**: **녹농균 (*Pseudomonas aeruginosa*)** 감염이 80% 이상 장악. 만성 집락화 시 세균이 알지네이트(Alginate) 점액질 외피를 형성하는 **점액형 녹농균(Mucoid *P. aeruginosa*)** 으로 표현형 변환 $ightarrow$ 생체막(Biofilm) 형성으로 항생제 침투 불가 및 면역 회피.  
+    * **청소년기 및 성인기**: **녹농균 (*Pseudomonas aeruginosa*)** 감염이 80% 이상 장악. 만성 집락화 시 세균이 알지네이트(Alginate) 점액질 외피를 형성하는 **점액형 녹농균(Mucoid *P. aeruginosa*)** 으로 표현형 변환 $
+ightarrow$ 생체막(Biofilm) 형성으로 항생제 침투 불가 및 면역 회피.  
     * **치명적 균주**: **부르크홀데리아 세파시아 (*Burkholderia cepacia* 복합체)** 감염 시 급격한 괴사성 폐렴 및 패혈증을 일으키는 "세파시아 증후군(Cepacia syndrome)"으로 급사 위험 (폐이식의 상대적 금기증).  
   * **주요 폐 합병증**: 전폐포성 양측성 낭포상 기관지확장증, 점액마개에 의한 전폐 무기폐, 기낭 파열에 의한 재발성 기흉, 비후된 기관지동맥 파열에 의한 치명적 대량 객혈, 만성 저산소증에 의한 **곤봉지 (Digital clubbing)** 및 폐성심.
 
@@ -600,16 +663,20 @@ graph TD
 
 * **폐외 3대 핵심 장기 병태생리학**:  
   * **1. 췌장 외분비 및 내분비 부전**:  
-    * 점조한 점액이 췌관을 폐색 $ightarrow$ 췌장 분비액 정체 $ightarrow$ 선포세포의 조기 자가소화 및 광범위한 섬유화·지방 치환(Fibrocystic disease).  
+    * 점조한 점액이 췌관을 폐색 $
+ightarrow$ 췌장 분비액 정체 $
+ightarrow$ 선포세포의 조기 자가소화 및 광범위한 섬유화·지방 치환(Fibrocystic disease).  
     * **임상 결과**: 췌장 소화효소(리파아제, 아밀라아제, 트립신) 결핍으로 인한 심각한 흡수장애(Malabsorption), 악취 나는 대량의 **지방변 (Steatorrhea)**, 소아 성장 부전 및 지용성 비타민 결핍증(비타민 A 결핍 야맹증, 비타민 D 골연화증, 비타민 E 운동실조증, 비타민 K 응고장애).  
     * 질병 진행 시 랑게르한스섬까지 파괴되어 **낭포성 섬유증 관련 당뇨병 (CFRD, Type 1/2 혼합형 특성)** 발병. 치료는 매 식사 시 **췌장 효소 대체제 (PERT, Pancrelipase)** 평생 복용.  
   * **2. 위장관 및 간담도계 합병증**:  
-    * **신생아 태변 장폐색 (Meconium Ileus, 15~20%)**: 회장 말단이 진득한 타르 같은 태변으로 완전 폐색 $ightarrow$ 복부 팽만, 담즙성 구토, 단순 복부 방사선상 "비누 거품(Soap-bubble)" 징후. 위그라핀(Gastrografin) 관장 또는 응급 수술.  
+    * **신생아 태변 장폐색 (Meconium Ileus, 15~20%)**: 회장 말단이 진득한 타르 같은 태변으로 완전 폐색 $
+ightarrow$ 복부 팽만, 담즙성 구토, 단순 복부 방사선상 "비누 거품(Soap-bubble)" 징후. 위그라핀(Gastrografin) 관장 또는 응급 수술.  
     * 소아/성인에서는 회맹부 분변 감돈인 **원위 장폐색 증후군 (DIOS)** 호발.  
     * 간 내 담관 폐색으로 인한 국소성 담즙성 간경변증(Focal biliary cirrhosis) 및 문맥고혈압.  
   * **3. 남성 생식계: 선천성 양측 정관 무발생 (CBAVD)**:  
     * **남성 환자의 98% 이상**에서 관찰됨. 볼프관(Wolffian duct) 발달 과정에서 농축 분비물로 정관 및 정낭이 조기 폐색/퇴축되어 발생.  
-    * **고환 내 정자형성(Spermatogenesis)은 정상**이나 수송관이 결손된 **폐색성 무정자증 (Obstructive Azoospermia)** 으로 불임 초래 $ightarrow$ 고환 정자 채취술(TESE) 및 세포질 내 정자 주입술(ICSI)로 임신 가능. (여성은 점조한 자궁경부 점액으로 가임력 저하).  
+    * **고환 내 정자형성(Spermatogenesis)은 정상**이나 수송관이 결손된 **폐색성 무정자증 (Obstructive Azoospermia)** 으로 불임 초래 $
+ightarrow$ 고환 정자 채취술(TESE) 및 세포질 내 정자 주입술(ICSI)로 임신 가능. (여성은 점조한 자궁경부 점액으로 가임력 저하).  
   * **혁신적 CFTR 분자 조절제 치료 (CFTR Modulators)**:  
     * **포텐시에이터 (Potentiator, Ivacaftor)**: 세포막에 존재하는 CFTR 채널의 개폐 확률(Gating)을 증가시켜 염소 수송 촉진.  
     * **코렉터 (Corrector, Elexacaftor, Tezacaftor)**: $\Delta	ext{F508}$ 변이 단백질의 구조적 접힘을 정상화하여 소포체 분해를 막고 세포막 표면으로의 이동을 유도.  
@@ -691,3 +758,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 4 (Part 1) 전체 26개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 흉곽기형, 오목가슴, 척추후측만증, 폐격리증, 후두질환, 성대결절, 후두암, 폐기종, 알파1항트립신결핍증, 기관지확장증, 낭포성섬유증, CFTR -->

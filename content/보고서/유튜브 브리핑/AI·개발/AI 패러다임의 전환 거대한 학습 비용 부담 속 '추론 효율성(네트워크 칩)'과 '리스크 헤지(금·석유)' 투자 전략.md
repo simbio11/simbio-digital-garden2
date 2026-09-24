@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-19
 created_at: 2026-09-19 08:31:14
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=y7bMOVi-2tA"
 ---
 
 # 📌 AI 패러다임의 전환 거대한 학습 비용 부담 속 '추론 효율성(네트워크 칩)'과 '리스크 헤지(금·석유)' 투자 전략

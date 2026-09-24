@@ -8,31 +8,20 @@ total_plates: 23
 source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
 source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 호흡기학
-  - 진폐증
-  - 규폐증
-  - 석면폐증
-  - 악성중피종
   - 폐색전증
-  - 심부정맥혈전증
-  - 폐동맥고혈압
   - 폐부종
-  - 흉막삼출
-  - 기흉
-  - 긴장성기흉
-  - 연성흉곽
-  - ARDS
-  - 미만성폐포손상
-  - 특발성폐섬유증
-  - UIP
-  - 유육종증
 aliases:
   - "Netter Respiratory Day 06"
   - "Netter 혈관·흉막·외상·간질성질환"
   - "Vascular, Pleural, ARDS & ILD Master Note"
 status: completed
 created: 2026-09-18
+title: Day06_진폐증_폐색전증_폐고혈압_폐부종_흉막질환_외상_ARDS_간질성폐질환
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 ---
 
 # Netter Respiratory Day 06: 환경성·혈관·흉막 질환, 흉부외상, ARDS 및 간질성 폐질환 (pp. 214–290)
@@ -46,7 +35,9 @@ created: 2026-09-18
 ## 1. 개요 및 마스터 요약 (Executive Summary)
 
 * **무기물 분진 진폐증 및 환경성 폐질환 (Plates 4-49 ~ 4-52)**:  
-  * **규폐증 (Silicosis)**: 결정형 유리규산(Free silica, $	ext{SiO}_2$) 분진 흡입. 폐포 대식세포 탐식 $ightarrow$ 리소좀 파열 및 인터루킨-1($	ext{IL}-1$), $	ext{TNF}-lpha$ 분비 $ightarrow$ 대식세포 자멸사. 편광현미경하 복굴절성(Birefringent) 입자를 중심에 둔 **동심원상 초자화 교원질 결절 (Whorled concentric collagenous nodules)** 형성. **폐 상엽(Upper lobes)** 에 호발하며, 문부 림프절 테두리가 석회화되는 **달걀껍데기 석회화 (Eggshell calcification)** 가 특징. 대식세포 식균능 파괴로 **폐결핵 이환율이 정상인의 30배 이상 급증 (규결핵증, Silicotuberculosis)**.  
+  * **규폐증 (Silicosis)**: 결정형 유리규산(Free silica, $	ext{SiO}_2$) 분진 흡입. 폐포 대식세포 탐식 $
+ightarrow$ 리소좀 파열 및 인터루킨-1($	ext{IL}-1$), $	ext{TNF}-lpha$ 분비 $
+ightarrow$ 대식세포 자멸사. 편광현미경하 복굴절성(Birefringent) 입자를 중심에 둔 **동심원상 초자화 교원질 결절 (Whorled concentric collagenous nodules)** 형성. **폐 상엽(Upper lobes)** 에 호발하며, 문부 림프절 테두리가 석회화되는 **달걀껍데기 석회화 (Eggshell calcification)** 가 특징. 대식세포 식균능 파괴로 **폐결핵 이환율이 정상인의 30배 이상 급증 (규결핵증, Silicotuberculosis)**.  
   * **석면 관련 질환 (Asbestos-Related Diseases)**: 내열성 규산염 섬유. 크리소타일(백석면) 및 각섬석(청석면, 갈석면). 각섬석이 직경 대비 길이가 길어 폐포 심부까지 침투하여 가장 유독.  
     * **석면폐증 (Asbestosis)**: **폐 하엽(Lower lobes) 기저부** 간질의 미만성 섬유화. 프러시안 블루(Prussian blue) 염색상 양성을 띠는 철단백질 코팅 아령 모양의 **석면소체 (Asbestos body / Ferruginous body)**.  
     * **흉막판 (Pleural Plaques)**: 벽측 흉막(특히 횡격막 건막부 및 후하측 흉벽)에 발생하는 무증상의 양측 대칭성 초자화 석회화 판. 석면 노출의 가장 흔한 지표.  
@@ -55,8 +46,15 @@ created: 2026-09-18
 
 * **폐혈관 질환: 폐색전증 및 폐동맥고혈압 (Plates 4-53 ~ 4-57)**:  
   * **폐혈전색전증 (Pulmonary Embolism, PE)**: 95% 이상이 하지 근위부 심부정맥혈전증(Proximal DVT: 대퇴정맥, 장골정맥)에서 유래 (Virchow's Triad: 정맥 정체, 혈관내피 손상, 과응고 상태).  
-    * **호흡·순환 역학**: 폐동맥 폐색 $ightarrow$ 환기되나 혈류가 없는 **치명적 폐포 사강 (Alveolar dead space) 급증** $ightarrow$ 폐포 계면활성제 고갈로 미세무기폐 $ightarrow$ 우심실 후부하 급상승 $ightarrow$ 우심실 확장/허혈, 심실중격 좌심실 압박 $ightarrow$ 일회박출량 급감 $ightarrow$ **심인성/폐쇄성 쇼크 및 급사**.  
-    * **진단 및 위험도 판정**: Wells Score로 임상적 확률 평가 $ightarrow$ 저위험군은 D-dimer 배제 검사; 고위험군은 즉시 **조영증강 CT 폐혈관조영술 (CTPA)** 시행 (충만 결손 Filling defect 확인). 심초음파상 우심실 자유벽 무운동성 및 첨부 보존 소견인 **맥코넬 징후 (McConnell's sign)**.  
+    * **호흡·순환 역학**: 폐동맥 폐색 $
+ightarrow$ 환기되나 혈류가 없는 **치명적 폐포 사강 (Alveolar dead space) 급증** $
+ightarrow$ 폐포 계면활성제 고갈로 미세무기폐 $
+ightarrow$ 우심실 후부하 급상승 $
+ightarrow$ 우심실 확장/허혈, 심실중격 좌심실 압박 $
+ightarrow$ 일회박출량 급감 $
+ightarrow$ **심인성/폐쇄성 쇼크 및 급사**.  
+    * **진단 및 위험도 판정**: Wells Score로 임상적 확률 평가 $
+ightarrow$ 저위험군은 D-dimer 배제 검사; 고위험군은 즉시 **조영증강 CT 폐혈관조영술 (CTPA)** 시행 (충만 결손 Filling defect 확인). 심초음파상 우심실 자유벽 무운동성 및 첨부 보존 소견인 **맥코넬 징후 (McConnell's sign)**.  
     * **치료 원칙**: 지속적 저혈압(수축기압 $<90	ext{ mmHg}$) 동반 고위험군은 즉시 **전신 혈전용해술 (IV tPA, Alteplase)**; 혈역학적 안정군은 비타민 K 비의존성 경구 항응고제(DOAC: Apixaban, Rivaroxaban) 또는 LMWH 투여.  
   * **폐동맥고혈압 (Pulmonary Arterial Hypertension, PAH, WHO 1군)**:  
     * 여성 호발, 염색체 2q33의 **BMPR2 (골형성단백질 수용체 2형)** 기능 상실 돌연변이가 혈관 평활근 세포의 비정상적 증식 억제 실패 유발.  
@@ -66,9 +64,15 @@ created: 2026-09-18
 
 * **폐부종 및 흉막 질환의 병태 역학 (Plates 4-58 ~ 4-62)**:  
   * **폐부종 (Pulmonary Edema)의 스타링 법칙 (Starling Equation)**:  
-    $$Q_f = K_f \cdot \left[ (P_{	ext{cap}} - P_{	ext{if}}) - \sigma (\pi_{	ext{cap}} - \pi_{	ext{if}}) ight]$$  
-    * **심인성 (정수압성) 폐부종**: 좌심부전, 승모판 협착증 $ightarrow$ 모세혈관 정수압($P_{	ext{cap}} pprox 	ext{PCWP}$)이 **$> 18\sim20	ext{ mmHg}$** 로 급상승 $ightarrow$ 단백질이 적은 누출성 여과액 유출 $ightarrow$ 간질 부종(Kerley B선) $ightarrow$ 폐포 부종(나비 날개 Bat-wing 음영).  
-    * **비심인성 (투과성) 폐부종 (ARDS)**: 내피세포/상피세포 장벽 파괴로 모세혈관 투과성 계수($K_f$) 급증 $ightarrow$ **PCWP가 정상($\le 14	ext{ mmHg}$)임에도** 단백질이 풍부한 삼출액 폐포 충만.  
+    $$Q_f = K_f \cdot \left[ (P_{	ext{cap}} - P_{	ext{if}}) - \sigma (\pi_{	ext{cap}} - \pi_{	ext{if}}) 
+ight]$$  
+    * **심인성 (정수압성) 폐부종**: 좌심부전, 승모판 협착증 $
+ightarrow$ 모세혈관 정수압($P_{	ext{cap}} pprox 	ext{PCWP}$)이 **$> 18\sim20	ext{ mmHg}$** 로 급상승 $
+ightarrow$ 단백질이 적은 누출성 여과액 유출 $
+ightarrow$ 간질 부종(Kerley B선) $
+ightarrow$ 폐포 부종(나비 날개 Bat-wing 음영).  
+    * **비심인성 (투과성) 폐부종 (ARDS)**: 내피세포/상피세포 장벽 파괴로 모세혈관 투과성 계수($K_f$) 급증 $
+ightarrow$ **PCWP가 정상($\le 14	ext{ mmHg}$)임에도** 단백질이 풍부한 삼출액 폐포 충만.  
   * **흉막삼출 (Pleural Effusion)의 라이트 기준 (Light's Criteria)**:  
     * 다음 3가지 중 **단 1개라도 만족하면 삼출액 (Exudate)**, 모두 불만족 시 **누출액 (Transudate)**:  
       1. $	ext{흉수 단백질 / 혈청 단백질 비율} > 0.5$  
@@ -76,7 +80,8 @@ created: 2026-09-18
       3. $	ext{흉수 LDH 수치} > 	ext{혈청 LDH 정상 상한치의 2/3}$  
     * **누출액 원인**: 울혈성 심부전(최다), 간경변증, 신증후군.  
     * **삼출액 원인**: 폐렴, 악성 종양(폐암, 유방암), 결핵, 폐색전증.  
-    * **농흉 (Empyema) 및 복합 부폐렴성 흉수 배액 적응증**: 육안상 화농성(Pus), 세균 도말/배양 양성, **$	ext{pH} < 7.20$**, **포도당 $< 40	ext{ mg/dL}$**, $	ext{LDH} > 1,000	ext{ IU/L}$ $ightarrow$ 항생제만으로 완치 불가, 즉각적인 **흉관 삽입술(Chest tube drainage)** 필수.
+    * **농흉 (Empyema) 및 복합 부폐렴성 흉수 배액 적응증**: 육안상 화농성(Pus), 세균 도말/배양 양성, **$	ext{pH} < 7.20$**, **포도당 $< 40	ext{ mg/dL}$**, $	ext{LDH} > 1,000	ext{ IU/L}$ $
+ightarrow$ 항생제만으로 완치 불가, 즉각적인 **흉관 삽입술(Chest tube drainage)** 필수.
 
 * **흉부 외상 및 기흉의 응급 의학 (Plates 4-63 ~ 4-66)**:  
   * **연성 흉곽 (Flail Chest)**: 인접한 **3개 이상의 갈비뼈가 각각 2군데 이상 골절**되어 흉벽의 한 분절이 골격계의 연속성을 잃고 분리된 상태.  
@@ -84,7 +89,12 @@ created: 2026-09-18
     * 치명적 본태는 연성 흉벽 자체보다 하부의 광범위한 **폐좌상 (Pulmonary Contusion)** 에 의한 출혈, 부종, 심각한 저산소혈증. 치료는 폐포 허탈 방지를 위한 양압 환기(NIV 또는 기관삽관).  
   * **기흉 (Pneumothorax)**:  
     * **원발성 자연 기흉 (PSP)**: 기저 질환 없는 키 크고 마른 청년 흡연자, 폐첨부 흉막하 기낭(Subpleural bleb) 파열.  
-    * **긴장성 기흉 (Tension Pneumothorax, 절대적 초응급 질환)**: 흉벽 또는 폐 실질 열상 부위가 호흡 주기에 따라 **일방향 밸브 (One-way check valve)** 로 작동 $ightarrow$ 흡기 시 공기 유입, 호기 시 유출 차단 $ightarrow$ 흉강 내압이 대기압 이상으로 폭증 $ightarrow$ 동측 폐 완전 허탈, **종격동과 기관이 반대측으로 심하게 편위** $ightarrow$ 대정맥(SVC/IVC) 꼬임 및 압박으로 **정맥 환류(Venous return) 완전 차단** $ightarrow$ 급격한 저혈압, 무맥성 전기활동(PEA) 심정지.  
+    * **긴장성 기흉 (Tension Pneumothorax, 절대적 초응급 질환)**: 흉벽 또는 폐 실질 열상 부위가 호흡 주기에 따라 **일방향 밸브 (One-way check valve)** 로 작동 $
+ightarrow$ 흡기 시 공기 유입, 호기 시 유출 차단 $
+ightarrow$ 흉강 내압이 대기압 이상으로 폭증 $
+ightarrow$ 동측 폐 완전 허탈, **종격동과 기관이 반대측으로 심하게 편위** $
+ightarrow$ 대정맥(SVC/IVC) 꼬임 및 압박으로 **정맥 환류(Venous return) 완전 차단** $
+ightarrow$ 급격한 저혈압, 무맥성 전기활동(PEA) 심정지.  
     * **치료**: X-선을 찍으며 시간을 지체하지 않고, 진찰(경정맥 확장, 호흡음 소실, 고음 과공명) 즉시 **제2늑간 쇄골중간선(또는 제4/5늑간 전액와선)에 14게이지 대구경 바늘로 즉각적인 바늘 감압(Needle thoracostomy)** 시행 후 흉관 삽입.
 
 * **급성 호흡곤란증후군(ARDS) 및 간질성 폐질환(ILD) (Plates 4-67 ~ 4-71)**:  
@@ -101,11 +111,13 @@ created: 2026-09-18
       * 병변이 균일하지 않고 정상 폐와 섬유화 폐가 혼재된 **시간적·공간적 이질성 (Temporal and spatial heterogeneity)**.  
       * 활발한 섬유아세포 증식 덩어리인 **섬유아세포 병소 (Fibroblastic foci)** 관찰.  
       * **폐 기저부 및 흉막 직하부(Subpleural, basal predominant)** 를 따라 두꺼운 섬유화 벽을 가진 낭포들이 다층 배열된 **벌집폐 (Honeycombing)** 및 견인성 기관지확장증(Traction bronchiectasis).  
-    * **표적 항섬유화제**: **Pirfenidone (피르페니돈, TGF-$eta$ 억제)**, **Nintedanib (닌테다닙, 혈관/섬유아세포 수용체 티로신 키나아제 삼중 억제제)** $ightarrow$ 폐활량 감소율을 절반으로 늦춤.  
+    * **표적 항섬유화제**: **Pirfenidone (피르페니돈, TGF-$eta$ 억제)**, **Nintedanib (닌테다닙, 혈관/섬유아세포 수용체 티로신 키나아제 삼중 억제제)** $
+ightarrow$ 폐활량 감소율을 절반으로 늦춤.  
   * **유육종증 (Sarcoidosis)**:  
     * 젊은 성인, 원인 불명의 다발성 전신 육아종 질환.  
     * **조직학적 특징**: 건괴 괴사가 전혀 없는 **비건괴성 상피양 육아종 (Noncaseating granuloma)**. 거대세포 내 **성상소체 (Asteroid body)** 및 **샤우만 소체 (Schaumann body)** 관찰.  
-    * **방사선 및 검사실**: 흉부 X-선상 **양측 폐문 림프절 종대 (Bilateral Hilar Lymphadenopathy, BHL)** $\pm$ 폐 침윤. 대식세포의 1-$lpha$ 수산화효소 활성으로 인한 활성형 비타민 D 합성 $ightarrow$ **고칼슘혈증**, 혈청 **ACE (안지오텐신 전환효소)** 수치 상승. 1차 치료제: 경구 코르티코스테로이드.
+    * **방사선 및 검사실**: 흉부 X-선상 **양측 폐문 림프절 종대 (Bilateral Hilar Lymphadenopathy, BHL)** $\pm$ 폐 침윤. 대식세포의 1-$lpha$ 수산화효소 활성으로 인한 활성형 비타민 D 합성 $
+ightarrow$ **고칼슘혈증**, 혈청 **ACE (안지오텐신 전환효소)** 수치 상승. 1차 치료제: 경구 코르티코스테로이드.
 
 ---
 
@@ -118,14 +130,19 @@ created: 2026-09-18
   * **호흡성 분진의 물리적 역학**: 공기역학적 직경이 **$1\sim5\ \mu	ext{m}$ 크기의 미세 분진**만이 상기도에서 걸러지지 않고 종말 세기관지와 폐포낭 깊숙이 도달하여 병변을 형성함.  
   * **규폐증 (Silicosis)**:  
     * **노출 직업**: 채석장, 석공, 광산, 주물 공장, 터널 굴착, 유리 제조, 샌드블라스팅(Sandblasting).  
-    * **독성 기전**: 흡입된 결정형 실리카($	ext{SiO}_2$, 주로 석영 Quartz)가 폐포 대식세포에 탐식됨 $ightarrow$ 실리카 표면 활성기가 대식세포의 파고리소좀 막을 물리화학적으로 파괴 $ightarrow$ 단백분해효소와 활성산소가 세포질로 유출되어 **대식세포 자멸사** $ightarrow$ 유리된 실리카가 다시 다른 대식세포를 죽이는 파괴적 연쇄반응 유발 $ightarrow$ 세포사멸 과정에서 방출된 **$	ext{IL}-1eta, 	ext{TNF}-lpha, 	ext{TGF}-eta$** 가 섬유아세포를 자극하여 콜라겐을 침착시킴.  
+    * **독성 기전**: 흡입된 결정형 실리카($	ext{SiO}_2$, 주로 석영 Quartz)가 폐포 대식세포에 탐식됨 $
+ightarrow$ 실리카 표면 활성기가 대식세포의 파고리소좀 막을 물리화학적으로 파괴 $
+ightarrow$ 단백분해효소와 활성산소가 세포질로 유출되어 **대식세포 자멸사** $
+ightarrow$ 유리된 실리카가 다시 다른 대식세포를 죽이는 파괴적 연쇄반응 유발 $
+ightarrow$ 세포사멸 과정에서 방출된 **$	ext{IL}-1eta, 	ext{TNF}-lpha, 	ext{TGF}-eta$** 가 섬유아세포를 자극하여 콜라겐을 침착시킴.  
     * **병리 조직학**: 편광현미경으로 보았을 때 밝게 빛나는 복굴절성(Birefringent) 실리카 입자를 중심에 두고 콜라겐 섬유가 동심원상 껍질처럼 둘러싼 **규폐 결절 (Silicotic nodule)** 형성. 결절 중심부는 무세포성 초자화(Hyalinization)를 보임.  
     * **방사선 소견**: **폐 상엽(Upper lobes)** 에 다발성 소결절들이 대칭적으로 분포. 문부 림프절의 테두리를 따라 칼슘이 침착되는 **달걀껍데기 석회화 (Eggshell calcification)** 는 규폐증의 고유 징후.  
     * **규결핵증 (Silicotuberculosis)**: 실리카에 의해 폐포 대식세포의 항균 살균능이 파괴되어 **결핵균 감염 위험이 30배 이상 급증**.  
   * **탄광부 진폐증 (Coal Worker's Pneumoconiosis, CWP)**:  
     * 무연탄 분진 흡입.  
     * 1단계: **탄분 반점 (Coal Macules)**: 호흡세기관지 주위에 탄가루를 머금은 대식세포 집단이 결합조직과 함께 침착 (단순 CWP, 임상 증상 경미).  
-    * 2단계: **진행성 광범위 섬유화 (Progressive Massive Fibrosis, PMF)**: 직경 $>2	ext{ cm}$ 이상의 거대한 검은색 교원질 섬유화 덩어리가 형성되고 중심부 허혈성 괴사 공동 형성 $ightarrow$ 심각한 제한성/폐쇄성 폐기능 장애, 폐성심 및 호흡부전으로 진행.
+    * 2단계: **진행성 광범위 섬유화 (Progressive Massive Fibrosis, PMF)**: 직경 $>2	ext{ cm}$ 이상의 거대한 검은색 교원질 섬유화 덩어리가 형성되고 중심부 허혈성 괴사 공동 형성 $
+ightarrow$ 심각한 제한성/폐쇄성 폐기능 장애, 폐성심 및 호흡부전으로 진행.
 
 ```mermaid
 graph TD
@@ -174,8 +191,10 @@ graph TD
     * **진단**: 말초혈액 또는 BAL 세척액을 이용한 **베릴륨 림프구 증식 검사 (BeLPT, Beryllium Lymphocyte Proliferation Test)** 양성으로 유육종증과 감별.  
   * **유해가스 흡입 손상 (Toxic Inhalation Injury)**:  
     * **수용성(Water solubility)에 따른 기도 손상 위치의 차이**:  
-      * **고수용성 가스 (암모니아 $	ext{NH}_3$, 이산화황 $	ext{SO}_2$)**: 수분이 많은 상기도 점막에 즉각 용해되어 강산/강염기를 형성 $ightarrow$ 급성 상기도 부종, 후두 연축, 질식 유발.  
-      * **저수용성 가스 (이산화질소 $	ext{NO}_2$, 포스겐 $	ext{COCl}_2$)**: 상기도 자극이 적어 경고 증상 없이 폐 심부까지 흡입됨 $ightarrow$ 6~24시간의 잠복기 후 말초 폐포 모세혈관 손상으로 **치명적 지연성 비심인성 폐부종 및 폐쇄성 세기관지염 (Bronchiolitis Obliterans)** 유발.  
+      * **고수용성 가스 (암모니아 $	ext{NH}_3$, 이산화황 $	ext{SO}_2$)**: 수분이 많은 상기도 점막에 즉각 용해되어 강산/강염기를 형성 $
+ightarrow$ 급성 상기도 부종, 후두 연축, 질식 유발.  
+      * **저수용성 가스 (이산화질소 $	ext{NO}_2$, 포스겐 $	ext{COCl}_2$)**: 상기도 자극이 적어 경고 증상 없이 폐 심부까지 흡입됨 $
+ightarrow$ 6~24시간의 잠복기 후 말초 폐포 모세혈관 손상으로 **치명적 지연성 비심인성 폐부종 및 폐쇄성 세기관지염 (Bronchiolitis Obliterans)** 유발.  
     * **사일로 충전공 질환 (Silo Filler's Disease)**: 밀폐된 곡물 사일로 내 발효 과정에서 생성된 고농도 황갈색 **이산화질소($	ext{NO}_2$)** 흡입에 따른 급성 화학성 폐렴 및 기질화 폐렴.
 
 ---
@@ -208,12 +227,21 @@ graph TD
     1. **정맥 혈류 정체 (Stasis)**: 장기 침상 안정, 장시간 비행(이코노미 클래스 증후군), 뇌졸중 마비, 비만.  
     2. **혈관내피 손상 (Endothelial Injury)**: 골반/대퇴 골절, 인공관절 수술, 중심정맥관 삽입.  
     3. **혈액 과응고 상태 (Hypercoagulability)**: 5인자 라이덴(Factor V Leiden) 변이, 항인지질항체 증후군, 프로트롬빈 유전자 변이, 악성 종양(Trousseau sign), 경구 피임약/에스트로겐 복용, 단백질 C/S 결핍.  
-  * **색전의 경로**: 하지 근위부 심부정맥(대퇴정맥, 슬와정맥, 장골정맥) $ightarrow$ 하대정맥(IVC) $ightarrow$ 우심방 $ightarrow$ 우심실 $ightarrow$ 주폐동맥 분기부에 걸리는 **안장 색전 (Saddle Embolus)** 또는 분절 폐동맥 폐색.  
+  * **색전의 경로**: 하지 근위부 심부정맥(대퇴정맥, 슬와정맥, 장골정맥) $
+ightarrow$ 하대정맥(IVC) $
+ightarrow$ 우심방 $
+ightarrow$ 우심실 $
+ightarrow$ 주폐동맥 분기부에 걸리는 **안장 색전 (Saddle Embolus)** 또는 분절 폐동맥 폐색.  
   * **폐순환 및 심장 파탄의 4대 단계**:  
     1. **폐포 사강 (Alveolar Dead Space) 형성**: 환기는 정상이나 혈류가 차단되어 폐포 사강 비율($V_D/V_T$) 급증.  
-    2. **반사성 기관지 수축 및 계면활성제 고갈**: 혈류 차단 구역에서 국소 저탄산증으로 말초 세기관지 수축 + 폐포 허탈(미세무기폐) $ightarrow$ 환기-혈류 불균등 및 우-좌 단락 증가로 **심각한 저산소혈증**.  
-    3. **우심실 후부하 폭증 및 급성 폐성심**: 전체 폐혈관 침상의 $>50\%$ 폐색 시 폐동맥압이 급상승 $ightarrow$ 얇은 우심실벽이 급격히 확장(RV dilation)되고 심실벽 장력 증가로 우관상동맥 관류압 저하 $ightarrow$ **우심실 허혈 및 급성 우심부전**.  
-    4. **심장성 쇼크 (Cardiogenic / Obstructive Shock)**: 확장된 우심실이 심실중격을 좌심실 쪽으로 밀어내어(Septal flattening/bowing) 좌심실 이완기 충만 차단 $ightarrow$ 일회박출량 급감 $ightarrow$ 전신 저혈압 및 심장마비(PEA).
+    2. **반사성 기관지 수축 및 계면활성제 고갈**: 혈류 차단 구역에서 국소 저탄산증으로 말초 세기관지 수축 + 폐포 허탈(미세무기폐) $
+ightarrow$ 환기-혈류 불균등 및 우-좌 단락 증가로 **심각한 저산소혈증**.  
+    3. **우심실 후부하 폭증 및 급성 폐성심**: 전체 폐혈관 침상의 $>50\%$ 폐색 시 폐동맥압이 급상승 $
+ightarrow$ 얇은 우심실벽이 급격히 확장(RV dilation)되고 심실벽 장력 증가로 우관상동맥 관류압 저하 $
+ightarrow$ **우심실 허혈 및 급성 우심부전**.  
+    4. **심장성 쇼크 (Cardiogenic / Obstructive Shock)**: 확장된 우심실이 심실중격을 좌심실 쪽으로 밀어내어(Septal flattening/bowing) 좌심실 이완기 충만 차단 $
+ightarrow$ 일회박출량 급감 $
+ightarrow$ 전신 저혈압 및 심장마비(PEA).
 
 ```mermaid
 graph TD
@@ -254,7 +282,8 @@ graph TD
     3. **중간-저위험군 (Intermediate-Low Risk)**: 우심실 부전 또는 트로포닌 상승 중 하나만 양성.  
     4. **저위험군 (Low Risk)**: 혈압 정상, RV 정상, Troponin 정상 (PESI 점수 낮음).  
   * **응급 치료 전략**:  
-    * **고위험군 (Massive PE)**: 즉시 **전신 정맥 혈전용해술 (IV Systemic Thrombolysis: Alteplase 100 mg 2시간 점적)** 투여 $ightarrow$ 혈전을 신속히 용해시켜 우심실 후부하를 즉각 경감. 출혈 고위험 금기 환자는 카테터 유도 혈전제거술(Catheter-directed embolectomy) 또는 외과적 폐동맥 색전절제술.  
+    * **고위험군 (Massive PE)**: 즉시 **전신 정맥 혈전용해술 (IV Systemic Thrombolysis: Alteplase 100 mg 2시간 점적)** 투여 $
+ightarrow$ 혈전을 신속히 용해시켜 우심실 후부하를 즉각 경감. 출혈 고위험 금기 환자는 카테터 유도 혈전제거술(Catheter-directed embolectomy) 또는 외과적 폐동맥 색전절제술.  
     * **중간 및 저위험군**: 출혈 위험을 유발하는 혈전용해술은 금기이며, 즉시 **항응고 요법 (Anticoagulation)** 시작:  
       * 경구 **DOAC (Apixaban, Rivaroxaban)** 1차 선호, 또는 **LMWH (Enoxaparin)** 투여 후 DOAC 전환. (최소 3~6개월 유지).  
     * **하대정맥 필터 (IVC Filter, Greenfield filter)**: 적극적 항응고 요법에도 불구하고 재발하는 색전증 환자 또는 급성 출혈로 항응고제를 절대 쓸 수 없는 환자에서 일시적 거치.
@@ -292,7 +321,8 @@ graph TD
        * **엔도텔린 수용체 길항제 (ERA)**: **Bosentan** ($ET_A/ET_B$ 비선택적, 간독성 감시), **Ambrisentan** ($ET_A$ 선택적), **Macitentan**.  
     2. **산화질소(NO)-cGMP 경로 촉진 (Nitric Oxide-cGMP Pathway)**:  
        * 내인성 혈관확장물질인 NO에 의해 생성된 cGMP를 분해하는 효소를 억제.  
-       * **PDE-5 억제제**: **Sildenafil (실데나필)**, **Tadalafil (타다라필)** $ightarrow$ cGMP 축적으로 혈관 평활근 이완.  
+       * **PDE-5 억제제**: **Sildenafil (실데나필)**, **Tadalafil (타다라필)** $
+ightarrow$ cGMP 축적으로 혈관 평활근 이완.  
        * 가용성 구아닐릴 시클라아제 자극제: Riociguat.  
     3. **프로스타사이클린 경로 활성화 (Prostacyclin Pathway)**:  
        * $	ext{PGI}_2$는 혈관확장 및 혈소판 응집 억제 인자. PAH 환자에서 합성 효소 결핍.  
@@ -322,7 +352,8 @@ graph TD
 
 * **스타링 모형에 기초한 액체 이동 평형 파탄**:  
   * **미세혈관막을 통한 수분 이동의 스타링 방정식**:  
-    $$Q_f = K_f \left[ (P_{	ext{cap}} - P_{	ext{if}}) - \sigma (\pi_{	ext{cap}} - \pi_{	ext{if}}) ight]$$  
+    $$Q_f = K_f \left[ (P_{	ext{cap}} - P_{	ext{if}}) - \sigma (\pi_{	ext{cap}} - \pi_{	ext{if}}) 
+ight]$$  
     * $K_f$: 모세혈관 여과 계수 (내피세포막 수분 투과성).  
     * $\sigma$: 알부민에 대한 반사 계수 (정상 $pprox 1.0$, 단백질 누출 방지).  
     * $P_{	ext{cap}}$: 모세혈관 정수압 (정상 $pprox 8\sim12	ext{ mmHg}$).  
@@ -430,8 +461,10 @@ graph TD
     * 고에너지 흉부 둔상(교통사고, 추락).  
     * **해부학적 정의**: 연속된 **3개 이상의 늑골이 각각 2개 이상의 위치에서 골절**되어 흉벽의 일부분이 전신 흉곽 골격으로부터 완전히 분리되어 떠 있는 상태.  
   * **역설 호흡 (Paradoxical Motion)의 병태 역학**:  
-    * **흡기 시**: 횡격막 수축으로 흉강 내 음압 발생 $ightarrow$ 온전한 흉벽은 외측으로 팽창하지만, 분리된 연성 분절은 음압에 빨려 들어가 **안쪽으로 함몰(Sucks inward)** 됨.  
-    * **호기 시**: 흉강 내압이 양압으로 전환 $ightarrow$ 연성 분절이 **바깥쪽으로 불룩하게 돌출(Pushes outward)** 됨.  
+    * **흡기 시**: 횡격막 수축으로 흉강 내 음압 발생 $
+ightarrow$ 온전한 흉벽은 외측으로 팽창하지만, 분리된 연성 분절은 음압에 빨려 들어가 **안쪽으로 함몰(Sucks inward)** 됨.  
+    * **호기 시**: 흉강 내압이 양압으로 전환 $
+ightarrow$ 연성 분절이 **바깥쪽으로 불룩하게 돌출(Pushes outward)** 됨.  
     * 이로 인해 한쪽 폐의 공기가 반대쪽 폐로 이동하는 진자 호흡(Pendelluft) 현상 유발, 호흡 일량 폭증 및 저환기 발생.  
   * **임상적 핵심**: 환자를 사망에 이르게 하는 진정한 원인은 흉벽 골절 자체가 아니라, 충격 당시 하부 폐 실질이 찌그러지며 발생하는 **광범위한 폐좌상 (Pulmonary Contusion)** 입니다.  
   * **치료**: 과거의 외부 모래주머니 압박 등은 금기이며, **적절한 진통 조절(경막외 마취 Epidural analgesia)** 과 폐포 팽창을 유지하는 **양압 환기(NIV 또는 기계환기)** 가 표준 치료.
@@ -445,10 +478,12 @@ graph TD
   * **폐좌상 (Pulmonary Contusion)**:  
     * 흉부 둔상 환자에서 가장 흔하고 치명적인 폐 실질 손상.  
     * 감속 충격파에 의해 폐포 모세혈관이 파열되어 **폐포 및 간질 내로 다량의 혈액과 부종액이 유출**됨.  
-    * 손상 직후 CXR에서는 정상으로 보일 수 있으나, **손상 후 6~24시간에 걸쳐 점진적으로 경화 음영이 뚜렷해짐**. 폐 실질 순응도 급감, V/Q 단락 유발로 중증 저산소혈증 초래 $ightarrow$ 2차성 ARDS로 진행.  
+    * 손상 직후 CXR에서는 정상으로 보일 수 있으나, **손상 후 6~24시간에 걸쳐 점진적으로 경화 음영이 뚜렷해짐**. 폐 실질 순응도 급감, V/Q 단락 유발로 중증 저산소혈증 초래 $
+ightarrow$ 2차성 ARDS로 진행.  
   * **기관기관지 파열 (Tracheobronchial Rupture)**:  
     * 기관분기부(Carina) 2.5 cm 이내 손상이 80%.  
-    * 심한 피하 기종(Subcutaneous emphysema), 종격동 기종, 대량 기흉. 흉관을 삽입하여 강한 음압 흡인을 걸어도 공기 누출(Air leak)이 멈추지 않고 폐가 펴지지 않을 때 강력히 의심 $ightarrow$ 즉각 기관지경 확진 및 응급 수술.  
+    * 심한 피하 기종(Subcutaneous emphysema), 종격동 기종, 대량 기흉. 흉관을 삽입하여 강한 음압 흡인을 걸어도 공기 누출(Air leak)이 멈추지 않고 폐가 펴지지 않을 때 강력히 의심 $
+ightarrow$ 즉각 기관지경 확진 및 응급 수술.  
   * **외상성 대동맥 파열 (Traumatic Aortic Rupture)**:  
     * 급격한 감속 손상 시 대동맥궁과 하행대동맥 사이의 고정 부위인 **대동맥 협부 (Aortic isthmus, 동맥관 인대 부착부 직하방)** 가 전단력에 의해 열상/파열. 현장 즉사율 80% 이상.  
     * CXR상 **종격동 확장 ($>8	ext{ cm}$)**, 기관 우측 편위, 좌측 첨부 흉막 혈종 캡. 응급 CT 혈관조영술 후 혈관내 스텐트 이식술(TEVAR).
@@ -482,7 +517,10 @@ graph TD
     1. 동측 폐의 완전 허탈 및 압박.  
     2. 종격동, 심장, 기관이 **반대측 정상 폐 쪽으로 심하게 밀려남(편위)**.  
     3. 흉강 내 높은 양압과 종격동 편위로 인해 대정맥(SVC, IVC)이 기계적으로 꺾이고 찌그러짐.  
-    4. **우심방으로의 정맥 환류량(Venous return) 급감** $ightarrow$ 심장 이완기 충만 차단 $ightarrow$ 심박출량 고갈 $ightarrow$ **폐쇄성 쇼크(Obstructive Shock) 및 심정지(PEA)**.  
+    4. **우심방으로의 정맥 환류량(Venous return) 급감** $
+ightarrow$ 심장 이완기 충만 차단 $
+ightarrow$ 심박출량 고갈 $
+ightarrow$ **폐쇄성 쇼크(Obstructive Shock) 및 심정지(PEA)**.  
   * **진단 4대 임상 징후**:  
     * (1) 극심한 호흡곤란 및 청색증, (2) 동측 호흡음 완전 소실 및 타진상 북소리 과공명(Hyperresonance), (3) 정맥 환류 차단으로 인한 **경정맥 분노 (Jugular venous distention)**, (4) **기관(Trachea)의 반대측 편위** 및 저혈압.  
   * **초응급 처치**:  
@@ -510,14 +548,18 @@ graph TD
   * **1단계: 급성 삼출기 (Exudative Phase, 1~7일)**:  
     * 폐포 대식세포와 혈관내피세포가 활성화되어 $	ext{IL}-1, 	ext{IL}-6, 	ext{IL}-8, 	ext{TNF}-lpha$ 대량 방출.  
     * **호중구의 폐포 유입 및 활성화**: 호중구가 엘라스타제, 기질단백분해효소, 활성산소종을 분비하여 **폐포 모세혈관 내피세포와 제1형 폐포 상피세포를 무차별 괴사**시킴.  
-    * 모세혈관 투과성 폭증 $ightarrow$ 단백질이 풍부한 혈장 삼출액과 적혈구가 폐포강으로 범람.  
-    * 괴사된 상피세포 잔해물과 피브린 단백질이 폐포 내벽에 굳어 붙어 호산성의 띠 모양을 형성하는 **유리질막 (Hyaline Membrane)** 형성 $ightarrow$ 극심한 가스교환 장벽 초래.  
-    * 제2형 폐포세포 괴사로 계면활성제 고갈 $ightarrow$ 전폐 미세무기폐(Microatelectasis) 및 폐 순응도 급감.  
+    * 모세혈관 투과성 폭증 $
+ightarrow$ 단백질이 풍부한 혈장 삼출액과 적혈구가 폐포강으로 범람.  
+    * 괴사된 상피세포 잔해물과 피브린 단백질이 폐포 내벽에 굳어 붙어 호산성의 띠 모양을 형성하는 **유리질막 (Hyaline Membrane)** 형성 $
+ightarrow$ 극심한 가스교환 장벽 초래.  
+    * 제2형 폐포세포 괴사로 계면활성제 고갈 $
+ightarrow$ 전폐 미세무기폐(Microatelectasis) 및 폐 순응도 급감.  
   * **2단계: 증식기 (Proliferative Phase, 1~3주)**:  
     * 생존한 **제2형 폐포세포가 활발히 분열 증식**하여 손상된 폐포 상피층을 다시 덮음.  
     * 폐포 내 피브린 삼출물이 기질화되며 근섬유아세포 침투.  
   * **3단계: 섬유화기 (Fibrotic Phase, 3주 이후)**:  
-    * 염증이 해결되지 않은 중증 환자에서 광범위한 교원질 섬유화 진행 $ightarrow$ 비가역적 폐 구조 파괴, 낭포성 개형, 만성 폐동맥고혈압 및 인공호흡기 의존.
+    * 염증이 해결되지 않은 중증 환자에서 광범위한 교원질 섬유화 진행 $
+ightarrow$ 비가역적 폐 구조 파괴, 낭포성 개형, 만성 폐동맥고혈압 및 인공호흡기 의존.
 
 ---
 
@@ -543,7 +585,8 @@ graph TD
     * **허용성 고탄산혈증 (Permissive Hypercapnia)**:  
       * 폐보호 환기를 위해 일회호흡량을 낮추다 보면 $	ext{PaCO}_2$가 $50\sim70	ext{ mmHg}$까지 상승할 수 있으나, 심각한 산증($	ext{pH} < 7.20$)이 발생하지 않는 한 인위적으로 호흡수를 늘리지 않고 용인함.  
   * **중증 ARDS의 부가 치료**:  
-    * **복와위 환기 (Prone Positioning, PROSEVA trial)**: 환자를 엎드려 눕힘(하루 16시간 이상)으로써 심장과 복강 장기에 의한 배측 폐 실질 압박을 해소하고 전후 폐포 환기-혈류비를 극적으로 균일화 $ightarrow$ **사망률 50% 감소 입증**.  
+    * **복와위 환기 (Prone Positioning, PROSEVA trial)**: 환자를 엎드려 눕힘(하루 16시간 이상)으로써 심장과 복강 장기에 의한 배측 폐 실질 압박을 해소하고 전후 폐포 환기-혈류비를 극적으로 균일화 $
+ightarrow$ **사망률 50% 감소 입증**.  
     * 조기 신경근차단제(NMB, Cisatracurium 48시간 주입, 환자-인공호흡기 비동기화 해소).
 
 ---
@@ -554,14 +597,17 @@ graph TD
 * **만성 상피 손상, 섬유아세포 증식 및 UIP 병리 패턴**:  
   * **개념**: 원인 불명의 진행성 섬유화성 간질성 폐렴. 50대 이상 남성 흡연자에서 호발하며 진단 후 중앙 생존기간 3~5년에 불과한 치명적 질환.  
   * **병인론 (Etiopathogenesis)**:  
-    * 과거 만성 염증설에서 현재는 **[반복적인 미세 폐포 상피세포 손상] $ightarrow$ [상피의 비정상적 복구 실패] $ightarrow$ [섬유아세포/근섬유아세포의 무제한적 증식 및 세포외기질 콜라겐 과다 침착]** 모델로 확립됨.  
+    * 과거 만성 염증설에서 현재는 **[반복적인 미세 폐포 상피세포 손상] $
+ightarrow$ [상피의 비정상적 복구 실패] $
+ightarrow$ [섬유아세포/근섬유아세포의 무제한적 증식 및 세포외기질 콜라겐 과다 침착]** 모델로 확립됨.  
     * 제2형 폐포세포의 텔로미어(Telomerase, TERT/TERC) 단축 및 MUC5B 유전자 다형성 연관.  
   * **UIP (Usual Interstitial Pneumonia)의 3대 조직병리학적 특징**:  
     1. **시간적·공간적 이질성 (Heterogeneity)**: 저배율에서 보았을 때 완전히 정상인 폐포 영역과 심하게 파괴된 섬유화 영역이 모자이크처럼 뒤섞여 있음.  
     2. **섬유아세포 병소 (Fibroblastic Foci)**: 정상 조직과 섬유화 조직의 경계면에서 점액성 기질을 머금은 방추형 근섬유아세포들이 활발히 증식하는 급성 활동성 병변.  
     3. **벌집폐 (Honeycombing)**: 폐포 구조가 완전히 파괴되고 두꺼운 콜라겐 섬유화 벽으로 둘러싸인 직경 $0.3\sim1	ext{ cm}$의 낭포성 공간들이 층층이 밀집해 있는 말기 비가역적 병변.  
   * **흉부 HRCT 특징**: 병변의 분포가 **폐 기저부(Basal predominant)** 및 **흉막 직하부(Subpleural)** 에 집중되며, 뚜렷한 벌집폐 소견과 함께 견인성 기관지확장증(Traction bronchiectasis) 동반.  
-  * **임상 및 약물 치료**: 건성 기침, 양측 폐 기저부 흡기말 벨크로 수포음(Velcro crackles), 곤봉지. 항염증 스테로이드는 효과가 없으며 오히려 유해함 $ightarrow$ 항섬유화제인 **Pirfenidone (TGF-$eta$ 차단)** 또는 **Nintedanib (PDGFR, FGFR, VEGFR 삼중 억제제)** 로 질병 진행 감속.
+  * **임상 및 약물 치료**: 건성 기침, 양측 폐 기저부 흡기말 벨크로 수포음(Velcro crackles), 곤봉지. 항염증 스테로이드는 효과가 없으며 오히려 유해함 $
+ightarrow$ 항섬유화제인 **Pirfenidone (TGF-$eta$ 차단)** 또는 **Nintedanib (PDGFR, FGFR, VEGFR 삼중 억제제)** 로 질병 진행 감속.
 
 ---
 
@@ -570,7 +616,9 @@ graph TD
 
 * **세포 매개 면역 과잉 반응 및 다기관 침범**:  
   * **정의**: 원인 불명의 비건괴성 상피양 세포 육아종이 전신의 다양한 장기를 침범하는 만성 염증성 질환. 젊은 성인(20~40대), 여성 호발.  
-  * **면역학적 병태**: 미상의 항원에 대한 과도한 **CD4+ Th1 면역 반응** $ightarrow$ 인터루킨-2(IL-2) 및 IFN-$\gamma$ 대량 분비 $ightarrow$ 병변 국소로 CD4+ T세포가 과다 집결하여 **BAL 세척액상 $	ext{CD4}/	ext{CD8}$ 비율이 $> 3.5$ 로 극단적 상승**. 반면 말초 혈액에서는 림프구가 병변으로 빠져나가 림프구 감소증(Anergy) 관찰.  
+  * **면역학적 병태**: 미상의 항원에 대한 과도한 **CD4+ Th1 면역 반응** $
+ightarrow$ 인터루킨-2(IL-2) 및 IFN-$\gamma$ 대량 분비 $
+ightarrow$ 병변 국소로 CD4+ T세포가 과다 집결하여 **BAL 세척액상 $	ext{CD4}/	ext{CD8}$ 비율이 $> 3.5$ 로 극단적 상승**. 반면 말초 혈액에서는 림프구가 병변으로 빠져나가 림프구 감소증(Anergy) 관찰.  
   * **조직학적 특징**:  
     * 결핵과 달리 중심부 괴사가 전혀 없는 매우 단단하고 경계가 명확한 **비건괴성 육아종 (Noncaseating Granuloma)**.  
     * 다핵 거대세포 내부에서 관찰되는 세포질 봉입체:  
@@ -581,7 +629,10 @@ graph TD
     * **눈 (Eye, 25%)**: 전방/후방 포도막염(Uveitis), 결막 결절.  
     * **피부 (Skin, 25%)**: 결절성 홍반(Erythema nodosum, 결핵보다 유육종증에서 급성 호발), 뺨과 코 주변의 암적색 판인 **동창양 루푸스 (Lupus pernio, 유육종증 고유)**.  
     * **뢸프그렌 증후군 (Löfgren Syndrome)**: [양측 폐문 림프절 종대(BHL) + 결절성 홍반 + 다발성 관절통/발열]의 급성 양성 아형 (자연 관해율 높음).  
-    * **칼슘 대사 이상**: 육아종 내 대식세포가 부갑상선호르몬의 조절을 받지 않고 자율적으로 **$1lpha$-수산화효소 ($1lpha$-hydroxylase)** 를 발현 $ightarrow$ 비타민 D 활성화 촉진 $ightarrow$ 장관 칼슘 흡수 폭증 $ightarrow$ **고칼슘혈증 (Hypercalcemia) 및 고칼슘뇨증, 신장 결석**.  
+    * **칼슘 대사 이상**: 육아종 내 대식세포가 부갑상선호르몬의 조절을 받지 않고 자율적으로 **$1lpha$-수산화효소 ($1lpha$-hydroxylase)** 를 발현 $
+ightarrow$ 비타민 D 활성화 촉진 $
+ightarrow$ 장관 칼슘 흡수 폭증 $
+ightarrow$ **고칼슘혈증 (Hypercalcemia) 및 고칼슘뇨증, 신장 결석**.  
     * 검사실 소견: 상피양 세포가 분비하는 **혈청 안지오텐신 전환효소 (Serum ACE) 수치 상승**.
 
 ---
@@ -676,3 +727,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 4 (Part 3) 전체 23개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 진폐증, 규폐증, 석면폐증, 악성중피종, 심부정맥혈전증, 폐동맥고혈압, 흉막삼출, 기흉, 긴장성기흉, 연성흉곽, ARDS, 미만성폐포손상, 특발성폐섬유증, UIP, 유육종증 -->

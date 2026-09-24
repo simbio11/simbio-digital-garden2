@@ -8,6 +8,7 @@ total_plates: 28
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
@@ -15,17 +16,15 @@ tags:
   - 내분비학
   - 부인종양학
   - 생식기계
-  - 난소
-  - 난소낭종
-  - 난소암
   - PCOS
-  - 기형종
-  - 메이그스증후군
 aliases:
   - "네터 생식기계 Day 10"
   - "난소"
 status: completed
 created: 2026-09-16
+title: Day10_난소_해부내분비_낭종_PCOS_난소암_종양학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 10: 난소 - 해부·내분비주기·낭종·PCOS·기형종·염전 및 난소암 종양학 (Section 10 완독)
@@ -1196,3 +1195,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 10 28개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 난소, 난소낭종, 난소암, 기형종, 메이그스증후군 -->

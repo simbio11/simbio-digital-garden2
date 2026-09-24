@@ -1,7 +1,14 @@
 ---
 type: 의학개념
 category: 양방 약
-tags: [약리학, 위장관약, 소화기계, 위산분비억제제, PCAB, 테고프라잔, 케이캡, 펙수프라잔, 펙수클루, 보노프라잔, GERD]
+tags:
+  - 약리
+  - 약리학
+  - 위장관약
+  - 소화기계
+  - 위산분비억제제
+  - PCAB
+  - GERD
 created: 2026-09-07
 aliases:
   - P-CAB
@@ -17,6 +24,9 @@ aliases:
   - 펙수클루
   - 보노프라잔
   - Vonoprazan
+title: P-CAB
+date: 2026-09-08
+출처: "PMID: 36314172"
 ---
 
 # 칼륨 경쟁적 위산분비억제제 (P-CAB, Potassium-Competitive Acid Blocker)
@@ -87,7 +97,7 @@ aliases:
 
 ---
 
-## 4. 임상 적응증 및 주의사항
+## 의학/04_임상 적응증 및 주의사항
 
 ### 4.1 적응증
 * 미란성 위식도 역류 질환의 치료 및 치료 후 유지 요법.
@@ -129,3 +139,5 @@ P-CAB을 복용하는 환자는 PPI 복용 환자보다 급성 증상(작열감,
 * Shin, C. M. et al. (2025). Comparison of Tegoprazan and Lansoprazole in Patients With Erosive Esophagitis up to 4 Weeks: A Multi-Center, Randomized, Double-Blind, Active-Comparator Phase 4 Trial. *Neurogastroenterology & Motility*, 37(1), e14969.
   * [PubMed (PMID: 39587796)](https://pubmed.ncbi.nlm.nih.gov/39587796/) | [DOI](https://doi.org/10.1111/nmo.14969)
   * `[연구 요약]` 미란성 식도염 급성기 치료에서 테고프라잔의 신속한 초기 증상 완화 및 란소프라졸 대비 우수한 식도 점막 치유율 검증.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 테고프라잔, 케이캡, 펙수프라잔, 펙수클루, 보노프라잔 -->

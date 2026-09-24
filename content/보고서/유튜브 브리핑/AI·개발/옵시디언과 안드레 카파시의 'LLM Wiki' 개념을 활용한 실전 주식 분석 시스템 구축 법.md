@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=4JaN0NNvY_o"
 ---
 
 # 📌 옵시디언과 안드레 카파시의 'LLM Wiki' 개념을 활용한 실전 주식 분석 시스템 구축 법

@@ -8,24 +8,18 @@ total_plates: 29
 source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 내분비학
-  - 부신
-  - 해부생리학
-  - 스테로이드생합성
-  - 쿠싱증후군
-  - 선천성부신과형성증
-  - 원발성알도스테론증
-  - 부신정맥채혈
-  - 부신기능부전
-  - 갈색세포종
-  - 전이암
 aliases:
   - "Netter Endocrine Day 03"
   - "Netter 부신"
   - "Adrenal Glands Master Note"
 status: completed
 created: 2026-09-17
+title: Day03_부신_해부발생_피질수질_쿠싱_알도스테론_크롬친화세포종
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # Netter Endocrine Day 03: 부신 (Adrenal Gland) — 발생·해부·피질/수질 생리·쿠싱·알도스테론·갈색세포종 (pp. 67–98)
@@ -761,3 +755,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 3 전체 29개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 부신, 해부생리학, 스테로이드생합성, 쿠싱증후군, 선천성부신과형성증, 원발성알도스테론증, 부신정맥채혈, 부신기능부전, 갈색세포종, 전이암 -->

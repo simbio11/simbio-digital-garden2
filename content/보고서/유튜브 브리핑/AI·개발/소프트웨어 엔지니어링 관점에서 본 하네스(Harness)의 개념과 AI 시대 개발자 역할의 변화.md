@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=DrekqeDlO1w"
 ---
 
 # 📌 소프트웨어 엔지니어링 관점에서 본 하네스(Harness)의 개념과 AI 시대 개발자 역할의 변화

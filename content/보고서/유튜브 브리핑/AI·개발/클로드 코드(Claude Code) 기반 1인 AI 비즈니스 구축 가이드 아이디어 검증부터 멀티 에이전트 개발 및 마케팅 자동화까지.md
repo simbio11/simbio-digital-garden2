@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-17
 created_at: 2026-09-17 08:30:50
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=logBnwhp8Jw"
 ---
 
 # 📌 클로드 코드(Claude Code) 기반 1인 AI 비즈니스 구축 가이드 아이디어 검증부터 멀티 에이전트 개발 및 마케팅 자동화까지

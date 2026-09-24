@@ -4,6 +4,10 @@ aliases:
   - Tensor fasciae latae
   - TFL
   - 넙다리근막긴장근
+tags:
+  - 근골격계
+title: 대퇴근막장근(TFL)
+date: 2026-09-10
 ---
 # [[대퇴근막장근]](Tensor Fasciae Latae / 넙다리근막긴장근 / TFL)
 

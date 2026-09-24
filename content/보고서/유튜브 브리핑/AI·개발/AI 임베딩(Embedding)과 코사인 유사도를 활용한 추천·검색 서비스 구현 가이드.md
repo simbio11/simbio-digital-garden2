@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-23
 created_at: 2026-09-23 08:31:17
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=kQwxIkspINk"
 ---
 
 # 📌 AI 임베딩(Embedding)과 코사인 유사도를 활용한 추천·검색 서비스 구현 가이드

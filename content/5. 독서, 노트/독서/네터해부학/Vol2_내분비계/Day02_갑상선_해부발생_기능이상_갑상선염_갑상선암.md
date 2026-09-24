@@ -8,21 +8,22 @@ total_plates: 28
 source_file: "The Netter Collection of Medical Illustrations - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 내분비학
   - 갑상선
-  - 그레이브스병
   - 갑상선기능항진증
   - 갑상선기능저하증
-  - 갑상선염
-  - 갑상선암
 aliases:
   - "네터 내분비계 Day 02"
   - "갑상선"
 status: completed
 created: 2026-09-17
+title: Day02_갑상선_해부발생_기능이상_갑상선염_갑상선암
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.2] Day 02: 갑상선 - 해부발생·호르몬생리·그레이브스병·갑상선염·결절 및 갑상선암 종양학 (Section 2 완독)
@@ -537,3 +538,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 2 전체 28개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 그레이브스병, 갑상선염, 갑상선암 -->

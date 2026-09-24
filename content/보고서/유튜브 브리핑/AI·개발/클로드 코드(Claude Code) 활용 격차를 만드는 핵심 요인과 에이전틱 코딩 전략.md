@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=sHtM3CVZ07w"
 ---
 
 # 📌 클로드 코드(Claude Code) 활용 격차를 만드는 핵심 요인과 에이전틱 코딩 전략

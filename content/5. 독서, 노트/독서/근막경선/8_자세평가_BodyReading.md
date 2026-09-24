@@ -4,12 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - bodyreading
-  - posture
   - biomechanics
-  - structural-integration
   - thomas-myers
+date: 2026-09-04
 ---
 
 # [[8_자세평가_BodyReading]](BodyReading & Structural Integration)
@@ -115,3 +114,5 @@ flowchart TD
    - **[연구 요약]**: 전신 근막경선 기반 시상면, 관상면, 횡단면 체형 분석(BodyReading) 및 동양의학 12경근과의 해부학적 완전 대응 체계 정립.
 2. **Rolf, I. P. (1989)**. *Rolfing: Reestablishing the Natural Alignment and Structural Integration of the Human Body for Vitality and Well-Being*. Healing Arts Press.
    - **[연구 요약]**: 중력장 내 인체 구조적 통합(Structural Integration) 및 근막 이완을 통한 자세 재정렬 원리.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): bodyreading, posture, structural-integration -->

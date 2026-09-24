@@ -7,23 +7,16 @@ pages: "pp.495-541"
 chapters: ["Ch38", "Ch39", "Ch40", "Ch41"]
 source_file: "[[근감소증]] ocr+선명도 (1).pdf"
 tags:
+  - 독서
   - 의학원서
-  - [[근감소증]]
   - sarcopenia
-  - 약물치료
   - 호르몬요법
   - 비타민D
-  - [[테스토스테론]]
-  - SARM
-  - [[마이오스타틴]]
   - myostatin
-  - [[그렐린]]
-  - anamorelin
-  - ACEI
-  - 운동모방약물
-  - exercisemimetics
 status: completed
 created: 2026-09-22
+title: 15_PART8_약물치료
+date: 2026-09-22
 ---
 
 # 📑 [근감소증] PART 8 근감소증의 약물 치료 (Ch38~41)
@@ -641,3 +634,5 @@ flowchart TD
 18. Su J, Geng J, Bao J et al. Two ghrelin receptor agonists for adults with malnutrition: a systematic review and meta-analysis. *Nutr J* 2016;15:97.
 19. Sumukadas D, Witham MD, Struthers AD, McMurdo ME. Effect of perindopril on physical function in elderly people with functional impairment: a randomized controlled trial. *CMAJ* 2007;177(8):867-74.
 20. Temel JS, Abernethy AP, Currow DC, Friend J, Duus EM, Yan Y, Fearon KC. Anamorelin in patients with non-small-cell lung cancer and cachexia (ROMANA 1 and ROMANA 2): Results from two randomised, double-blind, phase 3 trials. *Lancet Oncol* 2016;17:519-531.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 근감소증, 테스토스테론, 마이오스타틴, 그렐린, 약물치료, SARM, anamorelin, ACEI, 운동모방약물, exercisemimetics -->

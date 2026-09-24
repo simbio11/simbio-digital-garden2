@@ -8,23 +8,19 @@ total_plates: 26
 source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
 source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 호흡기학
-  - 호흡기진단학
   - 폐기능검사
-  - 흉부X선판독
-  - 흉부CT
-  - 폐엽무기폐
-  - 고립성폐결절
-  - 기관지내시경
-  - EBUS
-  - 종격동경검사
 aliases:
   - "Netter Respiratory Day 03"
   - "Netter 호흡기진단학"
   - "Diagnostic Procedures Master Note"
 status: completed
 created: 2026-09-18
+title: Day03_호흡기진단_폐기능검사_흉부영상판독_무기폐_기관지내시경_EBUS
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 ---
 
 # Netter Respiratory Day 03: 호흡기 진단 검사 및 영상의학 (Diagnostic Procedures) — 폐기능검사·흉부영상판독·무기폐패턴·기관지내시경·EBUS·종격동경 (pp. 82–107)
@@ -508,3 +504,5 @@ graph TD
 | **인환 징후 (Signet-ring sign)** | HRCT상 확장된 기관지가 인접 폐동맥 가지보다 비정상적으로 커짐 | **기관지확장증 (Bronchiectasis)** 진단 ($>1.0$) |
 | **힐럼 중첩 징후 (Hilum overlay sign)** | 종괴 음영을 뚫고 폐문 혈관 분지가 정상적으로 관찰됨 | 종괴가 폐문 혈관 자체가 아닌 **전종격동/후종격동**에 위치 |
 | **공기 기관지상 (Air bronchogram)** | 삼출물로 채워진 폐포 음영 속에서 개방된 검은 기관지가 보임 | 폐포성 폐렴, 폐부종 등 **폐포성 질환**의 결정적 단서 |
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 호흡기진단학, 흉부X선판독, 흉부CT, 폐엽무기폐, 고립성폐결절, 기관지내시경, EBUS, 종격동경검사 -->

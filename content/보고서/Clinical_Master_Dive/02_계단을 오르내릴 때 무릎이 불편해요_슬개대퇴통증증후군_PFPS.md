@@ -5,7 +5,17 @@ topic_patient: "계단을 오르내릴 때 무릎이 불편해요"
 topic_medical: 슬개대퇴통증증후군(Patellofemoral Pain Syndrome, PFPS) — 전방 슬관절통 감별
 domain: 근골격계·하지 — 슬개대퇴관절 활주 이상(Patellar mal-tracking) 축, 실제 진료 흐름(레드플래그→검사→문진→진단→치료→티칭) 중심 통합
 status: inbox
-tags: [clinical-master-dive, simbio-vault, organically-coupled, musculoskeletal, knee, PFPS, patellofemoral, clinical-flow, evidence-based, master-note]
+tags:
+  - 생활
+  - clinical-master-dive
+  - simbio-vault
+  - organically-coupled
+  - PFPS
+  - clinical-flow
+  - evidence-based
+  - master-note
+title: 02_계단을 오르내릴 때 무릎이 불편해요_슬개대퇴통증증후군_PFPS
+출처: "https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-knee-primary-care-pathway.pdf"
 ---
 
 # 🩺 [Clinical Master-Dive] "계단을 오르내릴 때 무릎이 불편해요" — 실제 진료 흐름으로 보는 슬개대퇴통증증후군(PFPS)
@@ -157,3 +167,5 @@ PFPS는 결국 **슬개골을 안으로 당기는 힘(VMO)과 밖으로 당기�
 ① Alberta Health Services — Knee Pain Primary Care Pathway (2026). https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-knee-primary-care-pathway.pdf
 
 ※ 본 다이브의 인용은 모두 위 볼트 노트 원문에서 발췌했습니다. 레드플래그 목록과 문진·티칭 문구 일부는 볼트 전용 노트가 없어 위 외부 문헌과 표준 임상 지식을 근거로 큐레이터가 정리했으며([외부 조사]), 각 질환·본초·처방 노트 자체의 학술 출처(PMID 등)는 해당 노트 하단을 참고하세요.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): musculoskeletal, knee, patellofemoral -->

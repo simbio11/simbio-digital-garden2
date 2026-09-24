@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-12
 created_at: 2026-09-12 08:31:11
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=ulhEyDIxj6Q"
 ---
 
 # 📌 옵시디언, 조테로, 노트북LM, 클로드 코드를 결합한 차세대 AI 지식 관리(PKM) 및 연구 워크플로우 구축법

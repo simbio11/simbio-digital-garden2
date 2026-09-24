@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-16
 created_at: 2026-09-16 09:11:20
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=dKQQs-z_E64"
 ---
 
 # 📌 ChatGPT 웹과 MCP로 구축하는 무제한 AI 코딩 에이전트 VPS 연동 풀스택 개발 및 배포 자동화 가이드

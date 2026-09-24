@@ -1,3 +1,11 @@
+---
+title: "Addison's disease"
+date: 2026-09-21
+tags:
+  - 이론
+출처: "https://pubmed.ncbi.nlm.nih.gov/26760044/"
+---
+
 # 🩺 [[Addison's disease]] (아디슨병 / 원발성 부신피질기능저하증, E27.1)
 
 > **핵심 3줄 요약 (Key Summary)**:

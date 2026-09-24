@@ -8,23 +8,20 @@ total_plates: 13
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 산부인과
   - 생식기계
-  - 난관
-  - 난관염
-  - 골반염증성질환
-  - 난관난소농양
-  - 자궁외임신
-  - 난관수종
-  - 난관암
 aliases:
   - "네터 생식기계 Day 09"
   - "난관"
 status: completed
 created: 2026-09-16
+title: Day09_난관_해부생리_난관염_골반염증성질환_난관암
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 09: 난관 - 해부·수정생리·난관염·골반염증성질환·수종 및 난관암 (Section 9 완독)
@@ -470,3 +467,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 9 13개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 난관, 난관염, 골반염증성질환, 난관난소농양, 자궁외임신, 난관수종, 난관암 -->

@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=Ifq0Yt7Thzc"
 ---
 
 # 📌 공공데이터 API와 AI를 활용한 노코드 상권 분석 웹 도구 제작 가이드

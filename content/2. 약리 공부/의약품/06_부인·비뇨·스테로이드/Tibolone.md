@@ -1,9 +1,18 @@
 ---
 type: 약리노트
 category: 양방약
-tags: [약리/양방약, 호르몬요법, 폐경, 스테로이드, 골다공증]
+tags:
+  - 약리
+  - 약리/양방약
+  - 호르몬요법
+  - 폐경
+  - 스테로이드
+  - 골다공증
 created: 2026-09-22
 aliases: [티볼론, Tibolone, Livial, 리비알, 티볼론정]
+title: Tibolone
+date: 2026-09-22
+출처: PMID 9881330
 ---
 
 # 💊 [[티볼론]] (Tibolone, Livial, ATC G03CX01)
@@ -86,7 +95,7 @@ graph TD
 
 ---
 
-## 4. 임상 용법·용량 및 처방 가이드 (Dosage & Administration)
+## 의학/04_임상 용법·용량 및 처방 가이드 (Dosage & Administration)
 
 | 임상 적응증 | 성인 표준 용법·용량 | 1일 최대 한도 용량 |
 | :--- | :--- | :--- |

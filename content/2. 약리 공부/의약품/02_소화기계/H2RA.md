@@ -1,7 +1,13 @@
 ---
 type: 의학개념
 category: 양방 약
-tags: [약리학, 위장관약, 소화기계, 위산분비억제제, H2RA, H2차단제, 파모티딘, 가스터, 제산제]
+tags:
+  - 약리
+  - 약리학
+  - 위장관약
+  - 소화기계
+  - 위산분비억제제
+  - 제산제
 created: 2026-09-07
 aliases:
   - H2RA
@@ -12,6 +18,9 @@ aliases:
   - Famotidine
   - 가스터
   - 파모온
+title: H2RA
+date: 2026-09-08
+출처: "PMID: 2875864"
 ---
 
 # H2 수용체 길항제 (H2RA, Famotidine)
@@ -76,7 +85,7 @@ H2 수용체 길항제(H2RA)는 과거 라니티딘(Ranitidine)의 NDMA 불순�
 
 ---
 
-## 4. 임상 적응증, 용법 및 주요 부작용
+## 의학/04_임상 적응증, 용법 및 주요 부작용
 
 ### 4.1 임상 적응증
 * 급만성 위염의 급성 증상(속쓰림, 위통, 신트림) 완화.
@@ -117,3 +126,5 @@ H2 수용체 길항제(H2RA)는 과거 라니티딘(Ranitidine)의 NDMA 불순�
 * Wolfe, M. M. & Sachs, G. (2000). Acid suppression: optimizing therapy for gastroduodenal ulcer healing, gastroesophageal reflux disease, and stress-related erosive syndrome. *Gastroenterology*, 118(2 Suppl 1), S9-S31.
   * [PubMed (PMID: 10868896)](https://pubmed.ncbi.nlm.nih.gov/10868896/) | [DOI](https://doi.org/10.1016/s0016-5085(00)70004-7)
   * `[연구 요약]` H2RA와 PPI의 위산 분비 억제 프로파일 비교, 주간 및 야간 산분비 조절의 임상적 차이점과 위장관 질환별 최적화 치료 전략 분석.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): H2RA, H2차단제, 파모티딘, 가스터 -->

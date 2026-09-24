@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-04
 created_at: 2026-09-04 09:40:19
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=s15ojX1P4NY"
 ---
 
 # 📌 LLM Wiki의 토큰 낭비 문제를 해결하는 경량화 전처리 도구 Graphify 개념 및 실전 구축 가이드

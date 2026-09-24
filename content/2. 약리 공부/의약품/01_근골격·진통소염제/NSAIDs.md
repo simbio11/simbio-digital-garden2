@@ -5,10 +5,13 @@ aliases:
   - 비스테로이드성 소염진통제
   - Nonsteroidal Anti-inflammatory Drugs
 tags:
+  - 약리
   - 약리/양방약
   - 해열진통소염제
   - NSAIDs
-  - COX저해제
+title: NSAIDs
+date: 2026-09-24
+출처: "PMID: 34174454"
 ---
 
 # 💊 [[NSAIDs]] (Non-Steroidal Anti-Inflammatory Drugs, 비스테로이드성 소염진통제)
@@ -98,3 +101,16 @@ graph TD
 * Grosser T, et al. Nonsteroidal anti-inflammatory drugs. In: Brunton LL, ed. *Goodman & Gilman's The Pharmacological Basis of Therapeutics*. 13th ed. McGraw-Hill; 2018.
   * `[연구 요약]` NSAIDs의 약동학, COX-1/COX-2 선택성 비교 및 위장관계·신장계 독성 메커니즘 총망라.
 * 2026-09-01 근골격계 심층리뷰 1번 (고령 만성 요통 침치료 병행 시 NSAIDs 복용량 58% 감소 RCT).
+
+---
+## 📎 개념 학습 보충 (2026-09-24 논문 연계)
+
+### '경구 vs 국소' 층위가 추가된 근거 (Osteoarthritis and Cartilage 2021;29(9):1242-1251, [PMID: 34174454](https://pubmed.ncbi.nlm.nih.gov/34174454/))
+- **유효성**: 국소 NSAID는 [[아세트아미노펜]]보다 기능 개선 우수(SMD −0.29), **경구 NSAID와 통계적으로 동등**(SMD 0.03) — 무릎 OA 계열 NMA 122편·47,113명.
+- **안전성**: RCT 이상반응은 국소 NSAID가 경구 대비 낮았고(RR 0.46), 1년 실사용 코호트에서도 국소 NSAID군의 사망·심혈관·위장관 출혈 위험이 낮았다.
+- **환자 선택 알고리즘(진료실 적용)**: ① 노인·위장관 출혈 병력·심혈관 위험·신기능 저하·다약제 → **국소 제형 우선**([[국소 NSAID]]·[[디클로페낙]]) ② 국소 요법 2주 반응 부족 → 경구를 **최소 유효용량·최단기간** ③ 위장관 위험군 경구 사용 시 COX-2 억제제 또는 PPI 병용 ④ 심혈관 고위험군은 경구 회피 우선.
+- **한계(원문 명시)**: 계열 수준 비교로 개별 약물의 최적 용량·도포량을 확정하지 않는다 — 처방은 제품 허가 용법을 따른다.
+- **한의 병용**: 침·[[약침]] 시술 중 NSAID 병용 시 ① 출혈 경향(항응고·항혈소판제) ② 위장관 증상 ③ 신기능을 함께 확인하고, 감량 목표를 치료 계획에 넣는다.
+- 관련: [[국소 NSAID]] · [[아세트아미노펜]] · [[디클로페낙]] · [[OARSI 2019 가이드라인]] · [[2026-09-24_통합의학약리학_심층리뷰]] 3번
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): COX저해제 -->

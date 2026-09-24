@@ -1,3 +1,11 @@
+---
+title: API 및 권한 연결 요청 목록
+date: 2026-09-05
+tags:
+  - 생활
+출처: "https://www.reb.or.kr/r-one/openapi/`"
+---
+
 # 🔌 API·권한 연결 요청 목록 — 부동산 브리핑 + 개원 리서치
 
 > [!info] 문서 목적

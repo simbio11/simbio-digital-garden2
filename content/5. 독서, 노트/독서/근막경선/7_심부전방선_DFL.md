@@ -4,12 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - dfl
-  - deep-front-line
-  - core
   - fascia
   - thomas-myers
+date: 2026-09-09
 ---
 
 # [[7_심부전방선_DFL]](Deep Front Line)
@@ -170,3 +169,5 @@ flowchart TD
    - **[연구 요약]**: 심부 코어 근육([[복횡근]], [[골반저근]], [[장요근]], [[횡격막]])의 동조 기능 부전과 만성 요통의 상관성 입증.
 3. **Bordoni, B., & Zanier, E. (2013)**. *Anatomic connections of the diaphragm: influence of respiration on the body system*. **Journal of Multidisciplinary Healthcare**, 6, 281-291.
    - **[연구 요약]**: 횡격막과 [[장요근]], 심막, 사각근의 전신 근막적 연결 및 호흡이 자세 안정성에 미치는 역학 분석.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): dfl, deep-front-line, core -->

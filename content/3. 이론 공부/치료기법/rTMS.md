@@ -1,7 +1,15 @@
 ---
 aliases: [반복 경두개 자기자극, rTMS, TMS, 경두개자기자극, Repetitive transcranial magnetic stimulation]
-tags: [치료기법, 신경조절, 뇌자극, 운동피질, 신경병증성통증, 재활]
+tags:
+  - 이론
+  - 치료기법
+  - 신경조절
+  - 신경병증성통증
+  - 재활
 created: 2026-09-18
+title: rTMS
+date: 2026-09-18
+출처: PMID 40252663
 ---
 # 📍 반복 경두개 자기자극 (Repetitive Transcranial Magnetic Stimulation, rTMS)
 
@@ -49,3 +57,5 @@ created: 2026-09-18
 
 ## 7. 함께 보기
 - [[TENS]] · [[전침]] · [[하행성 통증억제계]] · [[신경병증성 통증]] · [[당뇨병성 말초신경병증]] · [[NNT]] · [[GRADE 근거수준]]
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 뇌자극, 운동피질 -->

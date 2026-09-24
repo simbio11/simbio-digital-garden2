@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-22
 created_at: 2026-09-22 08:32:01
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=cWd2Vy9OHV0"
 ---
 
 # 📌 클로드 코드(Claude Code) 비용 과금 메커니즘 분석 및 사용 한도 500% 절감 실전 가이드

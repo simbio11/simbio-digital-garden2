@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-03
 created_at: 2026-09-03 08:31:06
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=FLJ2JTSPV1Y"
 ---
 
 # 📌 크롬이 몰래 다운로드하는 2GB 파일의 정체 AI 에이전트와 로컬 모델의 작동 원리

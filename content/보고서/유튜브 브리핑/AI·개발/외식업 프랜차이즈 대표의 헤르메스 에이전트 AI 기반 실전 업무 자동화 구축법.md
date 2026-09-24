@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=AewUCqOvdLk"
 ---
 
 # 📌 외식업 프랜차이즈 대표의 헤르메스 에이전트 AI 기반 실전 업무 자동화 구축법

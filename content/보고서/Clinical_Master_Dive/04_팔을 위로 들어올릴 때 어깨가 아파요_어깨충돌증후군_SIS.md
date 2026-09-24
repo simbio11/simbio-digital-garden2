@@ -5,7 +5,16 @@ topic_patient: "팔을 위로 들어올릴 때 어깨가 아파요"
 topic_medical: 어깨충돌증후군(견관절 충돌증후군, Subacromial Impingement) — 회전근개 병변·유착성 관절낭염 감별
 domain: 근골격계·상지 — 회전근개 4총사([[극상근]]·[[극하근]]·[[소원근]]·[[견갑하근]])와 견봉하 공간 축의 어깨 통증 실제 진료 흐름(레드플래그→검사→문진→진단→치료→티칭) 통합
 status: inbox
-tags: [clinical-master-dive, simbio-vault, organically-coupled, shoulder, impingement, rotator-cuff, frozen-shoulder, clinical-flow, evidence-based, master-note]
+tags:
+  - 생활
+  - clinical-master-dive
+  - simbio-vault
+  - organically-coupled
+  - clinical-flow
+  - evidence-based
+  - master-note
+title: 04_팔을 위로 들어올릴 때 어깨가 아파요_어깨충돌증후군_SIS
+출처: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4141618/"
 ---
 
 # 🗨️ "팔을 위로 들어올릴 때 어깨가 아파요"
@@ -180,3 +189,5 @@ tags: [clinical-master-dive, simbio-vault, organically-coupled, shoulder, imping
 ② Pancoast Syndrome — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK482155/
 
 이 다이브는 비오님 볼트의 근골격계·이론·약리 노트를 발췌해 구성했으며, 협심증 연관통·Pancoast tumor·급성 화농성 관절염·전이성 골종양 관련 레드플래그는 볼트에 전용 노트가 없어 위 외부 문헌과 표준 임상 지식으로 보충했습니다([외부 조사]).
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): shoulder, impingement, rotator-cuff, frozen-shoulder -->

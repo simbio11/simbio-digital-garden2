@@ -8,30 +8,18 @@ total_plates: 27
 source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
 source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 호흡기학
-  - 호흡기약리학
-  - 기관지확장제
-  - 흡입스테로이드
-  - 테오필린
-  - 산소요법
-  - 고유량비강캐뉼라
-  - 기도관리
-  - 기관내삽관
-  - 윤상갑상막절개술
-  - 기관절개술
-  - 흉부외과
-  - 비디오흉강경수술
-  - 폐엽절제술
-  - 전폐절제술
-  - 흉관삽입술
-  - 폐이식
 aliases:
   - "Netter Respiratory Day 07"
   - "Netter 호흡기 치료 및 흉부외과"
   - "Respiratory Therapies & Thoracic Surgery Master Note"
 status: completed
 created: 2026-09-18
+title: Day07_호흡기치료_약리학_산소요법_인공기도관리_흉부외과수술_폐이식
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 ---
 
 # Netter Respiratory Day 07: 호흡기 치료 및 흉부외과 수술 (약리학·산소요법·인공기도관리·폐절제술·흉부배액·폐이식) (pp. 293–344)
@@ -46,11 +34,20 @@ created: 2026-09-18
 
 * **호흡기 분자 약리학 및 흡입 약물 전달 역학 (Plates 5-1 ~ 5-10)**:  
   * **기관지확장제 분자 기전**:  
-    * **$eta_2$-작용제 (SABA: Albuterol, Terbutaline; LABA: Salmeterol, Formoterol)**: 기도 평활근 $eta_2$ 수용체 결합 $ightarrow$ $G_s$ 단백 활성화 $ightarrow$ 아데닐릴 시클라아제 촉진 $ightarrow$ **cAMP 증가** $ightarrow$ PKA 활성화 $ightarrow$ 세포질 칼슘 감소 및 미오신 경쇄 키나아제(MLCK) 불활성화 $ightarrow$ **강력한 기관지 평활근 이완**.  
-    * **항콜린제 (SAMA: Ipratropium; LAMA: Tiotropium, Umeclidinium)**: 미주신경 절후 섬유에서 분비된 아세틸콜린의 **$M_3$ 무스카린 수용체 결합을 경쟁적으로 차단** $ightarrow$ $G_q$-PLC-$	ext{IP}_3/	ext{Ca}^{2+}$ 경로 차단 $ightarrow$ 기관지 연축 및 점액 과다분비 억제 (COPD 기저 치료의 핵심).  
+    * **$eta_2$-작용제 (SABA: Albuterol, Terbutaline; LABA: Salmeterol, Formoterol)**: 기도 평활근 $eta_2$ 수용체 결합 $
+ightarrow$ $G_s$ 단백 활성화 $
+ightarrow$ 아데닐릴 시클라아제 촉진 $
+ightarrow$ **cAMP 증가** $
+ightarrow$ PKA 활성화 $
+ightarrow$ 세포질 칼슘 감소 및 미오신 경쇄 키나아제(MLCK) 불활성화 $
+ightarrow$ **강력한 기관지 평활근 이완**.  
+    * **항콜린제 (SAMA: Ipratropium; LAMA: Tiotropium, Umeclidinium)**: 미주신경 절후 섬유에서 분비된 아세틸콜린의 **$M_3$ 무스카린 수용체 결합을 경쟁적으로 차단** $
+ightarrow$ $G_q$-PLC-$	ext{IP}_3/	ext{Ca}^{2+}$ 경로 차단 $
+ightarrow$ 기관지 연축 및 점액 과다분비 억제 (COPD 기저 치료의 핵심).  
     * **메틸크산틴계 (Theophylline / Aminophylline)**: 비선택적 **포스포디에스테라아제(PDE) 억제**(cAMP 분해 차단) + **아데노신 $A_1/A_2$ 수용체 길항** + 저용량에서 히스톤 탈아세틸화효소-2(**HDAC2**)를 활성화하여 스테로이드 반응성 회복. 치료 농도 범위가 **$10\sim20\ \mu	ext{g/mL}$** 로 극히 좁아 $>20\ \mu	ext{g/mL}$ 초과 시 오심·구토, $>30\ \mu	ext{g/mL}$ 초과 시 난치성 심실성 부정맥 및 간질성 발작(Seizure) 유발 (간 대사효소 CYP1A2 영향).  
   * **항염증제 및 생물학적 제제**:  
-    * **흡입 스테로이드 (ICS: Fluticasone, Budesonide)**: 세포질 GR 결합 후 핵으로 이동 $ightarrow$ 전사인자 NF-κB 및 AP-1을 억제하여 염증성 사이토카인 전사를 전방위 차단. 구강 침착에 의한 **구강 칸디다증 (Oral thrush)** 및 쉰목소리(Dysphonia) 예방을 위해 **흡입 후 반드시 구강 세척(Gargling)** 필수.  
+    * **흡입 스테로이드 (ICS: Fluticasone, Budesonide)**: 세포질 GR 결합 후 핵으로 이동 $
+ightarrow$ 전사인자 NF-κB 및 AP-1을 억제하여 염증성 사이토카인 전사를 전방위 차단. 구강 침착에 의한 **구강 칸디다증 (Oral thrush)** 및 쉰목소리(Dysphonia) 예방을 위해 **흡입 후 반드시 구강 세척(Gargling)** 필수.  
     * **흡입 에어로졸 물리역학**: 폐포 도달을 위한 최적의 공기역학적 질량중앙직경(MMAD)은 **$1\sim5\ \mu	ext{m}$**. ($>5\ \mu	ext{m}$는 구강 인두에 관성 충돌, $<1\ \mu	ext{m}$는 침착되지 않고 호기 시 배출).  
     * **중증 천식 생물학적 제제**: Omalizumab (항-IgE), Mepolizumab/Benralizumab (항-IL-5/IL-5Rα), Dupilumab (항-IL-4Rα).
 
@@ -100,7 +97,8 @@ created: 2026-09-18
     * **원발성 이식편 기능부전 (PGD)**: 이식 후 72시간 이내 발생하는 허혈-재관류 손상에 의한 비심인성 폐부종 및 ARDS.  
     * **거부반응 (Rejection)**:  
       * 급성 세포성 거부반응(T세포 매개 혈관주위 림프구 침윤, 고용량 스테로이드 치료).  
-      * 만성 폐동종이식편 기능부전(**CLAD**): 이식 1년 이후 50% 이상에서 발생하여 장기 생존을 가로막는 주원인인 **폐쇄성 세기관지염 증후군 (Bronchiolitis Obliterans Syndrome, BOS)** $ightarrow$ 소기도 상피의 섬유화성 폐색.
+      * 만성 폐동종이식편 기능부전(**CLAD**): 이식 1년 이후 50% 이상에서 발생하여 장기 생존을 가로막는 주원인인 **폐쇄성 세기관지염 증후군 (Bronchiolitis Obliterans Syndrome, BOS)** $
+ightarrow$ 소기도 상피의 섬유화성 폐색.
 
 ---
 
@@ -112,16 +110,20 @@ created: 2026-09-18
 * **분자 신호전달 캐스케이드 및 약동학**:  
   * **수용체 선택성 및 세포 내 기전**:  
     * 기관지 평활근 세포막의 7회 막관통 G-단백 결합 수용체인 **$eta_2$-아드레날린 수용체**에 특이적 결합.  
-    * $G_{lpha s}$ 단백질이 해리되어 **아데닐릴 시클라아제 (Adenylyl Cyclase)** 활성화 $ightarrow$ 세포 내 ATP를 **cAMP**로 전환 촉진.  
+    * $G_{lpha s}$ 단백질이 해리되어 **아데닐릴 시클라아제 (Adenylyl Cyclase)** 활성화 $
+ightarrow$ 세포 내 ATP를 **cAMP**로 전환 촉진.  
     * cAMP가 **단백질 인산화효소 A (PKA)** 를 활성화:  
       1. 세포막의 $	ext{Ca}^{2+}$-활성화 $	ext{K}^+$ 통로를 개방하여 세포막을 과분극(Hyperpolarization)시킴으로써 전압개폐성 칼슘 통로 유입 차단.  
       2. 소포체(SR)의 $	ext{SERCA}$ 펌프를 촉진하여 세포질 유리 $	ext{Ca}^{2+}$를 소포체 내로 격리.  
-      3. **미오신 경쇄 키나아제 (MLCK)를 직접 인산화하여 억제**하고 미오신 경쇄 탈인산화효소(MLCP)를 촉진 $ightarrow$ 액틴-미오신 교차결합 해제로 **강력하고 신속한 기관지 평활근 이완**.  
+      3. **미오신 경쇄 키나아제 (MLCK)를 직접 인산화하여 억제**하고 미오신 경쇄 탈인산화효소(MLCP)를 촉진 $
+ightarrow$ 액틴-미오신 교차결합 해제로 **강력하고 신속한 기관지 평활근 이완**.  
   * **약동학적 분류**:  
     * **속효성 $eta_2$-작용제 (SABA: Albuterol / Salbutamol, Terbutaline)**: 작용 발현 1~5분, 지속 시간 3~6시간. 급성 기관지 연축 완화(Reliever)의 1차 선택약.  
     * **지효성 $eta_2$-작용제 (LABA: Salmeterol, Formoterol, Vilanterol)**: 지속 시간 12~24시간.  
-      * Salmeterol: 긴 지질 친화성 곁사슬이 세포막 지질 이중층에 닻을 내리고 수용체에 반복 결합(Exosite binding) $ightarrow$ 발현은 느리나 12시간 지속.  
-      * Formoterol: 지질층에 용해되어 서서히 방출 $ightarrow$ 발현이 SABA만큼 빠르면서도 12시간 지속(천식 SMART 요법의 근간).  
+      * Salmeterol: 긴 지질 친화성 곁사슬이 세포막 지질 이중층에 닻을 내리고 수용체에 반복 결합(Exosite binding) $
+ightarrow$ 발현은 느리나 12시간 지속.  
+      * Formoterol: 지질층에 용해되어 서서히 방출 $
+ightarrow$ 발현이 SABA만큼 빠르면서도 12시간 지속(천식 SMART 요법의 근간).  
   * **부작용**: 전신 흡수 시 골격근 $eta_2$ 수용체 자극에 의한 **손 떨림 (Tremor, 가장 흔함)**, 심장 $eta_1/eta_2$ 수용체 자극에 의한 빈맥, 심계항진, 세포 내 칼륨 유입 촉진에 따른 **저칼륨혈증 (Hypokalemia)**.
 
 ```mermaid
@@ -168,7 +170,8 @@ graph TD
   * **약제 특성 및 수용체 선택성**:  
     * 4차 암모늄 화합물(Quaternary ammonium)로 지질 불용성이며 양전하를 띠어 전신 흡수나 혈액-뇌 장벽(BBB) 통과가 거의 없어 전신 항콜린 부작용 극히 적음.  
     * **SAMA (Ipratropium bromide)**: $M_1, M_2, M_3$ 비선택적 차단. 작용 시작 15~30분, 지속 4~6시간. ($M_2$ 차단으로 일시적 아세틸콜린 유리 반동 가능).  
-    * **LAMA (Tiotropium, Umeclidinium, Aclidinium)**: $M_1, M_3$ 수용체에서는 극도로 서서히 해리되지만 $M_2$ 수용체에서는 빠르게 해리되는 **속도론적 $M_3$ 선택성 (Kinetic selectivity)** 보유 $ightarrow$ 하루 1회 투여로 24시간 기관지 확장 유지.  
+    * **LAMA (Tiotropium, Umeclidinium, Aclidinium)**: $M_1, M_3$ 수용체에서는 극도로 서서히 해리되지만 $M_2$ 수용체에서는 빠르게 해리되는 **속도론적 $M_3$ 선택성 (Kinetic selectivity)** 보유 $
+ightarrow$ 하루 1회 투여로 24시간 기관지 확장 유지.  
   * **임상 적응증**: 천식보다 **COPD 환자에서 $eta_2$-작용제보다 더 강력한 폐기능 개선 및 악화 감소 효과**를 나타내어 GOLD 가이드라인 1차 표준으로 확립.
 
 ---
@@ -182,7 +185,8 @@ graph TD
   * **핵내 2대 전사 조절 기전**:  
     1. **전사 억제 (Transrepression, 핵심 항염증 기전)**:  
        * 염증성 전사인자인 **NF-$\kappa	ext{B}$** 및 **AP-1**과 직접 결합하여 이들의 프로모터 전사를 물리적으로 차단.  
-       * **히스톤 탈아세틸화효소-2 (HDAC2)** 를 모집하여 염증 유전자 부위의 염색질(Chromatin)을 응축시킴 $ightarrow$ **IL-1, IL-4, IL-5, IL-13, TNF-$lpha$, GM-CSF, CXCL8 등 모든 염증 사이토카인 및 COX-2, iNOS 발현 전방위 차단**.  
+       * **히스톤 탈아세틸화효소-2 (HDAC2)** 를 모집하여 염증 유전자 부위의 염색질(Chromatin)을 응축시킴 $
+ightarrow$ **IL-1, IL-4, IL-5, IL-13, TNF-$lpha$, GM-CSF, CXCL8 등 모든 염증 사이토카인 및 COX-2, iNOS 발현 전방위 차단**.  
     2. **전사 촉진 (Transactivation, 부작용 및 항염증 단백 발현)**:  
        * DNA의 글루코코르티코이드 반응 요소(GRE)에 직접 결합하여 항염증 단백질(I$\kappa	ext{B}lpha$, Annexin-1, $eta_2$-수용체 발현 촉진) 합성. 고용량 투여 시 대사성 부작용(당신생합성 효소 촉진)을 매개.
 
@@ -218,7 +222,8 @@ graph TD
 * **급성 악화기 전신 투여 및 장기 사용 시 다기관 독성**:  
   * **임상 적응증**: 급성 중증 천식 발작, COPD 급성 악화, 호산구성 폐렴, 급성 과민성 폐장염, 중증 유육종증. (경구 Prednisolone 또는 정맥 Methylprednisolone).  
   * **전신 이상반응의 다기관 스펙트럼**:  
-    * **내분비/대사**: 시상하부-뇌하수체-부신축(HPA axis) 억제에 따른 **부신 부전(급격한 투약 중단 시 부신 위기 Adrenal crisis 초래 $ightarrow$ 반드시 점진적 감량 Tapering)**, 쿠싱 증후군(중심성 비만, 보름달 얼굴, 들소혹), 인슐린 저항성 증가로 인한 스테로이드 유발 당뇨병.  
+    * **내분비/대사**: 시상하부-뇌하수체-부신축(HPA axis) 억제에 따른 **부신 부전(급격한 투약 중단 시 부신 위기 Adrenal crisis 초래 $
+ightarrow$ 반드시 점진적 감량 Tapering)**, 쿠싱 증후군(중심성 비만, 보름달 얼굴, 들소혹), 인슐린 저항성 증가로 인한 스테로이드 유발 당뇨병.  
     * **근골격계**: 파골세포 활성화 및 조골세포 억제에 따른 **골다공증 (Osteoporosis, 척추 압박골절, 대퇴골두 무혈성 괴사 AVN)**, 근위부 근병증(Steroid myopathy).  
     * **면역계**: 세포매개 면역 억제로 인한 **결핵 재활성화, 기회감염(PCP, 진균) 취약**.  
     * **안과**: 후낭하 백내장(Posterior subcapsular cataract), 녹내장(Glaucoma).  
@@ -250,15 +255,20 @@ graph TD
 
 * **5-리폭시게나아제 경로 차단 및 아스피린 천식**:  
   * **아라키돈산 대사 경로**:  
-    * 세포막 인지질 $ightarrow$ 포스포리파아제 $A_2 ightarrow$ 아라키돈산.  
+    * 세포막 인지질 $
+ightarrow$ 포스포리파아제 $A_2 
+ightarrow$ 아라키돈산.  
     * **5-Lipoxygenase (5-LOX)** 경로에 의해 **시스테이닐 류코트리엔 ($	ext{LTC}_4, 	ext{LTD}_4, 	ext{LTE}_4$)** 생성.  
     * 시스테이닐 류코트리엔은 히스타민보다 **1,000배 강력한 기관지 수축 작용**, 미세혈관 투과성 항진(부종), 호산구 유주 및 점액 과다분비 유발.  
   * **약제 분류 및 기전**:  
-    * **류코트리엔 수용체 길항제 (LTRA)**: **Montelukast (몬테루카스트)**, Zafirlukast, Pranlukast $ightarrow$ 평활근의 **$	ext{CysLT}_1$ 수용체를 경쟁적으로 차단**. 1일 1회 경구 투여 편의성.  
-    * **5-LOX 억제제**: Zileuton $ightarrow$ 류코트리엔 합성 자체를 차단 (간독성 모니터링 필요).  
+    * **류코트리엔 수용체 길항제 (LTRA)**: **Montelukast (몬테루카스트)**, Zafirlukast, Pranlukast $
+ightarrow$ 평활근의 **$	ext{CysLT}_1$ 수용체를 경쟁적으로 차단**. 1일 1회 경구 투여 편의성.  
+    * **5-LOX 억제제**: Zileuton $
+ightarrow$ 류코트리엔 합성 자체를 차단 (간독성 모니터링 필요).  
   * **아스피린 과민성 호흡기 질환 (AERD / Samter's Triad)**:  
     * [기관지 천식 + 재발성 비용종/만성 부비동염 + 아스피린/NSAID 복용 후 급성 기관지경련].  
-    * 기전: COX-1 억제로 인해 프로스타글란딘 합성이 차단되면서 아라키돈산이 **5-LOX 경로로 쏠려 류코트리엔이 폭발적으로 과다 생성**됨. $ightarrow$ **LTRA 치료에 극적으로 반응**.
+    * 기전: COX-1 억제로 인해 프로스타글란딘 합성이 차단되면서 아라키돈산이 **5-LOX 경로로 쏠려 류코트리엔이 폭발적으로 과다 생성**됨. $
+ightarrow$ **LTRA 치료에 극적으로 반응**.
 
 ---
 
@@ -318,7 +328,8 @@ graph TD
 * **헨리 법칙에 의한 물리적 용존 산소량 증대**:  
   * **물리화학적 원리 (Henry's Law)**: 액체에 용해되는 가스의 양은 그 가스의 분압에 비례함.  
     * $1	ext{기압}$ 공기 호흡 시 혈장에 물리적으로 용해된 산소는 $0.3	ext{ mL O}_2/100	ext{ mL 혈액}$에 불과함.  
-    * **$2.5\sim3	ext{기압}$의 고압 챔버에서 100% 산소 호흡 시**: 물리적 용존 산소량이 **$6.0	ext{ mL/dL}$ 이상으로 20배 폭증** $ightarrow$ 헤모글로빈이 전혀 없어도 혈장 용존 산소만으로 인체 안정 시 산소 소모량을 100% 충족시킬 수 있음.  
+    * **$2.5\sim3	ext{기압}$의 고압 챔버에서 100% 산소 호흡 시**: 물리적 용존 산소량이 **$6.0	ext{ mL/dL}$ 이상으로 20배 폭증** $
+ightarrow$ 헤모글로빈이 전혀 없어도 혈장 용존 산소만으로 인체 안정 시 산소 소모량을 100% 충족시킬 수 있음.  
   * **주요 임상 적응증**:  
     1. **일산화탄소(CO) 중독**: CO의 헤모글로빈 결합 친화도는 산소의 240배. $1	ext{기압}$ 공기에서 카복시헤모글로빈(HbCO)의 반감기는 약 320분이지만, **$3	ext{기압}$ 100% 산소 투여 시 반감기가 20분으로 급감**.  
     2. **잠수병 / 감압병 (Decompression Sickness)**: 급격한 부상 시 조직에 발생한 질소 기포를 물리적으로 압축 용해.  
@@ -338,7 +349,10 @@ graph TD
        * **폐성심 (Cor Pulmonale)** 또는 우심부전(하지 부종, 간비대).  
        * 심전도상 **폐성 P파 (P-pulmonale)** 또는 심초음파상 폐동맥고혈압.  
        * 이차성 **적혈구증가증 (Hematocrit $> 55\%$)**.  
-  * **생리학적 치료 효과**: 저산소성 폐혈관수축(HPV) 완화 $ightarrow$ 폐동맥압 및 폐혈관 저항 감소 $ightarrow$ 우심실 후부하 경감 $ightarrow$ 폐성심 진행 방지 및 뇌 인지기능 향상.
+  * **생리학적 치료 효과**: 저산소성 폐혈관수축(HPV) 완화 $
+ightarrow$ 폐동맥압 및 폐혈관 저항 감소 $
+ightarrow$ 우심실 후부하 경감 $
+ightarrow$ 폐성심 진행 방지 및 뇌 인지기능 향상.
 
 ---
 
@@ -348,10 +362,13 @@ graph TD
 * **활성산소종 조직 파괴 및 고탄산혈증성 혼수**:  
   * **폐 산소 독성 (Lorrain Smith Effect)**:  
     * $	ext{FiO}_2 > 60\%$ (특히 100%) 고농도 산소를 24~48시간 이상 지속 흡입 시 발생.  
-    * 세포 내 미토콘드리아에서 초산화물($	ext{O}_2^{ullet-}$), 과산화수소($	ext{H}_2	ext{O}_2$), 하이드록실 라디칼($	ext{OH}^ullet$) 등 **활성산소종 (ROS)** 과다 생성 $ightarrow$ 내피세포 및 제1형 폐포세포 지질 과산화 및 괴사 $ightarrow$ **비심인성 폐부종 및 ARDS와 동일한 미만성 폐포 손상(DAD)** 유발.  
+    * 세포 내 미토콘드리아에서 초산화물($	ext{O}_2^{ullet-}$), 과산화수소($	ext{H}_2	ext{O}_2$), 하이드록실 라디칼($	ext{OH}^ullet$) 등 **활성산소종 (ROS)** 과다 생성 $
+ightarrow$ 내피세포 및 제1형 폐포세포 지질 과산화 및 괴사 $
+ightarrow$ **비심인성 폐부종 및 ARDS와 동일한 미만성 폐포 손상(DAD)** 유발.  
   * **흡수성 무기폐 (Absorption Atelectasis)**:  
     * 정상 공기 중 78%를 차지하는 **질소(Nitrogen)** 는 혈액에 잘 용해되지 않아 폐포가 찌그러지지 않도록 지지하는 "질소 부목(Nitrogen splint)" 역할을 함.  
-    * 100% 순산소를 흡입하면 폐포 내 질소가 모두 씻겨 나가고(Denitrogenation), 산소는 모세혈관으로 매우 빠르게 흡수됨 $ightarrow$ 말초 폐포 내 압력이 급감하여 **폐포가 즉각 허탈(무기폐)** 됨.  
+    * 100% 순산소를 흡입하면 폐포 내 질소가 모두 씻겨 나가고(Denitrogenation), 산소는 모세혈관으로 매우 빠르게 흡수됨 $
+ightarrow$ 말초 폐포 내 압력이 급감하여 **폐포가 즉각 허탈(무기폐)** 됨.  
   * **중추신경계 산소 독성 (Paul Bert Effect)**: 고압산소 환경에서 어지럼증, 근육 경련, 전신 강직간대 발작.
 
 ---
@@ -419,7 +436,8 @@ graph LR
     * 경추를 신전시킬 수 없는 외상 환자에서 이상적.  
     * **미국마취과학회(ASA) 어려운 기도 알고리즘**: 기관내삽관 실패 시 저산소증 뇌손상을 막기 위한 **최우선 구제 환기 수단 (Rescue ventilation)**.  
   * **치명적 한계점**:  
-    * 기관 내로 직접 튜브가 들어가지 않으므로 **위 내용물 역류 시 기도로 흡인되는 것을 완벽히 차단하지 못함 (위 흡인 방지 불가)** $ightarrow$ 공복이 유지되지 않은 응급 수술, 비만 환자, 장폐색 환자에서는 기관내삽관이 원칙.
+    * 기관 내로 직접 튜브가 들어가지 않으므로 **위 내용물 역류 시 기도로 흡인되는 것을 완벽히 차단하지 못함 (위 흡인 방지 불가)** $
+ightarrow$ 공복이 유지되지 않은 응급 수술, 비만 환자, 장폐색 환자에서는 기관내삽관이 원칙.
 
 ---
 
@@ -454,7 +472,8 @@ graph LR
   * **경피적 확장 기관절개술 (Percutaneous Dilatational Tracheostomy, PDT)**:  
     * 중환자실 침상 곁에서 셀딩거(Seldinger) 기법을 이용하여 가이드와이어 삽입 후 단계적 확장기로 확장하여 튜브를 거치하는 최소침습 기법 (기관지경 가이드 병행 필수).  
   * **치명적 합병증**:  
-    * **기관무명동맥루 (Tracheoinnominate Artery Fistula, TIF)**: 기관 튜브 커프의 과도한 압력이나 튜브의 만곡부가 전방의 무명동맥(Brachiocephalic artery) 벽을 침식 괴사시켜 파열을 일으키는 **분출성 대출혈 초응급 질환** $ightarrow$ 손가락으로 절개창 내부 무명동맥을 흉골 후면으로 직접 압박(Utley maneuver)하며 수술실 이송.
+    * **기관무명동맥루 (Tracheoinnominate Artery Fistula, TIF)**: 기관 튜브 커프의 과도한 압력이나 튜브의 만곡부가 전방의 무명동맥(Brachiocephalic artery) 벽을 침식 괴사시켜 파열을 일으키는 **분출성 대출혈 초응급 질환** $
+ightarrow$ 손가락으로 절개창 내부 무명동맥을 흉골 후면으로 직접 압박(Utley maneuver)하며 수술실 이송.
 
 ---
 
@@ -483,7 +502,8 @@ graph LR
     * **임상적 이점**: 갈비뼈 골절이나 늑간신경 손상이 없어 **수술 후 통증의 극적인 감소**, 폐렴 등 호흡기 합병증 감소, 입원 기간 단축, 면역 기능 보존.  
     * **종양학적 타당성**: 조기 폐암(Stage I~II)에서 개흉술과 동등한 림프절 곽청 범위 및 5년 무병 생존율 입증.  
   * **로봇 보조 흉강 수술 (RATS, Da Vinci)**:  
-    * 3차원 고화질 입체 시야 및 7가지 자유도를 가진 인간 손목 관절 모방 기구 $ightarrow$ 깊은 종격동 림프절 곽청술의 정밀성 극대화.
+    * 3차원 고화질 입체 시야 및 7가지 자유도를 가진 인간 손목 관절 모방 기구 $
+ightarrow$ 깊은 종격동 림프절 곽청술의 정밀성 극대화.
 
 ---
 
@@ -569,7 +589,8 @@ graph LR
 ![[Netter_V3_Plate5-26.png]]
 
 * **과팽창 해소와 횡격막 호흡 역학의 복원**:  
-  * **병태생리학적 배경**: 중증 폐기종 환자는 탄성반발력 소실로 폐가 비정상적으로 과팽창(Hyperinflation)되어 흉곽을 가득 채움 $ightarrow$ 횡격막이 평평하게 눌려(Flattening) 호흡근으로서의 수축 수축력을 완전히 상실함.  
+  * **병태생리학적 배경**: 중증 폐기종 환자는 탄성반발력 소실로 폐가 비정상적으로 과팽창(Hyperinflation)되어 흉곽을 가득 채움 $
+ightarrow$ 횡격막이 평평하게 눌려(Flattening) 호흡근으로서의 수축 수축력을 완전히 상실함.  
   * **외과적 폐용적 축소술 (LVRS, NETT trial)**:  
     * 양측 폐 상엽의 가장 심하게 파괴된 무기능성 폐기종 조직을 약 $20\sim30\%$ 양측 절제.  
     * **효과**: 잔여 폐 조직이 펴지면서 흉강 내 공간이 확보되어, **평평해졌던 횡격막이 다시 돔(Dome) 모양으로 올라가 호흡근 역학이 극적으로 회복**됨. 폐 탄성반발력 증가로 소기도 허탈 방지.  
@@ -595,7 +616,9 @@ graph LR
        * 경기관지 폐생검(TBLB)상 **폐세혈관 및 세기관지 주위의 림프구 커핑(Perivascular lymphocytic cuffing)** 관찰. 고용량 정맥 스테로이드 펄스 요법으로 치료.  
     3. **만성 폐동종이식편 기능부전 (CLAD / 폐쇄성 세기관지염 증후군, BOS, 1년 이후)**:  
        * 폐이식 환자의 5년 생존율이 약 $50\sim60\%$에 머무는 가장 큰 장벽.  
-       * 면역학적 거부반응과 거대세포바이러스(CMV) 감염, 위식도역류 미세흡인이 복합 작용하여 말초 호흡세기관지 상피가 만성적으로 손상 $ightarrow$ 섬유조직이 자라나 기도 내강이 동심원상으로 완전히 막혀버리는 **폐쇄성 세기관지염 (Constrictive Bronchiolitis Obliterans)** 초래 $ightarrow$ 비가역적 폐쇄성 폐기능 저하로 재이식 외에 치료법 없음.
+       * 면역학적 거부반응과 거대세포바이러스(CMV) 감염, 위식도역류 미세흡인이 복합 작용하여 말초 호흡세기관지 상피가 만성적으로 손상 $
+ightarrow$ 섬유조직이 자라나 기도 내강이 동심원상으로 완전히 막혀버리는 **폐쇄성 세기관지염 (Constrictive Bronchiolitis Obliterans)** 초래 $
+ightarrow$ 비가역적 폐쇄성 폐기능 저하로 재이식 외에 치료법 없음.
 
 ---
 
@@ -674,3 +697,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 5 전체 27개 플레이트 이미지 추출 완료 (호흡기계 완결) ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 호흡기약리학, 기관지확장제, 흡입스테로이드, 테오필린, 산소요법, 고유량비강캐뉼라, 기도관리, 기관내삽관, 윤상갑상막절개술, 기관절개술, 흉부외과, 비디오흉강경수술, 폐엽절제술, 전폐절제술, 흉관삽입술, 폐이식 -->

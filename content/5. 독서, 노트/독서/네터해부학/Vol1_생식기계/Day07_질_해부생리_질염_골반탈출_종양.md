@@ -8,21 +8,21 @@ total_plates: 22
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 산부인과
-  - 비뇨부인과
   - 생식기계
-  - 질
-  - 골반장기탈출증
   - 질염
-  - 질종양
 aliases:
   - "네터 생식기계 Day 07"
   - "질"
 status: completed
 created: 2026-09-16
+title: Day07_질_해부생리_질염_골반탈출_종양
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 07: 질 - 해부·골반지지·질염·골반장기탈출증 및 종양학 (Section 7 완독)
@@ -809,3 +809,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== 모든 Section 7 이미지 추출 작업 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 비뇨부인과, 질, 골반장기탈출증, 질종양 -->

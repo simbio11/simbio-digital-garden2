@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-02
 created_at: 2026-09-02 09:44:39
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=S6w4g2OQlVQ"
 ---
 
 # 📌 안드레 카르파시의 LLM Wiki 옵시디언과 AI 에이전트로 구축하는 디지털 정원 가이드

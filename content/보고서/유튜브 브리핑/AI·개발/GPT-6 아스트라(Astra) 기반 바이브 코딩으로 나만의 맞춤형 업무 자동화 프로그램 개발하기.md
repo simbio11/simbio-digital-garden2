@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-15
 created_at: 2026-09-15 08:31:34
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=hLzaJVA_NNY"
 ---
 
 # 📌 GPT-6 아스트라(Astra) 기반 바이브 코딩으로 나만의 맞춤형 업무 자동화 프로그램 개발하기

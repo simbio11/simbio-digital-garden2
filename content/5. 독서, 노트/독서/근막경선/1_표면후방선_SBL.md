@@ -4,11 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - sbl
-  - superficial-back-line
   - fascia
   - thomas-myers
+date: 2026-09-21
 ---
 
 # [[1_표면후방선_SBL]](Superficial Back Line)
@@ -176,3 +176,5 @@ SBL 상의 만성 단축 또는 장력 불균형은 다음 5대 체형 변형을
    - **[연구 요약]**: [[족저근막]]-아킬레스건-[[비복근]]-햄스트링으로 이어지는 후방 근막 연속성의 힘 전달(Force transmission) 생체역학적 근거 체계적 고찰.
 3. **Grieve, R., et al. (2015)**. *The immediate effect of bilateral self-myofascial release on the plantar surface of the foot on hamstring and lumbar spine flexibility: A randomised controlled trial*. **Journal of Bodywork and Movement Therapies**, 19(3), 544-552.
    - **[연구 요약]**: [[족저근막]] 롤링(SMR)이 원격 [[햄스트링]] 및 요추 유연성에 미치는 즉각적 가동범위 증가 RCT 검증.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): sbl, superficial-back-line -->

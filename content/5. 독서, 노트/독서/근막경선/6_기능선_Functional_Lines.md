@@ -4,11 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - fl
-  - functional-lines
   - fascia
   - thomas-myers
+date: 2026-09-04
 ---
 
 # [[6_기능선_Functional_Lines]](Functional Lines)
@@ -136,3 +136,5 @@ flowchart TD
    - **[연구 요약]**: [[광배근]]-[[대둔근]] 후방기능선과 대흉근-[[내전근]] 전방기능선의 X자 사선 힘 전달 역학 및 스포츠 동작 파워 사슬 규명.
 2. **Vleeming, A., et al. (1995)**. *The posterior layer of the thoracolumbar fascia: its function in load transfer from spine to legs*. **Spine**, 20(7), 753-758.
    - **[연구 요약]**: 흉요근막을 통한 광배근과 대둔근의 천장관절 안정화(Force closure) 메커니즘 생체역학적 입증.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): fl, functional-lines -->

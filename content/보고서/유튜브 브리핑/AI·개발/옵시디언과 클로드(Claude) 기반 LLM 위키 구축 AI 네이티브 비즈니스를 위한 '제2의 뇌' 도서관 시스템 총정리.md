@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-07
 created_at: 2026-09-07 08:32:10
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=ttrnbB_9LZI"
 ---
 
 # 📌 옵시디언과 클로드(Claude) 기반 LLM 위키 구축 AI 네이티브 비즈니스를 위한 '제2의 뇌' 도서관 시스템 총정리

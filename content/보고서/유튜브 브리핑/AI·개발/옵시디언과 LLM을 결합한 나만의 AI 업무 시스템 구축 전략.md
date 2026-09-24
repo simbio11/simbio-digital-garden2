@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-03
 created_at: 2026-09-03 08:31:06
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=RWDBO_KNPlc"
 ---
 
 # 📌 옵시디언과 LLM을 결합한 나만의 AI 업무 시스템 구축 전략

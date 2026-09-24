@@ -8,25 +8,19 @@ total_plates: 27
 source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 내분비학
-  - 골칼슘대사
-  - 부갑상선
-  - 일차성부갑상선기능항진증
-  - 신성골이영양증
-  - 가성부갑상선기능저하증
   - 골다공증
-  - 구루병
-  - 골연화증
-  - 파젯병
-  - 골형성부전증
-  - 저인산타아제증
 aliases:
   - "Netter Endocrine Day 06"
   - "Netter 골칼슘"
   - "Bone and Calcium Master Note"
 status: completed
 created: 2026-09-18
+title: Day06_골칼슘대사_부갑상선_골다공증_구루병_파젯병_골형성부전증
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # Netter Endocrine Day 06: 골 및 칼슘 대사 (Bone and Calcium) — 부갑상선·골개형·골다공증·구루병·파젯병·유전성골질환 (pp. 154–180)
@@ -486,3 +480,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 6 전체 27개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 골칼슘대사, 부갑상선, 일차성부갑상선기능항진증, 신성골이영양증, 가성부갑상선기능저하증, 구루병, 골연화증, 파젯병, 골형성부전증, 저인산타아제증 -->

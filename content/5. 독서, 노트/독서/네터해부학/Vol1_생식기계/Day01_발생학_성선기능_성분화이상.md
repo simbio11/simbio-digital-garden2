@@ -8,21 +8,22 @@ total_plates: 15
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 생식기계
-  - 발생학
   - 내분비학
   - HPG축
   - 성분화이상
-  - DSD
-  - 사춘기
 aliases:
   - 네터 생식기계 Day 01
   - 생식기 발생학 및 성선축
 status: completed
 created: 2026-09-15
+title: Day01_발생학_성선기능_성분화이상
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 01: 생식기 발생학, 성선 기능 축 및 성분화 이상 질환 (Section 1 완독)
@@ -656,3 +657,5 @@ graph TD
 
 ---
 *다음 차수 예고: Day 02 — Section 2: 음경 및 남성 회음부 해부학, 발기 신경생리 (Plates 2-1 ~ 2-13, pp. 20-32)*
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 발생학, DSD, 사춘기 -->

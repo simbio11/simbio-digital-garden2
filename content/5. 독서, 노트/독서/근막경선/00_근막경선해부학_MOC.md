@@ -4,10 +4,12 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
   - fascia
   - biomechanics
   - moc
+date: 2026-09-23
 ---
 
 # [[00_근막경선해부학_MOC]]
@@ -70,5 +72,5 @@ flowchart TD
 
 ## 🔗 관련 백링크
 * **마스터 대시보드**: [[00_Master_Dashboard]]
-* **근육 진도표**: [[_헤르메스/프로젝트/Projects/A_Medical/A-1-1_Muscle_Knowledge_Tracker]]
+* **근육 진도표**: [[_AI/_헤르메스/프로젝트/Projects/A_Medical/A-1-1_Muscle_Knowledge_Tracker]]
 * **어깨 근육군**: [[대흉근]], [[견갑하근]], [[극상근]], [[극하근]], [[소원근]], [[소흉근]], [[전거근]], [[삼각근]], [[대원근]]

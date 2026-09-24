@@ -4,11 +4,11 @@ category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
+  - 독서
   - anatomy-trains
-  - sl
-  - spiral-line
   - fascia
   - thomas-myers
+date: 2026-09-22
 ---
 
 # [[4_나선선_SL]](Spiral Line)
@@ -174,3 +174,5 @@ flowchart TD
    - **[연구 요약]**: 두판상근에서 [[전거근]], 복사근, 발바닥 등자를 거쳐 기립근으로 상행하는 이중 나선선(SL)의 주행 및 회전 제어 기전 규명.
 2. **Schleip, R., & Müller, D. G. (2013)**. *Training principles for fascial connective tissues: scientific foundation and suggested practical applications*. **Journal of Bodywork and Movement Therapies**, 17(1), 103-115.
    - **[연구 요약]**: 나선선 근막의 탄성 반동(Recoil)을 활용한 스포츠 회전 파워 생성 원리 분석.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): sl, spiral-line -->

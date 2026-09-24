@@ -8,22 +8,21 @@ total_plates: 39
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 산부인과
   - 생식기계
   - 임신
-  - 태반학
-  - 산과학
-  - 전자간증
-  - 분만학
-  - 고위험임신
 aliases:
   - "네터 생식기계 Day 12"
   - "임신과 산과학"
 status: completed
 created: 2026-09-17
+title: Day12_임신_해부발생_태반생리_산과합병증_분만학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 12: 임신 - 착상·태아발생·태반순환·산과합병증·전자간증 및 분만학 (Section 12 완독)
@@ -1586,3 +1585,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 12 전체 39개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 태반학, 산과학, 전자간증, 분만학, 고위험임신 -->

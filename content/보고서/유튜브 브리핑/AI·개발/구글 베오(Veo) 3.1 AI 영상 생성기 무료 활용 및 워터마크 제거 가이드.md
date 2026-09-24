@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-15
 created_at: 2026-09-15 08:31:34
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=b5qLSjd_ln0"
 ---
 
 # 📌 구글 베오(Veo) 3.1 AI 영상 생성기 무료 활용 및 워터마크 제거 가이드

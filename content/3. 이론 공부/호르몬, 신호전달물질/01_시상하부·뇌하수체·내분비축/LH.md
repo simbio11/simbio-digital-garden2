@@ -1,0 +1,14 @@
+---
+aliases:
+  - 황체 형성 호르몬
+tags:
+  - 이론
+title: LH
+date: 2026-09-08
+출처: "https://molecule-viewer-rho.vercel.app/?cid=16132366\""
+---
+
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
+
+> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132366" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>

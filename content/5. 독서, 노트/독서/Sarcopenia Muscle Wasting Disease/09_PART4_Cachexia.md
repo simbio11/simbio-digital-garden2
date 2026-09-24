@@ -7,15 +7,15 @@ pages: "pp.289-310"
 chapters: ["Ch18", "Ch19"]
 source_file: "[[근감소증]] ocr+선명도 (1).pdf"
 tags:
+  - 독서
   - 의학원서
-  - [[근감소증]]
   - sarcopenia
-  - cachexia
   - 악액질
-  - cancer_cachexia
   - 암악액질
 status: completed
 created: 2026-09-21
+title: 09_PART4_Cachexia
+date: 2026-09-22
 ---
 
 # 📑 [근감소증] PART 4. Cachexia (악액질)
@@ -387,3 +387,5 @@ flowchart TD
 46. Solheim TS, Fearon KC, Blum D, Kaasa S. Non-steroidal anti-inflammatory treatment in cancer cachexia: a systematic literature review. *Acta Oncol*. 2013;52:6-17.
 47. Temel JS, et al. Anamorelin in patients with non-small-cell lung cancer and cachexia (ROMANA 1 and ROMANA 2): results from two randomised, double-blind, phase 3 trials. *Lancet Oncol*. 2016;17:519-531.
 48. Tisdale MJ. Biology of cachexia. *J Natl Cancer Inst*. 1997;89:1763-1773.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 근감소증, cachexia, cancer_cachexia -->

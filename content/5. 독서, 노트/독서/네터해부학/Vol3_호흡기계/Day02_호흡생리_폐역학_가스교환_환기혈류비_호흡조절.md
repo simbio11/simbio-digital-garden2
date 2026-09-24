@@ -8,23 +8,19 @@ total_plates: 31
 source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
 source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 호흡기학
-  - 호흡생리학
   - 폐기능검사
-  - 폐순응도
-  - 기도저항
-  - 환기혈류비
-  - 웨스트구역
-  - 산소해리곡선
-  - 화학수용체
-  - 체인스톡스호흡
 aliases:
   - "Netter Respiratory Day 02"
   - "Netter 호흡생리학"
   - "Pulmonary Physiology Master Note"
 status: completed
 created: 2026-09-18
+title: Day02_호흡생리_폐역학_가스교환_환기혈류비_호흡조절
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 ---
 
 # Netter Respiratory Day 02: 호흡 생리학 (Pulmonary Physiology) — 폐역학·가스교환·환기혈류비·혈관대사·호흡조절 (pp. 49–79)
@@ -480,3 +476,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 2 전체 31개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 호흡생리학, 폐순응도, 기도저항, 환기혈류비, 웨스트구역, 산소해리곡선, 화학수용체, 체인스톡스호흡 -->

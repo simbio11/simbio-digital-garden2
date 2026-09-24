@@ -1,3 +1,11 @@
+---
+title: Day06_자가면역수포성질환_및_감염성피부질환Part1
+date: 2026-09-21
+tags:
+  - 독서
+출처: "https://drive.google.com/file/d/1hNbHNAGsYrJc0hTEAQVe\_R4TlMxQRFF1/view?usp=drivesdk\""
+---
+
 \---
 
 type: 의학원서\_요약노트

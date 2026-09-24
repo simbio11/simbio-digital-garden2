@@ -8,21 +8,22 @@ total_plates: 22
 source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
 source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 네터
   - 해부학
   - 비뇨의학과
   - 생식기계
-  - 전립선
-  - 정낭
   - 전립선비대증
-  - 전립선암
   - 배뇨장애
 aliases:
   - 네터 생식기계 Day 04
   - 정낭 및 전립선
 status: completed
 created: 2026-09-16
+title: Day04_정낭_전립선_해부병리_수술학
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 ---
 
 # 📑 [Netter Vol.1] Day 04: 정낭 및 전립선의 해부·발생·비대증·악성종양 및 수술학 (Section 4 완독)
@@ -866,3 +867,5 @@ graph LR
 - **선천성 편측 정관 무발생 (CUAVD) 및 신장 기형과의 연관성**:
   - 편측 정관만 만져지나 대다수에서 무정자증을 보여 반대측의 잠복성 볼프관 기형을 시사.
   - **신장 기형 연관성**: CFTR 유전자 돌연변이가 없는 비유전성 볼프관 무발생 환자의 경우 **동측 신장 무형성(Renal agenesis) 또는 저형성(Hypoplasia)**이 매우 높은 빈도로 동반되므로, **정관 무발생 환자에서는 반드시 복부 신장 초음파 검사를 필수적으로 시행**해야 함.
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 전립선, 정낭, 전립선암 -->

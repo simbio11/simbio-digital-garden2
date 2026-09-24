@@ -7,12 +7,16 @@ aliases:
   - 교감신경 포착 증후군
   - 흉추 자율신경 증후군
 tags:
+  - 이론
   - 질환
   - 신경계질환
   - 흉부
   - 자율신경계
   - 척추질환
   - 다열근
+title: SNES
+date: 2026-09-20
+출처: "PMID: 42622018"
 ---
 
 # 교감신경 포착 증후군 (SNES / Sympathetic Nerve Entrapment Syndrome)

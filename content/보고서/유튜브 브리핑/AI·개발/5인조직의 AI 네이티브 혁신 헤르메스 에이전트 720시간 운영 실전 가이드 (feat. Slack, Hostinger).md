@@ -7,9 +7,11 @@ category: AI·개발
 date: 2026-09-04
 created_at: 2026-09-04 09:40:19
 tags:
+  - 생활
   - youtube-digest
   - deep-summary
   - AI·개발
+출처: "https://www.youtube.com/watch?v=9m8iMzEBuSU"
 ---
 
 # 📌 5인조직의 AI 네이티브 혁신 헤르메스 에이전트 720시간 운영 실전 가이드 (feat. Slack, Hostinger)

@@ -8,23 +8,18 @@ total_plates: 7
 source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
 source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 tags:
+  - 독서
   - 의학원서
   - 내분비학
-  - 유전내분비학
-  - 다발성내분비선종
-  - MEN1
-  - MEN2
-  - 폰히펠린다우
-  - 신경섬유종증1형
-  - 자가면역다발내분비병증
-  - APS1
-  - 유암종증후군
 aliases:
   - "Netter Endocrine Day 08"
   - "Netter 유전내분비"
   - "Genetics & Endocrine Neoplasia Master Note"
 status: completed
 created: 2026-09-18
+title: Day08_유전내분비_MEN1_MEN2_VHL_NF1_APS1_유암종증후군
+date: 2026-09-21
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 ---
 
 # Netter Endocrine Day 08: 유전학 및 내분비 종양 (Genetics & Endocrine Neoplasia) — MEN1·MEN2·VHL·NF1·APS-1·유암종증후군 (pp. 213–225)
@@ -343,3 +338,5 @@ for plate_id, plate_title in plates_info:
 doc.close()
 print("=== Section 8 전체 7개 플레이트 이미지 추출 완료 ===")
 ```
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): 유전내분비학, 다발성내분비선종, MEN1, MEN2, 폰히펠린다우, 신경섬유종증1형, 자가면역다발내분비병증, APS1, 유암종증후군 -->
