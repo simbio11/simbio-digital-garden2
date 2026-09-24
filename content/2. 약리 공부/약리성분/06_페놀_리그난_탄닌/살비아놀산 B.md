@@ -14,7 +14,7 @@ tags:
   - 심혈관보호
 title: 살비아놀산 B
 date: 2026-09-21
-출처: PMID: 42331637
+출처: "PMID: 42331637"
 ---
 
 # 🔬 살비아놀산 B (Salvianolic Acid B)
