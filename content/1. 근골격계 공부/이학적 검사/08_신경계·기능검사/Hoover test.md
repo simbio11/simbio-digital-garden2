@@ -1,20 +1,19 @@
 ---
+title: Hoover test
+created: "2024-02-27"
+updated: "2026-09-14"
+tags:
+  - 근골격계
+  - 이학적검사
+  - 신경계
+  - 꾀병감별
+출처: "https://www.youtube.com/watch?v=jxtmWZoG4ao"
 aliases:
   - "Hoover Test"
   - "Hoover's Sign"
   - "후버 검사"
   - "후버 징후"
   - "대측 발뒤꿈치 압력 검사"
-tags:
-  - 근골격계
-  - 이학적검사
-  - 신경계
-  - 꾀병감별
-created: "2024-02-27"
-updated: "2026-09-14"
-title: Hoover test
-date: 2026-09-14
-출처: "https://www.youtube.com/watch?v=jxtmWZoG4ao"
 ---
 
 # 후버 검사 (Hoover Test)

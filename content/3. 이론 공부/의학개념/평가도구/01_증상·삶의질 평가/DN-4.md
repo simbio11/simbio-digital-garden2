@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: DN-4
+created: 2026-09-12
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 신경병증성통증
   - 당뇨병성신경병증
   - 침구
-created: 2026-09-12
+출처: "PMID: 15733628"
 aliases:
   - Douleur Neuropathique en 4 Questions
   - DN4
   - 신경병증성 통증 선별 설문
-title: DN-4
-date: 2026-09-12
-출처: "PMID: 15733628"
+type: 의학개념
+category: 평가도구
 ---
 # DN-4 (Douleur Neuropathique en 4 Questions)
 

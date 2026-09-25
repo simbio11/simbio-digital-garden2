@@ -1,16 +1,17 @@
 ---
+title: cGMP
+created: 2026-09-13
+updated: 2026-09-24
+tags:
+  - 약리
+  - 약리성분/세포생물학
+  - 혈관이완
+출처: "PMID: 20606131"
 aliases:
   - cGMP
   - Cyclic GMP
   - Cyclic Guanosine Monophosphate
   - 환상구아노신일인산
-tags:
-  - 약리
-  - 약리성분/세포생물학
-  - 혈관이완
-title: cGMP
-date: 2026-09-13
-출처: "PMID: 20606131"
 ---
 
 # cGMP (Cyclic Guanosine Monophosphate)

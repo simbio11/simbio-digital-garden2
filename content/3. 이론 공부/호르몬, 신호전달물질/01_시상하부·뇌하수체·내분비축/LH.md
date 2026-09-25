@@ -1,11 +1,12 @@
 ---
-aliases:
-  - 황체 형성 호르몬
+title: LH
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
-title: LH
-date: 2026-09-08
 출처: "https://molecule-viewer-rho.vercel.app/?cid=16132366\""
+aliases:
+  - 황체 형성 호르몬
 ---
 
 ## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)

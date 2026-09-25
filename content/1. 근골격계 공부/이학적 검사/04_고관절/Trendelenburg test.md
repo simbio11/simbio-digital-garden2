@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Trendelenburg test
+title: Trendelenburg test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
-title: Trendelenburg test
-date: 2026-09-22
+aliases:
+  - Trendelenburg test
 ---
 # 🔁 Trendelenburg test → [[트렌델렌부르크 징후]]
 

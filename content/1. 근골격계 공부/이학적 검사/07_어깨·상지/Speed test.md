@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 스피드 검사
-  - Speed Test
-  - Speed's Test
-  - 상완이두근건 검사
-  - 이두근건염 검사
+title: Speed test
+created: 2026-09-13
+updated: 2026-09-13
 tags:
   - 근골격계
   - 이학적검사
@@ -12,11 +9,13 @@ tags:
   - 어깨
   - 상완이두근
   - 관절와순
-created: 2026-09-13
-updated: 2026-09-13
-title: Speed test
-date: 2026-09-15
 출처: "DOI: 10.1016/s0749-8063(98"
+aliases:
+  - 스피드 검사
+  - Speed Test
+  - Speed's Test
+  - 상완이두근건 검사
+  - 이두근건염 검사
 ---
 
 # 스피드 검사 (Speed's Test)

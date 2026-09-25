@@ -1,6 +1,7 @@
 ---
 title: Day05_발진성질환Part3_구진인설_육아종_결합조직질환
-date: 2026-09-21
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 독서
 출처: "https://drive.google.com/file/d/1hNbHNAGsYrJc0hTEAQVe\_R4TlMxQRFF1/view?usp=drivesdk\""

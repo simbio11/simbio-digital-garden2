@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 5: Sperm and Ejaculation"
-day: 5
-section_pages: "pp. 100-108"
-total_plates: 9
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day05_정자_사정_생리_불임학
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -14,20 +9,25 @@ tags:
   - 해부학
   - 비뇨의학과
   - 생식기계
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - 네터 생식기계 Day 05
   - 정자와 사정
-status: completed
-created: 2026-09-16
-title: Day05_정자_사정_생리_불임학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 5: Sperm and Ejaculation"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 5
+section_pages: "pp. 100-108"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 9
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 05: 정자와 사정 - 미세해부·정액분석·무정자증 및 남성불임 수술학 (Section 5 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 100-108)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 5 전편 (Plate 5-1 ~ Plate 5-9, 총 9개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 100-108)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 5 전편 (Plate 5-1 ~ Plate 5-9, 총 9개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 정자 미세구조(첨체/미토콘드리아초/9+2 축사), WHO 6판 정액분석 및 크루거 엄격 기준(Kruger strict criteria), 무정자증 유전학(Y 염색체 미세결실 AZF a/b/c), 폐색성(OA) vs 비폐색성(NOA) 무정자증 감별 알고리즘, 남성생식 미세수술(MESA/micro-TESE, Vasoepididymostomy), 사정 생리(방출 Emission vs 사출 Ejaculation) 및 사정관 폐색(EDO/TURED)
 
 ---
@@ -188,11 +188,11 @@ graph TD
  Azoo[정액검사상 무정자증 확인] --> Karyo[말초혈액 유전학 평가: 핵형분석 + Y염색체 미세결실 PCR]
  Karyo --> 47XXY[47,XXY: 클라인펠터 증후군]
  47XXY --> TESE_Try[micro-TESE 시도: 약 50% 국소 정자 채취 가능]
- 
+
  Karyo --> Ydel[Y염색체 AZF 결실 발견]
  Ydel --> AZFa[AZFa 또는 AZFb 완전 결실]
  AZFa --> NoSperm[micro-TESE 금기: 정자 획득률 0%]
- 
+
  Ydel --> AZFc[AZFc 결실: DAZ 유전자 소실]
  AZFc --> HighYield[micro-TESE 적극 권고: 50~70% 정자 획득]
  HighYield --> Counsel[유전 상담: 남아에게 결실 100% 수직 전달 고지]

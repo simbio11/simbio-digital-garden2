@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 12: Pregnancy"
-day: 12
-section_pages: "pp. 242-281"
-total_plates: 39
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day12_임신_해부발생_태반생리_산과합병증_분만학
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -15,20 +10,25 @@ tags:
   - 산부인과
   - 생식기계
   - 임신
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 12"
   - "임신과 산과학"
-status: completed
-created: 2026-09-17
-title: Day12_임신_해부발생_태반생리_산과합병증_분만학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 12: Pregnancy"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 12
+section_pages: "pp. 242-281"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 39
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 12: 임신 - 착상·태아발생·태반순환·산과합병증·전자간증 및 분만학 (Section 12 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 242-281)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 12 전편 (Plate 12-1 ~ Plate 12-39, 총 39개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 242-281)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 12 전편 (Plate 12-1 ~ Plate 12-39, 총 39개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 포배기 착상 분자생물학(탈락막화, 영양막 침윤) 및 삼분기별 기관발생 이정표, 융모간강 태반 순환과 모체-태아-태반 단위 내분비학(hCG, hPL, 프로게스테론, 에스트리올 E3 생합성), 이소성 임신(난관 팽대부/협부 파열, 메토트렉세이트 MTX 기준) 및 자연유산·자궁경관무력증(맥도날드/시로드카 봉합술), 다태임신 융모막성/양막성 감별 및 쌍태아 수혈 증후군(TTTS), 후기 임신 출혈의 양대 축인 전치태반(통증 없는 선홍색 출혈) vs 태반조기박리(통증성 암적색 출혈, 쿠벨레르 자궁, DIC), 유착태반 스펙트럼(PAS), 임신융모질환(완전/부분 포상기태, 융모암), 분만 4단계 및 두정위 진입-하강-굴곡-내회전-신전-외회전-만출의 7대 주운동(Cardinal movements), 기계분만(겸자/흡입), 3·4도 산과적 회음열상 복구, 제왕절개술(Pfannenstiel & 저부 횡절개), 산과적 응급(자궁파열, 자궁내번증 정복술, 양수색전증 AFE), 임신성 고혈압 질환 스펙트럼(전자간증 2단계 병태생리, 나선동맥 리모델링 부전, sFlt-1/PlGF 불균형, HELLP 증후군, 황산마그네슘 경련 예방 및 아스피린 예방), 자궁내 태아성장지연(IUGR 대칭형 vs 비대칭형, 제대동맥 도플러 반전), Rh 동종면역(로감 투여 원칙), 선천성 매독 및 산욕기 패혈증(산욕열)
 
 ---
@@ -1264,7 +1264,7 @@ graph TD
     Stage1 --> A[혈관외 영양막의 자궁근층 나선동맥 침윤 실패]
     Stage1 --> B[나선동맥이 좁고 두꺼운 근육벽 유지: 고저항 결손]
     B --> C[태반 허혈 Placental Ischemia & 저산소-재관류 손상]
-    
+
     C --> Stage2[제2단계: 모체 전신 증후군 Maternal Systemic Syndrome]
     Stage2 --> D[태반에서 항혈관신생 인자 대량 방출: sFlt-1 및 sEng]
     D --> E[모체 혈중 유리 VEGF 및 PlGF를 흡착·차단]
@@ -1564,14 +1564,14 @@ for plate_id, plate_title in plates_info:
         f"12-{num_suffix}",
         plate_title.lower()
     ]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 고해상도

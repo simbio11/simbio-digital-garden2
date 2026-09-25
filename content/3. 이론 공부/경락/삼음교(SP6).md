@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 삼음교
-  - 三陰交
-  - SP6
-  - Sanyinjiao
-  - Spleen 6
+title: 삼음교(SP6)
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -13,10 +10,13 @@ tags:
   - 하지
   - 부인과
   - 전침
-created: 2026-09-18
-title: 삼음교(SP6)
-date: 2026-09-22
 출처: PMID 40253366
+aliases:
+  - 삼음교
+  - 三陰交
+  - SP6
+  - Sanyinjiao
+  - Spleen 6
 ---
 # 🌀 족태음비경 [[삼음교]] (三陰交, SP6)
 

@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
-section: "Section 5: Pancreas"
-day: 5
-section_pages: "pp. 129-151"
-total_plates: 23
-source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day05_췌장_내분비_인슐린대사_당뇨병_합병증_인슐리노마
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -14,15 +9,20 @@ tags:
   - 췌장
   - 당뇨병
   - 당뇨발
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "Netter Endocrine Day 05"
   - "Netter 췌장"
   - "Pancreas & Diabetes Master Note"
-status: completed
-created: 2026-09-17
-title: Day05_췌장_내분비_인슐린대사_당뇨병_합병증_인슐리노마
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 5: Pancreas"
+source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
+day: 5
+section_pages: "pp. 129-151"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 23
+volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
 ---
 
 # Netter Endocrine Day 05: 췌장 및 당뇨병 (Pancreas & Diabetes) — 인슐린 분비·대사 파탄·합병증·임신성당뇨·인슐리노마 (pp. 129–151)
@@ -461,14 +461,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate5-", "")
     search_terms = [f"Plate 5-{num_suffix}", f"5-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

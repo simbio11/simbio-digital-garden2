@@ -1,6 +1,5 @@
 ---
 title: "표면후방선 (Superficial Back Line, SBL)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - fascia
   - thomas-myers
-date: 2026-09-21
+category: "근골격계 / 근막경선"
 ---
 
 # [[1_표면후방선_SBL]](Superficial Back Line)

@@ -1,18 +1,18 @@
 ---
-aliases: [골드스웨이트 검사, 골드스웨이트 테스트, Goldthwait Test, Goldthwait's Test, 극돌기 개폐 감별 검사, 천장관절 요추 분리 검사]
+title: "Goldthwaith's test"
+created: 2026-09-23
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 요추
   - 천장관절
   - 감별진단
+출처: "DOI: 10.1056/NEJM191103161641101"
 검사분류: 천장관절 병변과 요천추 추간판·후관절 병변의 단계별 분리 감별 검사
 대상관절_조직: "[[천장관절]](SI joint), [[요추]](L1~L5 극돌기 간격), [[추간판]](Herniated intervertebral disc), [[좌골신경]](Sciatic nerve)"
 민감도: "52% ~ 65% (SLRT와 병행하여 요추-골반 병변 부위 국소화 시)"
 특이도: "78% ~ 86% (극돌기 벌어짐 시점 전후 통증 발현 분리 시)"
-title: "Goldthwaith's test"
-date: 2026-09-23
-출처: "DOI: 10.1056/NEJM191103161641101"
 ---
 
 # 골드스웨이트 검사 (Goldthwait's Test)

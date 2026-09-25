@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Mineralocorticoid Receptor
-  - 무기질코르티코이드수용체
-  - 알도스테론수용체
-  - NR3C2
+title: MR
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - status/draft
@@ -11,9 +9,12 @@ tags:
   - 수용체
   - 핵수용체
   - 감초
-title: MR
-date: 2026-09-22
 출처: "PMID: 12869459"
+aliases:
+  - Mineralocorticoid Receptor
+  - 무기질코르티코이드수용체
+  - 알도스테론수용체
+  - NR3C2
 ---
 
 # MR (Mineralocorticoid Receptor)

@@ -1,6 +1,7 @@
 ---
 title: p값
-date: 2026-09-22
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 독서
 ---

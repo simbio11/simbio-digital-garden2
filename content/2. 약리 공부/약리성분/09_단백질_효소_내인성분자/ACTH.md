@@ -1,10 +1,7 @@
 ---
-aliases:
-  - ACTH
-  - 부신피질자극호르몬
-  - Adrenocorticotropic Hormone
-  - 코르티코트로핀
-  - Corticotropin
+title: ACTH
+created: 2026-09-13
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
@@ -13,9 +10,13 @@ tags:
   - HPA축
   - 코르티솔
   - 부신피질
-title: ACTH
-date: 2026-09-13
 출처: "PMID: 2840267"
+aliases:
+  - ACTH
+  - 부신피질자극호르몬
+  - Adrenocorticotropic Hormone
+  - 코르티코트로핀
+  - Corticotropin
 ---
 
 # 💊 [[ACTH]] (Adrenocorticotropic Hormone, 부신피질자극호르몬)

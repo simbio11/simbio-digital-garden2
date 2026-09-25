@@ -1,26 +1,26 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol. 3, 2nd ed.)"
-section: "Section 3: Diagnostic Procedures"
-day: 3
-section_pages: "pp. 82-107"
-total_plates: 26
-source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
-source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+title: Day03_호흡기진단_폐기능검사_흉부영상판독_무기폐_기관지내시경_EBUS
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 독서
   - 의학원서
   - 호흡기학
   - 폐기능검사
+status: completed
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 aliases:
   - "Netter Respiratory Day 03"
   - "Netter 호흡기진단학"
   - "Diagnostic Procedures Master Note"
-status: completed
-created: 2026-09-18
-title: Day03_호흡기진단_폐기능검사_흉부영상판독_무기폐_기관지내시경_EBUS
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 3: Diagnostic Procedures"
+source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
+day: 3
+section_pages: "pp. 82-107"
+source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+total_plates: 26
+volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol. 3, 2nd ed.)"
 ---
 
 # Netter Respiratory Day 03: 호흡기 진단 검사 및 영상의학 (Diagnostic Procedures) — 폐기능검사·흉부영상판독·무기폐패턴·기관지내시경·EBUS·종격동경 (pp. 82–107)

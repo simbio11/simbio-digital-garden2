@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: PXR
+created: 2026-09-17
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 약물상호작용
   - CYP3A4
   - 본초
-created: 2026-09-17
+출처: "PMID: 41357858"
 aliases:
   - Pregnane X receptor
   - NR1I2
   - 임신수용체
   - PXR/CAR
-title: PXR
-date: 2026-09-17
-출처: "PMID: 41357858"
+type: 의학개념
+category: 분자·세포 기전
 ---
 # PXR (Pregnane X Receptor, NR1I2)
 

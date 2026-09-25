@@ -1,11 +1,7 @@
 ---
-aliases:
-  - 니어 검사
-  - Neer test
-  - Neer's Impingement Sign
-  - 니어 징후
-  - 니어 충돌 검사
-  - Neer Test
+title: Neer test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -13,9 +9,14 @@ tags:
   - 회전근개
   - 극상근
   - 정형외과
-title: Neer test
-date: 2026-09-15
 출처: "https://www.youtube.com/watch?v=nNyax0iocZo"
+aliases:
+  - 니어 검사
+  - Neer test
+  - Neer's Impingement Sign
+  - 니어 징후
+  - 니어 충돌 검사
+  - Neer Test
 ---
 
 # 🩺 Neer test (니어 검사 / Neer Impingement Sign)

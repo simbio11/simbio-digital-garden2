@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: CVOT
+created: 2026-09-19
+updated: 2026-09-25
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 심혈관
   - 당뇨
   - 연구설계
-created: 2026-09-19
+출처: "PMID: 40933374"
 aliases:
   - CVOT
   - 심혈관결과시험
   - Cardiovascular Outcomes Trial
   - 심혈관 안전성 시험
-title: CVOT
-date: 2026-09-19
-출처: "PMID: 40933374"
+type: 의학개념
+category: 평가도구
 ---
 # CVOT (심혈관결과시험, Cardiovascular Outcomes Trial)
 

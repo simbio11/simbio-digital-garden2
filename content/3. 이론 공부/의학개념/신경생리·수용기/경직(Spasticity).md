@@ -1,17 +1,17 @@
 ---
-type: 의학개념
-category: 신경생리·수용기
+title: 경직(Spasticity)
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 근긴장
   - 뇌졸중
-created: 2026-09-03
 aliases:
   - Spasticity
   - 스파스티시티
-title: 경직(Spasticity)
-date: 2026-09-03
+type: 의학개념
+category: 신경생리·수용기
 ---
 # 경직 (Spasticity)
 

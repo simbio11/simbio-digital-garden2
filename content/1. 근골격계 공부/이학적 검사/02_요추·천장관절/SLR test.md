@@ -1,11 +1,7 @@
 ---
-aliases:
-  - 하지직거상 검사
-  - 하지 직거상 검사
-  - SLRT
-  - Straight Leg Raise Test
-  - 라세그 검사
-  - Lasegue Test
+title: SLR test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -14,9 +10,14 @@ tags:
   - 요추추간판탈출증
   - 신경근병증
   - 척추
-title: SLR test
-date: 2026-09-15
 출처: "PMID: 10788860"
+aliases:
+  - 하지직거상 검사
+  - 하지 직거상 검사
+  - SLRT
+  - Straight Leg Raise Test
+  - 라세그 검사
+  - Lasegue Test
 ---
 
 # 하지직거상 검사 (Straight Leg Raise Test, SLRT)

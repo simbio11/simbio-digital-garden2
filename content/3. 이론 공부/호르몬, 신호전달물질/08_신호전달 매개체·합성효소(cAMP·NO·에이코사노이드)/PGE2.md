@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Prostaglandin E2
-  - 프로스타글란딘 E2
-  - Dinoprostone
-  - 디노프로스톤
+title: PGE2
+created: 2026-09-20
+updated: 2026-09-25
 tags:
   - 이론
   - 의학개념
@@ -13,9 +11,12 @@ tags:
   - PGE2
   - 염증
   - 월경통
-title: PGE2
-date: 2026-09-20
 출처: PMID 41821745
+aliases:
+  - Prostaglandin E2
+  - 프로스타글란딘 E2
+  - Dinoprostone
+  - 디노프로스톤
 ---
 
 # 🧬 [[PGE2]] (Prostaglandin E2, 프로스타글란딘 E2)
@@ -102,7 +103,7 @@ graph TD
     InflammatorySignal["LPS / 염증성 사이토카인 자극"] --> NFkB["NF-κB 전사인자 핵내 이동"]
     NFkB --> EnzymeInduction["[[COX]]-2 및 mPGES-1 발현 급증"]
     EnzymeInduction --> HighPGE2["[[PGE2]] 과다 방출: 고열, 발적, 극심한 관절통"]
-    
+
     HerbalInhibition["🌿 청열해독 한약재 ([[황금]], [[황련]], [[지모]], [[석고]])"] --> BlockNFkB["NF-κB 경로 차단 및 [[COX]]-2 전사 억제"]
     HerbalInhibition --> DirectPGE2Down["✨ [[PGE2]] 정상화: 해열, 소염, 관절 통증 소산"]
 ```

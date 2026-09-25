@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: Newcastle-Ottawa 척도
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 관찰연구
   - 비뚤림위험
   - 근거평가
-created: 2026-09-19
+출처: "PMID: 40933374"
 aliases:
   - NOS
   - Newcastle-Ottawa Scale
   - Newcastle-Ottawa 척도
   - 뉴캐슬-오타와 척도
-title: Newcastle-Ottawa 척도
-date: 2026-09-19
-출처: "PMID: 40933374"
+type: 의학개념
+category: 평가도구
 ---
 # Newcastle-Ottawa 척도 (Newcastle-Ottawa Scale, NOS)
 

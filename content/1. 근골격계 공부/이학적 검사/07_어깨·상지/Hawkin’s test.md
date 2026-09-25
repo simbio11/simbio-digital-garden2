@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 호킨스 검사
-  - 호킨스-케네디 검사
-  - Hawkins test
-  - Hawkins-Kennedy test
-  - Hawkins impingement test
+title: Hawkin’s test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -12,9 +9,13 @@ tags:
   - 회전근개
   - 극상근
   - 정형외과
-title: Hawkin’s test
-date: 2026-09-15
 출처: "https://www.youtube.com/watch?v=OYK5qL2om-c"
+aliases:
+  - 호킨스 검사
+  - 호킨스-케네디 검사
+  - Hawkins test
+  - Hawkins-Kennedy test
+  - Hawkins impingement test
 ---
 
 # 🩺 Hawkin’s test (호킨스-케네디 검사 / Hawkins-Kennedy Impingement Test)

@@ -1,19 +1,19 @@
 ---
-type: 의학개념
-category: 평가도구
+title: BMI z-score
+created: 2026-09-06
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 소아청소년
   - 비만
-created: 2026-09-06
+출처: PMID 42592869
 aliases:
   - BMI z-score
   - 체질량지수 표준편차 점수
   - BMI-for-age z-score
-title: BMI z-score
-date: 2026-09-06
-출처: PMID 42592869
+type: 의학개념
+category: 평가도구
 ---
 # BMI z-score (체질량지수 표준편차 점수)
 

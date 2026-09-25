@@ -1,13 +1,14 @@
 ---
-aliases:
-  - Momordin Ic
-  - 모모르딘 Ic
+title: 모모르딘 Ic
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
-title: 모모르딘 Ic
-date: 2026-09-21
 출처: PMID 41796615
+aliases:
+  - Momordin Ic
+  - 모모르딘 Ic
 ---
 
 # 🔬 모모르딘 Ic (Momordin Ic)

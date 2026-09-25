@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: ITT 분석
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,16 +9,15 @@ tags:
   - RCT
   - 순응도
   - 근거평가
-created: 2026-09-19
+출처: "PMID: 39355281"
 aliases:
   - ITT
   - ITT 분석
   - intention-to-treat
   - 잔여의도분석
   - 초기배정군분석
-title: ITT 분석
-date: 2026-09-19
-출처: "PMID: 39355281"
+type: 의학개념
+category: 평가도구
 ---
 # ITT 분석 (Intention-to-Treat Analysis)
 

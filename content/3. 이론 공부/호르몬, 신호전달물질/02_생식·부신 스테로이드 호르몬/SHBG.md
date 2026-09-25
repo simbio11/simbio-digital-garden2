@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 호르몬, 신호전달물질
+title: SHBG
+created: 2026-09-20
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 인슐린저항성
   - PCOS
   - 갑상선
-created: 2026-09-20
+출처: "PMID: 42679860"
 aliases:
   - SHBG
   - 성호르몬결합글로불린
   - Sex Hormone Binding Globulin
   - SHBG(성호르몬결합글로불린)
-title: SHBG
-date: 2026-09-22
-출처: "PMID: 42679860"
+type: 의학개념
+category: 호르몬, 신호전달물질
 ---
 # 🧠 [[SHBG]] (성호르몬결합글로불린, Sex Hormone-Binding Globulin)
 

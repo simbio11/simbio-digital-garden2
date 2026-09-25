@@ -1,16 +1,16 @@
 ---
-type: 의학개념
-category: 약리성분
+title: hyperforin
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 약리
   - 개념사전
   - PXR
-created: 2026-09-03
+출처: PMID 36224261
 aliases:
   - Hyperforin
-title: hyperforin
-date: 2026-09-13
-출처: PMID 36224261
+type: 의학개념
+category: 약리성분
 ---
 # hyperforin (하이퍼포린)
 

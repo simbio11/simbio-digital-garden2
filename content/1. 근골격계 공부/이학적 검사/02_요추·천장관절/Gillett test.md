@@ -1,4 +1,14 @@
 ---
+title: Gillett test
+created: "2024-02-27"
+updated: "2026-09-15"
+tags:
+  - 근골격계
+  - 이학적검사
+  - 천장관절
+  - 골반
+  - 추나요법
+출처: "https://www.youtube.com/watch?v=IE34vC7fhw8"
 aliases:
   - "Gillett Test"
   - "Gillet's Test"
@@ -7,17 +17,6 @@ aliases:
   - "Stork Test"
   - "천장관절 고정 검사"
   - "Sacral Fixation Test"
-tags:
-  - 근골격계
-  - 이학적검사
-  - 천장관절
-  - 골반
-  - 추나요법
-created: "2024-02-27"
-updated: "2026-09-15"
-title: Gillett test
-date: 2026-09-24
-출처: "https://www.youtube.com/watch?v=IE34vC7fhw8"
 ---
 
 # 질렛 검사 (Gillett Test / Stork Test)

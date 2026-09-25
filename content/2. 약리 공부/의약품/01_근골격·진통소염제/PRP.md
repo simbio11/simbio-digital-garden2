@@ -1,18 +1,19 @@
 ---
+title: PRP
+created: 2026-09-21
+updated: 2026-09-25
+tags:
+  - 약리
+  - 약리/양방약
+  - 근골격
+  - 주사제
+출처: "PMID: 42524752"
 aliases:
   - PRP
   - Platelet-Rich Plasma
   - 자가 혈소판 농축 혈장
   - 혈소판 농축액
   - PRP 주사
-tags:
-  - 약리
-  - 약리/양방약
-  - 근골격
-  - 주사제
-title: PRP
-date: 2026-09-21
-출처: "PMID: 42524752"
 ---
 
 # 💊 PRP (Platelet-Rich Plasma, 자가 혈소판 농축 혈장)

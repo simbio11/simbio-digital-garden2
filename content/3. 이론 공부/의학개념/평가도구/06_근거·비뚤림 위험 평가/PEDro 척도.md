@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: PEDro 척도
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 비뚤림위험
   - RCT
   - 근거평가
-created: 2026-09-19
+출처: "PMID: 12882612"
 aliases:
   - PEDro
   - PEDro 척도
   - PEDro scale
   - Physiotherapy Evidence Database scale
-title: PEDro 척도
-date: 2026-09-19
-출처: "PMID: 12882612"
+type: 의학개념
+category: 평가도구
 ---
 # PEDro 척도 (Physiotherapy Evidence Database scale)
 

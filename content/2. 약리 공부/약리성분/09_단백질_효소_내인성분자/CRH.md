@@ -1,17 +1,18 @@
 ---
-aliases:
-  - Corticotropin-Releasing Hormone
-  - 코르티코트로핀방출호르몬
-  - CRF
-  - Corticotropin-Releasing Factor
+title: CRH
+created: 2026-09-13
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - HPA축
   - 스트레스
-title: CRH
-date: 2026-09-13
 출처: "DOI: 10.1126/science.6267699"
+aliases:
+  - Corticotropin-Releasing Hormone
+  - 코르티코트로핀방출호르몬
+  - CRF
+  - Corticotropin-Releasing Factor
 ---
 
 # 🔬 [[CRH]] (Corticotropin-Releasing Hormone)

@@ -1,17 +1,18 @@
 ---
+title: Tennis elbow test
+created: 2026-09-14
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사/상지
+  - 정형외과/물리치료
+출처: "DOI: 10.16965/ijpr.2014.693"
 aliases:
   - "테니스 엘보 검사"
   - "코젠 검사"
   - "Cozen's Test"
   - "Cozen Test"
   - "Lateral Epicondylitis Test"
-tags:
-  - 근골격계
-  - 이학적검사/상지
-  - 정형외과/물리치료
-title: Tennis elbow test
-date: 2026-09-14
-출처: "DOI: 10.16965/ijpr.2014.693"
 ---
 
 # 🩺 [[Tennis elbow test]] (Cozen's Test / 테니스 엘보 검사 / 코젠 검사)

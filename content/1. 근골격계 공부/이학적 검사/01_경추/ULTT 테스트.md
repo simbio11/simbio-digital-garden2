@@ -1,4 +1,14 @@
 ---
+title: ULTT 테스트
+created: 2026-09-24
+updated: 2026-09-25
+tags:
+  - 근골격계
+  - 이학적 검사
+  - 경추
+  - 신경근병증
+  - 신경포착
+출처: "PMID: 12503025"
 aliases:
   - 상지 신경긴장 검사
   - 상지 신경역동학 검사
@@ -8,15 +18,6 @@ aliases:
   - ULTT
   - ULNT
   - Elvey Test
-tags:
-  - 근골격계
-  - 이학적 검사
-  - 경추
-  - 신경근병증
-  - 신경포착
-title: ULTT 테스트
-date: 2026-09-24
-출처: "PMID: 12503025"
 ---
 
 # 🩺 [[ULTT 테스트]] (Upper Limb Tension Test / 상지 신경긴장 검사, Elvey Test)

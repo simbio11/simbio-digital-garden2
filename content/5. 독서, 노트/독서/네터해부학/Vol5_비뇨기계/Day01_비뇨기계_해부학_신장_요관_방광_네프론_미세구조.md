@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations - Volume 5: Urinary System (2nd Edition)"
-section: "Section 1: Anatomy of the Urinary Tract"
-day: 1
-section_pages: "pp. 2-28"
-total_plates: 27
-source_file: "The Netter Collection of Medical Illustrations - Volume 5, Urinary System.pdf"
-source_url: "https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk"
+title: Day01_비뇨기계_해부학_신장_요관_방광_네프론_미세구조
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -16,20 +11,25 @@ tags:
   - 신장
   - 사구체
   - 자율신경계
+status: completed
+출처: "https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk"
 aliases:
   - "네터 비뇨기계 Day 01"
   - "비뇨기계 해부학"
-status: completed
-created: 2026-09-17
-title: Day01_비뇨기계_해부학_신장_요관_방광_네프론_미세구조
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 1: Anatomy of the Urinary Tract"
+source_file: "The Netter Collection of Medical Illustrations - Volume 5, Urinary System.pdf"
+day: 1
+section_pages: "pp. 2-28"
+source_url: "https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk"
+total_plates: 27
+volume: "The Netter Collection of Medical Illustrations - Volume 5: Urinary System (2nd Edition)"
 ---
 
 # 📑 [Netter Vol.5] Day 01: 비뇨기계 해부학 - 신장·요관·방광의 3차원 육안해부, 맥관계·신경망 및 네프론 초미세조직학 (Section 1 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 5, Urinary System.pdf (pp. 2-28)](https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 1 전편 (Plate 1-1 ~ Plate 1-27, 총 27개 플레이트 전수 정밀 해체, pp. 2–28)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 5, Urinary System.pdf (pp. 2-28)](https://drive.google.com/file/d/1vcvDctJJuo4vA2jKMPeSvjJjRpP1lhp2/view?usp=drivesdk)
+> 🏷️ **범위**: Section 1 전편 (Plate 1-1 ~ Plate 1-27, 총 27개 플레이트 전수 정밀 해체, pp. 2–28)
 > 📌 **핵심 테마**: 신장 후복막 3차원 위치학 및 척추 투영(T12~L3), 전후면 인접 장기 복합체(Morison's pouch 간신와, 늑횡격동 흉막 반전선, 후방 3대 신경), 신주위 4중 피막(섬유피막-신주위지방-게로타/주커칸들 근막-신방지방)과 하방 개방형 구획 동역학, 신문부 삼원소의 'V-A-P' 배열, 요관의 복부·골반부 주행과 3대 생리적 협착부(UPJ, 골반연, UVJ), 성별 골반장기 및 복막 반전선 대조(Denonvilliers 근막 vs 방광질/직장질근막, "Water under the bridge"), 방광 3면 피라미드 형태학, 삼각부(Trigone)의 중신관 기원과 항역류 점막하 터널 밸브, 신동맥 5대 종말분절지(End-artery)와 무혈관 브뢰델선(Brödel's line), 부신동맥/극동맥 변이와 수신증, 좌신정맥 해부학적 특이성(이식 선호) 및 상장간막동맥(SMA) 압박에 의한 호두까기 증후군(Nutcracker syndrome), 비뇨기계 3중 신경망(저장기 교감신경 β3/α1 vs 배뇨기 부교감신경 M2/M3 vs 외요도괄약근 체성신경 Onuf 핵), 신장교감신경의 3대 작용(레닌, Na+ 재흡수, 혈관수축)과 신장신경차단술(RDN), 신결석 연관통(T10~L2), 림프 배액 체계, 네프론 이원화(피질 네프론 vs 수질옆 네프론의 반류증폭 구조), 2중 모세혈관상 및 직세관(Vasa recta) 반류교환, 사구체 여과장벽(GFB) 3층 분자생물학(유창 내피, GBM 4형 콜라겐 α3α4α5 및 헤파란황산 음전하 장벽, 족세포 네프린-포도신 슬릿막)과 MCD 병태생리, 메산지움 세포 기능 및 사구체옆장치(JGA: 치밀반 NKCC2 감지와 TGF 되먹임), 세뇨관 분절별 초미세조직학(PCT 솔가장자리/메갈린-큐빌린 및 S3 허혈 괴사, 헨레고리 세근 투과성 대조, TAL의 NKCC2와 ROMK 관강 양전하, DCT의 NCC/TRPV5, 집합관 주세포 ENaC/AQP2 및 α/β 개재세포의 산염기 조절), 요로상피(Urothelium) 우산세포의 우로플라킨(Uroplakin Ia, Ib, II, IIIa) 비대칭단위막(AUM) 및 신배-신우 평활근 조율세포(Pacemaker cells)의 연동운동 기전.
 
 ---
@@ -109,7 +109,7 @@ graph TD
   - 복막으로 덮인 부위(간, 비장, 위, 소장 접촉면)는 복막강을 통해 병변이나 체액이 확산될 수 있음.
   - 비복막 부위(십이지장 2부, 췌장, 결장 접촉면)는 신장 질환(신주위 농양, 신세포암)이 직접 인접 장기로 침윤(Direct extension)하거나, 반대로 십이지장 게실 천공, 췌장염, 결장 게실염이 신주위강으로 직접 파급되는 해부학적 통로가 됨.
 
-> ⚠️ **Clinical Pearl: 모리슨와(Morison's Pouch, Hepatorenal Recess)의 진단적 중요성**  
+> ⚠️ **Clinical Pearl: 모리슨와(Morison's Pouch, Hepatorenal Recess)의 진단적 중요성**
 > 우신 상전면과 간 우엽 하면 사이의 간신와(Morison's pouch)는 앙와위 환자의 복강 내에서 가장 중력 의존적인(Most gravity-dependent) 최하단 복막 맹낭입니다. 복부 둔상에 의한 간·비장 파열, 자궁외임신 파열, 충수염 천공 등 복강 내 출혈이나 체액 유출이 발생했을 때 가장 먼저 액체가 고이는 부위입니다. 따라서 응급실의 외상 초음파(FAST, Focused Assessment with Sonography for Trauma) 검사 시 최우선적으로 프로브를 대는 핵심 지점입니다.
 
 ---
@@ -138,7 +138,7 @@ graph TD
 2. **장골하복신경 (Iliohypogastric nerve, L1)**: 요방형근 외측연을 뚫고 나와 하복부 및 외측 둔부 감각 지배.
 3. **장골서혜신경 (Ilioinguinal nerve, L1)**: 장골하복신경 하방을 평행 주행하여 서혜관을 통해 음낭 상부/대음순 상부 감각 지배.
 
-> ⚠️ **Clinical Pearl: 경피적 신루설치술(PCN/PCNL) 시 늑막 천공 위험**  
+> ⚠️ **Clinical Pearl: 경피적 신루설치술(PCN/PCNL) 시 늑막 천공 위험**
 > 늑횡격동(Costodiaphragmatic recess)의 흉막 반전선은 제12늑골 내측 후방을 가로질러 척추체 근처까지 하강합니다. 따라서 상극 신결석 제거를 위해 제11늑골과 제12늑골 사이(Supracostal approach)로 천자침을 자입할 경우 흉막강을 관통하여 **기흉(Pneumothorax)**, **혈흉(Hemothorax)**, 또는 관류액이 흉강으로 유입되는 수흉(Hydrothorax)이 발생할 수 있습니다. 가능한 한 제12늑골 하방(Infracostal) 접근이 안전 표준입니다.
 
 ---
@@ -220,7 +220,7 @@ graph LR
 - **하방 (Inferior) - 임상적 취약점**:
   - 전·후 신근막이 단단히 융합되지 않고 느슨한 요관주위 결합조직으로 이행하며 **장골와(Iliac fossa) 및 골반강을 향해 열려 있음**.
 
-> ⚠️ **Clinical Pearl: 신주위 농양(Perinephric Abscess)의 골반강 파급 동역학**  
+> ⚠️ **Clinical Pearl: 신주위 농양(Perinephric Abscess)의 골반강 파급 동역학**
 > 신주위강(Perinephric space) 내에 농양이나 대량 후복막 혈종이 발생할 경우, 상방과 외측벽은 견고히 차단되어 있으나 하방은 해부학적으로 개방되어 있습니다. 따라서 농양은 중력을 따라 요관 주위를 타고 **장골와(Iliac fossa) 및 골반강 하부**로 흘러내려가 대요근을 자극(Psoas sign 양성: 고관절 신전 시 극심한 통증)하거나 급성 맹장염, 게실염과 유사한 하복부 통증을 초래합니다.
 
 ---
@@ -256,7 +256,7 @@ graph LR
 - **남성 골반강**:
   - 골반 측벽을 따라 하강하다가 방광저에 도달 직전 **정관(Ductus deferens)의 '하방'을 교차**하여 정낭 외측을 거쳐 방광 후벽으로 진입함.
 
-> ⚠️ **Clinical Pearl: 부인과 전자궁적출술(Total Hysterectomy) 시 요관 결찰 손상**  
+> ⚠️ **Clinical Pearl: 부인과 전자궁적출술(Total Hysterectomy) 시 요관 결찰 손상**
 > 자궁적출술 시 자궁동맥을 결찰(Ligation)하는 단계에서 자궁동맥 바로 $1.5\text{ cm}$ 하방을 주행하는 요관이 함께 결찰되거나 절단되는 의원성 손상(Iatrogenic ureteral injury)이 전체 부인과 수술의 $0.5\sim 1.5\%$에서 보고됩니다. 수술 중 즉각 발견하지 못하면 술 후 요관 질 누공(Ureterovaginal fistula)이나 무증상 신폐색으로 인한 영구적 신기능 상실이 초래됩니다.
 
 ---
@@ -333,7 +333,7 @@ graph TD
 - **내측 치골전립선인대 (남성) / 내측 치골방광인대 (여성)**: 치골체 후면에서 기원하여 전립선/방광경부를 치골에 견고히 고정하며 음경/음핵 심배정맥(Deep dorsal vein)의 양측을 받침.
 - **외측 치골전립선/치골방광인대**: 골반근막 건궁(ATFP, Tendinous arch of pelvic fascia)과 연속되어 방광경부의 측방 전위를 방지함.
 
-> ⚠️ **Clinical Pearl: 요관 점막하 터널의 방광요관역류(VUR) 방지 밸브 기전**  
+> ⚠️ **Clinical Pearl: 요관 점막하 터널의 방광요관역류(VUR) 방지 밸브 기전**
 > 요관은 방광벽을 직각으로 뚫지 않고 약 **$1.5\sim 2.0\text{ cm}$ 동안 근육층과 점막 사이를 비스듬히 주행(Submucosal tunnel)**합니다. 소변이 방광에 차서 방광 내압이 상승하면 점막하 터널이 방광 내압에 의해 납작하게 눌려(Passive compression) 완벽한 **플랩-밸브(Flap-valve)**로 작동합니다. 터널 길이가 선천적으로 짧거나($\text{Tunnel length} : \text{Ureteral diameter}$ 비율 $< 5:1$) 주행 각도가 수직에 가까우면 소변이 신장으로 역류하는 **방광요관역류(VUR)**가 발생하여 재발성 급성 신우신염 및 신반흔(Reflux nephropathy)을 유발합니다.
 
 ---
@@ -425,7 +425,7 @@ graph TD
     Stasis --> GonadalReflux["좌측 고환정맥 역류 $\rightarrow$ 좌측 정계정맥류 (Varicocele)"]
 ```
 
-> ⚠️ **Clinical Pearl: 좌측 정계정맥류(Varicocele)와 신세포암(RCC) 종양혈전**  
+> ⚠️ **Clinical Pearl: 좌측 정계정맥류(Varicocele)와 신세포암(RCC) 종양혈전**
 > 좌측 고환정맥은 직각으로 좌신정맥에 유입되므로 우측(IVC로 비스듬히 유입)보다 정맥압이 높고 판막 기능부전이 호발합니다. 특히 고령 남성에서 갑자기 발생하거나 누워도 소실되지 않는 좌측 정계정맥류는 좌측 신세포암(RCC)이 좌신정맥 내강으로 침범하여 **종양혈전(Tumor thrombus)**을 형성해 고환정맥 유입부를 폐색시켰음을 시사하는 중대한 경고 징후입니다.
 
 ---
@@ -502,7 +502,7 @@ graph TD
 2. **세뇨관 나트륨 재흡수 증가 (Tubular Sodium Retention)**: 근위세뇨관 및 헨레고리의 **$\alpha_{1a}$-아드레날린 수용체**를 자극하여 $\text{Na}^+$-$\text{K}^+$-ATPase 및 NHE3 발현 증가 $\rightarrow$ 수분·염분 저류.
 3. **신혈류량 감소 (Renal Vasoconstriction)**: 수입소동맥 평활근의 **$\alpha_1$-수용체**를 자극하여 강력한 혈관수축 유발 $\rightarrow$ 신혈류량(RBF) 및 사구체여과율(GFR) 감소.
 
-> ⚠️ **Clinical Pearl: 카테터 기반 신장신경차단술 (Renal Denervation, RDN)**  
+> ⚠️ **Clinical Pearl: 카테터 기반 신장신경차단술 (Renal Denervation, RDN)**
 > 신장 원심성/구심성 교감신경의 만성 과활성화는 약제 내성 고혈압(Resistant hypertension)의 핵심 병태생리입니다. 대퇴동맥을 통해 신동맥 내로 고주파 카테터를 삽입하여 외막에 밀집된 신장 교감신경총을 선택적으로 소작하는 **RDN 시술**은 신경성 레닌 분비와 혈관수축을 영구 차단하여 유의미하고 지속적인 혈압 강하 효과를 제공합니다.
 
 ---
@@ -630,7 +630,7 @@ graph TD
 - **크기 배제 한계 (Size barrier)**: 직경 **$4\text{ nm}$ 이하 (분자량 $< 10\sim 15\text{ kDa}$)**의 물질(물, 요소, 포도당, 전해질)은 자유롭게 투과($\text{Sieving coefficient} = 1.0$). 분자량 $70\text{ kDa}$ 이상은 투과율이 거의 $0$에 수렴함.
 - **전하 선택성 (Charge barrier)**: 혈청 알부민(Albumin)은 분자 반경이 약 $3.6\text{ nm}$, 분자량 $69\text{ kDa}$로 크기상 여과 한계치에 근접하지만, 생리적 pH에서 강한 음전하(-)를 띰. 내피세포 글리코칼릭스 및 GBM의 헤파란황산 프로테오글리칸(Agrin)이 형성하는 음전하(-) 반발력에 의해 여과가 완벽히 차단됨.
 
-> ⚠️ **Clinical Pearl: 미세변화신증후군(MCD)과 전하 장벽 소실**  
+> ⚠️ **Clinical Pearl: 미세변화신증후군(MCD)과 전하 장벽 소실**
 > 미세변화신증후군(Minimal Change Disease, MCD)의 핵심 병태생리는 면역학적 원인(T세포 시토카인)에 의해 족세포 및 GBM 표면의 **음전하 폴리아니온(Heparan sulfate)이 소실**되는 것입니다. 크기 선택성은 유지되지만 음전하 반발력이 사라짐으로써 음전하 알부민만이 소변으로 대량 누출되는 전형적인 **선택적 단백뇨(Selective proteinuria)**가 초래됩니다. 광학현미경(LM)상 사구체는 정상으로 보이나 전자현미경(EM)에서 **족세포 발돌기 융합(Foot process effacement)**이 확인됩니다.
 
 ---
@@ -656,7 +656,7 @@ graph TD
     JGA --> Lacis["3. 사구체외 메산지움세포 (Lacis / Goormaghtigh Cells)<br>- 수입/수출소동맥과 치밀반 사이 삼각공간 충전<br>- 갭결합(Gap junctions)을 통해 치밀반 신호를 JG세포로 전달"]
 ```
 
-> ⚠️ **Clinical Pearl: 세뇨관사구체되먹임(TGF, Tubuloglomerular Feedback) 기전**  
+> ⚠️ **Clinical Pearl: 세뇨관사구체되먹임(TGF, Tubuloglomerular Feedback) 기전**
 > 사구체 관류압 상승으로 GFR이 급증하면 원위세뇨관의 치밀반(Macula densa)에 도달하는 $\text{NaCl}$ 부하가 증가합니다. 치밀반 세포는 **NKCC2**를 통해 $\text{Na}^+$와 $\text{Cl}^-$를 과도하게 흡수하고, 세포내 ATP 분해산물인 **아데노신(Adenosine)**을 세포외로 방출합니다. 아데노신은 수입소동맥의 $A_1$ 수용체에 결합하여 세포내 칼슘을 증가시킴으로써 **수입소동맥을 강력히 수축**시켜 GFR을 즉각 정상치로 하강 안정화시킵니다.
 
 ---
@@ -689,7 +689,7 @@ graph TD
 - 포도당(SGLT2/SGLT1) 및 아미노산의 **$100\%$** 재흡수.
 - 여과된 중탄산염($\text{HCO}_3^-$)의 **$85\sim 90\%$** 재흡수 (NHE3 및 탄산탈수효소 CA-IV/CA-II 매개).
 
-> ⚠️ **Clinical Pearl: 급성 세뇨관 괴사(ATN) 시 S3 분절의 허혈 취약성**  
+> ⚠️ **Clinical Pearl: 급성 세뇨관 괴사(ATN) 시 S3 분절의 허혈 취약성**
 > 근위직세뇨관 말단인 **S3 분절(Outer stripe of outer medulla)**은 활발한 능동 수송으로 산소 소모량이 극도로 높은 반면, 외수질 경계부의 생리적 산소 분압은 피질보다 현저히 낮습니다. 따라서 쇼크, 패혈증에 의한 신허혈(Ischemia)이나 아미노글리코사이드(Gentamicin), 조영제(Radiocontrast) 등 신독성 물질 노출 시 **가장 먼저 응고 괴사(Coagulative necrosis)**에 빠지는 부위가 바로 근위세뇨관 S3 분절입니다.
 
 ---

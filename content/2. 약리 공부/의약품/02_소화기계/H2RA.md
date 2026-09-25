@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 양방 약
+title: H2RA
+created: 2026-09-07
+updated: 2026-09-25
 tags:
   - 약리
   - 약리학
@@ -8,7 +9,7 @@ tags:
   - 소화기계
   - 위산분비억제제
   - 제산제
-created: 2026-09-07
+출처: "PMID: 2875864"
 aliases:
   - H2RA
   - H2차단제
@@ -18,9 +19,8 @@ aliases:
   - Famotidine
   - 가스터
   - 파모온
-title: H2RA
-date: 2026-09-08
-출처: "PMID: 2875864"
+type: 의학개념
+category: 양방 약
 ---
 
 # H2 수용체 길항제 (H2RA, Famotidine)

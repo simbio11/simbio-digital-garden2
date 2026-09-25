@@ -1,17 +1,18 @@
 ---
-aliases:
-  - Saikosaponin D
-  - Saikosaponin d
-  - SSd
-  - 사이코사포닌D
+title: 사이코사포닌 d
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 사포닌
   - 시호
-title: 사이코사포닌 d
-date: 2026-09-21
 출처: PMID 41965724
+aliases:
+  - Saikosaponin D
+  - Saikosaponin d
+  - SSd
+  - 사이코사포닌D
 ---
 
 # 🔬 [[사이코사포닌 d]] (Saikosaponin D, C₄₂H₆₈O₁₃, SSd)

@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 7: The Vagina"
-day: 7
-section_pages: "pp. 130-151"
-total_plates: 22
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day07_질_해부생리_질염_골반탈출_종양
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -15,20 +10,25 @@ tags:
   - 산부인과
   - 생식기계
   - 질염
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 07"
   - "질"
-status: completed
-created: 2026-09-16
-title: Day07_질_해부생리_질염_골반탈출_종양
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 7: The Vagina"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 7
+section_pages: "pp. 130-151"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 22
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 07: 질 - 해부·골반지지·질염·골반장기탈출증 및 종양학 (Section 7 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 130-151)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 7 전편 (Plate 7-1 ~ Plate 7-22, 총 22개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 130-151)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 7 전편 (Plate 7-1 ~ Plate 7-22, 총 22개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 질의 정밀 해부학(H자 단면, 전경각, 요관 교차) 및 드랜시(DeLancey) 3수준 골반 지지 체계, 여성 요도 괄약 메커니즘(스킨관 임균 호발, 해먹 가설) 및 복압성 요실금(Cooper 인대 앵커), 비각화 중층편평상피 조직학(바르톨린선 이행상피) 및 생애주기별 질세포학(신생아/소아/임신12주 주상세포/산욕기/폐경후), 뮐러관-요로생식동 발생 기형(HOX 유전자, MRKH vs 처녀막폐쇄증 신생아 점액질종), 3대 질염(BV 아민 생화학 및 1,000:1 역전, 칸디다, 트리코모나스 FDA 신속진단) 및 독성 쇼크 증후군(TSS 마그네슘 저하, 초항원 TSST-1, ARDS/탈모), 골반장기탈출증(POP 방광류 엘라스틴 유전자, 소장류 수평함입선) 및 비뇨생식/장질 누공(8~12일 잠복기, 요관질누공 신장상실), 폐경후 비뇨생식기 증후군(GSM 종유석 유착, 국소 E 전신흡수) 및 원발성(성인 육종 괴사, 소아 횡문근육종 Strap cell)·전이성(60%, 융모암종 출혈생검금기, 신세포암 포상구조) 질 악성종양학
 
 ---
@@ -170,11 +170,11 @@ date: 2026-09-21
 graph TD
   SubBonyPelvis[골반 골격 지지대 및 Cooper 인대] --> LevatorAni[항문거근 복합체]
   SubBonyPelvis --> Coccygeus[미골근 Coccygeus]
-  
+
   LevatorAni --> PR[치골직장근 Puborectalis - 항문직장각 80도 유지]
   LevatorAni --> PC[치골미골근 Pubococcygeus - 요로생식열공 괄약 및 회음체 부착]
   LevatorAni --> IC[장골미골근 Iliococcygeus - ATLA 기원 및 거근판 형성]
-  
+
   PR & PC & IC --> HiatusClosure[거근간 틈새 폐쇄 및 페사리 지지판 제공]
 ```
 
@@ -788,13 +788,13 @@ plates_info = [
 for plate_id, plate_title in plates_info:
     target_page = None
     search_term = f"Plate 7-{plate_id.split('-')[1]}"
-    
+
     for page_num in range(len(doc)):
         text = doc[page_num].get_text()
         if search_term in text or plate_title.lower() in text.lower():
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         # 고해상도 렌더링 (300 DPI 기준 zoom=4.16)

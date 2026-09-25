@@ -1,17 +1,17 @@
 ---
-aliases: [앨리스 검사, Allis Test, 갈레아치 징후, Galeazzi Sign, 알리스 징후, Allis Sign, 무릎 높이 비교 검사]
+title: Allis test
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
   - 고관절
   - DDH
+출처: "PMID: 17087424"
 검사분류: 선천성/발달성 고관절 탈구 및 하지 길이 부동 선별 검사
 대상관절_조직: "[[고관절]](Hip joint), [[대퇴골]](Femur), [[경골]](Tibia), [[관골구]](Acetabulum)"
 민감도: 82% ~ 90% (생후 3개월 이후 편측성 발달성 고관절 탈구 시)
 특이도: 85% ~ 94% (양측 무릎 높이 비대칭 관찰 시)
-title: Allis test
-date: 2026-09-22
-출처: "PMID: 17087424"
 ---
 
 # 🩺 [[Allis test]] (앨리스 검사 / 갈레아치 징후)
@@ -57,12 +57,12 @@ date: 2026-09-22
 ```mermaid
 graph TD
     Position["앙와위에서 양측 고관절 및 무릎을 90° 굴곡 후 발뒤꿈치 정렬"] --> AxisCheck{"양측 대퇴골두가 [[관골구]] 중심에 대칭 안착되어 있는가?"}
-    
+
     AxisCheck -- "정상 고관절" --> Symmetric["양측 대퇴골 및 경골의 삼차원 축 일치 -> 양 무릎 상연 수평면 동일 (음성)"]
-    
+
     AxisCheck -- "편측 고관절 후방 탈구 (DDH)" --> PosteriorShift["대퇴골두가 관골구 후상방으로 전위(Dislocation)되어 골반 내 고정점 후퇴"]
     PosteriorShift --> KneeDrop["⚡ 탈구측 무릎이 정상측보다 수직으로 낮아지고 수평으로 후퇴 -> 양성 판정"]
-    
+
     AxisCheck -- "구조적 [[경골]] 단축" --> TibiaShort["하퇴부 길이 부족 -> 수직 상방 높이만 낮아짐"]
     AxisCheck -- "구조적 [[대퇴골]] 단축" --> FemurShort["대퇴부 길이 부족 -> 전방 돌출 길이가 짧아짐"]
 ```

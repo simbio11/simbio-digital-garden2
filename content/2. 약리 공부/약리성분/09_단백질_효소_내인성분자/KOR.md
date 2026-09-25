@@ -1,16 +1,17 @@
 ---
-aliases:
-  - Kappa Opioid Receptor
-  - 카파오피오이드수용체
-  - OPRK1
+title: KOR
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 수용체
   - 오피오이드
-title: KOR
-date: 2026-09-22
 출처: "DOI: 10.1016/j.celrep.2014.10.010"
+aliases:
+  - Kappa Opioid Receptor
+  - 카파오피오이드수용체
+  - OPRK1
 ---
 
 # 🔬 [[KOR]] (Kappa Opioid Receptor, 카파 오피오이드 수용체)

@@ -1,21 +1,21 @@
 ---
-type: 의학개념
-category: 평가도구
+title: OARSI 2019 가이드라인
+created: 2026-09-24
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 가이드라인
   - 골관절염
-created: 2026-09-24
+출처: "PMID: 24462672"
 aliases:
   - OARSI 2019
   - OARSI 2019 가이드라인
   - OARSI guidelines
   - 골관절염 비수술 치료 가이드라인
   - OARSI guideline
-title: OARSI 2019 가이드라인
-date: 2026-09-24
-출처: "PMID: 24462672"
+type: 의학개념
+category: 평가도구
 ---
 # OARSI 2019 가이드라인 (골관절염 비수술 치료 권고)
 

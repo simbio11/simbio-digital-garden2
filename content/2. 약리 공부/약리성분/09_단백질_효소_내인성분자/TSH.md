@@ -1,10 +1,7 @@
 ---
-aliases:
-  - TSH
-  - 갑상선자극호르몬
-  - Thyroid-Stimulating Hormone
-  - 티로트로핀
-  - Thyrotropin
+title: TSH
+created: 2026-09-13
+updated: 2026-09-25
 tags:
   - 약리
   - 약리성분
@@ -13,9 +10,13 @@ tags:
   - 갑상선
   - 갑상선기능항진증
   - 갑상선기능저하증
-title: TSH
-date: 2026-09-13
 출처: "PMID: 34042535"
+aliases:
+  - TSH
+  - 갑상선자극호르몬
+  - Thyroid-Stimulating Hormone
+  - 티로트로핀
+  - Thyrotropin
 ---
 # 💊 [[TSH]] (Thyroid-Stimulating Hormone, 갑상선자극호르몬)
 
@@ -59,7 +60,7 @@ date: 2026-09-13
 ```mermaid
 graph TD
     Hypo["시상하부 [[TRH]] 분비"] --> Pituitary["뇌하수체 전엽 [[TSH]] 혈중 방출"]
-    
+
     Pituitary --> TSHR["갑상선 여포세포막 [[TSHR]] 결합"]
     TSHR --> Gs["$\text{G}_{\text{s}}$ 단백질 활성화 & 아데닐릴 시클라아제 촉진"]
     Gs --> cAMP["cAMP 생성 & 단백질 키나아제 A ([[PKA]]) 활성화"]

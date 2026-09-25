@@ -1,20 +1,19 @@
 ---
-aliases:
-  - "Popliteal Angle Test"
-  - "슬와각 검사"
-  - "슬와각도 검사"
-  - "햄스트링 유연성 검사"
+title: popliteal angle test
+created: "2024-02-27"
+updated: "2026-09-14"
 tags:
   - 근골격계
   - 이학적검사
   - 슬관절
   - 고관절
   - 햄스트링
-created: "2024-02-27"
-updated: "2026-09-14"
-title: popliteal angle test
-date: 2026-09-15
 출처: "https://www.youtube.com/watch?v=TBLXd5ivPrA"
+aliases:
+  - "Popliteal Angle Test"
+  - "슬와각 검사"
+  - "슬와각도 검사"
+  - "햄스트링 유연성 검사"
 ---
 
 # 슬와각 검사 (Popliteal Angle Test)

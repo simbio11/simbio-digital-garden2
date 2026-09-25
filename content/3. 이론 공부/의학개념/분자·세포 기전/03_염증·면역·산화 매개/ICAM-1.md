@@ -1,5 +1,12 @@
 ---
 title: ICAM-1 (Cellular Adhesion Molecule 1)
+created: 2026-09-04
+updated: 2026-09-04
+tags:
+  - 이론
+  - 혈관내피
+  - 염증반응
+  - 동맥경화
 aliases:
   - 세포간 접착분자-1
   - CD54
@@ -8,14 +15,6 @@ categories:
   - 의학개념
   - 분자·세포 기전
   - 면역학
-tags:
-  - 이론
-  - 혈관내피
-  - 염증반응
-  - 동맥경화
-created: 2026-09-04
-updated: 2026-09-04
-date: 2026-09-04
 ---
 
 # ICAM-1 (Intercellular Adhesion Molecule-1, CD54)

@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 2: The Penis and Male Perineum"
-day: 2
-section_pages: "pp. 20-48"
-total_plates: 29
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day02_음경_남성회음부_해부병리
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -17,20 +12,25 @@ tags:
   - 회음부
   - 발기부전
   - 성매개감염
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - 네터 생식기계 Day 02
   - 음경 및 남성 회음부
-status: completed
-created: 2026-09-15
-title: Day02_음경_남성회음부_해부병리
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 2: The Penis and Male Perineum"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 2
+section_pages: "pp. 20-48"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 29
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 02: 음경 및 남성 회음부 해부·생리 및 비뇨기 질환 (Section 2 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 20-48)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 2 전편 (Plate 2-1 ~ Plate 2-29, 총 29개 플레이트)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 20-48)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 2 전편 (Plate 2-1 ~ Plate 2-29, 총 29개 플레이트)
 > 📌 **핵심 테마**: 골반·회음부 근막 3층 구조(Camper/Scarpa → Colles/Dartos → Buck), 내음부혈관·자율/체성신경망, 발기/사정 신경생리학(Point & Shoot), 요도하열/선천기형, 요유출(Urinary Extravasation) 역학, 성매개 질환(STD) 및 음경 악성종양
 
 ---
@@ -149,7 +149,7 @@ date: 2026-09-21
    - **음경해면체(Corpora cavernosa, 2개)**: 원위부에서 끝이 뾰족한 형태로 끝나며, 실제 음경 말단보다 1~2 cm 근위부에서 종결됩니다.
    - **요도해면체(Corpus spongiosum, 1개)**: 내부에 해면체부 요도를 포함하며, 원위부에서 팽대되어 음경해면체의 원위 말단을 모자처럼 감싸는 **귀두(Glans penis)**를 형성합니다.
 
-> 💡 **임상 응용 - 지속발기증(Priapism) 원위부 션트술의 해부학적 근거**:  
+> 💡 **임상 응용 - 지속발기증(Priapism) 원위부 션트술의 해부학적 근거**:
 > 허혈성 지속발기증 치료 시 귀두(Glans, 요도해면체 모자)를 통해 투침 또는 생검침을 자입하여 음경해면체 원위단 백막에 개구창을 만들어 해면체혈을 요도해면체로 우회시키는 **Winter shunt, Ebbehoj shunt, Al-Ghorab shunt**가 시행됩니다.
 
 > 💡 **타이슨선 (Tyson's glands / Preputial glands)**: 귀두 관상구(Corona)와 경부(Neck) 내면 포피 사이에 분포하는 피지선(Sebaceous glands)으로, 탈락 상피세포와 함께 치구(Smegma)의 주성분을 분비합니다.
@@ -232,7 +232,7 @@ graph LR
 - **표재 등정맥계 (Superficial dorsal veins)**: 다토스 근막 내 주행, 포피 및 피부 혈류를 모아 치골 상부에서 **표재외음부정맥(Superficial external pudendal v.)**을 거쳐 대퇴정맥(Femoral v.)으로 유입.
 - **심등정맥계 (Deep dorsal vein)**: 귀두 관상구 후방 sulcus에서 시작, 벅 근막 하방 정중선을 주행하며 귀두와 요도해면체 및 음경해면체 정맥들을 배액. 음경 기저부에서 현수인대의 두 층 사이를 통과하고, 치골궁인대와 골반 횡인대 사이 열공을 지나 **전립선 정맥총(Santorini plexus)**으로 유입된 뒤 최종적으로 내장골정맥으로 배액.
 
-> 🚲 **자전거 안장 압박 증후군 (Bicycle Saddle Neuropathy & ED)**:  
+> 🚲 **자전거 안장 압박 증후군 (Bicycle Saddle Neuropathy & ED)**:
 > 자전거 안장에 앉을 때 남성 회음부에 가해지는 압력은 일반 의자에 앉을 때의 **7배**에 달합니다. 좌골결절 내측을 주행하는 내음부동맥-회음동맥 및 음부신경-음경등신경이 압박되어 회음부 감각 마비와 혈관성/신경인성 발기부전이 유발됩니다.
 
 ---
@@ -410,7 +410,7 @@ graph TD
  Relax --> Inflow[해면체동 내 혈류 급증 -> Tumescence]
  Inflow --> Compress[백막 하부 유출 정맥 차단 Veno-occlusion]
  Compress --> Rigid[좌골해면체근 수축 -> 해면체 내압 수백 mmHg 도달 Rigid Phase]
- 
+
  PDE5[PDE5 효소] -.->|cGMP -> 5'-GMP 분해| cGMP
  Inhibitor[PDE5 억제제 Sildenafil / Vardenafil / Tadalafil] -->|분해 차단| PDE5
 ```

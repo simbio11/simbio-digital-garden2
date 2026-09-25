@@ -1,11 +1,7 @@
 ---
-type: 의학원서_요약노트
-book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
-publisher: 대한근감소증학회
-section: "PART 3 노쇠 (Ch16~17)"
-pages: "pp.263-288"
-chapters: ["Ch16", "Ch17"]
-source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+title: 08_PART3_노쇠
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 독서
   - 의학원서
@@ -13,10 +9,14 @@ tags:
   - 노쇠
   - frailty
 status: completed
-created: 2026-09-21
-title: 08_PART3_노쇠
-date: 2026-09-22
 출처: "https://frailsafe-project.eu/"
+type: 의학원서_요약노트
+section: "PART 3 노쇠 (Ch16~17)"
+source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
+chapters: ["Ch16", "Ch17"]
+pages: "pp.263-288"
+publisher: 대한근감소증학회
 ---
 
 # 📑 [근감소증] PART 3 노쇠 (Frailty)

@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Percussion test
+title: Percussion test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
-title: Percussion test
-date: 2026-09-22
+aliases:
+  - Percussion test
 ---
 # 🔁 Percussion test → [[척추 타진 검사]]
 

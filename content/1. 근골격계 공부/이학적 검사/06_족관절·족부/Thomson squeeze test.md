@@ -1,5 +1,7 @@
 ---
-aliases: [Thomson squeeze test, Thomson test, Thompson test, 톰슨 검사, 톰슨 스퀴즈 검사, 심포드 검사, Simmonds test, 아킬레스건 파열 검사, 아킬레스건 스퀴즈 검사]
+title: Thomson squeeze test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 이학적검사
   - 근골격계
@@ -8,13 +10,11 @@ tags:
   - 족관절
   - 아킬레스건
   - 비복근
+출처: "https://www.youtube.com/watch?v=c8_fMI5JI68"
 검사분류: 족관절 후방 건 손상 및 아킬레스건 완전 파열 진단 검사
 대상관절_조직: "[[아킬레스건]](Achilles tendon / Tendo calcaneus), [[비복근]](Gastrocnemius), [[가자미근]](Soleus), 종골(Calcaneus)"
 민감도: 96% ~ 98% (Maffulli, 1998; Reiman et al., 2014)
 특이도: 93% ~ 98% (아킬레스건 완전 파열 진단 시 골드스탠다드)
-title: Thomson squeeze test
-date: 2026-09-15
-출처: "https://www.youtube.com/watch?v=c8_fMI5JI68"
 ---
 
 # 톰슨 스퀴즈 검사 (Thomson Squeeze Test / Thompson Test)

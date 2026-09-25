@@ -1,16 +1,17 @@
 ---
-aliases:
-  - 카스파제-3
-  - CPP32
-  - Apopain
+title: Caspase-3
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 단백질분해효소
   - 항암
-title: Caspase-3
-date: 2026-09-22
 출처: "DOI: 10.1038/376037a0"
+aliases:
+  - 카스파제-3
+  - CPP32
+  - Apopain
 ---
 
 # 🔬 [[Caspase-3]] (카스파제-3, CPP32/Apopain)

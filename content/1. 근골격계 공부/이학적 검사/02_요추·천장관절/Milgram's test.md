@@ -1,18 +1,19 @@
 ---
-aliases:
-  - "Milgram's test"
-  - "Milgram test"
-  - "밀그램 검사"
-  - "양하지 거상 검사"
+title: "Milgram's test"
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 요추
   - 추간판탈출증
   - 복압
-title: "Milgram's test"
-date: 2026-09-22
 출처: "https://www.youtube.com/watch?v=ZUtor7IVCms"
+aliases:
+  - "Milgram's test"
+  - "Milgram test"
+  - "밀그램 검사"
+  - "양하지 거상 검사"
 ---
 
 # 🩺 [[Milgram's test]] (밀그램 검사 / Active Bilateral Straight Leg Raise Test)

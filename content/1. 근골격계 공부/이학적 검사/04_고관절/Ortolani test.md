@@ -1,17 +1,17 @@
 ---
-aliases: [올토라니 검사, 오르톨라니 검사, Ortolani Test, Ortolani Maneuver, 오르톨라니 도수정복 검사, 고관절 정복 검사]
+title: Ortolani test
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
   - 고관절
   - DDH
+출처: "PMID: 9973673"
 검사분류: 영유아 선천성/발달성 고관절 탈구 정복 유발 검사
 대상관절_조직: "[[고관절]](Hip joint), [[대퇴골두]](Femoral head), [[관골구]](Acetabulum), 비구순(Acetabular labrum)"
 민감도: 87% ~ 96% (생후 0~3개월 신생아에서 숙련의 시행 시)
 특이도: 98% ~ 99% (대퇴골두 정복 시 촉각적 딸깍음 Clunk 감지 시)
-title: Ortolani test
-date: 2026-09-22
-출처: "PMID: 9973673"
 ---
 
 # 🩺 [[Ortolani test]] (오르톨라니 검사)

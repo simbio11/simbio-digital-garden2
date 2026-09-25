@@ -1,17 +1,18 @@
 ---
-aliases:
-  - NLRP3 Inflammasome
-  - NLRP3 인플라마좀
-  - NALP3
-  - Cryopyrin
+title: NLRP3
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 약리성분
   - 염증
   - 면역
-title: NLRP3
-date: 2026-09-08
 출처: "https://pubmed.ncbi.nlm.nih.gov/31036962/"
+aliases:
+  - NLRP3 Inflammasome
+  - NLRP3 인플라마좀
+  - NALP3
+  - Cryopyrin
 ---
 
 # 🔬 NLRP3 (NLRP3 인플라마좀, NOD-, LRR- and Pyrin domain-containing protein 3)

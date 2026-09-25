@@ -1,13 +1,13 @@
 ---
-type: 의학개념
-category: 평가도구
+title: Kellgren-Lawrence 등급
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 골관절염
-created: 2026-09-03
-title: Kellgren-Lawrence 등급
-date: 2026-09-03
+type: 의학개념
+category: 평가도구
 ---
 # Kellgren-Lawrence 등급 (K/L grade, KL 등급)
 

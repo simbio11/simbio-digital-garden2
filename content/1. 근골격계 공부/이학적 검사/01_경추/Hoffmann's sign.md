@@ -1,5 +1,7 @@
 ---
-aliases: [호프만 징후, 호프만 반사, 호프만스 반사, Hoffmann Sign, Hoffmann's Sign, Hoffmann Reflex, Hoffmann's Test, 상지 병적 반사, 경추 척수증 선별 검사]
+title: "Hoffmann's sign"
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -8,13 +10,11 @@ tags:
   - 상위운동신경원
   - 병적반사
   - 중추신경계
+출처: "https://pubmed.ncbi.nlm.nih.gov/11148648/"
 검사분류: 경추 척수병증(Cervical Myelopathy) 및 상위운동신경원(UMN) 병변 선별 병적 반사 검사
 대상관절_조직: "[[경추]] 척수(Cervical spinal cord, C7~C8 분절), [[피질척수로]](Corticospinal tract), [[심지굴근]](FDP), [[장무지굴근]](FPL)"
 민감도: "58% ~ 75% (경추 척수증 선별 시 높은 민감도)"
 특이도: "78% ~ 88% (무지 내전-굴곡 및 검지 동시 연축 확인 시)"
-title: "Hoffmann's sign"
-date: 2026-09-15
-출처: "https://pubmed.ncbi.nlm.nih.gov/11148648/"
 ---
 
 # 호프만 징후 (Hoffmann's Sign / Hoffmann's Reflex)

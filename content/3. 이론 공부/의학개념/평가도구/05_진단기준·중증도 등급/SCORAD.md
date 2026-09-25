@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: SCORAD
+created: 2026-09-17
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 아토피피부염
   - 평가도구
   - 중증도
-created: 2026-09-17
+출처: "PMID: 37778520"
 aliases:
   - SCORing Atopic Dermatitis
   - SCORAD index
   - 아토피 중증도 지수
-title: SCORAD
-date: 2026-09-17
-출처: "PMID: 37778520"
+type: 의학개념
+category: 평가도구
 ---
 # SCORAD (SCORing Atopic Dermatitis)
 

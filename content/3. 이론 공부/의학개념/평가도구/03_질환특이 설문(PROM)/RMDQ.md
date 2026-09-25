@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: RMDQ
+created: 2026-09-07
+updated: 2026-09-25
 tags:
   - 이론
   - 개념사전
   - 요통
   - PROM
   - 장애평가
-created: 2026-09-07
+출처: PMID 38950397
 aliases:
   - Roland-Morris Disability Questionnaire
   - RMDQ
   - modified RMDQ
-title: RMDQ
-date: 2026-09-07
-출처: PMID 38950397
+type: 의학개념
+category: 평가도구
 ---
 # RMDQ (Roland-Morris Disability Questionnaire)
 
@@ -40,6 +40,6 @@ date: 2026-09-07
 - 관련 리뷰: [[2026-09-07_근골격계-척추관절_심층리뷰]] 1번 · [[2026-09-07_근골격계-척추관절_개념학습]]
 
 ## 함께 보기
-- [[ODI]] · [[MCID]] · [[척추 협착증]] · [[신경인성 파행]] · [[만성 요통]] · [[WOMAC]](슬관절 기능 평가로 대비)
+- [[ODI]] · [[MCID]] · [[척추 협착증]] · [[신경인성 파행]] · [[요통]] · [[WOMAC]](슬관절 기능 평가로 대비)
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 척추협착증 -->

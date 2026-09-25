@@ -1,26 +1,26 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
-section: "Section 4: Reproduction"
-day: 4
-section_pages: "pp. 100-126"
-total_plates: 26
-source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day04_생식내분비_성분화_사춘기_DSD_성염색체이상_다모증_여성형유방
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 내분비학
   - 성분화이상
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "Netter Endocrine Day 04"
   - "Netter 생식내분비"
   - "Reproduction Master Note"
-status: completed
-created: 2026-09-17
-title: Day04_생식내분비_성분화_사춘기_DSD_성염색체이상_다모증_여성형유방
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 4: Reproduction"
+source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
+day: 4
+section_pages: "pp. 100-126"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 26
+volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
 ---
 
 # Netter Endocrine Day 04: 생식내분비 (Reproduction) — 성분화·사춘기·DSD·성염색체이상·생식주기·유방질환 (pp. 100–126)
@@ -83,7 +83,7 @@ graph TD
     D --> E[고환 형성 Testis Formation]
     D -->|AMH / MIS 분비| F[뮐러관 퇴축]
     E -->|라이디히 세포 유도 -> Testosterone 분비| G[볼프관 발달]
-    
+
     B -->|SRY 부재 (46,XX)| H[WNT4, RSPO1, DAX1 활성화]
     H --> I[SOX9 억제 및 난소 분화 경로]
     I --> J[난포막 및 과립막세포 분화]
@@ -195,7 +195,7 @@ graph LR
         A2 --> A3[3. 성장 급성장 Peak Height Velocity<br>연간 8-9 cm 성장, Tanner 3]
         A3 --> A4[4. 초경 Menarche<br>유방 발아 2-2.5년 후, 평균 12.5세]
     end
-    
+
     subgraph 남아 사춘기 진행 단계
         B1[1. 고환 부피 증가 Testicular Enlargement<br>고환 장축 >= 2.5cm, 부피 >= 4mL, G2, 9-14세] --> B2[2. 음모 출현 Pubarche, PH2]
         B2 --> B3[3. 음경 신장 및 굵기 증가, G3]
@@ -489,14 +489,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate4-", "")
     search_terms = [f"Plate 4-{num_suffix}", f"4-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

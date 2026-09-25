@@ -1,14 +1,14 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: NF-κB
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 사이토카인
-created: 2026-09-03
-title: NF-κB
-date: 2026-09-24
 출처: "PMID: 42331134"
+type: 의학개념
+category: 분자·세포 기전
 ---
 # NF-κB (Nuclear Factor kappa B)
 

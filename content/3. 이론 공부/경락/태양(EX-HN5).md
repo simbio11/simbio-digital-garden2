@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 태양
-  - 太陽
-  - EX-HN5
-  - Taiyang
-  - 경외기혈 태양
+title: 태양(EX-HN5)
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -12,10 +9,13 @@ tags:
   - 두통
   - 편두통
   - 안면
-created: 2026-09-18
-title: 태양(EX-HN5)
-date: 2026-09-18
 출처: PMID 41591775
+aliases:
+  - 태양
+  - 太陽
+  - EX-HN5
+  - Taiyang
+  - 경외기혈 태양
 ---
 # 🌀 경외기혈 [[태양]] (太陽, EX-HN5)
 

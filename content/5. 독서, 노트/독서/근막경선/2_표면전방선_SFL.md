@@ -1,6 +1,5 @@
 ---
 title: "표면전방선 (Superficial Front Line, SFL)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - fascia
   - thomas-myers
-date: 2026-09-21
+category: "근골격계 / 근막경선"
 ---
 
 # [[2_표면전방선_SFL]](Superficial Front Line)

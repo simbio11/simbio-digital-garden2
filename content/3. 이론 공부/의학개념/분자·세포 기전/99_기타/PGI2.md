@@ -1,10 +1,11 @@
 ---
-aliases:
-  - PGI2
+title: PGI2
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
-title: PGI2
-date: 2026-09-22
+aliases:
+  - PGI2
 ---
 # 🔁 PGI2 → [[프로스타사이클린]]
 

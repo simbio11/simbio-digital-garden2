@@ -1,23 +1,24 @@
 ---
-aliases:
-  - 5-HMF
-  - 5-하이드록시메틸푸르푸랄
-  - 5-Hydroxymethylfurfural
-  - 5-하이드록시메틸퍼퓨랄
-  - HMF
+title: 5-HMF
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 파이토케미컬
   - 항산화
   - 신경보호
-CID: 9294
-분자식: C6H6O3
-분자량: 126.11 g/mol
-대표본초: "[[숙지황]], [[흑삼]], [[오미자]]"
-title: 5-HMF
-date: 2026-09-22
 출처: "PMID: 38842004"
+aliases:
+  - 5-HMF
+  - 5-하이드록시메틸푸르푸랄
+  - 5-Hydroxymethylfurfural
+  - 5-하이드록시메틸퍼퓨랄
+  - HMF
+CID: 9294
+대표본초: "[[숙지황]], [[흑삼]], [[오미자]]"
+분자량: 126.11 g/mol
+분자식: C6H6O3
 ---
 
 # 🔬 [[5-HMF]] (5-Hydroxymethylfurfural, $\text{C}_6\text{H}_6\text{O}_3$)

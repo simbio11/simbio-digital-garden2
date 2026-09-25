@@ -1,17 +1,15 @@
 ---
 title: 말반 A (Malvan A)
-aliases: [말반 A, Malvan A, 말반-A]
-category: 약리성분
+created: 2026-09-05
+updated: 2026-09-05
 tags:
   - 약리
   - 약리성분
   - 다당류
   - 이뇨제
   - 면역조절
-created: 2026-09-05
-updated: 2026-09-05
-date: 2026-09-20
 출처: DOI 10.1055/s-2006-960888
+category: 약리성분
 ---
 
 # 말반 A (Malvan A)

@@ -1,5 +1,7 @@
 ---
-aliases: [Slump test, 슬럼프 검사, 슬럼프 테스트, 메이틀랜드 슬럼프 검사, 신경가동성 검사, 경막 긴장 검사, Neurodynamic slump test]
+title: Slump test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 이학적검사
   - 근골격계
@@ -8,13 +10,11 @@ tags:
   - 신경학
   - 추간판탈출증
   - 좌골신경통
+출처: "https://www.youtube.com/watch?v=Prd41eTVQss"
 검사분류: 전신 신경축(Neuraxis) 및 요천추 신경근 경막 긴장도(Dural Tension) 유발 검사
 대상관절_조직: 요천추 신경근(L4~S3), 좌골신경, 경막낭(Dural sac), [[척수]], [[햄스트링]]
 민감도: 84% ~ 87% (Majlesi et al., 2008; van der Windt et al., 2010)
 특이도: 83% ~ 88% (구조적 신경근 압박 및 신경막 유착 감별 시)
-title: Slump test
-date: 2026-09-15
-출처: "https://www.youtube.com/watch?v=Prd41eTVQss"
 ---
 
 # 슬럼프 검사 (Slump Test)

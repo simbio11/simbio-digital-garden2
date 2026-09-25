@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: PRTEE
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,16 +9,15 @@ tags:
   - 외측상과염
   - PROM
   - 기능장애
-created: 2026-09-08
+출처: PMID 38676324
 aliases:
   - Patient-Rated Tennis Elbow Evaluation
   - PRTEE
   - Patient-Rated Forearm Evaluation Questionnaire
   - PRFEQ
   - 환자평가 테니스엘보 설문
-title: PRTEE
-date: 2026-09-22
-출처: PMID 38676324
+type: 의학개념
+category: 평가도구
 ---
 # PRTEE (Patient-Rated Tennis Elbow Evaluation)
 

@@ -1,16 +1,16 @@
 ---
-type: 의학개념
-category: 평가도구
+title: TIDieR
+created: 2026-09-07
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
-created: 2026-09-07
+출처: PMID 37715644
 aliases:
   - Template for Intervention Description and Replication
   - TIDieR 체크리스트
-title: TIDieR
-date: 2026-09-07
-출처: PMID 37715644
+type: 의학개념
+category: 평가도구
 ---
 # TIDieR (중재 설명·재현 체크리스트)
 

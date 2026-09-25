@@ -1,18 +1,19 @@
 ---
+title: Distraction test
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적 검사
+  - 경추
+  - 신경근병증
+출처: "PMID: 12503025"
 aliases:
   - 신연 검사
   - 경추 신연 검사
   - 경추 견인 검사
   - Cervical Distraction Test
   - Distraction Test
-tags:
-  - 근골격계
-  - 이학적 검사
-  - 경추
-  - 신경근병증
-title: Distraction test
-date: 2026-09-15
-출처: "PMID: 12503025"
 ---
 
 # 🩺 [[Distraction test|경추 견인 검사]] (Cervical Distraction Test / 신연 검사)

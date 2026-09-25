@@ -1,5 +1,7 @@
 ---
-aliases: [Well leg SLRT, Well leg straight leg raise test, Crossed SLRT, Crossed straight leg raise test, Crossed Lasegue test, 건측 하지직거상 검사, 건측하지직거상 검사, 교차 하지직거상 검사, 파예르슈타인 징후, Fajersztajn test, Fajersztajn sign]
+title: Well leg SLRT
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 이학적검사
   - 근골격계
@@ -7,13 +9,11 @@ tags:
   - 요추
   - 추간판탈출증
   - 좌골신경통
+출처: "https://www.youtube.com/watch?v=Yp7es4deo0Q"
 검사분류: 요천추 신경근(L4~S1) 중증 탈출 및 중심성·액와부 추간판 탈출증 감별 검사
 대상관절_조직: 좌골신경(L4~S3), 경막낭(Thecal sac), 요추 신경근(L5, S1), [[요추]] 추간판
 민감도: 28% ~ 43% (낮음)
 특이도: 90% ~ 97% (극히 높음, 수술적 디스크 탈출증 확진 골드스탠다드)
-title: Well leg SLRT
-date: 2026-09-15
-출처: "https://www.youtube.com/watch?v=Yp7es4deo0Q"
 ---
 
 # 건측 하지직거상 검사 (Well Leg SLRT / Crossed SLRT)
@@ -73,7 +73,7 @@ date: 2026-09-15
 
 ### 1) 진양성 (True Positive: 파예르슈타인 징후, Fajersztajn Sign)
 * **소견**: 건측 다리를 올리는 도중(대개 30°~60° 사이), **반대편 환측의 둔부, 허벅지 뒤쪽, 종아리, 발가락으로 뻗치는 전형적인 좌골신경 방사통이 날카롭게 재현**됩니다.
-* **의의**: 
+* **의의**:
   * 제4-5요추(L4-L5) 또는 제5요추-제1천추(L5-S1)의 대형 중심성(Central), 부중심성(Paracentral), 또는 신경근 액와부(Axillary) [[추간판 탈출증]].
   * 디스크 수핵이 섬유륜을 완전히 뚫고 탈출되어 척추관 내로 유리된 탈출 분리형 디스크(Extruded / Sequestered disc).
 

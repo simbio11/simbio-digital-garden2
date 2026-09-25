@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: PRAM
+created: 2026-09-20
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 천식
   - 중증도
   - 응급
-created: 2026-09-20
+출처: "PMID: 42646841"
 aliases:
   - PRAM
   - Pediatric Respiratory Assessment Measure
   - 소아 호흡평가척도
   - 소아천식 중증도 점수
-title: PRAM
-date: 2026-09-20
-출처: "PMID: 42646841"
+type: 의학개념
+category: 평가도구
 ---
 # PRAM (소아 호흡평가척도, Pediatric Respiratory Assessment Measure)
 

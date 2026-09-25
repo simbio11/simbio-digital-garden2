@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Reverse SLRT
+title: Reverse SLRT
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
-title: Reverse SLRT
-date: 2026-09-22
+aliases:
+  - Reverse SLRT
 ---
 # 🔁 Reverse SLRT → [[대퇴신경 신장 검사]]
 

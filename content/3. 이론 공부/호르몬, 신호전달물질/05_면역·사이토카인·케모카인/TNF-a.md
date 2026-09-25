@@ -1,19 +1,19 @@
 ---
-type: 의학개념
-category: 호르몬·신경전달물질
+title: TNF-a
+created: 2026-09-03
+updated: 2026-09-25
 tags:
   - 이론
   - 개념사전
   - 사이토카인
   - 염증
-created: 2026-09-03
+출처: "https://molecule-viewer-rho.vercel.app/?cid=16132414\""
 aliases:
   - TNF-alpha
   - TNF-α
   - 종양괴사인자
-title: TNF-a
-date: 2026-09-08
-출처: "https://molecule-viewer-rho.vercel.app/?cid=16132414\""
+type: 의학개념
+category: 호르몬·신경전달물질
 ---
 # TNF-α (Tumor Necrosis Factor-alpha, 종양괴사인자-α)
 
@@ -29,7 +29,7 @@ date: 2026-09-08
 > <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132414" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 ## 🔗 함께 보기
-- [[IL-6]] · [[NF-κB]] · [[MMP]] · [[퇴행성 관절염]] · [[만성 요통]] · [[사이토카인]]
+- [[IL-6]] · [[NF-κB]] · [[MMP]] · [[퇴행성 관절염]] · [[요통]] · [[사이토카인]]
 - 관련 논문: [[2026-09-01_근골격계_척추관절_심층리뷰]] 1번
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): TNF -->

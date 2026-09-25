@@ -1,16 +1,15 @@
 ---
-type: 약물
-category: 약리/양방약
+title: Anamorelin
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 약리
   - 약리/양방약
   - 근감소증
   - 암악액질
-created: 2026-09-22
-aliases: [아나모렐린, 아들루미즈, Adlumiz, Anamorelin, Anamorelin hydrochloride, ONO-7643]
-title: Anamorelin
-date: 2026-09-24
 출처: "PMID: 34445197"
+type: 약물
+category: 약리/양방약
 ---
 
 # 💊 [[아나모렐린]] (Anamorelin, Adlumiz, ATC 코드 미부여)

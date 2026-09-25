@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 양방 약
+title: P-CAB
+created: 2026-09-07
+updated: 2026-09-25
 tags:
   - 약리
   - 약리학
@@ -9,7 +10,7 @@ tags:
   - 위산분비억제제
   - PCAB
   - GERD
-created: 2026-09-07
+출처: "PMID: 36314172"
 aliases:
   - P-CAB
   - PCAB
@@ -24,9 +25,8 @@ aliases:
   - 펙수클루
   - 보노프라잔
   - Vonoprazan
-title: P-CAB
-date: 2026-09-08
-출처: "PMID: 36314172"
+type: 의학개념
+category: 양방 약
 ---
 
 # 칼륨 경쟁적 위산분비억제제 (P-CAB, Potassium-Competitive Acid Blocker)

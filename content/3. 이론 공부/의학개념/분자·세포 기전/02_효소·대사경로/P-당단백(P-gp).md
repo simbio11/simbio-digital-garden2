@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: P-당단백(P-gp)
+created: 2026-09-10
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 약물상호작용
-created: 2026-09-10
+출처: PMID 39461388
 aliases:
   - P-glycoprotein
   - P-gp
   - ABCB1
   - MDR1
   - 다약제내성단백
-title: P-당단백(P-gp)
-date: 2026-09-10
-출처: PMID 39461388
+type: 의학개념
+category: 분자·세포 기전
 ---
 # P-당단백 (P-glycoprotein, P-gp / ABCB1)
 

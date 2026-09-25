@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: HOMA-IR
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,16 +9,15 @@ tags:
   - 당뇨
   - 혈당
   - 검사지표
-created: 2026-09-19
+출처: "PMID: 40568559"
 aliases:
   - HOMA-IR
   - HOMA
   - 항상성모델평가
   - HOMA-B
   - Homeostatic Model Assessment
-title: HOMA-IR
-date: 2026-09-20
-출처: "PMID: 40568559"
+type: 의학개념
+category: 평가도구
 ---
 # HOMA-IR (항상성 모델 평가 — 인슐린 저항성)
 

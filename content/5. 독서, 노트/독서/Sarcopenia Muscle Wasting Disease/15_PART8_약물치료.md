@@ -1,11 +1,7 @@
 ---
-type: 의학원서_요약노트
-book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
-publisher: 대한근감소증학회
-section: "PART 8 약물치료"
-pages: "pp.495-541"
-chapters: ["Ch38", "Ch39", "Ch40", "Ch41"]
-source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+title: 15_PART8_약물치료
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -14,9 +10,13 @@ tags:
   - 비타민D
   - myostatin
 status: completed
-created: 2026-09-22
-title: 15_PART8_약물치료
-date: 2026-09-22
+type: 의학원서_요약노트
+section: "PART 8 약물치료"
+source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
+chapters: ["Ch38", "Ch39", "Ch40", "Ch41"]
+pages: "pp.495-541"
+publisher: 대한근감소증학회
 ---
 
 # 📑 [근감소증] PART 8 근감소증의 약물 치료 (Ch38~41)
@@ -77,7 +77,7 @@ flowchart TD
     Liver --> 25OHD["25(OH)D (혈중 안정적 저장형, 반감기 긺)"]
     25OHD --> Kidney["신장 (1α-hydroxylase)<br/>[PTH 자극 촉진 / FGF-23 억제]"]
     Kidney --> ActiveD["1,25(OH)2D (활성형 비타민 D)"]
-    
+
     ActiveD --> Intestine["장 융모세포: Ca²⁺/P 흡수 촉진"]
     ActiveD --> Bone["골모세포: 파골세포 분화 유도 (골흡수 증가)"]
     ActiveD --> Muscle["골격근 VDR 결합: 유전체/비유전체 작용"]
@@ -111,7 +111,7 @@ flowchart LR
         Akt --> PS["골격근 단백질 합성 14~16% 증가"]
         Trans --> MyoD["MyoD 발현 조절 / 근섬유 비대"]
     end
-    
+
     subgraph NonGenomic ["비유전체 작용 (Nongenomic Action)"]
         VDR_M["세포막 표면 VDR"] --> Src["c-Src 및 PI3K 활성화"]
         Src --> SR["근소포체 (Sarcoplasmic Reticulum)"]
@@ -233,7 +233,7 @@ flowchart TD
     Furin --> Latent["Latent Complex (비활성 복합체)<br/>[N-말단 Propeptide 2분자 + C-말단 Dimer 비공유결합]"]
     Latent --> BMP1["BMP1 / Tolloid 메탈로프로테아제<br/>(Propeptide Asp76-D76 절단)"]
     BMP1 --> Active["활성 Myostatin C-말단 2분자체 방출"]
-    
+
     Active --> RecBind["ActRII / ActRIIB 수용체 결합 (2분자)"]
     RecBind --> TypeI["ALK4 / ALK5 Type I 수용체 결합 및 인산화"]
     TypeI --> Smad["Smad2 / Smad3 인산화 활성화"]
@@ -333,7 +333,7 @@ flowchart LR
         M1 --> M_net
         M2 --> M_net
     end
-    
+
     subgraph GDF11 ["GDF11"]
         G1["골형성 (Osteogenesis) 촉진"]
         G2["골흡수 (Bone Resorption) 억제"]
@@ -386,15 +386,15 @@ flowchart LR
 flowchart TD
     Fundus["위 분문부 (Gastric Fundus)"] --> Ghrelin["그렐린 (Ghrelin, 28개 아미노산)"]
     Ghrelin --> GHSR["GHSR-1a 수용체 결합 (시상하부/뇌하수체/위장관)"]
-    
+
     GHSR --> Hypo["시상하부 궁상핵 (Arcuate Nucleus)"]
     Hypo --> Appetite["NPY / AgRP 발현 증가 → 공복감 및 음식 섭취 촉진"]
-    
+
     GHSR --> Pit["뇌하수체 전엽"]
     Pit --> GH["성장호르몬 (GH) 분비 촉진"]
     GH --> Liver["간: IGF-1 및 IGFBP-3 합성 증가"]
     Liver --> Anabolism["단백 동화 촉진 및 제지방량 증가"]
-    
+
     GHSR --> AntiInflam["항염증 작용<br/>(IL-1α, IL-6, TNF-α 감소 / IL-10 증가)"]
     GHSR --> MuscleDirect["골격근 직접 작용<br/>(Akt, MyoD, Myogenin 활성화 / Myostatin 억제)"]
 ```
@@ -473,16 +473,16 @@ flowchart TD
 ```mermaid
 flowchart TD
     Exercise["지구력 / 저항성 운동 자극"] --> MuscleCell["골격근 세포 (대사 변화 및 수축)"]
-    
+
     MuscleCell --> Mimetics["운동모방 신호전달 표적"]
     Mimetics --> AMPK["AMPK 활성화 (AICAR)"]
     Mimetics --> PPARd["PPARδ 작용 (GW501516)"]
     Mimetics --> SIRT1["SIRT1 / NAD⁺ (Resveratrol)"]
     Mimetics --> REVERB["REV-ERBα (SR9009)"]
     Mimetics --> ERRg["ERRγ (GSK4716)"]
-    
+
     AMPK & PPARd & SIRT1 & REVERB & ERRg --> Mito["미토콘드리아 생합성 촉진<br/>지방산 산화 & TCA 회로 활성화<br/>근지구력 향상 & 대사 개선"]
-    
+
     MuscleCell --> Secretome["오가노카인 분비 (Secretome)"]
     Secretome --> Apelin["Apelin (마이오카인) → 자가포식 촉진, 근비대 & 재생"]
     Secretome --> GPLD1["GPLD1 (간 매개 헤파토카인) → 뇌 신경재생 & 인지기능 향상"]

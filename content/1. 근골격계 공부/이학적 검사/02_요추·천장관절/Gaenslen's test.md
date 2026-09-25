@@ -1,5 +1,7 @@
 ---
-aliases: [갠슬렌 검사, Gaenslen Test, Gaenslen's Test, Gaenslens Test, 겐슬렌 검사, 천장관절 비틀림 검사, Sacroiliac Joint Torsion Test]
+title: "Gaenslen's test"
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
@@ -7,13 +9,11 @@ tags:
   - 골반
   - 천골
   - 강직성척추염
+출처: "PMID: 16038783"
 검사분류: 천장관절 유발 및 골반 전단력 검사
 대상관절_조직: "[[천장관절]](Sacroiliac joint), 전·후 천장인대, 천결절인대, 천극인대, [[장요근]], [[대퇴직근]]"
 민감도: 53% ~ 71% (Laslett et al., 2005; Van der Wurff et al., 2006)
 특이도: 71% ~ 86% (Laslett et al., 2005)
-title: "Gaenslen's test"
-date: 2026-09-15
-출처: "PMID: 16038783"
 ---
 
 # 갠슬렌 검사 (Gaenslen's Test)
@@ -27,7 +27,7 @@ date: 2026-09-15
 ---
 
 ## 1. 개요 및 검사 목적
-갠슬렌 검사(Gaenslen's Test)는 미국의 정형외과 의사 프레더릭 갠슬렌(Frederick J. Gaenslen)이 고안한 대표적인 **천장관절 동통 유발 검사(Sacroiliac Joint Provocation Test)**입니다. 
+갠슬렌 검사(Gaenslen's Test)는 미국의 정형외과 의사 프레더릭 갠슬렌(Frederick J. Gaenslen)이 고안한 대표적인 **천장관절 동통 유발 검사(Sacroiliac Joint Provocation Test)**입니다.
 
 천장관절(SI joint)은 견고한 골간인대와 전·후 천장인대로 단단히 결합되어 가동 범위가 2~4° 미만인 미세 가동 관절(Amphiarthrosis)이므로, 단순한 수직 하중만으로는 관절의 기능 이상이나 염증을 발견하기 어렵습니다. 갠슬렌 검사는 **골반 좌우 반구(Innominate bones)에 서로 반대 방향의 회전 토크(Opposing rotary torques)를 동시에 인가**함으로써 천골과 장골 사이의 전단 변형력(Shear strain)을 극대화하여 잠재된 병변을 뚜렷하게 표면화합니다.
 

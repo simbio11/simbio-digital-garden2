@@ -1,11 +1,7 @@
 ---
-aliases:
-  - 내슬안
-  - 內膝眼
-  - EX-LE4
-  - Neixiyan
-  - 슬안
-  - 膝眼
+title: 내슬안(EX-LE4)
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -14,10 +10,14 @@ tags:
   - 슬관절
   - 전침
   - 골관절염
-created: 2026-09-21
-title: 내슬안(EX-LE4)
-date: 2026-09-22
 출처: "PMID: 42718497"
+aliases:
+  - 내슬안
+  - 內膝眼
+  - EX-LE4
+  - Neixiyan
+  - 슬안
+  - 膝眼
 ---
 # 🌀 내슬안 (內膝眼, EX-LE4) — 膝眼 內側
 

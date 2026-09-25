@@ -1,6 +1,7 @@
 ---
 title: Homecystein
-date: 2024-04-20
+created: 2024-04-20
+updated: 2026-09-24
 tags:
   - 이론
 ---

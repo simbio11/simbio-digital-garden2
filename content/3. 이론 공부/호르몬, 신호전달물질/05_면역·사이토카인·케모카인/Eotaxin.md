@@ -1,13 +1,14 @@
 ---
-aliases:
-  - 애오탁신
+title: Eotaxin
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 이론
-title: Eotaxin
-date: 2026-09-22
 출처: "https://www.uniprot.org/uniprotkb/P51671"
+aliases:
+  - 애오탁신
 ---
-- 호산구 모집에 관여된 사이토카인 
+- 호산구 모집에 관여된 사이토카인
 
 ## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
 

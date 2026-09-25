@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: HIT-6
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 두통
   - 삶의질
   - 평가도구
-created: 2026-09-18
+출처: PMID 41591775
 aliases:
   - HIT-6
   - Headache Impact Test
   - 두통영향검사
   - 두통 영향 검사
-title: HIT-6
-date: 2026-09-18
-출처: PMID 41591775
+type: 의학개념
+category: 평가도구
 ---
 # HIT-6 (Headache Impact Test)
 

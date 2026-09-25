@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 양방 약
+title: SGLT2 억제제
+created: 2026-09-05
+updated: 2026-09-24
 tags:
   - 약리
   - 약리학
@@ -9,7 +10,7 @@ tags:
   - SGLT2
   - 심부전
   - 신장보호
-created: 2026-09-05
+출처: PMID 41804851
 aliases:
   - SGLT2 inhibitor
   - SGLT2 억제제
@@ -23,9 +24,8 @@ aliases:
   - Forxiga
   - 자디앙
   - Jardiance
-title: SGLT2 억제제
-date: 2026-09-19
-출처: PMID 41804851
+type: 의학개념
+category: 양방 약
 ---
 
 # SGLT2 억제제 (SGLT2 Inhibitor, 글리플로진 계열)

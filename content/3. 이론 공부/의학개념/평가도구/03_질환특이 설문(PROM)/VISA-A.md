@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: VISA-A
+created: 2026-09-16
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,14 +9,13 @@ tags:
   - 건병증
   - PROM
   - 스포츠의학
-created: 2026-09-16
+출처: "PMID: 40011018"
 aliases:
   - VISA-A
   - Victorian Institute of Sport Assessment-Achilles
   - VISA-A 설문
-title: VISA-A
-date: 2026-09-22
-출처: "PMID: 40011018"
+type: 의학개념
+category: 평가도구
 ---
 # VISA-A (Victorian Institute of Sport Assessment – Achilles)
 

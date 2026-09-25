@@ -1,7 +1,7 @@
 ---
 title: 탄신논 IIA (Tanshinone IIA)
-aliases: [탄신논 IIA, 탄시논 IIA, Tanshinone IIA, Tanshinone 2A, 탄신논-IIA]
-category: 약리성분
+created: 2026-09-05
+updated: 2026-09-05
 tags:
   - 약리
   - 약리성분
@@ -10,10 +10,8 @@ tags:
   - 활혈거어
   - eNOS
   - 항염증
-created: 2026-09-05
-updated: 2026-09-05
-date: 2026-09-10
 출처: "https://molecule-viewer-rho.vercel.app/?cid=164676\""
+category: 약리성분
 ---
 
 # 탄신논 IIA (Tanshinone IIA)

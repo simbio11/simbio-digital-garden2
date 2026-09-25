@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Estrogen Receptor Alpha
-  - 에스트로겐 수용체 알파
-  - ESR1
-  - NR3A1
+title: ERα
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 약리성분
@@ -11,9 +9,12 @@ tags:
   - 핵수용체
   - 호르몬
   - 여성호르몬
-title: ERα
-date: 2026-09-08
 출처: "https://www.uniprot.org/uniprotkb/P03372/entry"
+aliases:
+  - Estrogen Receptor Alpha
+  - 에스트로겐 수용체 알파
+  - ESR1
+  - NR3A1
 ---
 
 # 🔬 ERα (Estrogen Receptor Alpha, 에스트로겐 수용체 알파)

@@ -1,22 +1,22 @@
 ---
-type: 의학개념
-category: 평가도구
+title: MACE
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 심혈관
   - 임상시험
   - 당뇨
-created: 2026-09-19
+출처: "PMID: 40933374"
 aliases:
   - MACE
   - 주요심혈관사건
   - Major Adverse Cardiovascular Events
   - 3-point MACE
   - 4-point MACE
-title: MACE
-date: 2026-09-19
-출처: "PMID: 40933374"
+type: 의학개념
+category: 평가도구
 ---
 # MACE (주요 심혈관 사건, Major Adverse Cardiovascular Events)
 

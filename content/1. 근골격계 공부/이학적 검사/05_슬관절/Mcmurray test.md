@@ -1,18 +1,18 @@
 ---
-aliases: [맥머레이 검사, McMurray Test, McMurray's Test, 맥머레이 테스트, 반월판 파열 검사, 반월상연골 손상 검사]
+title: Mcmurray test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 슬관절
   - 무릎통증
   - 관절선압통
+출처: "https://www.youtube.com/watch?v=lwDFPAyGGgI"
 검사분류: 슬관절 반월상연골판 파열 및 관절내 유리체 유발 검사
 대상관절_조직: 내측 반월상연골판(MM), 외측 반월상연골판(LM), 대퇴과-경골 고평부 관절면
 민감도: "53% ~ 70% (메타분석: Hegedus et al., 2007; Hing et al., 2009)"
 특이도: 77% ~ 98% (클릭음 및 관절선 통증 동반 시 특이도 90% 이상)
-title: Mcmurray test
-date: 2026-09-15
-출처: "https://www.youtube.com/watch?v=lwDFPAyGGgI"
 ---
 
 # 맥머레이 검사 (McMurray Test)

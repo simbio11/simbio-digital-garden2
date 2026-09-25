@@ -1,16 +1,17 @@
 ---
-aliases:
-  - Toll-Like Receptor 4
-  - 톨유사수용체4
-  - CD284
+title: TLR4
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 수용체
   - 신경염증
-title: TLR4
-date: 2026-09-22
 출처: "PMID: 23512062"
+aliases:
+  - Toll-Like Receptor 4
+  - 톨유사수용체4
+  - CD284
 ---
 
 # TLR4 (Toll-Like Receptor 4)

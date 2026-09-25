@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
-section: "Section 7: Lipids and Nutrition"
-day: 7
-section_pages: "pp. 183-210"
-total_plates: 27
-source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day07_지질대사_콜레스테롤_황색종_비타민결핍_스핑고지질_비만수술
+created: 2026-09-18
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -16,15 +11,20 @@ tags:
   - 죽상경화증
   - 대사증후군
   - 지질강하제
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "Netter Endocrine Day 07"
   - "Netter 지질영양"
   - "Lipids & Nutrition Master Note"
-status: completed
-created: 2026-09-18
-title: Day07_지질대사_콜레스테롤_황색종_비타민결핍_스핑고지질_비만수술
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 7: Lipids and Nutrition"
+source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
+day: 7
+section_pages: "pp. 183-210"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 27
+volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
 ---
 
 # Netter Endocrine Day 07: 지질 및 영양 (Lipids and Nutrition) — 콜레스테롤·지단백대사·황색종·비타민결핍·리소좀병·비만수술 (pp. 183–210)
@@ -128,10 +128,10 @@ graph LR
     B -->|FC 수용| E[FC 장착 HDL]
     E -->|LCAT 효소: ApoA-I에 의해 활성화| F[콜레스테롤 에스테르화 CE]
     F -->|소수성 CE가 코어로 진입| G[성숙 구형 Spherical HDL2 / HDL3]
-    
+
     G -->|경로 1: CETP 작용| H[CE를 VLDL/LDL에 넘겨주고 TG를 받음]
     H -->|LDLR 매개| I[간세포 흡수]
-    
+
     G -->|경로 2: 간세포막 SR-BI 수용체 직접 결합| J[CE 선택적 유입 Selective Uptake]
     J --> K[간 담즙산 및 유리 콜레스테롤 배설]
 ```
@@ -371,7 +371,7 @@ graph TD
         A4 -->|GLP-1 및 PYY 분비 폭발| A5[인슐린 분비 극대화 & 중추 식욕 억제]
         A5 --> A6[수술 수일 내 제2형 당뇨병 완전 관해]
     end
-    
+
     subgraph 위소매절제술 Sleeve Gastrectomy
         B1[위 대만부 80% 수직 절제] -->|위 용적 100-150mL 축소| B2[제한 작용]
         B1 -->|위저부 Fundus 완전 제거| B3[그렐린 Ghrelin 생성 세포 박멸]
@@ -454,14 +454,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate7-", "")
     search_terms = [f"Plate 7-{num_suffix}", f"7-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

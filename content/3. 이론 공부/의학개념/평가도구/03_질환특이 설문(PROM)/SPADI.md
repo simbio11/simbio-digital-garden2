@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: SPADI
+created: 2026-09-16
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,14 +9,13 @@ tags:
   - PROM
   - 통증평가
   - 기능평가
-created: 2026-09-16
+출처: "PMID: 41496087"
 aliases:
   - SPADI
   - Shoulder Pain and Disability Index
   - 어깨 통증 장애 지수
-title: SPADI
-date: 2026-09-16
-출처: "PMID: 41496087"
+type: 의학개념
+category: 평가도구
 ---
 # SPADI (Shoulder Pain and Disability Index)
 

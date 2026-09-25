@@ -1,25 +1,25 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
-section: "Section 8: Genetics and Endocrine Neoplasia"
-day: 8
-section_pages: "pp. 213-225"
-total_plates: 7
-source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day08_유전내분비_MEN1_MEN2_VHL_NF1_APS1_유암종증후군
+created: 2026-09-18
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 내분비학
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "Netter Endocrine Day 08"
   - "Netter 유전내분비"
   - "Genetics & Endocrine Neoplasia Master Note"
-status: completed
-created: 2026-09-18
-title: Day08_유전내분비_MEN1_MEN2_VHL_NF1_APS1_유암종증후군
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 8: Genetics and Endocrine Neoplasia"
+source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
+day: 8
+section_pages: "pp. 213-225"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 7
+volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
 ---
 
 # Netter Endocrine Day 08: 유전학 및 내분비 종양 (Genetics & Endocrine Neoplasia) — MEN1·MEN2·VHL·NF1·APS-1·유암종증후군 (pp. 213–225)
@@ -80,14 +80,14 @@ graph TD
     A[MEN1 유전자 11q13 불활성화 돌연변이: Menin 결손] --> B[1. 부갑상선 Parathyroid 95-100%]
     A --> C[2. 췌장 십이지장 신경내분비 pNET 30-80%]
     A --> D[3. 뇌하수체 전엽 Pituitary 15-40%]
-    
+
     B --> B1[4선 전체 미만성 과형성 Hyperplasia<br>조기 고칼슘혈증 및 신결석<br>치료: 아전 3.5선 절제술]
-    
+
     C --> C1[가스트리노마 40%: 졸링거-엘리슨 ZES, 궤양, 설사]
     C --> C2[인슐리노마 10-30%: 공복 저혈당증, 위플 3징]
     C --> C3[비기능성 pNET 50%: 조용한 성장, 주 사망원인]
     C --> C4[희귀: 글루카고노마, VIPoma, 소마토스타티노마]
-    
+
     D --> D1[프로락틴선종 60%: 유즙누출, 무월경]
     D --> D2[성장호르몬 선종 25%: 말단비대증]
     D --> D3[비기능성 및 ACTH 선종]
@@ -218,13 +218,13 @@ graph TD
 ```mermaid
 graph TD
     A[AIRE 유전자 21q22.3 결손] --> B[흉선 음성선택 붕괴 & Th17 중화 자가항체 생성]
-    
+
     B --> C[1단계: 만성 점막피부 칸디다증 CMC 100%<br>생후 5세 이전 출현, 조기 홀마크<br>항-IL-17A, IL-17F, IL-22 자가항체 매개]
-    
+
     B --> D[2단계: 자가면역 부갑상선 기능저하증 85%<br>5-10세경 출현<br>NALP5, CaSR 자가항체 -> 테타니, 저칼슘혈증]
-    
+
     B --> E[3단계: 만성 원발성 부신부전 에디슨병 75%<br>10-15세경 출현<br>21-OH 자가항체 -> 저혈압, 피부 흑색화, 쇼크]
-    
+
     B --> F[외배엽 이영양증: 치아 법랑질 저형성, 손발톱 영양실조, 탈모증, 각막염]
 ```
 
@@ -318,14 +318,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate8-", "")
     search_terms = [f"Plate 8-{num_suffix}", f"8-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

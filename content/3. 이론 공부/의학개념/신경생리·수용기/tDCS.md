@@ -1,20 +1,20 @@
 ---
-type: concept
-category: "_의학/03_이론/의학개념/신경생리·수용기"
+title: tDCS
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 이론
   - 신경조절
   - 신경병증성통증
-created: 2026-09-22
+출처: "PMID: 38082316"
 aliases:
   - tDCS
   - 경두개 직류자극
   - 경두개직류전기자극
   - transcranial direct current stimulation
+type: concept
+category: "_의학/03_이론/의학개념/신경생리·수용기"
 template: 신경
-title: tDCS
-date: 2026-09-22
-출처: "PMID: 38082316"
 ---
 
 # ⚡ [[tDCS]] (경두개 직류자극 / transcranial direct current stimulation / 經頭蓋直流刺戟)

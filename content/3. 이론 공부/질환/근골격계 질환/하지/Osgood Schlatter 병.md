@@ -1,12 +1,7 @@
 ---
-aliases:
-  - Osgood Schlatter 병
-  - 오스굿 슐라터병
-  - 오스굿-슈라터병
-  - Osgood-Schlatter disease
-  - OSD
-  - 경골 조면 골단염
-  - 경골 결절 견열 골연골염
+title: Osgood Schlatter 병
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 이론
   - 질환
@@ -16,9 +11,15 @@ tags:
   - 슬관절
   - 경골조면
   - 대퇴사두근
-title: Osgood Schlatter 병
-date: 2026-09-15
 출처: "PMID: 28723024"
+aliases:
+  - Osgood Schlatter 병
+  - 오스굿 슐라터병
+  - 오스굿-슈라터병
+  - Osgood-Schlatter disease
+  - OSD
+  - 경골 조면 골단염
+  - 경골 결절 견열 골연골염
 ---
 
 # 🫁 [[Osgood Schlatter 병]] (Osgood-Schlatter Disease, 경골 조면 골단염)
@@ -37,9 +38,10 @@ date: 2026-09-15
 3. [임상 증상 및 발달 단계 (Clinical Features & Staging)](#3-임상-증상-및-발달-단계-clinical-features--staging)
 4. [진단 및 영상 의학 검사 (Diagnostic Evaluation)](#4-진단-및-영상-의학-검사-diagnostic-evaluation)
 5. [감별 진단 (Differential Diagnosis)](#5-감별-진단-differential-diagnosis)
-6. [양방적 치료 및 성장기 관리 (Management)](#6-양방적-치료-및-성장기-관리-management)
-7. [한의학적 변증 및 통합 치료 프로토콜 (TKM Protocol)](#7-한의학적-변증-및-통합-치료-프로토콜-tkm-protocol)
-8. [출처 및 현대 학술 연구 요약 (References)](#8-출처-및-현대-학술-연구-요약-references)
+6. [양방 치료 & 병용·의뢰 기준 (Conventional Treatment & Referral)](#6-양방-치료--병용의뢰-기준-conventional-treatment--referral)
+7. [양방적 치료 및 성장기 관리 (Management)](#6-양방적-치료-및-성장기-관리-management)
+8. [한의학적 변증 및 통합 치료 프로토콜 (TKM Protocol)](#7-한의학적-변증-및-통합-치료-프로토콜-tkm-protocol)
+9. [출처 및 현대 학술 연구 요약 (References)](#8-출처-및-현대-학술-연구-요약-references)
 
 ---
 
@@ -124,7 +126,27 @@ date: 2026-09-15
 
 ---
 
-## 6. 양방적 치료 및 성장기 관리 (Management)
+## 6. 양방 치료 & 병용·의뢰 기준 (Conventional Treatment & Referral)
+
+> 🎯 **이 섹션의 목적**: 환자가 **양방약을 이미 복용 중인 경우가 많다.** 한의원 1차 진료에서 양방 치료를 이해하고, 병용 가능·주의·금기를 판단하며, 언제 의뢰할지 결정한다.
+
+* **약물 치료 (Medication)**:
+  * 계열별 약물·용량·기간 — 국내 처방 관행 반영.
+  * 작용 기전과 한의 치료와의 상호작용.
+* **비약물 시술 (Procedures)**:
+  * 주사·차단술·물리치료·보조기 등.
+* **수술·시술 적응증 (Surgical Indication)**:
+  * 언제 수술로 가는가 — 절대·상대 적응증, 수술 후 경과.
+* **한의 병용 판단 (Combination Therapy)**:
+  * 병용 가능 / 주의 / 금기. 복용 중 환자의 감량 타이밍·반동 현상.
+* **양방·전문과 의뢰 기준 (Referral Criteria)**:
+  * 응급 의뢰 트리거와 전문과 의뢰 기준(정형외과·신경외과·내과 등).
+
+	(작성 필요)
+
+---
+
+## 7. 양방적 치료 및 성장기 관리 (Management)
 
 * **보존적 활동 조절 (Activity Modification)**:
   * 절대적인 깁스 고정은 대퇴사두근 위축을 유발하므로 피하되, 증상을 악화시키는 점프 및 전력 질주 운동을 2~6주간 중단하거나 강도를 줄임.
@@ -137,7 +159,7 @@ date: 2026-09-15
 
 ---
 
-## 7. 한의학적 변증 및 통합 치료 프로토콜 (TKM Protocol)
+## 8. 한의학적 변증 및 통합 치료 프로토콜 (TKM Protocol)
 
 ### 7.1 한의 변증 (Syndrome Differentiation)
 * **신허근박(腎虛筋薄)**: 신체 급성장기에 신정(腎精)이 골격 성장을 따라가지 못하여 골단판과 인대가 연약해진 상태에서 과도한 운동으로 근골이 손상됨.
@@ -166,7 +188,7 @@ date: 2026-09-15
 
 ---
 
-## 8. 출처 및 현대 학술 연구 요약 (References)
+## 9. 출처 및 현대 학술 연구 요약 (References)
 
 * Smith JM, Varacallo MA. Osgood-Schlatter Disease. *StatPearls*. 2026;NBK441995. [PMID: 28723024](https://pubmed.ncbi.nlm.nih.gov/28723024/)
   * `[연구 요약]` 오스굿-슐라터병의 병태생리, 위험 인자, 임상 검사법 및 단계별 보존적 치료 가이드라인을 집대성한 최신 임상 리뷰.

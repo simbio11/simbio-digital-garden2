@@ -1,16 +1,17 @@
 ---
-aliases:
-  - Methylenecyclopropylglycine
-  - α-(Methylenecyclopropyl)glycine
-  - 메틸렌사이클로프로필글라이신
+title: MCPG
+created: 2026-09-13
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 아미노산유도체
   - 저혈당
-title: MCPG
-date: 2026-09-13
 출처: "PMID: 28153514"
+aliases:
+  - Methylenecyclopropylglycine
+  - α-(Methylenecyclopropyl)glycine
+  - 메틸렌사이클로프로필글라이신
 ---
 
 # 🔬 [[MCPG]] (Methylenecyclopropylglycine, α-(메틸렌사이클로프로필)글라이신)

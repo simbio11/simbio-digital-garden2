@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 핀켈스타인 검사
-  - 핑켈스타인 검사
-  - Finkelstein Test
-  - Finkelstein's Test
-  - 핀켈스타인 테스트
+title: Finkelstein test
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
@@ -12,9 +9,13 @@ tags:
   - 손목
   - 건초염
   - 장무지외전근
-title: Finkelstein test
-date: 2026-09-15
 출처: "PMID: 20692781"
+aliases:
+  - 핀켈스타인 검사
+  - 핑켈스타인 검사
+  - Finkelstein Test
+  - Finkelstein's Test
+  - 핀켈스타인 테스트
 ---
 
 # 핀켈스타인 검사 (Finkelstein's Test)
@@ -42,7 +43,7 @@ flowchart TD
 ## 1. 검사 개요 (Test Overview)
 
 * **검사 목적: 손목 외측(요골측) 제1신전건 구획을 통과하는 [[장무지외전근]](Abductor Pollicis Longus, APL)과 [[단무지신근]](Extensor Pollicis Brevis, EPB) 건초(Tendon sheath)의 무균성 염증, 비후 및 협착을 유발 평가하여 [[드퀘르벵 증후군]](협착성 건초염)을 확진.
-* **검사 대상**: 
+* **검사 대상**:
   * 엄지손가락을 벌리거나 뒤로 젖힐 때, 물건을 쥐거나 비틀 때 요골측 손목 통증을 호소하는 환자.
   * 산후 영유아를 안아 올리는 수유기 산모(Mom's Thumb).
   * 스마트폰 타이핑, 컴퓨터 마우스 다용자, 테니스/골프 등 수근관절 과사용 노동자.

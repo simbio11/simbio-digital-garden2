@@ -1,4 +1,13 @@
 ---
+title: ROOS test
+created: 2026-09-24
+updated: 2026-09-25
+tags:
+  - 근골격계
+  - 이학적 검사
+  - 흉곽출구증후군
+  - 상완신경총
+출처: "PMID: 998867"
 aliases:
   - 루스 검사
   - 팔거상 스트레스 검사
@@ -7,14 +16,6 @@ aliases:
   - Elevated Arm Stress Test
   - EAST
   - Elevated arm stress test
-tags:
-  - 근골격계
-  - 이학적 검사
-  - 흉곽출구증후군
-  - 상완신경총
-title: ROOS test
-date: 2026-09-24
-출처: "PMID: 998867"
 ---
 
 # 🩺 [[ROOS test|루스 검사]] (Roos Test / Elevated Arm Stress Test, EAST)
@@ -186,7 +187,7 @@ graph TD
 ## 7. 💡 사용자 진료실 핵심 필기 & 실전 임상 팁 (원문 보존)
 
 * **사용자 원문 필기 (100% 보존)**:
-  * **방법**: 
+  * **방법**:
     - 양측 견관절을 90도 외전, 외회전하고 주관절을 90도 굴곡한 자세에서 (손바닥이 앞쪽을 향하도록 한 상태에서)
     - 주먹을 폈다 오므렸다 하는 동작(1초에 한번씩)을 3분 동안 반복하도록 지시함.
   * **의의**:

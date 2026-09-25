@@ -1,9 +1,7 @@
 ---
-type: MOC
-category: 약리
-date: 2026-09-04
+title: 00_약리_공부_MOC
+created: 2026-09-04
 updated: 2026-09-24
-status: active
 tags:
   - 약리
   - MOC
@@ -12,8 +10,10 @@ tags:
   - 양방약
   - 처방
   - 상한론
-title: 00_약리_공부_MOC
+status: active
 출처: PMID 32866138
+type: MOC
+category: 약리
 ---
 
 # ⚗️ _의학/02_약리 — MOC & 약물·성분 지도

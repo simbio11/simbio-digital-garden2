@@ -1,16 +1,16 @@
 ---
-type: MOC
-category: 질환·한의병증
+title: 00_한의병증_MOC
+created: 2026-09-16
+updated: 2026-09-24
 tags:
   - 이론
   - MOC
-created: 2026-09-16
 aliases:
   - 한의병증 MOC
   - 한의학 병증 매핑
   - 서양의학 질환 한의병증 대조표
-title: 00_한의병증_MOC
-date: 2026-09-16
+type: MOC
+category: 질환·한의병증
 ---
 
 # 🧭 [MOC] 서양의학 질환 ↔ 한의학 병증 통합 임상 매핑 허브

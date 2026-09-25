@@ -1,17 +1,18 @@
 ---
-aliases:
-  - TRPA1
-  - 안키린1
-  - Transient Receptor Potential Ankyrin 1
+title: TRPA1
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 수용체
   - 이온채널
   - 통증
   - 신경전달
-title: TRPA1
-date: 2026-09-22
 출처: "https://www.uniprot.org/uniprotkb/O75762"
+aliases:
+  - TRPA1
+  - 안키린1
+  - Transient Receptor Potential Ankyrin 1
 ---
 
 # TRPA1 (Transient Receptor Potential Ankyrin 1)

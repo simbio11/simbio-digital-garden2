@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: TUG 검사
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,16 +9,15 @@ tags:
   - 노인
   - 낙상
   - 근감소증
-created: 2026-09-19
+출처: "PMID: 1991946"
 aliases:
   - TUG
   - TUGT
   - Timed Up and Go
   - 일어나 걸어가기 검사
   - 일어서서 걷기 검사
-title: TUG 검사
-date: 2026-09-19
-출처: "PMID: 1991946"
+type: 의학개념
+category: 평가도구
 ---
 # TUG 검사 (Timed Up and Go Test)
 

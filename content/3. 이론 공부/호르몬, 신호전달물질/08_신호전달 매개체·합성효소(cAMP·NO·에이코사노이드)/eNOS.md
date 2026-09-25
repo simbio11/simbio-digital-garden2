@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 호르몬·신경전달물질
+title: eNOS
+created: 2026-09-04
+updated: 2026-09-25
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 효소
   - 혈관내피
   - eNOS
-created: 2026-09-04
+출처: "https://www.uniprot.org/uniprotkb/P29474"
 aliases:
   - eNOS
   - 내피형 산화질소 합성효소
   - NOS3
   - Endothelial nitric oxide synthase
-title: eNOS
-date: 2026-09-22
-출처: "https://www.uniprot.org/uniprotkb/P29474"
+type: 의학개념
+category: 호르몬·신경전달물질
 ---
 # 🔬 [[eNOS]] (Endothelial Nitric Oxide Synthase, NOS3)
 
@@ -58,10 +58,10 @@ graph TD
     Flow["혈류 전단응력 (Shear Stress)"] --> Mechano["내피세포 기계수용기 활성화"]
     Mechano --> PI3K["PI3K / [[Akt]] 신호 활성화"]
     PI3K --> Phos["[[eNOS]] Ser1177 인산화 (활성화)"]
-    
+
     ACh["[[아세틸콜린]] / 브래디키닌"] --> Ca["세포 내 칼슘 증가 $\rightarrow$ 칼모듈린 결합"]
     Ca --> Phos
-    
+
     Phos --> NO["일산화질소(NO) 지속 분비"]
     NO --> VSMC["혈관 평활근 sGC 활성화 $\rightarrow$ [[cGMP]] 상승 $\rightarrow$ 혈관 확장"]
 ```

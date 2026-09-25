@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Nachlas test
+title: Nachlas test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
-title: Nachlas test
-date: 2026-09-22
+aliases:
+  - Nachlas test
 ---
 # 🔁 Nachlas test → [[대퇴신경 신장 검사]]
 

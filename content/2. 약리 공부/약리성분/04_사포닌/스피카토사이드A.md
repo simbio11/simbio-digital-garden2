@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Spicatoside A
-  - 스피카토사이드A
-  - 스피카토사이드
-  - 산맥문동사포닌
-  - CID 5281767
+title: 스피카토사이드A
+created: 2024-03-12
+updated: 2026-09-12
 tags:
   - 약리
   - 약리성분
@@ -13,12 +10,16 @@ tags:
   - 신경보호
   - 인지기능개선
   - 본초학
-created: 2024-03-12
-updated: 2026-09-12
 status: complete
+출처: "https://molecule-viewer-rho.vercel.app/?cid=21630001\""
+aliases:
+  - Spicatoside A
+  - 스피카토사이드A
+  - 스피카토사이드
+  - 산맥문동사포닌
+pubchem_cid: 5281767
 compound_name_ko: 스피카토사이드 A
 compound_name_en: Spicatoside A
-pubchem_cid: 5281767
 molecular_formula: C44H70O16
 molecular_weight: 855.03 g/mol
 cas_number: 114407-74-6
@@ -31,9 +32,6 @@ main_pharmacology:
   - 신경돌기 신장(Neurite outgrowth) 촉진 및 기억력·학습 능력 개선
   - 기도 점액 분비 조절 및 난알부민(OVA) 유도 천식 염증 완화
   - 장내 콜린성 신경계 조절을 통한 변비 개선 및 장연동 정상화
-title: 스피카토사이드A
-date: 2026-09-22
-출처: "https://molecule-viewer-rho.vercel.app/?cid=21630001\""
 ---
 
 # 스피카토사이드 A (Spicatoside A)

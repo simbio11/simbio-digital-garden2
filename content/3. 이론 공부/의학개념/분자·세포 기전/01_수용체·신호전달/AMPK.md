@@ -1,15 +1,16 @@
 ---
-aliases:
-  - AMP-activated protein kinase
-  - 아데노신일인산활성단백질인산화효소
-  - AMPK 복합체
+title: AMPK
+created: 2026-09-12
+updated: 2026-09-24
 tags:
   - 이론
   - 분자기전
   - 미토콘드리아
-title: AMPK
-date: 2026-09-12
 출처: "PMID: 39998703"
+aliases:
+  - AMP-activated protein kinase
+  - 아데노신일인산활성단백질인산화효소
+  - AMPK 복합체
 ---
 
 # AMPK (AMP-Activated Protein Kinase)

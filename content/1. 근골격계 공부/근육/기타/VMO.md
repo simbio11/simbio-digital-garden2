@@ -1,13 +1,14 @@
 ---
+title: VMO
+created: 2026-09-05
+updated: 2026-09-24
+tags:
+  - 근골격계
 aliases:
   - VMO
   - Vastus Medialis Obliquus
   - 내측광근사두섬유
   - 빗내측넓은근
-tags:
-  - 근골격계
-title: VMO
-date: 2026-09-05
 ---
 # [[VMO]](Vastus Medialis Obliquus / 내측광근 사두섬유)
 

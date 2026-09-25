@@ -1,22 +1,22 @@
 ---
-type: 의학개념
-category: 평가도구
+title: 이질성(I²)
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 메타분석
   - 통계
   - 연구방법론
-created: 2026-09-19
+출처: "PMID: 40568559"
 aliases:
   - I2
   - I²
   - 이질성
   - 통계적 이질성
   - Heterogeneity
-title: 이질성(I²)
-date: 2026-09-23
-출처: "PMID: 40568559"
+type: 의학개념
+category: 평가도구
 ---
 # 이질성 (I², I-squared) — 메타분석의 통계적 이질성
 

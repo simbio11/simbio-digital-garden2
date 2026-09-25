@@ -1,18 +1,18 @@
 ---
-aliases: [레르미트 징후, 레르미트 검사, 렐미트 징후, L'Hermitte Sign, Lhermitte Sign, Lhermitte's Sign, Lhermitte's Phenomenon, 이발소 의자 징후, 척수 전격통 검사]
+title: "L'Hermittee sign"
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 경추
   - 다발성경화증
   - 경추척수증
+출처: "DOI: 10.1136/jnnp.2004.043810"
 검사분류: 경추 척수 압박 및 중추신경계 탈수초 질환 선별 유발 검사
 대상관절_조직: "[[경추]] 척수(Cervical spinal cord), 후주(Dorsal columns / 자각 감각 경로), 경막(Dura mater), [[다발성 경화증]]"
 민감도: "28% ~ 42% (다발성 경화증 및 척수증에서 낮은 민감도)"
 특이도: "92% ~ 97% (전형적인 척수 전격통 재현 시 높은 특이도)"
-title: "L'Hermittee sign"
-date: 2026-09-15
-출처: "DOI: 10.1136/jnnp.2004.043810"
 ---
 
 # 레르미트 징후 (Lhermitte's Sign / Lhermitte's Phenomenon)

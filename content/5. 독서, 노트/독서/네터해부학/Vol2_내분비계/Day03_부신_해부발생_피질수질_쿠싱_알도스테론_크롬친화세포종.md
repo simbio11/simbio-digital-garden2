@@ -1,25 +1,25 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
-section: "Section 3: Adrenal"
-day: 3
-section_pages: "pp. 67-98"
-total_plates: 29
-source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day03_부신_해부발생_피질수질_쿠싱_알도스테론_크롬친화세포종
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 내분비학
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "Netter Endocrine Day 03"
   - "Netter 부신"
   - "Adrenal Glands Master Note"
-status: completed
-created: 2026-09-17
-title: Day03_부신_해부발생_피질수질_쿠싱_알도스테론_크롬친화세포종
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 3: Adrenal"
+source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
+day: 3
+section_pages: "pp. 67-98"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 29
+volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
 ---
 
 # Netter Endocrine Day 03: 부신 (Adrenal Gland) — 발생·해부·피질/수질 생리·쿠싱·알도스테론·갈색세포종 (pp. 67–98)
@@ -86,7 +86,7 @@ graph TD
     A -->|2차 세포층 증식| C[영구 피질 Permanent Cortex]
     B -->|출생 후 1년 내 급속 퇴축| D[소멸]
     C -->|생후 3세까지 점진적 분화| E[성인 피질: 사구체대/속상대/망상대]
-    
+
     F[외배엽성 신경능선 Neural Crest] -->|교감신경절 이동| G[크롬친화세포 Chromaffin Cells]
     G -->|임신 7주: 피질 내측 침투| H[부신수질 Adrenal Medulla]
     G -->|대동맥 분기부 잔류| I[주커칸들 기관 Organ of Zuckerkandl]
@@ -284,12 +284,12 @@ graph TD
     C -->|3 야간 타액 코르티솔 측정| D
     D -->|정상| E[쿠싱 증후군 배제]
     D -->|2개 이상 비정상 양성| F[2단계: 병인 감별 - 혈장 ACTH 농도 측정]
-    
+
     F -->|ACTH < 5 pg/mL| G[ACTH 비의존성 쿠싱]
     G --> H[부신 CT / MRI 시행]
     H -->|편측 종괴| I[부신 선종 / 부신피질암종 ACC]
     H -->|양측성 결절| J[BMAH 또는 PPNAD Carney Complex]
-    
+
     F -->|ACTH > 15-20 pg/mL| K[ACTH 의존성 쿠싱]
     K --> L[3단계: 중추성 vs 이소성 감별]
     L -->|고용량 8mg DST / CRH 자극검사 / 뇌하수체 sella MRI| M{국소화 판정}
@@ -628,7 +628,7 @@ sequenceDiagram
     participant P as 환자 (갈색세포종 확진)
     participant Med as 내분비내과/마취통증의학과
     participant Surg as 복강경 부신절제술
-    
+
     Note over P,Med: 수술 10~14일 전 준비 개시
     Med->>P: 1단계: 알파 아드레날린 차단제 개시 (Phenoxybenzamine 또는 Doxazosin)
     Note over P: 혈관 확장 유도, 발작성 혈압 급상승 차단
@@ -735,14 +735,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate3-", "")
     search_terms = [f"Plate 3-{num_suffix}", f"3-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

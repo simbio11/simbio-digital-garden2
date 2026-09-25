@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: AWGS 기준
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 근감소증
   - 악력
-created: 2026-09-19
+출처: "PMID: 32033882"
 aliases:
   - AWGS
   - AWGS 2019
   - 아시아근감소증워킹그룹
   - Asian Working Group for Sarcopenia
-title: AWGS 기준
-date: 2026-09-19
-출처: "PMID: 32033882"
+type: 의학개념
+category: 평가도구
 ---
 # AWGS 기준 (아시아근감소증워킹그룹 진단 기준)
 

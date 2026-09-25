@@ -1,6 +1,5 @@
 ---
 title: "기능선 (Functional Lines, FL)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - fascia
   - thomas-myers
-date: 2026-09-04
+category: "근골격계 / 근막경선"
 ---
 
 # [[6_기능선_Functional_Lines]](Functional Lines)

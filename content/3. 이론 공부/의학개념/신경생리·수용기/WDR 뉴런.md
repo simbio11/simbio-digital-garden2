@@ -1,21 +1,21 @@
 ---
-type: 의학개념
-category: 신경생리·수용기
+title: WDR 뉴런
+created: 2026-09-07
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 통증
   - 척수후각
   - 신경생리
-created: 2026-09-07
+출처: PMID 38950397
 aliases:
   - Wide dynamic range neuron
   - 광범위 발화역치 뉴런
   - WDR 세포
   - 광범위 역치 뉴런
-title: WDR 뉴런
-date: 2026-09-07
-출처: PMID 38950397
+type: 의학개념
+category: 신경생리·수용기
 ---
 # WDR 뉴런 (Wide Dynamic Range Neuron, 광범위 발화역치 뉴런)
 

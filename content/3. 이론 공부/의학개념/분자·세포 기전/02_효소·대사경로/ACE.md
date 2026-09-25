@@ -1,18 +1,19 @@
 ---
-aliases:
-  - Angiotensin-Converting Enzyme
-  - 안지오텐신전환효소
-  - 안지오텐신 변환 효소
-  - Kininase II
+title: ACE
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 약리성분
   - 효소
   - RAAS
   - 심혈관계
-title: ACE
-date: 2026-09-08
 출처: "https://www.uniprot.org/uniprotkb/P12821/entry"
+aliases:
+  - Angiotensin-Converting Enzyme
+  - 안지오텐신전환효소
+  - 안지오텐신 변환 효소
+  - Kininase II
 ---
 
 # 🔬 ACE (Angiotensin-Converting Enzyme, 안지오텐신전환효소)

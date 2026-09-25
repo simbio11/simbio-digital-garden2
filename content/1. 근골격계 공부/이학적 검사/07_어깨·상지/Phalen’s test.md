@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 팔렌 검사
-  - Phalen Test
-  - Phalen's Test
-  - 손목 굴곡 검사
-  - Wrist Flexion Test
+title: Phalen’s test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -12,9 +9,13 @@ tags:
   - 손목
   - 정중신경
   - 수근관증후군
-title: Phalen’s test
-date: 2026-09-15
 출처: "PMID: 5934271"
+aliases:
+  - 팔렌 검사
+  - Phalen Test
+  - Phalen's Test
+  - 손목 굴곡 검사
+  - Wrist Flexion Test
 ---
 
 # 팔렌 검사 (Phalen's Test)

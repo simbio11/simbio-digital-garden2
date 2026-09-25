@@ -1,4 +1,10 @@
 ---
+title: GABA
+created: 2026-09-08
+updated: 2026-09-25
+tags:
+  - 이론
+출처: "https://molecule-viewer-rho.vercel.app/?cid=119\""
 aliases:
   - GABA
   - GABA_A 수용체
@@ -8,11 +14,6 @@ aliases:
   - 감마아미노낙산
   - 감마아미노부티르산
   - gamma-aminobutyric acid
-tags:
-  - 이론
-title: GABA
-date: 2026-09-08
-출처: "https://molecule-viewer-rho.vercel.app/?cid=119\""
 ---
 # 🧠 [[GABA]] (Gamma-Aminobutyric Acid / 감마아미노낙산)
 

@@ -1,16 +1,15 @@
 ---
-type: 약리성분
-category: 아미노산 · 영양소
+title: 류신(Leucine)
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 아미노산
   - 영양학
   - 동화저항성
-created: 2026-09-22
-aliases: [Leucine, L-류신, L-leucine]
-title: 류신(Leucine)
-date: 2026-09-22
 출처: PMID 40937507
+type: 약리성분
+category: 아미노산 · 영양소
 ---
 
 # 🔬 [[류신(Leucine)]] (Leucine, C6H13NO2 / (2S)-2-amino-4-methylpentanoic acid)

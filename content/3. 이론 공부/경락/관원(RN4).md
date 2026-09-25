@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 관원
-  - 關元
-  - RN4
-  - CV4
-  - Guanyuan
+title: 관원(RN4)
+created: 2026-09-19
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -13,10 +10,13 @@ tags:
   - 모혈
   - 보신
   - 허약
-created: 2026-09-19
-title: 관원(RN4)
-date: 2026-09-19
 출처: PMID 40568559
+aliases:
+  - 관원
+  - 關元
+  - RN4
+  - CV4
+  - Guanyuan
 ---
 # 🌀 임맥 [[관원]] (關元, RN4 / CV4)
 

@@ -1,13 +1,13 @@
 ---
-aliases: [BDNF, Brain-Derived Neurotrophic Factor, 뇌유래신경영양인자]
+title: BDNF
+created: 2026-09-11
+updated: 2026-09-24
 tags:
   - 이론
   - 생리학/신경전달물질
   - 신경가소성
   - 운동생리
   - 통증
-title: BDNF
-date: 2026-09-11
 출처: PMID 41085000
 ---
 

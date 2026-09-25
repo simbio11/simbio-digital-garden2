@@ -1,26 +1,26 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
-section: "Section 6: Bone and Calcium"
-day: 6
-section_pages: "pp. 154-180"
-total_plates: 27
-source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day06_골칼슘대사_부갑상선_골다공증_구루병_파젯병_골형성부전증
+created: 2026-09-18
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 내분비학
   - 골다공증
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "Netter Endocrine Day 06"
   - "Netter 골칼슘"
   - "Bone and Calcium Master Note"
-status: completed
-created: 2026-09-18
-title: Day06_골칼슘대사_부갑상선_골다공증_구루병_파젯병_골형성부전증
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 6: Bone and Calcium"
+source_file: "The Netter Collection - Volume 2, The Endocrine System.pdf"
+day: 6
+section_pages: "pp. 154-180"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 27
+volume: "The Netter Collection of Medical Illustrations: Endocrine System (Vol. 2, 2nd ed.)"
 ---
 
 # Netter Endocrine Day 06: 골 및 칼슘 대사 (Bone and Calcium) — 부갑상선·골개형·골다공증·구루병·파젯병·유전성골질환 (pp. 154–180)
@@ -35,7 +35,7 @@ date: 2026-09-21
 
 * **부갑상선 조직학 및 칼슘 항상성 분자 생리 (Plates 6-1 ~ 6-3)**:
   * **주세포 (Chief cells)**가 PTH를 합성·분비. 세포막의 **칼슘감지수용체 (CaSR, Gq/Gi 결합 GPCR)**는 세포외 이온화 칼슘($\text{Ca}^{2+}$) 농도가 상승하면 활성화되어 PLC 자극 및 cAMP 억제를 통해 **PTH 분비를 억제**함.
-  * **PTH 작용 3대 축**: 
+  * **PTH 작용 3대 축**:
     1. **골**: 조골세포의 PTH1R에 결합하여 **RANKL 발현 증가 및 OPG 감소** $\rightarrow$ 파골세포 분화/활성화 $\rightarrow$ 골 흡수 및 혈중 $\text{Ca}^{2+}/\text{PO}_4^{3-}$ 방출.
     2. **신장**: 근위세뇨관의 NPT2a/c 억제 $\rightarrow$ **인산 배설 (Phosphaturia)**; 원위곡세뇨관의 TRPV5/NCX1 촉진 $\rightarrow$ **칼슘 재흡수**; 근위세뇨관 **$1\alpha$-수산화효소 (CYP27B1)** 자극 $\rightarrow$ 칼시트리올 합성 촉진.
     3. **장관**: 칼시트리올을 통한 간접적 칼슘/인 흡수 촉진.
@@ -99,16 +99,16 @@ graph TD
     A[세포외액 유리 Ca2+ 농도 저하] --> B[부갑상선 주세포 CaSR 불활성화 탈억제]
     B --> C[cAMP 급증 및 PTH 분비과립 세포외유출]
     C --> D[혈중 PTH 급상승]
-    
+
     D -->|1. 신장 근위세뇨관| E[NPT2a/c 억제 -> 요중 인산 배설 촉진 Phosphaturia]
     D -->|2. 신장 근위세뇨관| F[CYP27B1 1-alpha-hydroxylase 활성화 -> 칼시트리올 1,25-OH2-D 생성]
     D -->|3. 신장 원위곡세뇨관| G[TRPV5, NCX1 자극 -> 요중 칼슘 재흡수 촉진]
     D -->|4. 골 조직 조골세포| H[RANKL 발현 촉진 및 OPG 억제]
-    
+
     F -->|소장 상피세포| I[장관 칼슘 및 인산 흡수 촉진]
     H --> J[파골세포 분화 및 활성화 -> 골 흡수 Bone Resorption]
     J --> K[혈중 칼슘 및 인산 방출]
-    
+
     G --> L[혈청 칼슘 정상화 회복]
     I --> L
     K --> L
@@ -165,12 +165,12 @@ graph TD
 ```mermaid
 graph TD
     A[고칼슘혈증 확인: 혈청 알부민 교정 총칼슘 > 10.5 mg/dL 또는 이온화 칼슘 상승] --> B[혈청 온전형 PTH Intact PTH 측정]
-    
+
     B -->|PTH 부적절하게 정상 또는 상승 >= 20 pg/mL| C[PTH 의존성 고칼슘혈증]
     C --> D[24시간 소변 칼슘 / 크레아티닌 청소율 비 CCCR 계산]
     D -->|CCCR > 0.02 및 24시간 소변 칼슘 > 200 mg| E[원발성 부갑상선 기능항진증 PHPT 확진 -> 수술 적응증 평가]
     D -->|CCCR < 0.01 및 가족력 동반| F[가족성 저칼슘뇨성 고칼슘혈증 FHH -> 수술 절대 금기!]
-    
+
     B -->|PTH 완전 억제 < 10-15 pg/mL| G[비-PTH 의존성 고칼슘혈증]
     G --> H[혈청 PTHrP 및 1,25-OH2-D 칼시트리올 측정]
     H -->|PTHrP 현저한 상승| I[악성종양 체액성 고칼슘혈증 HHM: 편평상피세포폐암, 신세포암 등]
@@ -460,14 +460,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate6-", "")
     search_terms = [f"Plate 6-{num_suffix}", f"6-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

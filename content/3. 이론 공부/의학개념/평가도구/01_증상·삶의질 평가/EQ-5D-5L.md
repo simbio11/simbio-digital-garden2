@@ -1,21 +1,21 @@
 ---
-type: 의학개념
-category: 평가도구
+title: EQ-5D-5L
+created: 2026-09-24
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 삶의질
   - PROM
-created: 2026-09-24
+출처: "PMID: 42099446"
 aliases:
   - EQ-5D-5L
   - EQ-5D
   - EuroQol 5D
   - 유로콜
   - 삶의 질 지수
-title: EQ-5D-5L
-date: 2026-09-24
-출처: "PMID: 42099446"
+type: 의학개념
+category: 평가도구
 ---
 # EQ-5D-5L (EuroQol 5-Dimension 5-Level, 건강 관련 삶의 질)
 

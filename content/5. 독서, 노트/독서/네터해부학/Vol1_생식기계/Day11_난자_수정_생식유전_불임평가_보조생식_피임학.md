@@ -1,32 +1,32 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 11: The Ovum and Reproduction"
-day: 11
-section_pages: "pp. 232-240"
-total_plates: 9
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day11_난자_수정_생식유전_불임평가_보조생식_피임학
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 네터
   - 해부학
   - 산부인과
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 11"
   - "난자와 생식의학"
-status: completed
-created: 2026-09-16
-title: Day11_난자_수정_생식유전_불임평가_보조생식_피임학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 11: The Ovum and Reproduction"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 11
+section_pages: "pp. 232-240"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 9
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 11: 난자와 생식의학 - 난자발생·수정·생식유전·난임평가·반복유산·보조생식(IVF) 및 피임학 (Section 11 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 232-240)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 11 전편 (Plate 11-1 ~ Plate 11-9, 총 9개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 232-240)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 11 전편 (Plate 11-1 ~ Plate 11-9, 총 9개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 난포성장 주기(375일/13주기)와 배란 기전(난포액 1~3mL 급팽창, 콜라게나아제/프로스타글란딘, 피질 평활근 수축), 난모세포 감수분열 정지(Dictyotene $\rightarrow$ Metaphase II $\rightarrow$ 수정 시 완성), 수정 생리학(프로게스테론 결합 화학주성, 첨체반응, 전핵 형성 및 방추체 정렬, 난할 20시간, 부화 및 착상 3일, 최기형성 All-or-None), 생식유전학(남녀 배우자형성 대비, 태생 10~12주 난모세포 감수분열, 4분체 교차 및 유전자 연쇄 거리, 멘델식 우열과 단백질 역치), 난임 역학 및 원인(80~90% 1년 수태, 일차성 vs 이차성 예후 차이, 50% 무증상 난관인자, 뇌하수체 편평 호르몬선), 여성 난임 정밀 평가(HSG vs 복강경 색소통액, 사정후검사 PCT, AMH/AFC 난소예비능), 남성 난임 정밀 평가(50% 기여, 2% 치명적 기저질환, 80% 고환용적=세정관, 70~80일 정자형성주기, WHO 6판 기준, 정계정맥류 기립/앙와위 진찰, TRUS, 과당검사, SPA/HZA), 반복유산(RPL 0.4~0.8%, 70% 차기 정상임신, 2/3가 12주 이후 발생, APS 아스피린+헤파린 요법, 불필요한 배양/HLA 배제), 보조생식술(85~90% 비ART 치료, 성교빈도와 가임력, 과배란 유도제 및 다태임신 40%, IUI/GIFT/ZIFT/IVF/ICSI/PGD 비교, 낭포성섬유증 여성보인자 검사), 현대 피임학(미국 임신 49% 비의도적, 수정억제제 vs 배란/착상억제제, 청소년 LARC, 35세 이상 경구피임약 지침, 구리 IUD 응급피임 최대 10일).
 
 ---
@@ -95,17 +95,17 @@ sequenceDiagram
   participant P as 사춘기/성인기 (배란 직전)
   participant V as 배란 직후 (난관 팽대부)
   participant S as 수정 순간 (정자 침투)
-  
+
   F->>F: 난원세포 유사분열 증식 --> 일차난모세포
   F->>F: 제1감수분열 개시 --> [1차 정지: 전기 I 디키오텐기 (Dictyotene)]
   Note over F: OMI에 의해 수십 년간 정지 지속 (출생 시 평생 분량 보유)
-  
+
   P->>P: 배란 전 LH 서지 자극 --> 제1감수분열 완성
   P->>P: 제1극체 (1st polar body) 방출 --> 이차난모세포 형성
-  
+
   V->>V: 제2감수분열 진입 --> [2차 정지: 중기 II (Metaphase II)]
   Note over V: 중기 II 상태로 난관 팽대부로 배란
-  
+
   S->>S: 정자 막 융합 및 칼슘 파동 촉발
   S->>S: 제2감수분열 완성 --> 제2극체 (2nd polar body) 방출
   Note over S: 비로소 성숙 난자 (Mature ovum) 완성 및 양측 전핵 방추체 정렬
@@ -398,9 +398,9 @@ sequenceDiagram
 graph LR
   Loss[반복 유산의 발생 시기] --> Early[임신 초기 유산: 12주 이전<br>전체의 1/3]
   Loss --> Late[임신 후기 유산: 12주 이후<br>전체의 2/3 차지]
-  
+
   Early --> EarlyCause[배아 염색체 이상 주도<br>- 감수분열 삼염색체증 50%<br>- 5% 부모 균형전좌<br>- 유사분열 이수성/모자이크]
-  
+
   Late --> LateCause[모체 및 자궁 해부학적 요인 주도<br>- 자궁경관무력증 IIOC<br>- 자궁 기형: 중격자궁 15-25%<br>- 자궁강 유착, 점막하 근종<br>- 전신성 혈전성향증/APS]
 ```
 
@@ -457,12 +457,12 @@ graph LR
 ```mermaid
 flowchart TD
   Ova[과배란 유도 및 성숙 난자 흡인 채취] --> Route{치료 경로 선택}
-  
+
   Route -->|난관 정상 + 체내 수정 선호| GIFT["GIFT: 난자 + 정자를 난관 내 동시 주입 (체내 수정)"]
   Route -->|난관 정상 + 수정 확인 필요| ZIFT["ZIFT: 체외수정 후 접합자를 난관 내 주입"]
   Route -->|표준 수정 가능| StdIVF["표준 체외수정: 배양 접시 내 자연 수정"]
   Route -->|중증 남성난임 / 수정장애| ICSI["ICSI: 단일 정자를 난자 세포질 내 직접 미세주입"]
-  
+
   StdIVF & ICSI --> Cleavage[배아 배양: Day 3 분열배 또는 Day 5 포배기]
   Cleavage --> PGD["착상전 유전진단 (PGD/PGT): 단일 세포 생검 및 유전자 분석"]
   PGD --> ET["IVF-ET: 정상 배아를 자궁강 내부로 직접 이식 (난관 우회)"]
@@ -501,12 +501,12 @@ flowchart TD
 graph TD
   Contra[현대 피임법의 2대 분류] --> InhibFert[1. 수정 억제제 (Fertilization Inhibitors)<br>정자와 난자의 물리적·시간적 만남 차단]
   Contra --> InhibOvulImplant[2. 배란 및 착상 억제제 (Ovulation & Implantation Inhibitors)<br>난포 발생 억제, 배란 차단 및 내막 수용성 파괴]
-  
+
   InhibFert --> MechBarrier[기계적 장벽: 남성/여성 콘돔, 페서리, 질 스펀지]
   InhibFert --> ChemBarrier[화학적 장벽: 살정제 Nonoxynol-9]
   InhibFert --> TempBarrier[행동/시간적: 질외사정, 주기법, 성교 금욕]
   InhibFert --> PermSteril[영구 불임술: 난관결찰술, 정관절제술]
-  
+
   InhibOvulImplant --> Hormonal[호르몬성: 경구피임약, 피임패치, 질링, 피하이식봉]
   InhibOvulImplant --> Intrauterine[자궁내장치: 레보노르게스트렐 IUD, 구리 IUD]
   InhibOvulImplant --> Emergency[응급피임약: 울리프리스탈, 레보노르게스트렐]
@@ -589,13 +589,13 @@ plates_info = [
 for plate_id, plate_title in plates_info:
     target_page = None
     search_term = f"Plate 11-{plate_id.split('-')[1]}"
-    
+
     for page_num in range(len(doc)):
         text = doc[page_num].get_text()
         if search_term in text or plate_title.lower() in text.lower():
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 상당

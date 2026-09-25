@@ -1,9 +1,7 @@
 ---
-aliases:
-  - "Soto-Hall Test"
-  - "소토-홀 검사"
-  - "소토홀 검사"
-  - "흉골 압박 경추 전굴 검사"
+title: Soto-hall test
+created: "2024-02-27"
+updated: "2026-09-14"
 tags:
   - 근골격계
   - 이학적검사
@@ -12,11 +10,12 @@ tags:
   - 인대손상
   - 골절
   - 수막자극징후
-created: "2024-02-27"
-updated: "2026-09-14"
-title: Soto-hall test
-date: 2026-09-15
 출처: "https://www.youtube.com/watch?v=H8pEbZm5Ww4"
+aliases:
+  - "Soto-Hall Test"
+  - "소토-홀 검사"
+  - "소토홀 검사"
+  - "흉골 압박 경추 전굴 검사"
 ---
 
 # 소토-홀 검사 (Soto-Hall Test)

@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: UACR
+created: 2026-09-05
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 신장
   - 단백뇨
   - 당뇨
-created: 2026-09-05
+출처: PMID 41804851
 aliases:
   - Urine albumin-to-creatinine ratio
   - 요 알부민 크레아티닌 비
   - ACR
-title: UACR
-date: 2026-09-05
-출처: PMID 41804851
+type: 의학개념
+category: 평가도구
 ---
 # UACR (요 알부민-크레아티닌 비)
 

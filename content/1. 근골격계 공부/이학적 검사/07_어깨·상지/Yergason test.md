@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 예가손 검사
-  - 요르가손 검사
-  - Yergason Test
-  - Yergason's Test
-  - 상완이두근 건 불안정성 검사
+title: Yergason test
+created: 2026-09-13
+updated: 2026-09-13
 tags:
   - 근골격계
   - 이학적검사
@@ -12,11 +9,13 @@ tags:
   - 어깨
   - 상완이두근
   - 관절와순
-created: 2026-09-13
-updated: 2026-09-13
-title: Yergason test
-date: 2026-09-24
 출처: "DOI: 10.1016/j.arthro.2004.01.008"
+aliases:
+  - 예가손 검사
+  - 요르가손 검사
+  - Yergason Test
+  - Yergason's Test
+  - 상완이두근 건 불안정성 검사
 ---
 
 # 예가손 검사 (Yergason's Test)

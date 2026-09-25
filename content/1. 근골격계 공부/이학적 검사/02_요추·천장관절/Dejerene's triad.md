@@ -1,18 +1,19 @@
 ---
-aliases:
-  - "Dejerene's triad"
-  - "Dejerine's Triad"
-  - "데제린 3징후"
-  - "데제린 삼징후"
+title: "Dejerene's triad"
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 요추
   - 추간판탈출증
   - 복압
-title: "Dejerene's triad"
-date: 2026-09-15
 출처: "https://www.youtube.com/watch?v=-ceSV5qA_GQ"
+aliases:
+  - "Dejerene's triad"
+  - "Dejerine's Triad"
+  - "데제린 3징후"
+  - "데제린 삼징후"
 ---
 
 # 🩺 [[Dejerene's triad]] (데제린 3징후 / Dejerine's Triad Sign)

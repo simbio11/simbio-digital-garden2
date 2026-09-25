@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 합곡
-  - 合谷
-  - LI4
-  - Hegu
-  - Large Intestine 4
+title: 합곡(LI4)
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -13,10 +10,13 @@ tags:
   - 원혈
   - 진통
   - 두통
-created: 2026-09-18
-title: 합곡(LI4)
-date: 2026-09-19
 출처: PMID 41591775
+aliases:
+  - 합곡
+  - 合谷
+  - LI4
+  - Hegu
+  - Large Intestine 4
 ---
 # 🌀 수양명대장경 [[합곡]] (合谷, LI4)
 

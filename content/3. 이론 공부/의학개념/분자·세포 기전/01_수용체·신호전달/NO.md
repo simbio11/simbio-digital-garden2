@@ -1,18 +1,19 @@
 ---
-aliases:
-  - Nitric oxide
-  - 일산화질소
-  - 산화질소
-  - NO 가스
+title: NO
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 분자기전
   - 혈관이완
   - 내피세포
   - 활혈거어
-title: NO
-date: 2026-09-08
 출처: "https://molecule-viewer-rho.vercel.app/?cid=14506\""
+aliases:
+  - Nitric oxide
+  - 일산화질소
+  - 산화질소
+  - NO 가스
 ---
 
 # NO (Nitric Oxide / 일산화질소)

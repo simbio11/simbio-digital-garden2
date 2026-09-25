@@ -1,14 +1,15 @@
 ---
+title: ASIS
+created: 2026-09-05
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 해부학랜드마크
 aliases:
   - ASIS
   - 상전장골극
   - Anterior Superior Iliac Spine
   - 위앞엉덩뼈가시
-tags:
-  - 근골격계
-  - 해부학랜드마크
-title: ASIS
-date: 2026-09-05
 ---
 
 # ASIS (상전장골극, Anterior Superior Iliac Spine)

@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: MSQ
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 삶의질
   - 두통
   - 평가도구
-created: 2026-09-18
+출처: PMID 41591775
 aliases:
   - MSQ
   - Migraine-Specific Quality of Life Questionnaire
   - 편두통 특이 삶의 질
   - 편두통 삶의질 설문
-title: MSQ
-date: 2026-09-18
-출처: PMID 41591775
+type: 의학개념
+category: 평가도구
 ---
 # MSQ (Migraine-Specific Quality of Life Questionnaire)
 

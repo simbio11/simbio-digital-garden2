@@ -1,19 +1,19 @@
 ---
-type: 의학개념
-category: 평가도구
+title: KOOS
+created: 2026-09-09
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 슬관절
   - 골관절염
   - PROM
-created: 2026-09-09
+출처: PMID 41160820
 aliases:
   - Knee injury and Osteoarthritis Outcome Score
   - KOOS
-title: KOOS
-date: 2026-09-21
-출처: PMID 41160820
+type: 의학개념
+category: 평가도구
 ---
 # KOOS (Knee injury and Osteoarthritis Outcome Score)
 

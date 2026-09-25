@@ -1,6 +1,7 @@
 ---
 title: Day04_발진성질환Part2_염증성_대사성_반응성질환
-date: 2026-09-21
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 독서
 출처: "https://drive.google.com/file/d/1hNbHNAGsYrJc0hTEAQVe\_R4TlMxQRFF1/view?usp=drivesdk\""

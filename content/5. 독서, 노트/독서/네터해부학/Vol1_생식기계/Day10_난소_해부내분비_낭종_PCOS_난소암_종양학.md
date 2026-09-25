@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 10: The Ovaries"
-day: 10
-section_pages: "pp. 202-230"
-total_plates: 28
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day10_난소_해부내분비_낭종_PCOS_난소암_종양학
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -17,20 +12,25 @@ tags:
   - 부인종양학
   - 생식기계
   - PCOS
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 10"
   - "난소"
-status: completed
-created: 2026-09-16
-title: Day10_난소_해부내분비_낭종_PCOS_난소암_종양학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 10: The Ovaries"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 10
+section_pages: "pp. 202-230"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 28
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 10: 난소 - 해부·내분비주기·낭종·PCOS·기형종·염전 및 난소암 종양학 (Section 10 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 202-230)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 10 전편 (Plate 10-1 ~ Plate 10-28, 총 28개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 202-230)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 10 전편 (Plate 10-1 ~ Plate 10-28, 총 28개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 난소 미세해부학 및 인대(골반누두인대/난소동맥 vs 고유난소인대), 2-세포 2-성선자극호르몬 가설(Theca-LH vs Granulosa-FSH 아로마타제)과 배란 메커니즘, 폐경 내분비학(FSH 급증 및 에스트론 E1 전환), 터너(45,X) 및 스와이어 증후군(46,XY 선성 성선아세포종), 생리적 낭종(황체/테카루테인 낭종)과 자궁내막종(Chocolate cyst), 양성 상피종양(장액성 vs 거대 점액성 낭선종), 성숙 낭성 기형종(Dermoid cyst/Rokitansky 돌기) 및 급성 부속기 염전(Adnexal torsion 응급 정복술), 호르몬 분비 종양(과립막세포종 Call-Exner bodies vs 세르톨리-라이디히세포종 남성화), 다낭성 난소 증후군(PCOS 로테르담 기준/인슐린 저항성), 메이그스 증후군(섬유종·복수·흉수 3징), 크루켄베르크 전이성 종양(위암 유래 반지세포 Signet-ring), 난소 종양 진단 알고리즘(CA-125, HE4, ROMA) 및 유사 골반 종괴 감별
 
 ---
@@ -141,9 +141,9 @@ date: 2026-09-21
 graph TD
   LH[뇌하수체 전엽: LH 분비] -->|LH 수용체 자극| ThecaCell[내협막세포 Theca Interna]
   ThecaCell -->|cAMP/StAR 경로| CholToAndro[콜레스테롤 --> 안드로스텐디온 & 테스토스테론]
-  
+
   CholToAndro -->|기저막 통과 확산| GranulosaCell[과립막세포 Granulosa Cell]
-  
+
   FSH[뇌하수체 전엽: FSH 분비] -->|FSH 수용체 자극| Aromatase[아로마타제 CYP19A1 효소 유도]
   Aromatase & GranulosaCell -->|방향족화 전환| Estradiol["에스트라디올 (E2) 대량 합성 및 난포액 분비"]
 ```
@@ -1175,13 +1175,13 @@ plates_info = [
 for plate_id, plate_title in plates_info:
     target_page = None
     search_term = f"Plate 10-{plate_id.split('-')[1]}"
-    
+
     for page_num in range(len(doc)):
         text = doc[page_num].get_text()
         if search_term in text or plate_title.lower() in text.lower():
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 상당

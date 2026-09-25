@@ -1,17 +1,18 @@
 ---
-aliases:
-  - iNOS
-  - 유도성 산화질소 합성효소
-  - Inducible Nitric Oxide Synthase
-  - NOS2
+title: iNOS
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 효소
   - 산화스트레스
   - 신호전달
-title: iNOS
-date: 2026-09-22
 출처: "https://www.uniprot.org/uniprotkb/P35228"
+aliases:
+  - iNOS
+  - 유도성 산화질소 합성효소
+  - Inducible Nitric Oxide Synthase
+  - NOS2
 ---
 
 # iNOS (유도성 산화질소 합성효소, Inducible NOS)

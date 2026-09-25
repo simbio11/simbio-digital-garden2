@@ -1,18 +1,18 @@
 ---
-aliases: [셰펠만 검사, Schepelmann's test, Schepelman Test, 셰펠만 시험, 늑간신경통 늑막염 감별 검사]
+title: "Schepelmann's test"
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
   - 늑간신경
   - 늑간신경통
   - 늑막염
+출처: "https://www.youtube.com/watch?v=DKgBps6icQE"
 검사분류: 흉벽 통증 및 늑간신경·늑막 병변 감별 검사
 대상관절_조직: "[[늑간신경]](Intercostal nerves, T1~T11), [[벽측늑막]](Parietal pleura), [[늑간근]](Intercostal muscles), [[늑골]](Ribs)"
 민감도: 70% ~ 82% (늑간신경통 및 늑막 자극 선별 시)
 특이도: 78% ~ 88% (오목면 vs 볼록면 분리 감별 시)
-title: "Schepelmann's test"
-date: 2026-09-22
-출처: "https://www.youtube.com/watch?v=DKgBps6icQE"
 ---
 
 # 🩺 [[Schepelmann's test]] (셰펠만 검사)
@@ -58,10 +58,10 @@ date: 2026-09-22
 ```mermaid
 graph TD
     Bend["체간을 한쪽 방향으로 최대 측굴(Lateral Flexion)"] --> Split{"측굴에 따른 양측 흉벽의 상반된 역학적 변화"}
-    
+
     Split -- "기울어진 쪽 (오목면, Concave Side)" --> Compress["늑골 간격 협소화 및 기계적 압축(Compression)"]
     Compress --> NervePain["⚡ [[늑간신경]] 포착 및 염증 자극 -> 늑골선을 따른 찌릿한 [[늑간 신경통]] 유발"]
-    
+
     Split -- "늘어난 반대쪽 (볼록면, Convex Side)" --> Stretch["늑골 간격 확대 및 연부조직 인장 신장(Stretching)"]
     Stretch --> PleuraPain["⚡ [[벽측늑막]] 장력 자극 및 근육 신장통 -> 둔하고 결리는 늑막염 또는 [[늑간근]] 통증 유발"]
 ```

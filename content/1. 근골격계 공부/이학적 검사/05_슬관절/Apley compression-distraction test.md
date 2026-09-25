@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Apley compression-distraction test
+title: Apley compression-distraction test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
-title: Apley compression-distraction test
-date: 2026-09-22
+aliases:
+  - Apley compression-distraction test
 ---
 # 🔁 Apley compression-distraction test → [[애플리 압박 검사]]
 

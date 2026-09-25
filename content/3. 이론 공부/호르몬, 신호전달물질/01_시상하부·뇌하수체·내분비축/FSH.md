@@ -1,14 +1,15 @@
 ---
+title: FSH
+created: 2026-09-08
+updated: 2026-09-24
+tags:
+  - 이론
+출처: "https://molecule-viewer-rho.vercel.app/?cid=16132364\""
 aliases:
   - FSH
   - 난포자극호르몬
   - Follicle-Stimulating Hormone
   - 여포자극호르몬
-tags:
-  - 이론
-title: FSH
-date: 2026-09-08
-출처: "https://molecule-viewer-rho.vercel.app/?cid=16132364\""
 ---
 # 🧪 [[FSH]] (Follicle-Stimulating Hormone / 난포자극호르몬)
 

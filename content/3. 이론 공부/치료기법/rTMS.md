@@ -1,14 +1,13 @@
 ---
-aliases: [반복 경두개 자기자극, rTMS, TMS, 경두개자기자극, Repetitive transcranial magnetic stimulation]
+title: rTMS
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 치료기법
   - 신경조절
   - 신경병증성통증
   - 재활
-created: 2026-09-18
-title: rTMS
-date: 2026-09-18
 출처: PMID 40252663
 ---
 # 📍 반복 경두개 자기자극 (Repetitive Transcranial Magnetic Stimulation, rTMS)

@@ -1,4 +1,14 @@
 ---
+title: Wright test
+created: 2026-09-24
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사
+  - 흉곽출구증후군
+  - 소흉근
+  - 정형외과
+출처: "DOI: 10.1016/0002-8703(45"
 aliases:
   - 라이트 검사
   - Wright test
@@ -7,15 +17,6 @@ aliases:
   - 과외전 수기
   - Wright's Maneuver
   - Wright Test
-tags:
-  - 근골격계
-  - 이학적검사
-  - 흉곽출구증후군
-  - 소흉근
-  - 정형외과
-title: Wright test
-date: 2026-09-24
-출처: "DOI: 10.1016/0002-8703(45"
 ---
 
 # 🩺 Wright test (라이트 검사 / 과외전 검사)

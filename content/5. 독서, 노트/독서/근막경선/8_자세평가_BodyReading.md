@@ -1,6 +1,5 @@
 ---
 title: "구조 분석 및 자세 평가 (BodyReading & Structural Analysis)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - biomechanics
   - thomas-myers
-date: 2026-09-04
+category: "근골격계 / 근막경선"
 ---
 
 # [[8_자세평가_BodyReading]](BodyReading & Structural Integration)

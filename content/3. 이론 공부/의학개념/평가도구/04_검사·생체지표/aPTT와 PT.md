@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: aPTT와 PT
+created: 2026-09-10
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 항응고
-created: 2026-09-10
+출처: PMID 39461388
 aliases:
   - activated partial thromboplastin time
   - 활성화부분트롬보플라스틴시간
   - 프로트롬빈시간
   - PT
   - INR
-title: aPTT와 PT
-date: 2026-09-10
-출처: PMID 39461388
+type: 의학개념
+category: 평가도구
 ---
 # aPTT와 PT (응고검사)
 

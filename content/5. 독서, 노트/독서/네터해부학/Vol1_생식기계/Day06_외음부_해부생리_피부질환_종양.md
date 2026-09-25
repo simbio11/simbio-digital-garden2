@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 6: The Vulva"
-day: 6
-section_pages: "pp. 110-127"
-total_plates: 18
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day06_외음부_해부생리_피부질환_종양
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -16,20 +11,25 @@ tags:
   - 생식기계
   - 피부질환
   - 성매개감염
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - 네터 생식기계 Day 06
   - 외음부
-status: completed
-created: 2026-09-16
-title: Day06_외음부_해부생리_피부질환_종양
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 6: The Vulva"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 6
+section_pages: "pp. 110-127"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 18
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 06: 외음부 - 해부·림프배액·피부병변·감염 및 악성종양학 (Section 6 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 110-127)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 6 전편 (Plate 6-1 ~ Plate 6-18, 총 18개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 110-127)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 6 전편 (Plate 6-1 ~ Plate 6-18, 총 18개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 여성 외음부 정밀 해부학(음핵 복합체, 질전정, 바르톨린선), 회음 구획 근막(Camper/Scarpa/Colles/Gallaudet) 및 골반격막 지지 구조, 외음부 림프 배액 체계(표재 대퇴 4개군 $\rightarrow$ 심서혜 Cloquet $\rightarrow$ 외장골), 혈관 주행과 수술 손상(알콕관, 천미골인대 고정술 출혈, 질벽 3·9시 동맥망), 비종양성 상피장애(경화태선 LS vs 편평상피 과형성 vs 단순태선 LSC vs 백반증), 감염 질환(소고기색 당뇨병성 외음염, 칸디다, 편모충증, 임질의 연령별 감수성, 매독 전대현상, 연성하감, LGV 홈 징후, 도노반증), 외음부 전정염(아세트산 질확대경, Q-tip 압통, 인터페론 요법), 외음부 낭종 체계(바르톨린선 도관 낭종, 피지낭종, 표피포함낭종, 너크관 낭종), 양성 종양(콘딜롬, 한선종, 요도 육구 vs 요도 탈출증 vs 요도암), 악성 종양(편평세포암 발생순위 및 uVIN/dVIN 이중경로, 기저세포암 rodent ulcer, 외음부 흑색종·육종, 신세포암/융모암 전이, 파제트병), 여성 할례(WHO 4대 분류, 기시리/안구리야 절개, 탈봉쇄술 및 재봉쇄 금지 규정).
 
 ---
@@ -208,10 +208,10 @@ date: 2026-09-21
 graph TD
  VulvaSkin["외음부 피부 / 대·소음순 / 질 하부 1/3"] --> SupFem["표재 대퇴(서혜) 림프절군<br>(천외음부·천복벽·복재·천장골회선)"]
  SupFem -->|대퇴근막 Fascia lata 관통| DeepFem["심서혜(대퇴) 림프절<br>(Cloquet / Rosenmüller Node)"]
- 
+
  Clitoris["음핵 Clitoris / 전정망울"] -.->|직접 배액 경로| DeepFem
  Clitoris -.->|서혜관 관통 직접 배액| ExtIliac["골반강 외장골 림프절 External Iliac"]
- 
+
  DeepFem --> ExtIliac
  ExtIliac --> CommonIliac["총장골 림프절 Common Iliac"]
  CommonIliac --> ParaAortic["대동맥주위 림프절 Para-aortic"]

@@ -1,17 +1,18 @@
 ---
+title: Golfer elbow test
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사/상지
+  - 정형외과/물리치료
+출처: "https://www.youtube.com/watch?v=u5H9iG8QhYA"
 aliases:
   - "골퍼 엘보 검사"
   - "역코젠 검사"
   - "Golfer's Elbow Test"
   - "Reverse Cozen's Test"
   - "Medial Epicondylitis Test"
-tags:
-  - 근골격계
-  - 이학적검사/상지
-  - 정형외과/물리치료
-title: Golfer elbow test
-date: 2026-09-15
-출처: "https://www.youtube.com/watch?v=u5H9iG8QhYA"
 ---
 
 # 🩺 [[Golfer elbow test]] (Golfer's Elbow Test / 역코젠 검사 / 골퍼 엘보 검사)

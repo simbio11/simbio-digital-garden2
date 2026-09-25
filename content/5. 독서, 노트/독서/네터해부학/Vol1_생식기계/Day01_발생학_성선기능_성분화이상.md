@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 1: Development of the Genital Tracts and Functional Relationships of the Gonads"
-day: 1
-section_pages: "pp. 2-18"
-total_plates: 15
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day01_발생학_성선기능_성분화이상
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -16,20 +11,25 @@ tags:
   - 내분비학
   - HPG축
   - 성분화이상
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - 네터 생식기계 Day 01
   - 생식기 발생학 및 성선축
-status: completed
-created: 2026-09-15
-title: Day01_발생학_성선기능_성분화이상
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 1: Development of the Genital Tracts and Functional Relationships of the Gonads"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 1
+section_pages: "pp. 2-18"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 15
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 01: 생식기 발생학, 성선 기능 축 및 성분화 이상 질환 (Section 1 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 2-18)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 1 전편 (Plate 1-1 ~ Plate 1-15)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 2-18)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 1 전편 (Plate 1-1 ~ Plate 1-15)
 > 📌 **핵심 테마**: 초기 성결정 유전학, 내·외생식기 상동기관 분화, 스테로이드 생합성, HPG 내분비 조절 축, 사춘기 발달 단계 및 DSD(성분화 질환) 감별
 
 ---
@@ -104,17 +104,17 @@ graph TD
     XY[46,XY 염색체] --> SRY[SRY 발현 - Yp HMG-box DNA Kinking]
     SRY --> SOX9[SOX9 / SF1 / FGF9 / FGFR2 활성화]
     SOX9 --> TestisDiff[고환 분화 확립]
-    
+
     TestisDiff --> Sertoli[Sertoli 세포]
     TestisDiff --> Leydig[Leydig 세포]
-    
+
     Sertoli --> AMH[AMH / MIS / MIF 분비]
     AMH --> DegenerateMullerian[뮐러관 퇴행: 자궁·난관 형성 차단]
     AMH --> QuiescentGerm[원시생식세포 휴지기 Quiescent 유지]
-    
+
     Leydig --> INSL3[INSL3 분비]
     INSL3 --> TestisDescent[Gubernaculum 수축: 복강내 1차 고환 이동]
-    
+
     Leydig --> Testo[Testosterone 분비]
     Testo --> Wolffian[볼프관 분화: 부고환·정관·정낭]
     Testo --> 5AR[5α-Reductase 변환]
@@ -157,7 +157,7 @@ graph TD
 | **요로생식동 (Urogenital sinus)** | 전립선(Prostate), 요도구선(Cowper gland / Bulbourethral gland) | 요도주위선(Skene duct/glands), 대전정선(Bartholin gland), 하부 질 (원위 1/5) | 전립선은 Skene선과 상동 (Plate 7-5 참조). 요도구선은 Bartholin선과 상동 (Plate 6-16 참조). 내배엽성으로 볼프관과 기원 다름 |
 | **고환도대 / 서혜주름 (Gubernaculum / Inguinal fold)** | 고환도대 (Scrotal ligament) | 자궁원인대 (Round lig.), 난소고유인대 (Ovarian lig.) | 고환 하강 및 자궁 위치 유지 |
 
-> ⚠️ **PMDS (지속성 뮐러관 증후군, Hernia Uteri Inguinale)**:  
+> ⚠️ **PMDS (지속성 뮐러관 증후군, Hernia Uteri Inguinale)**:
 > 표현형은 정상 남성이지만 AMH 결핍 또는 AMH 수용체 돌연변이로 자궁·난관이 복강/서혜부에 지속되는 질환. 잔존 뮐러관 구조가 고환을 복강 내에 계류(tether)시켜 음낭 하강을 방해하므로, 영아 서혜부 탈장(Inguinal hernia) 수술이나 잠복고환(Undescended testis) 정복술 중 우연히 발견됩니다.
 
 ---
@@ -217,11 +217,11 @@ graph LR
     Prog --> Andro[Androstenedione]
     DHEA --> Andro
     Andro -->|17β-HSD| Testo[Testosterone]
-    
+
     Testo -->|Aromatase CYP19A1| E2[Estradiol - 최강 활성]
     Andro -->|Aromatase CYP19A1| E1[Estrone - 폐경 후 주형태]
     E1 --> E3[Estriol - 태반/임신 특이, 최저 생물학적 역가]
-    
+
     Testo -->|5α-Reductase| DHT[DHT - 최강 안드로겐]
 ```
 
@@ -375,13 +375,13 @@ GnRH 또는 LH/FSH 분비 장애로 **테스토스테론 저하 + LH/FSH 저하 
 ```mermaid
 graph TD
     Precocious[남아 성조숙증 9세 미만] --> TestisSize{고환 촉진 크기 평가}
-    
+
     TestisSize -->|양측 대칭 증대 $\ge 4\text{ mL}$| CPP[진성 / 중추성 성조숙증 CPP]
     CPP --> CPP_Cause[시상하부-뇌하수체 조기 성숙<br>특발성 50% vs 제3뇌실 종양/과오종/혈종]
-    
+
     TestisSize -->|고환은 유아형인데 음경·음모만 발달| PPP[가성 / 말초성 성조숙증 PPP]
     PPP --> CAH_Adrenal[선천성 부신 과형성증 CAH<br>또는 부신피질 종양]
-    
+
     TestisSize -->|한쪽 고환만 불규칙 결절성 비대| LeydigTumor[Leydig 세포종<br>반대측 고환 위축]
 ```
 
@@ -492,13 +492,13 @@ graph TD
     DSD[성분화 질환 DSD 분류] --> TrueH[1. 난고환성 DSD<br>Ovotesticular DSD / 진성 반음양]
     DSD --> 46XY[2. 46,XY DSD<br>남성 가성반음양]
     DSD --> 46XX[3. 46,XX DSD<br>여성 가성반음양]
-    
+
     TrueH --> True_feat[난소와 고환 조직이 동일인에 공존<br>사배우자 키메라, SRY 이상 등]
-    
+
     46XY --> Dysgenesis[성선 이형성증: Swyer 증후군<br>Streak gonad, 자궁 존재, 암 위험]
     46XY --> 5AR_def[5α-Reductase 결핍증<br>사춘기 폭발적 남성화]
     46XY --> AIS[안드로겐 불감성 CAIS / Reifenstein<br>완전 여성 외형, 질 맹관, 잠복고환]
-    
+
     46XX --> CAH[선천성 부신 과형성증 CAH<br>21-OH 결핍 95%<br>음핵 비대, 염분소실 쇼크 위험]
     46XX --> Exogenous[외인성 안드로겐/Danazol 노출]
 ```

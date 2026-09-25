@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: PCSK9
+created: 2026-09-10
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 지질대사
   - 콜레스테롤
   - 스타틴
-created: 2026-09-10
+출처: PMID 39998703
 aliases:
   - Proprotein convertase subtilisin/kexin type 9
   - PCSK9 억제제
   - 전구단백질전환효소 9
-title: PCSK9
-date: 2026-09-10
-출처: PMID 39998703
+type: 의학개념
+category: 분자·세포 기전
 ---
 # PCSK9 (Proprotein convertase subtilisin/kexin type 9)
 

@@ -1,4 +1,11 @@
 ---
+title: Apprehension test
+created: 2026-09-14
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사/정형외과
+출처: "DOI: 10.2106/JBJS.D.02806"
 aliases:
   - "염려 검사"
   - "어깨 불안검사"
@@ -6,12 +13,6 @@ aliases:
   - "Shoulder Apprehension Test"
   - "Hip Apprehension Test"
   - "Crank Test"
-tags:
-  - 근골격계
-  - 이학적검사/정형외과
-title: Apprehension test
-date: 2026-09-14
-출처: "DOI: 10.2106/JBJS.D.02806"
 ---
 
 # 🩺 [[Apprehension test]] (Apprehension Test / 염려 검사 / 관절 불안검사)

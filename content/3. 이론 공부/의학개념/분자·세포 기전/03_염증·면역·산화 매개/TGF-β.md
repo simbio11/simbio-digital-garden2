@@ -1,6 +1,7 @@
 ---
 title: TGF-β
-date: 2026-09-04
+created: 2026-09-04
+updated: 2026-09-24
 tags:
   - 이론
 ---

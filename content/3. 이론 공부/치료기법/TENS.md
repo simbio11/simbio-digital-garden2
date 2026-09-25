@@ -1,5 +1,7 @@
 ---
-aliases: [TENS, 경피전기신경자극, 경피적 전기신경자극, Transcutaneous electrical nerve stimulation, 저주파 전기자극]
+title: TENS
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 치료기법
@@ -7,9 +9,6 @@ tags:
   - 신경조절
   - 신경병증성통증
   - 당뇨병성신경병증
-created: 2026-09-18
-title: TENS
-date: 2026-09-24
 출처: PMID 40253366
 ---
 # 📍 경피전기신경자극 (TENS, Transcutaneous Electrical Nerve Stimulation)

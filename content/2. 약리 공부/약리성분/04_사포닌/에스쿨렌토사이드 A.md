@@ -1,16 +1,17 @@
 ---
-aliases:
-  - Esculentoside A
-  - 에스쿨렌토사이드 A
+title: 에스쿨렌토사이드 A
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 약리
   - 약리성분
   - 사포닌
   - 항염증
   - 면역조절
-title: 에스쿨렌토사이드 A
-date: 2026-09-22
 출처: "https://molecule-viewer-rho.vercel.app/?cid=11657924\""
+aliases:
+  - Esculentoside A
+  - 에스쿨렌토사이드 A
 ---
 
 # 에스쿨렌토사이드 A (Esculentoside A)

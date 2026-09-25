@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 치료기법
+title: Mulligan MWM
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,16 +9,15 @@ tags:
   - MWM
   - 가동술
   - 외측상과염
-created: 2026-09-15
+출처: PMID 42095617
 aliases:
   - Mulligan
   - Mobilisation with Movement
   - MWM
   - 지속적 활주 기법
   - 통증 없는 가동술
-title: Mulligan MWM
-date: 2026-09-22
-출처: PMID 42095617
+type: 의학개념
+category: 치료기법
 ---
 # Mulligan MWM (Mobilisation With Movement)
 

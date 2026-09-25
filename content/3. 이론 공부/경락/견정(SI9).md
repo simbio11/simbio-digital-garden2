@@ -1,20 +1,20 @@
 ---
-aliases:
-  - 견정
-  - 肩貞
-  - SI9
-  - Jianzhen
-  - Small Intestine 9
+title: 견정(SI9)
+created: 2026-09-16
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
   - 수태양소장경
   - 경혈
   - 견관절
-created: 2026-09-16
-title: 견정(SI9)
-date: 2026-09-16
 출처: PMID 41496087
+aliases:
+  - 견정
+  - 肩貞
+  - SI9
+  - Jianzhen
+  - Small Intestine 9
 ---
 # 🌀 수태양소장경 [[견정]] (肩貞, SI9)
 

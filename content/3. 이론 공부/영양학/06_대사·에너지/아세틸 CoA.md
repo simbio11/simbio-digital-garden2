@@ -1,6 +1,7 @@
 ---
 title: 아세틸 CoA
-date: 2024-05-22
+created: 2024-05-22
+updated: 2026-09-24
 tags:
   - 이론
 ---

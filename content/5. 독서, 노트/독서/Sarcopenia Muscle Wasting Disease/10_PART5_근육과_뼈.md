@@ -1,20 +1,20 @@
 ---
-type: 의학원서_요약노트
-book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
-publisher: 대한근감소증학회
-section: "PART 5. 근육과 뼈"
-pages: "pp.311-338"
-chapters: ["Ch20", "Ch21", "Ch22", "Ch23"]
-source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+title: 10_PART5_근육과_뼈
+created: 2026-09-21
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - sarcopenia
   - 낙상
 status: completed
-created: 2026-09-21
-title: 10_PART5_근육과_뼈
-date: 2026-09-22
+type: 의학원서_요약노트
+section: "PART 5. 근육과 뼈"
+source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
+chapters: ["Ch20", "Ch21", "Ch22", "Ch23"]
+pages: "pp.311-338"
+publisher: 대한근감소증학회
 ---
 
 # 📑 [근감소증] PART 5. 근육과 뼈 (Muscle and Bone)
@@ -206,14 +206,14 @@ flowchart TD
     Stem["공통 중간엽 전구세포<br>(Mesenchymal Stem Cell)"]
     Stem --> Muscle["골격근 세포 (Myocyte)"]
     Stem --> Bone["조골세포 (Osteoblast)"]
-    
+
     subgraph Patho ["병태생리학적 상호작용 인자"]
         G["공유 유전적 소인 (43% 공통 유전 변이)<br>MC4R, FTO, TCF4, SLC8A1"]
         H["호르몬 고갈 (폐경 후 에스트로겐 급감)<br>RANKL 과다 & 골흡수 촉진"]
         M["기계적 무하중 (신체활동 저하)"]
         F["근육 내 지방 침착 (Myosteatosis)<br>& 근감소성 비만 (4~12%)"]
     end
-    
+
     Muscle & Bone --- Patho
     Patho --> OS["Osteosarcopenia<br>(근육량·근력 저하 + 골밀도·골질 저하)"]
     OS --> Outcome["중증 낙상 / 취약 골절 / 사망률 급증"]
@@ -472,12 +472,12 @@ flowchart TD
         E["저악력 (남 < 30kg, 여 < 20kg)"]
         F["높은 체지방률 (남 > 30%, 여 > 40%)"]
     end
-    
+
     subgraph Biomarkers ["신규 스크리닝 생체 지표"]
         JP["Jump Power (도약 파워)<br>• 남성 < 23.8 W/kg<br>• 여성 < 19.0 W/kg<br>→ 강력한 독립 예측력"]
         PhA["생체전기위상각 (Phase Angle)<br>• 남성 < 4.8°<br>• 여성 < 4.5°<br>→ BIA 기반 간편 선별 도구"]
     end
-    
+
     KURE -->|3개 이상 해당| Diag["Dysmobility Syndrome 진단 (유병률 20%)"]
     Diag <--> Biomarkers
 ```

@@ -1,17 +1,17 @@
 ---
-aliases: [추골동맥 개방성 검사, Vertebral Artery Patency Test, VBI 검사, 신전 회전 검사, Extension-Rotation Test, 클레인 검사, de Kleyn Test, 발렌베르크 검사]
+title: Vertebral artery patency test
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
   - 경추
   - 추골동맥
+출처: "DOI: 10.1016/j.math.2006.06.012"
 검사분류: 경추 추골동맥 혈류 개방성 및 추골뇌저동맥부전(VBI) 선별 검사
 대상관절_조직: "[[추골동맥]](Vertebral artery, V1~V4 분절), [[뇌저동맥]](Basilar artery), 경추 횡돌기공(Transverse foramen), 환추축추관절(C1-C2)"
 민감도: 0% ~ 20% (선별 민감도 낮아 위음성 주의, Kerry et al., 2006)
 특이도: 85% ~ 95% (혈류 유의미한 압박 시 5D 3N 징후 발현)
-title: Vertebral artery patency test
-date: 2026-09-22
-출처: "DOI: 10.1016/j.math.2006.06.012"
 ---
 
 # 🩺 [[Vertebral artery patency test]] (추골동맥 개방성 검사)

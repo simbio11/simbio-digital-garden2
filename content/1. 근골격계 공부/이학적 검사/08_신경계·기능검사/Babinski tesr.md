@@ -1,5 +1,7 @@
 ---
-aliases: [바빈스키 검사, 바빈스키 반사, 바빈스키 징후, 족저 반사, Babinski Test, Babinski Sign, Babinski Reflex, Babinski's Test, 바빈스키 반응, 피질척수로 병변 검사]
+title: Babinski tesr
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -7,13 +9,11 @@ tags:
   - 중추신경계
   - 상위운동신경원
   - 병적반사
+출처: "DOI: 10.1136/jnnp.73.4.360"
 검사분류: 상위운동신경원(UMN) 손상 및 피질척수로(Corticospinal tract) 병변 평가 병적 반사 검사
 대상관절_조직: "[[피질척수로]](Corticospinal tract / Pyramidal tract), [[상위운동신경원]](Upper motor neuron, UMN), [[장무지신근]](EHL), [[경골신경]](Tibial nerve, S1~S2)"
 민감도: "51% ~ 65% (급성 뇌졸중 및 척수 압박 환자에서 중등도 민감도)"
 특이도: "95% ~ 99% (성인에서 무지 배굴 및 족지 부채꼴 외전 관찰 시 극도로 높은 특이도)"
-title: Babinski tesr
-date: 2026-09-15
-출처: "DOI: 10.1136/jnnp.73.4.360"
 ---
 
 # 바빈스키 검사 (Babinski Sign / Babinski Reflex)

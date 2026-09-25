@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: 마이오스타틴(Myostatin)
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 호르몬
@@ -9,11 +10,9 @@ tags:
   - 근감소증
   - 생리학/호르몬
   - 분자생물학/신호전달
-created: 2026-09-22
-aliases: [Myostatin, GDF8, GDF-8, growth differentiation factor 8, 성장분화인자 8, 근육성장억제인자]
-title: 마이오스타틴(Myostatin)
-date: 2026-09-22
 출처: "PMID: 9139826"
+type: 의학개념
+category: 분자·세포 기전
 ---
 
 # 🧠 [[마이오스타틴]] (Myostatin, GDF-8)

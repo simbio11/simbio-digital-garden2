@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 1-DNJ
-  - 1-데옥시노지리마이신
-  - 1-Deoxynojirimycin
-  - 모라놀린
-  - Moranolin
+title: 1-DNJ
+created: 2026-09-10
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
@@ -12,9 +9,13 @@ tags:
   - 알파글루코시다아제억제제
   - 당뇨
   - 항바이러스
-title: 1-DNJ
-date: 2026-09-10
 출처: "https://molecule-viewer-rho.vercel.app/?cid=29435\""
+aliases:
+  - 1-DNJ
+  - 1-데옥시노지리마이신
+  - 1-Deoxynojirimycin
+  - 모라놀린
+  - Moranolin
 ---
 # 🔬 [[1-DNJ]] (1-Deoxynojirimycin, 1-데옥시노지리마이신)
 

@@ -1,5 +1,7 @@
 ---
-aliases: [켐프 검사, Kemp Test, Kemp's Test, Kemps Test, Lumbar Quadrant Test, 요추 사분면 검사, Extension-Rotation Test, 신전-회전 검사, Kemp test, Kemp's test]
+title: "Kemp test"
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -8,13 +10,11 @@ tags:
   - 추간판탈출증
   - 신경근병증
   - 척추관협착증
+출처: "PMID: 25202153"
 검사분류: 요추 및 신경근·후관절 유발 검사
 대상관절_조직: 요추 후관절(Zygapophyseal joint), 추간공(Intervertebral foramen), 요수신경근(Lumbar nerve root), 요추 추간판
 민감도: 50% ~ 70% (Lyle et al., 2005)
 특이도: 67% (Lyle et al., 2005; Stuber et al., 2014)
-title: "Kemp test"
-date: 2026-09-15
-출처: "PMID: 25202153"
 ---
 
 # Kemp test (켐프 검사 / Lumbar Quadrant Test)

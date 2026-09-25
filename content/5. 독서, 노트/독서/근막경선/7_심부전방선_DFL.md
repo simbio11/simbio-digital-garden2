@@ -1,6 +1,5 @@
 ---
 title: "심부전방선 (Deep Front Line, DFL)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - fascia
   - thomas-myers
-date: 2026-09-09
+category: "근골격계 / 근막경선"
 ---
 
 # [[7_심부전방선_DFL]](Deep Front Line)

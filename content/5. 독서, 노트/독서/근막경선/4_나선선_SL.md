@@ -1,6 +1,5 @@
 ---
 title: "나선선 (Spiral Line, SL)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - fascia
   - thomas-myers
-date: 2026-09-22
+category: "근골격계 / 근막경선"
 ---
 
 # [[4_나선선_SL]](Spiral Line)

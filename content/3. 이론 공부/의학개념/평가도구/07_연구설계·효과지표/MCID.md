@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: MCID
+created: 2026-09-07
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 임상연구
   - 통계
-created: 2026-09-07
+출처: PMID 38950397
 aliases:
   - Minimal Clinically Important Difference
   - MCID
   - 최소 임상적 중요 차이
   - 최소 임상적으로 중요한 차이
-title: MCID
-date: 2026-09-24
-출처: PMID 38950397
+type: 의학개념
+category: 평가도구
 ---
 # MCID (Minimal Clinically Important Difference, 최소 임상적 중요 차이)
 

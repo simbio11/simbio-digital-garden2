@@ -1,11 +1,12 @@
 ---
-type: 의학개념
-category: 평가도구
+title: 압통역치(PPT)
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 평가도구
-created: 2026-09-15
+출처: PMID 42095617
 aliases:
   - Pressure Pain Threshold
   - PPT
@@ -14,9 +15,8 @@ aliases:
   - 압통계
   - Algometry
   - PPT 측정
-title: 압통역치(PPT)
-date: 2026-09-21
-출처: PMID 42095617
+type: 의학개념
+category: 평가도구
 ---
 # 압통역치 (Pressure Pain Threshold, PPT)
 

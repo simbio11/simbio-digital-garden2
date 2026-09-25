@@ -1,9 +1,9 @@
 ---
-aliases: [NFE2L2, Nrf2전사인자, Keap1-Nrf2]
+title: Nrf2
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 약리
-title: Nrf2
-date: 2026-09-22
 출처: "PMID: 30820593"
 ---
 # 💊 [[Nrf2]] (Nuclear Factor Erythroid 2-Related Factor 2)
@@ -49,7 +49,7 @@ date: 2026-09-22
 graph TD
     BasalState["기저 상태 (Homeostasis)"] --> Keap1Binding["Keap1-Cul3 복합체가 Nrf2 결합"]
     Keap1Binding --> Ubiquitination["프로테아좀 유비퀴틴화 분해"]
-    
+
     StressEvent["산화 스트레스 / 친전자체 / 파이토케미컬 자극"] --> CysteineModify["Keap1의 반응성 시스테인 잔기(C151) 산화 변형"]
     CysteineModify --> Nrf2Release["Nrf2 해리 및 유비퀴틴화 정지 $\rightarrow$ 단백질 축적"]
     Nrf2Release --> NuclearTranslocate["안정화된 Nrf2가 세포핵 내로 이동"]

@@ -1,16 +1,16 @@
 ---
-aliases: [크레이그 검사, Craig Test, Craig's Test, 대퇴전념후념 검사, 대퇴골 염전각 검사, Femoral Torsion Test, 트로칸터 검사]
+title: Craig test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 고관절
+출처: "PMID: 1634572"
 검사분류: 대퇴골 비틀림(Torsion) 및 대퇴전념각(Femoral Anteversion Angle) 정량 계측 검사
 대상관절_조직: "[[대퇴골두]](Femoral head), [[대퇴골경부]](Femoral neck), 대전자(Greater trochanter), [[관골구]](Acetabulum), 슬관절"
 민감도: 80% ~ 89% (3D-CT 고관절 염전각 계측 대비 높은 임상 일치도)
 특이도: 84% ~ 92% (정상 8~15° 범위 벗어난 전념/후념 판별 시)
-title: Craig test
-date: 2026-09-22
-출처: "PMID: 1634572"
 ---
 
 # 🩺 [[Craig test]] (크레이그 검사 / 대퇴전념후념 검사)

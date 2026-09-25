@@ -1,15 +1,16 @@
 ---
-aliases:
-  - Ginsenoside Rg1
-  - 진세노사이드 Rg1
+title: 진세노사이드 Rg1
+created: 2026-09-08
+updated: 2026-09-25
 tags:
   - 약리
   - 약리성분
   - 사포닌
   - 인지기능
-title: 진세노사이드 Rg1
-date: 2026-09-08
 출처: "https://molecule-viewer-rho.vercel.app/?cid=441923\""
+aliases:
+  - Ginsenoside Rg1
+  - 진세노사이드 Rg1
 ---
 
 # 진세노사이드 Rg1 (Ginsenoside Rg1)

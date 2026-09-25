@@ -1,15 +1,16 @@
 ---
+title: TRPM8
+created: 2026-09-04
+updated: 2026-09-24
+tags:
+  - 이론
+  - 분자기전
+  - 박하
 aliases:
   - Transient receptor potential melastatin 8
   - 냉각수용체
   - 멘톨수용체
   - TRPM8 채널
-tags:
-  - 이론
-  - 분자기전
-  - 박하
-title: TRPM8
-date: 2026-09-04
 ---
 
 # TRPM8 (Transient Receptor Potential Melastatin 8)

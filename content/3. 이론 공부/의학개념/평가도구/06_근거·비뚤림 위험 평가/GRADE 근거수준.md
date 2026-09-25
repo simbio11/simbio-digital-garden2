@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: GRADE 근거수준
+created: 2026-09-11
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,16 +9,15 @@ tags:
   - 임상연구
   - 메타분석
   - 가이드라인
-created: 2026-09-11
+출처: PMID 41085000
 aliases:
   - GRADE
   - Grading of Recommendations Assessment Development and Evaluation
   - 근거의 확실성
   - 근거 수준 평가
   - certainty of evidence
-title: GRADE 근거수준
-date: 2026-09-13
-출처: PMID 41085000
+type: 의학개념
+category: 평가도구
 ---
 # GRADE 근거수준 (Grading of Recommendations Assessment, Development and Evaluation)
 

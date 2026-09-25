@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 9: Fallopian Tubes"
-day: 9
-section_pages: "pp. 188-200"
-total_plates: 13
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day09_난관_해부생리_난관염_골반염증성질환_난관암
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -14,20 +9,25 @@ tags:
   - 해부학
   - 산부인과
   - 생식기계
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 09"
   - "난관"
-status: completed
-created: 2026-09-16
-title: Day09_난관_해부생리_난관염_골반염증성질환_난관암
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 9: Fallopian Tubes"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 9
+section_pages: "pp. 188-200"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 13
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 09: 난관 - 해부·수정생리·난관염·골반염증성질환·수종 및 난관암 (Section 9 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 188-200)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 9 전편 (Plate 9-1 ~ Plate 9-13, 총 13개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 188-200)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 9 전편 (Plate 9-1 ~ Plate 9-13, 총 13개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 난관 4대 구역 해부학(간질부·협부·팽대부·채부) 및 수정 생리학, 난관동(Tubal antrum)과 난관 괄약근(Sphincter), 3층 평활근 및 발기양 난관채(Erectile-like fimbria), 섬모세포 vs 분비세포 vs 못세포(Peg cell) 미세조직학, 뮐러관 선천 기형(결손·폐쇄·DES 노출·발타르 세포 잔유물 Walthard cell rests), 점막상행성 골반염증성질환(PID - 임균/클라미디아/다균성 복합감염)과 자궁방결합직염(Parametritis 쐐기형 침윤), 난관축농증(Pyosalpinx, 콜레스테롤 결석 및 천공 위험) $\rightarrow$ 난관수종(단순형 vs 가성여포형) 및 시험관아기(IVF) 착상 억제 독성, 골반복막염의 방어벽(S상결장·대망 지붕)과 영구적 자궁후굴, 만성 난관염 폐쇄 7대 형태학, 난관난소농양(TOA)과 난관난소낭종(Tubo-ovarian cyst), 결핵성 난관염(염주알형 Rosary form, 담배쌈지채부, 폐경 후 10%), 결절성 협부 난관염(SIN, 자궁내막증과의 세포원성 기질 유무 감별, 자궁외임신 50% 동반), 원발성 난관암(STIC 기원론, 50% 질출혈, 10~40% Pap 이상, BRCA 17%), 광인대 배아 잔유 낭종(에포오포론·모르가니 수포) 및 골반 포충낭종(Echinococcus hydatid cyst) 감별
 
 ---
@@ -447,13 +447,13 @@ plates_info = [
 for plate_id, plate_title in plates_info:
     target_page = None
     search_term = f"Plate 9-{plate_id.split('-')[1]}"
-    
+
     for page_num in range(len(doc)):
         text = doc[page_num].get_text()
         if search_term in text or plate_title.lower() in text.lower():
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 상당

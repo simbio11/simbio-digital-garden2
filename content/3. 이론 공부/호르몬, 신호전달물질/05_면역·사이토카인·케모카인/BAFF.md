@@ -1,6 +1,7 @@
 ---
 title: BAFF
-date: 2026-09-22
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
 출처: "https://www.uniprot.org/uniprotkb/Q9Y275"

@@ -1,19 +1,19 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: CYP3A4
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - PXR
   - P-gp
-created: 2026-09-03
+출처: "PMID: 39461388"
 aliases:
   - Cytochrome P450 3A4
   - CYP3A4/P-gp
   - PXR
-title: CYP3A4
-date: 2026-09-17
-출처: "PMID: 39461388"
+type: 의학개념
+category: 분자·세포 기전
 ---
 # CYP3A4 (약물대사 효소와 유도·억제)
 

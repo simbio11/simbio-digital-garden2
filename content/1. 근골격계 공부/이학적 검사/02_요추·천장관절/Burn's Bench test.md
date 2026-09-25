@@ -1,20 +1,19 @@
 ---
+title: "Burn's Bench test"
+created: "2024-02-27"
+updated: "2026-09-14"
+tags:
+  - 근골격계
+  - 이학적검사
+  - 요추
+  - 꾀병감별
+출처: "https://www.youtube.com/watch?v=zKhNwkJ1E3I"
 aliases:
   - "Burn's Bench Test"
   - "번스 벤치 검사"
   - "번 벤치 검사"
   - "Kneeling Bench Test"
   - "무릎 꿇기 벤치 검사"
-tags:
-  - 근골격계
-  - 이학적검사
-  - 요추
-  - 꾀병감별
-created: "2024-02-27"
-updated: "2026-09-14"
-title: "Burn's Bench test"
-date: 2026-09-16
-출처: "https://www.youtube.com/watch?v=zKhNwkJ1E3I"
 ---
 
 # 번스 벤치 검사 (Burn's Bench Test)

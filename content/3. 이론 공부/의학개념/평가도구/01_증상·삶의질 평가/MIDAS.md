@@ -1,21 +1,21 @@
 ---
-type: 의학개념
-category: 평가도구
+title: MIDAS
+created: 2026-09-11
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 두통
   - 편두통
   - 장애평가
-created: 2026-09-11
+출처: PMID 39198866
 aliases:
   - Migraine Disability Assessment
   - MIDAS
   - 편두통 장애평가
   - 미다스
-title: MIDAS
-date: 2026-09-11
-출처: PMID 39198866
+type: 의학개념
+category: 평가도구
 ---
 # MIDAS (Migraine Disability Assessment, 편두통 장애평가)
 

@@ -1,13 +1,14 @@
 ---
-type: 의학개념
-category: 경락·경혈
+title: 관원(CV4)
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 경혈
   - 임맥
   - 복부
   - 침구
-created: 2026-09-22
+출처: PMID 41194515
 aliases:
   - CV4
   - Guanyuan
@@ -15,9 +16,8 @@ aliases:
   - 하기해
   - 下氣海
   - 단전
-title: 관원(CV4)
-date: 2026-09-22
-출처: PMID 41194515
+type: 의학개념
+category: 경락·경혈
 ---
 
 # 🫁 [[경락/임맥/관원]] (Guanyuan, CV4)

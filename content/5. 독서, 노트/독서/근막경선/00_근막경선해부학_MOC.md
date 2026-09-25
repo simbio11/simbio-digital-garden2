@@ -1,6 +1,5 @@
 ---
 title: "근막경선 해부학 (Anatomy Trains) MOC"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -9,7 +8,7 @@ tags:
   - fascia
   - biomechanics
   - moc
-date: 2026-09-23
+category: "근골격계 / 근막경선"
 ---
 
 # [[00_근막경선해부학_MOC]]

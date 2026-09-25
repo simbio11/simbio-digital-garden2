@@ -1,12 +1,13 @@
 ---
 title: MIP-1β
-date: 2026-09-22
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
+출처: "https://www.uniprot.org/uniprotkb/P13236"
 aliases:
   - MIP-1B
   - CCL4
-출처: "https://www.uniprot.org/uniprotkb/P13236"
 ---
 
 # MIP-1β (CCL4)

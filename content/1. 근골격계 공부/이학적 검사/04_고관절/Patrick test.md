@@ -1,4 +1,15 @@
 ---
+title: Patrick test
+created: 2026-09-15
+updated: 2026-09-25
+tags:
+  - 근골격계
+  - 이학적검사
+  - 고관절
+  - 골반
+  - 천장관절
+  - 퇴행성관절염
+출처: "PMID: 9642646"
 aliases:
   - 패트릭 검사
   - 페트릭 검사
@@ -8,16 +19,6 @@ aliases:
   - 파버 검사
   - 4자 검사
   - Figure-of-4 Test
-tags:
-  - 근골격계
-  - 이학적검사
-  - 고관절
-  - 골반
-  - 천장관절
-  - 퇴행성관절염
-title: Patrick test
-date: 2026-09-15
-출처: "PMID: 9642646"
 ---
 
 # 패트릭 검사 (Patrick's Test / FABER Test)
@@ -44,7 +45,7 @@ flowchart TD
 
 ## 1. 검사 개요 (Test Overview)
 
-* **검사 목적**: 
+* **검사 목적**:
   1. [[고관절]](Hip joint)의 관절내 병변([[퇴행성 관절염]], [[대퇴골두 무혈성 괴사]], 대퇴비구 충돌 증후군, 관절순 파열) 유발 평가.
   2. [[천장관절]](Sacroiliac joint, SIJ)의 염증, 관절 기능부전 및 천장인대 염좌 감별.
   3. [[장요근]](Iliopsoas) 및 고관절 내전근 복합체의 단축 및 구축 선별.

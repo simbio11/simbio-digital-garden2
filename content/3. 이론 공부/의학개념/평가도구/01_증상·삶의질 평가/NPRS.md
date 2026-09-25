@@ -1,13 +1,14 @@
 ---
-type: 의학개념
-category: 평가도구
+title: NPRS
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 통증평가
   - PROM
   - 임상시험
-created: 2026-09-22
+출처: "PMID: 38676324"
 aliases:
   - NPRS
   - NRS
@@ -15,9 +16,8 @@ aliases:
   - Numeric Rating Scale
   - 숫자통증등급
   - 통증 숫자평가척도
-title: NPRS
-date: 2026-09-22
-출처: "PMID: 38676324"
+type: 의학개념
+category: 평가도구
 ---
 # NPRS (Numerical Pain Rating Scale, 숫자통증등급)
 

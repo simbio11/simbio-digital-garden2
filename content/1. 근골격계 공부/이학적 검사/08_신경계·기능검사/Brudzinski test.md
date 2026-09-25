@@ -1,18 +1,18 @@
 ---
-aliases: [브루진스키 검사, Brudzinski Test, Brudzinski's Sign, 브루진스키 징후, 경부 브루진스키 징후]
+title: Brudzinski test
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
   - 신경학
   - 수막자극징후
   - 지주막하출혈
+출처: "DOI: 10.1086/340979"
 검사분류: 수막 자극 징후(Meningeal Irritation Sign) 유발 검사
 대상관절_조직: "[[뇌경막]](Cerebral dura mater), [[척수경막]](Spinal dura mater), [[지주막]](Arachnoid mater), 경추 신경근"
 민감도: 5% ~ 18% (단독 선별 시 낮음, Thomas et al., 2002)
 특이도: 95% ~ 100% (양성 판정 시 수막 감염/출혈 확진적 가치)
-title: Brudzinski test
-date: 2026-09-22
-출처: "DOI: 10.1086/340979"
 ---
 
 # 🩺 [[Brudzinski test]] (브루진스키 검사)

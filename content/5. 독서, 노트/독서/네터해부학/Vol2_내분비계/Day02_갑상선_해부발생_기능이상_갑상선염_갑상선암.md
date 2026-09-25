@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 2: The Endocrine System"
-section: "Section 2: Thyroid"
-day: 2
-section_pages: "pp. 36-63"
-total_plates: 28
-source_file: "The Netter Collection of Medical Illustrations - Volume 2, The Endocrine System.pdf"
-source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+title: Day02_갑상선_해부발생_기능이상_갑상선염_갑상선암
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -16,20 +11,25 @@ tags:
   - 갑상선
   - 갑상선기능항진증
   - 갑상선기능저하증
+status: completed
+출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
 aliases:
   - "네터 내분비계 Day 02"
   - "갑상선"
-status: completed
-created: 2026-09-17
-title: Day02_갑상선_해부발생_기능이상_갑상선염_갑상선암
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 2: Thyroid"
+source_file: "The Netter Collection of Medical Illustrations - Volume 2, The Endocrine System.pdf"
+day: 2
+section_pages: "pp. 36-63"
+source_url: "https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk"
+total_plates: 28
+volume: "Volume 2: The Endocrine System"
 ---
 
 # 📑 [Netter Vol.2] Day 02: 갑상선 - 해부발생·호르몬생리·그레이브스병·갑상선염·결절 및 갑상선암 종양학 (Section 2 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 2, The Endocrine System.pdf (pp. 36-63)](https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 2 전편 (Plate 2-1 ~ Plate 2-28, 총 28개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 2, The Endocrine System.pdf (pp. 36-63)](https://drive.google.com/file/d/1TnVzK8w2Nm2lU3SzGlFBLguBf8pjaMkt/view?usp=drivesdk)
+> 🏷️ **범위**: Section 2 전편 (Plate 2-1 ~ Plate 2-28, 총 28개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 갑상선 외과적 해부학(되돌이후두신경 RLN 및 상후두신경 외측지 EBSLN 손상 방지), 맹공(Foramen cecum) 유래 갑상설관(Thyroglossal duct) 하강 발생학 및 선천 기형(갑상설관 낭종, 설갑상선), 갑상선호르몬 합성 5단계(NIS 요오드 포획, TPO 유기화 및 결합, 티로그로불린 음세포작용)와 탈요오드화 효소(D1/D2/D3) 말초 대사, 자가면역성 그레이브스병(TSI/TRAb 매개 미만성 증식, 안병증 GAG 침착 메커니즘, 갑상선 중독 발작 Thyroid storm), 중독성 선종(플러머병 Plummer disease 체세포 TSHR/Gsα 변이), 갑상선기능저하증 전신 병태생리(완태성 건반사, 점액수종 혼수 Myxedema coma, 신생아 크레틴병 Cretinism 선별검사), 정상기능성/비독성 갑상선종(흉골하 갑상선종 Substernal goiter 및 Pemberton 징후), 3대 갑상선염 정밀 감별(하시모토 림프구성 갑상선염 Hürthle 세포, 아급성 육아종성 드퀘르벵 경부 동통 및 ESR 급증, 리델 섬유성 갑상선염 IgG4 목석 경화), 그리고 5대 갑상선 악성종양학(유두암 PTC 핵내 봉입체/사종체, 여포암 FTC 혈관·피막 침윤 필수 판정, 수질암 MTC C세포 유래 칼시토닌 및 아밀로이드 침착/RET 변이, 역형성암 ATC 전격성 기도 폐색, 신세포암 유래 전이암).
 
 ---
@@ -114,7 +114,7 @@ graph LR
     subgraph 갑상선 혈관 및 손상 신경 매핑
         STA[상갑상선동맥 Superior Thyroid a.] ---|근접 주행| EBSLN[상후두신경 외측지 EBSLN]
         EBSLN -->|손상 시| Pitch[윤상갑상근 마비: 고음 발성 장애]
-        
+
         ITA[하갑상선동맥 Inferior Thyroid a.] ---|교차 주행| RLN[되돌이후두신경 RLN]
         RLN -->|일측 손상| Hoarse[성대 마비: 쉰목소리 Hoarseness]
         RLN -->|양측 손상| Stridor[성대 정중고정: 급성 기도폐색 질식]
@@ -518,14 +518,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate2-", "")
     search_terms = [f"Plate 2-{num_suffix}", f"2-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 고해상도

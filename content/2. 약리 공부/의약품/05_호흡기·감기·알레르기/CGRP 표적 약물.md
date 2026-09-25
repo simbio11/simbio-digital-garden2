@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 양방 약
+title: CGRP 표적 약물
+created: 2026-09-04
+updated: 2026-09-24
 tags:
   - 약리
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - CGRP
   - gepant
   - 예방요법
-created: 2026-09-04
+출처: PMID 42673559
 aliases:
   - CGRP 표적 약물
   - 항CGRP 단일클론항체
   - Gepant
   - CGRP monoclonal antibody
-title: CGRP 표적 약물
-date: 2026-09-11
-출처: PMID 42673559
+type: 의학개념
+category: 양방 약
 ---
 # CGRP 표적 약물 (항-CGRP 단일클론항체·gepant)
 

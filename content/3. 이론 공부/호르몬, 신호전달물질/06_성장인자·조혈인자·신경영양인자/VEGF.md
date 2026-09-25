@@ -1,6 +1,7 @@
 ---
 title: VEGF
-date: 2026-09-08
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
 출처: "https://molecule-viewer-rho.vercel.app/?cid=16132488\""

@@ -1,17 +1,17 @@
 ---
-aliases: [요만 검사, 요만스 검사, Yeoman Test, Yeoman's Test, 천장관절 과신전 검사, 전방 천장인대 스트레스 검사]
+title: "Yeoman's test"
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 골반
   - 천장관절
+출처: "DOI: 10.1016/S0140-6736(00"
 검사분류: 천장관절 병변 선별 및 전방 천장인대 인장 스트레스 검사
 대상관절_조직: "[[천장관절]](SI joint), [[전방 천장인대]](Anterior sacroiliac ligament), [[대퇴신경]](Femoral nerve, L2~L4), [[대퇴직근]](Rectus femoris)"
 민감도: "45% ~ 58% (단독 시행 시 중간 민감도)"
 특이도: "75% ~ 84% (PSIS 골반 고정 후 천장관절 국소 통증 재현 시)"
-title: "Yeoman's test"
-date: 2026-09-15
-출처: "DOI: 10.1016/S0140-6736(00"
 ---
 
 # 요만 검사 (Yeoman's Test)

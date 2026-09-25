@@ -1,18 +1,18 @@
 ---
-type: 의학개념
-category: 평가도구
+title: SARC-CalF
+created: 2026-09-12
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 근감소증
   - 노인
-created: 2026-09-12
+출처: "PMID: 30312372"
 aliases:
   - SARC-CalF
   - SARC-F with calf circumference
-title: SARC-CalF
-date: 2026-09-12
-출처: "PMID: 30312372"
+type: 의학개념
+category: 평가도구
 ---
 # SARC-CalF (SARC-F + 종아리둘레)
 

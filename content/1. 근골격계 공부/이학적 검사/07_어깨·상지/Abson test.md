@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 앧슨 테스트
-  - 애드슨 검사
-  - Adson test
-  - Adson's Maneuver
-  - 애드슨 징후
+title: Abson test
+created: 2026-09-24
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -12,9 +9,13 @@ tags:
   - 상완신경총
   - 사각근
   - 정형외과
-title: Abson test
-date: 2026-09-24
 출처: "https://www.youtube.com/watch?v=-7346RaEGKU"
+aliases:
+  - 앧슨 테스트
+  - 애드슨 검사
+  - Adson test
+  - Adson's Maneuver
+  - 애드슨 징후
 ---
 
 # 🩺 Abson test (애드슨 검사 / Adson Test)

@@ -1,15 +1,16 @@
 ---
+title: Compression-rotation test
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사/정형외과
+출처: "DOI: 10.1016/0749-8063(90"
 aliases:
   - "압박 회전 검사"
   - "슬랩 검사"
   - "Compression Rotation Test"
   - "SLAP Compression Rotation Test"
-tags:
-  - 근골격계
-  - 이학적검사/정형외과
-title: Compression-rotation test
-date: 2026-09-15
-출처: "DOI: 10.1016/0749-8063(90"
 ---
 
 # 🩺 [[Compression-rotation test]] (Compression-Rotation Test / 압박 회전 검사 / 슬랩 검사)

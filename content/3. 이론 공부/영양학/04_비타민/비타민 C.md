@@ -1,6 +1,7 @@
 ---
 title: 비타민 C
-date: 2024-05-23
+created: 2024-05-23
+updated: 2026-09-24
 tags:
   - 이론
 ---

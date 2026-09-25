@@ -1,15 +1,16 @@
 ---
+title: MMP-13
+created: 2026-09-22
+updated: 2026-09-24
+tags:
+  - 약리
+  - 골관절염
+출처: "PMID: 15570070"
 aliases:
   - MMP-13
   - 콜라게나아제-3
   - Collagenase-3
   - Matrix Metalloproteinase-13
-tags:
-  - 약리
-  - 골관절염
-title: MMP-13
-date: 2026-09-22
-출처: "PMID: 15570070"
 ---
 
 # MMP-13 (Matrix Metalloproteinase-13, 콜라게나아제-3)

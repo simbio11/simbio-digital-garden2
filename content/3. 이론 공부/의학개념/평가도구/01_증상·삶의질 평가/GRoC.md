@@ -1,13 +1,14 @@
 ---
-type: 의학개념
-category: 평가도구
+title: GRoC
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 연구설계
   - MCID
   - 임상시험
-created: 2026-09-22
+출처: "PMID: 38676324"
 aliases:
   - GRoC
   - Global Rating of Change
@@ -15,9 +16,8 @@ aliases:
   - 전반적 변화 평가지수
   - Patient Global Impression of Change
   - PGIC
-title: GRoC
-date: 2026-09-22
-출처: "PMID: 38676324"
+type: 의학개념
+category: 평가도구
 ---
 # GRoC (Global Rating of Change, 주관적 변화 총평)
 

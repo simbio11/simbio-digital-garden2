@@ -1,14 +1,15 @@
 ---
-aliases:
-  - Sennoside A
-  - 센노사이드 A
+title: 센노사이드 A
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 대황
-title: 센노사이드 A
-date: 2026-09-21
 출처: "https://molecule-viewer-rho.vercel.app/?cid=73111\""
+aliases:
+  - Sennoside A
+  - 센노사이드 A
 ---
 
 # 🔬 센노사이드 A (Sennoside A)

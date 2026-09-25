@@ -1,10 +1,11 @@
 ---
-aliases:
-  - methionine
+title: methionine
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
-title: methionine
-date: 2026-09-22
+aliases:
+  - methionine
 ---
 # 🔁 methionine → [[메티오닌]]
 

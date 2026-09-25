@@ -1,6 +1,7 @@
 ---
-type: 약리노트
-category: 양방약
+title: Tibolone
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 약리
   - 약리/양방약
@@ -8,11 +9,9 @@ tags:
   - 폐경
   - 스테로이드
   - 골다공증
-created: 2026-09-22
-aliases: [티볼론, Tibolone, Livial, 리비알, 티볼론정]
-title: Tibolone
-date: 2026-09-22
 출처: PMID 9881330
+type: 약리노트
+category: 양방약
 ---
 
 # 💊 [[티볼론]] (Tibolone, Livial, ATC G03CX01)

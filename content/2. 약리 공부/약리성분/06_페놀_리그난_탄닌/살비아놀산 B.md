@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Salvianolic acid B
-  - Sal B
-  - 살비아놀산B
-  - 살비아놀산 B
+title: 살비아놀산 B
+created: 2026-09-21
+updated: 2026-09-25
 tags:
   - 약리
   - 약리성분
@@ -12,9 +10,12 @@ tags:
   - 활혈거어
   - 항섬유화
   - 심혈관보호
-title: 살비아놀산 B
-date: 2026-09-21
 출처: "PMID: 42331637"
+aliases:
+  - Salvianolic acid B
+  - Sal B
+  - 살비아놀산B
+  - 살비아놀산 B
 ---
 
 # 🔬 살비아놀산 B (Salvianolic Acid B)

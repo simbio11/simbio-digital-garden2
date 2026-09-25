@@ -1,15 +1,16 @@
 ---
+title: 5-LOX
+created: 2026-09-08
+updated: 2026-09-25
+tags:
+  - 이론
+출처: "https://molecule-viewer-rho.vercel.app/?cid=5280492\""
 aliases:
   - 5-LOX
   - 5-Lipoxygenase
   - 5-리폭시게나아제
   - 5-리폭시게나제
   - ALOX5
-tags:
-  - 이론
-title: 5-LOX
-date: 2026-09-08
-출처: "https://molecule-viewer-rho.vercel.app/?cid=5280492\""
 ---
 # 🧬 [[5-LOX]] (5-Lipoxygenase / 5-리폭시게나아제)
 

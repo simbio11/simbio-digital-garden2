@@ -1,17 +1,17 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: mTOR
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - mTORC1
-created: 2026-09-03
+출처: "PMID: 40846463"
 aliases:
   - mechanistic Target Of Rapamycin
   - mTORC1
-title: mTOR
-date: 2026-09-16
-출처: "PMID: 40846463"
+type: 의학개념
+category: 분자·세포 기전
 ---
 # mTOR (mammalian Target of Rapamycin)
 

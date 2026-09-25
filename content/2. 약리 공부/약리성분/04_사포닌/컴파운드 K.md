@@ -1,15 +1,16 @@
 ---
+title: 컴파운드 K
+created: 2026-09-22
+updated: 2026-09-25
+tags:
+  - 약리
+  - 항암
+출처: "https://molecule-viewer-rho.vercel.app/?cid=9852086\""
 aliases:
   - 컴파운드 K
   - Compound K
   - 컴파운드K
   - CK
-tags:
-  - 약리
-  - 항암
-title: 컴파운드 K
-date: 2026-09-22
-출처: "https://molecule-viewer-rho.vercel.app/?cid=9852086\""
 ---
 
 # 컴파운드 K (Compound K, CK)

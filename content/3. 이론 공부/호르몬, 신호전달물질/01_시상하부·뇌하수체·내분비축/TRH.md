@@ -1,17 +1,18 @@
 ---
-aliases:
-  - Thyrotropin-Releasing Hormone
-  - 갑상선자극호르몬방출호르몬
-  - Protirelin
-  - Thyroliberin
+title: TRH
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 약리성분
   - 호르몬
   - 시상하부
-title: TRH
-date: 2026-09-08
 출처: "https://pubchem.ncbi.nlm.nih.gov/compound/638678"
+aliases:
+  - Thyrotropin-Releasing Hormone
+  - 갑상선자극호르몬방출호르몬
+  - Protirelin
+  - Thyroliberin
 ---
 
 # 🧠 TRH (Thyrotropin-Releasing Hormone, 갑상선자극호르몬방출호르몬)

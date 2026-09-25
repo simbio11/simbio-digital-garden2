@@ -1,26 +1,26 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol. 3, 2nd ed.)"
-section: "Section 2: Physiology: Pulmonary Mechanics and Gas Exchange"
-day: 2
-section_pages: "pp. 49-79"
-total_plates: 31
-source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
-source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+title: Day02_호흡생리_폐역학_가스교환_환기혈류비_호흡조절
+created: 2026-09-18
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 호흡기학
   - 폐기능검사
+status: completed
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 aliases:
   - "Netter Respiratory Day 02"
   - "Netter 호흡생리학"
   - "Pulmonary Physiology Master Note"
-status: completed
-created: 2026-09-18
-title: Day02_호흡생리_폐역학_가스교환_환기혈류비_호흡조절
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 2: Physiology: Pulmonary Mechanics and Gas Exchange"
+source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
+day: 2
+section_pages: "pp. 49-79"
+source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+total_plates: 31
+volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol. 3, 2nd ed.)"
 ---
 
 # Netter Respiratory Day 02: 호흡 생리학 (Pulmonary Physiology) — 폐역학·가스교환·환기혈류비·혈관대사·호흡조절 (pp. 49–79)
@@ -162,7 +162,7 @@ graph LR
         A1[폐포압 Palv = +30<br>흉막압 +20 + 탄성반발압 +10] -->|공기 흐름에 따른 마찰 압력 강하| A2[등압점 EPP: Paw = +20<br>연골성 기관지에 위치]
         A2 --> A3[구강 쪽: Paw < +20<br>연골 골격이 압박을 방어하여 기도 개방 유지]
     end
-    
+
     subgraph 폐기종 (Emphysema)
         B1[폐포압 Palv = +23<br>흉막압 +20 + 탄성반발압 +3 결손!] -->|압력 강하| B2[등압점 EPP: Paw = +20<br>말초 무연골 소기관지로 조기 상류 이동]
         B2 --> B3[하류 부위: 흉막압 +20 > 기도내압<br>연골 없는 소기도가 완전 짜부라짐 Dynamic Collapse!]
@@ -183,14 +183,14 @@ graph LR
 ```mermaid
 graph TD
     A[폐기능검사 Spirometry 시행] --> B{FEV1 / FVC 비율 판정}
-    
+
     B -->|FEV1 / FVC < 0.70 미만| C[폐쇄성 환기장애 Obstructive Pattern]
     C --> C1[기류 제한 Airflow Limitation]
     C --> C2[유량-용적 곡선: 호기 곡선의 오목한 파임 Scooped-out concavity]
     C --> C3[기관지확장제 반응성 검사 BDR]
     C3 -->|FEV1 12% 및 200mL 이상 증가| C4[기관지 천식 Asthma 가역적]
     C3 -->|반응 미흡 또는 비가역적| C5[만성폐쇄성폐질환 COPD]
-    
+
     B -->|FEV1 / FVC >= 0.70 정상 또는 증가| D{FVC 노력성 폐활량 판정}
     D -->|FVC < 80% 정상 예측치 미만| E[제한성 환기장애 의심 Restrictive Pattern]
     E --> E1[전신 체적변동기록기로 총폐용량 TLC 측정 필수!]
@@ -374,12 +374,12 @@ graph TD
         A1[호흡이 점진적으로 깊어지다가 작아진 후 수초-수십초 무호흡 반복 Crescendo-Decrescendo]
         A2[원인: 중증 울혈성 심부전 순환지연 & 양측 대뇌/간뇌 병변]
     end
-    
+
     subgraph 쿠스마울 호흡 Kussmaul Breathing
         B1[규칙적이고 지속적인 매우 깊고 빠른 호흡 Deep & Rapid]
         B2[원인: 대사성 산증 DKA, 요독증 보상을 위한 극도의 CO2 배출]
     end
-    
+
     subgraph 비오 / 실조성 호흡 Biot / Ataxic Breathing
         C1[호흡의 깊이와 무호흡 주기가 완전히 불규칙하고 엉망 Chaotic]
         C2[원인: 연수 Medulla 호흡중추 직접 손상 뇌탈출 임박 징후]
@@ -456,14 +456,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate2-", "")
     search_terms = [f"Plate 2-{num_suffix}", f"2-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

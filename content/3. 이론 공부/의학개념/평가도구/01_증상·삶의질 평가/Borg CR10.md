@@ -1,21 +1,21 @@
 ---
-type: 의학개념
-category: 평가도구
+title: Borg CR10
+created: 2026-09-12
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 운동처방
   - 노인
   - 재활
-created: 2026-09-12
+출처: "PMID: 7154893"
 aliases:
   - Borg CR10
   - CR10
   - 주관적 운동강도
   - RPE
-title: Borg CR10
-date: 2026-09-19
-출처: "PMID: 7154893"
+type: 의학개념
+category: 평가도구
 ---
 # Borg CR10 (주관적 운동강도, RPE 0~10)
 

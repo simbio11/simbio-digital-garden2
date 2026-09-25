@@ -1,13 +1,7 @@
 ---
-aliases:
-  - Platycodin D
-  - Platycodin A
-  - Platycodin C
-  - 플라티코딘D
-  - 플라티코딘 D
-  - 길경사포닌
-  - 도라지사포닌
-  - CID 71306914
+title: 플라티코딘 D
+created: 2024-03-12
+updated: 2026-09-12
 tags:
   - 약리
   - 약리성분
@@ -16,12 +10,19 @@ tags:
   - 인후염
   - 항염증
   - 본초학
-created: 2024-03-12
-updated: 2026-09-12
 status: complete
+출처: "https://molecule-viewer-rho.vercel.app/?cid=162859\""
+aliases:
+  - Platycodin D
+  - Platycodin A
+  - Platycodin C
+  - 플라티코딘D
+  - 플라티코딘 D
+  - 길경사포닌
+  - 도라지사포닌
+pubchem_cid: 71306914
 compound_name_ko: 플라티코딘 D
 compound_name_en: Platycodin D
-pubchem_cid: 71306914
 molecular_formula: C57H92O28
 molecular_weight: 1225.32 g/mol
 cas_number: 58479-68-8
@@ -33,9 +34,6 @@ main_pharmacology:
   - NF-κB 및 NLRP3 인플라마솜 억제를 통한 강력한 항염증 및 인후종통 완화
   - p53 의존적 BCL-2/Bax/caspase-3 신호 억제를 통한 심근비대 및 심부전 보호
   - 배농(排膿) 촉진 및 농양(폐옹) 흡수
-title: 플라티코딘 D
-date: 2026-09-22
-출처: "https://molecule-viewer-rho.vercel.app/?cid=162859\""
 ---
 
 # 플라티코딘 D (Platycodin D)

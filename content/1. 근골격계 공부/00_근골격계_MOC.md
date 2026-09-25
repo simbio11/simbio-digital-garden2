@@ -1,9 +1,7 @@
 ---
-type: MOC
-category: 근골격계
-date: 2026-09-04
+title: 00_근골격계_MOC
+created: 2026-09-04
 updated: 2026-09-23
-status: active
 tags:
   - 근골격계
   - MOC
@@ -12,7 +10,9 @@ tags:
   - 신경
   - 이학적검사
   - 추나
-title: 00_근골격계_MOC
+status: active
+type: MOC
+category: 근골격계
 ---
 
 # 🦴 _의학/01_근골격계 — MOC & 내비게이터

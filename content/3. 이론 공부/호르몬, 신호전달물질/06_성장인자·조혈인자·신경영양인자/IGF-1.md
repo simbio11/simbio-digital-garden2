@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 호르몬, 신호전달물질
+title: IGF-1
+created: 2026-09-05
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,14 +9,13 @@ tags:
   - 성장호르몬
   - 근육
   - 근감소증
-created: 2026-09-05
+출처: PMID 39191151
 aliases:
   - 인슐린유사성장인자
   - Insulin-like growth factor-1
   - somatomedin C
-title: IGF-1
-date: 2026-09-16
-출처: PMID 39191151
+type: 의학개념
+category: 호르몬, 신호전달물질
 ---
 # IGF-1 (인슐린유사성장인자-1)
 

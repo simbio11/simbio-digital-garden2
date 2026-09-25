@@ -1,5 +1,7 @@
 ---
-aliases: [라크만 검사, Lachman Test, Lachman's Test, Lachmans Test, 락맨 검사, 전방십자인대 검사, ACL 파열 검사]
+title: "Lachman's test"
+created: 2026-09-24
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -7,13 +9,11 @@ tags:
   - 전방십자인대
   - ACL
   - 무릎불안정성
+출처: "PMID: 16715828"
 검사분류: 슬관절 전방 불안정성 및 십자인대 파열 검사
 대상관절_조직: "[[전방십자인대]](ACL - 전내측 다발 및 후외측 다발), 경골 조면, 대퇴골 과간와"
 민감도: "85% ~ 87% (메타분석: Benjaminse et al., 2006)"
 특이도: "94% ~ 95% (메타분석: Benjaminse et al., 2006)"
-title: "Lachman's test"
-date: 2026-09-24
-출처: "PMID: 16715828"
 ---
 
 # 라크만 검사 (Lachman's Test)

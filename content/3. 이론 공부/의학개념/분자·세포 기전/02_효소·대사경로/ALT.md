@@ -1,17 +1,18 @@
 ---
+title: ALT
+created: 2026-09-08
+updated: 2026-09-25
+tags:
+  - 이론
+  - 약리성분
+  - 효소
+출처: "https://www.uniprot.org/uniprotkb/P24298/entry"
 aliases:
   - Alanine Aminotransferase
   - 알라닌아미노전달효소
   - GPT
   - SGPT
   - Glutamic-Pyruvic Transaminase
-tags:
-  - 이론
-  - 약리성분
-  - 효소
-title: ALT
-date: 2026-09-08
-출처: "https://www.uniprot.org/uniprotkb/P24298/entry"
 ---
 
 # 🔬 ALT (Alanine Aminotransferase, 알라닌아미노전달효소)

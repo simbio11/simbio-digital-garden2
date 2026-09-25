@@ -1,27 +1,27 @@
 ---
-type: 의학원서_요약노트
-volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol. 3, 2nd ed.)"
-section: "Section 1: Anatomy and Embryology"
-day: 1
-section_pages: "pp. 3-45"
-total_plates: 43
-source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
-source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+title: Day01_호흡기계_흉곽해부_기도폐포미세구조_폐순환_발생학
+created: 2026-09-18
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 호흡기학
   - 횡격막
   - 계면활성제
+status: completed
+출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
 aliases:
   - "Netter Respiratory Day 01"
   - "Netter 호흡기계 해부발생"
   - "Respiratory Anatomy & Embryology Master Note"
-status: completed
-created: 2026-09-18
-title: Day01_호흡기계_흉곽해부_기도폐포미세구조_폐순환_발생학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 1: Anatomy and Embryology"
+source_file: "The Netter Collection - Volume 3, Respiratory System.pdf"
+day: 1
+section_pages: "pp. 3-45"
+source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/view?usp=drivesdk"
+total_plates: 43
+volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol. 3, 2nd ed.)"
 ---
 
 # Netter Respiratory Day 01: 호흡기계의 해부학 및 발생학 (Anatomy and Embryology) — 흉곽·기도·폐포·폐순환·발생단계 (pp. 3–45)
@@ -398,7 +398,7 @@ graph TD
         A4[태반 저항 낮음 -> 전신 혈관 저항 SVR 낮음]
         A5[우심방압 > 좌심방압 -> 난원공 Foramen Ovale 통해 우좌 단락]
     end
-    
+
     subgraph 출생 순간 (At Birth)
         B1[첫 울음 / 첫 흡기: 폐포 팽창 및 산소 공급] --> B2[혈관 확장 -> 폐혈관 저항 PVR 1/10로 급락]
         B3[탯줄 결찰: 저저항 태반 제거] --> B4[전신 혈관 저항 SVR 급상승]
@@ -491,14 +491,14 @@ print(f"총 {len(plates_info)}개 플레이트 추출 시작...")
 for plate_id, plate_title in plates_info:
     num_suffix = plate_id.replace("Plate1-", "")
     search_terms = [f"Plate 1-{num_suffix}", f"1-{num_suffix}", plate_title.lower()]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))

@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 8: The Uterus and Cervix"
-day: 8
-section_pages: "pp. 154-185"
-total_plates: 32
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day08_자궁_자궁경부_해부병리_근종_경부암_내막암
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -17,20 +12,25 @@ tags:
   - 생식기계
   - 자궁근종
   - 자궁선근증
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 08"
   - "자궁 및 자궁경부"
-status: completed
-created: 2026-09-16
-title: Day08_자궁_자궁경부_해부병리_근종_경부암_내막암
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 8: The Uterus and Cervix"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 8
+section_pages: "pp. 154-185"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 32
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 08: 자궁 및 자궁경부 - 해부·내막주기·기형·경부암·선근증·근종 및 내막암 (Section 8 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 154-185)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 8 전편 (Plate 8-1 ~ Plate 8-32, 총 32개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 154-185)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 8 전편 (Plate 8-1 ~ Plate 8-32, 총 32개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 골반 장기 및 복막 주름 해부학, 자궁동맥-요관 교차 관계("Water under the bridge"), 자궁벽 3중 근육층("생체 결찰사 8자 교차") 및 나선동맥(Spiral a.) 미세순환, 자궁내막 주기(증식기 vs 분비기) 및 원발성 월경통(PGF2α), 뮐러관 선천 기형(중격자궁 vs 쌍각자궁) 및 위치 이상/탈출증, 자궁경부 이형성증(Bethesda/CIN/HPV 16·18 E6/E7) 및 FIGO 자궁경부암 병기별 수술·CCRT, 비정상 자궁출혈 PALM-COEIN, 자궁선근증(Boggy uterus) 및 아셔만 증후군(Asherman), 자궁내막증식증(EIN), 자궁근종(FIGO 0~8형 및 적색변성)과 육종, 자궁내막암(Bokhman 1형 vs 2형 TP53) 수술적 병기
 
 ---
@@ -1128,13 +1128,13 @@ plates_info = [
 for plate_id, plate_title in plates_info:
     target_page = None
     search_term = f"Plate 8-{plate_id.split('-')[1]}"
-    
+
     for page_num in range(len(doc)):
         text = doc[page_num].get_text()
         if search_term in text or plate_title.lower() in text.lower():
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 상당 고해상도

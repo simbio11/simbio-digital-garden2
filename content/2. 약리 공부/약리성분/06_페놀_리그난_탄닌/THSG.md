@@ -1,6 +1,7 @@
 ---
-type: 약리성분
-category: 약리 공부/약리성분
+title: THSG
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
@@ -8,15 +9,14 @@ tags:
   - 하수오
   - 항산화
   - 신경보호
-created: 2026-09-22
+출처: PMID 38677275
 aliases:
   - THSG
   - "2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside"
   - 테트라하이드록시스틸벤-2-O-β-D-글루코시드
   - 하수오 지표성분
-title: THSG
-date: 2026-09-22
-출처: PMID 38677275
+type: 약리성분
+category: 약리 공부/약리성분
 ---
 
 # 🔬 [[THSG]] (2,3,5,4'-Tetrahydroxystilbene-2-O-β-D-glucoside, C20H22O9 / 2,3,5,4'-테트라하이드록시스틸벤-2-O-β-D-글루코피라노시드)

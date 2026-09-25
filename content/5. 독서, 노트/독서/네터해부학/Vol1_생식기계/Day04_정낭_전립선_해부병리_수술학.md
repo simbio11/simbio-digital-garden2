@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 4: The Seminal Vesicles and Prostate"
-day: 4
-section_pages: "pp. 76-97"
-total_plates: 22
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day04_정낭_전립선_해부병리_수술학
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -16,20 +11,25 @@ tags:
   - 생식기계
   - 전립선비대증
   - 배뇨장애
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - 네터 생식기계 Day 04
   - 정낭 및 전립선
-status: completed
-created: 2026-09-16
-title: Day04_정낭_전립선_해부병리_수술학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 4: The Seminal Vesicles and Prostate"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 4
+section_pages: "pp. 76-97"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 22
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 04: 정낭 및 전립선의 해부·발생·비대증·악성종양 및 수술학 (Section 4 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 76-97)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 4 전편 (Plate 4-1 ~ Plate 4-22, 총 22개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 76-97)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 4 전편 (Plate 4-1 ~ Plate 4-22, 총 22개 플레이트 전수 포함)
 > 📌 **핵심 테마**: McNeal 전립선 구역 해부학(TZ vs PZ), 배아 요로생식동 발생 및 DHT 의존성, 전립선염 NIH 4대 분류, 전립선비대증(BPH) 병태생리 및 약물·수술학(TURP/HoLEP), 전립선암(PCa) 조기진단(PSA/ISUP Grade Group), 골형성성(Osteoblastic) 뼈전이 기전(Batson 척추정맥총), 로봇보조 근치적 전립선절제술(RALP) 신경보존 기법
 
 ---
@@ -344,7 +344,7 @@ date: 2026-09-21
 graph TD
  Aging[노화 Aging] --> HighEstrogen[에스트로겐/안드로겐 비율 증가]
  HighEstrogen --> UpAR[기질세포 AR 수용체 발현 증가]
- 
+
  Testo[혈중 Testosterone] --> Stromal[전립선 기질세포 유입]
  Stromal --> 5AR[5α-환원효소 2형 작용]
  5AR --> DHT[강력한 DHT 합성 및 축적]
@@ -770,14 +770,14 @@ graph LR
  RALP[로봇보조 근치적 전립선절제술 RALP] --> HighVision[10~15배 확대 3D 고화질 입체 시야]
  RALP --> Articulated[7자유도 관절 기구 Wristed Tech & 떨림 제거]
  RALP --> Pneumo[15 mmHg 기복압 탐폰 효과 & DVC 지연 절단]
- 
+
  HighVision --> Dissection[무열 Cold-cut 정밀 박리]
  Articulated --> Dissection
- 
+
  Dissection --> PreserveNVB[거근근막-전립선근막 사이 NVB 완벽 보존]
  Dissection --> SparingSphincter[외요도괄약근 전장 보존 & 후벽부터 방광요도 정밀문합]
  Pneumo --> MinBleeding[수술 중 출혈량 극소화 & 수혈 불필요]
- 
+
  PreserveNVB --> Potency[수술 후 발기능 조기 회복]
  SparingSphincter --> Continence[수술 후 복압성 요실금 최소화 및 조기 자제 회복]
 ```

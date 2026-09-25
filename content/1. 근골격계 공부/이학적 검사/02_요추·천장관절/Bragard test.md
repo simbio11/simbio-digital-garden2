@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 브라가드 검사
-  - 브라가르드 검사
-  - Bragard Test
-  - Bragard's Test
-  - 족배굴곡 신경 신장 검사
+title: Bragard test
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
@@ -13,9 +10,13 @@ tags:
   - 요추추간판탈출증
   - 신경근병증
   - 감별진단
-title: Bragard test
-date: 2026-09-15
 출처: "PMID: 7846592"
+aliases:
+  - 브라가드 검사
+  - 브라가르드 검사
+  - Bragard Test
+  - Bragard's Test
+  - 족배굴곡 신경 신장 검사
 ---
 
 # 브라가드 검사 (Bragard's Test)
@@ -43,7 +44,7 @@ flowchart TD
 ## 1. 검사 개요 (Test Overview)
 
 * **검사 목적: [[하지직거상 검사]](SLRT)의 위양성을 배제하고, [[좌골신경]](Sciatic nerve)을 구성하는 L4, L5, S1 신경근의 진성 기계적 포착 및 염증을 감별 확진.
-* **검사 대상**: 
+* **검사 대상**:
   * SLRT 양성 반응을 보였으나, 햄스트링 긴장과의 구분이 모호한 환자.
   * 대퇴 후면 및 하퇴 외측으로 애매한 통증 및 저림을 호소하는 요통 환자.
 * **소요 시간 및 준비물**: 30초~1분 소요, 진찰대.

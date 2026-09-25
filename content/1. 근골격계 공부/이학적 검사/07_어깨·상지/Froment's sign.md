@@ -1,14 +1,15 @@
 ---
+title: "Froment's sign"
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+출처: "DOI: 10.1197/j.jht.2004.02.015"
 aliases:
   - "프로망 징후"
   - "Froment Sign"
   - "Froment's Test"
   - "Froment Paper Sign"
-tags:
-  - 근골격계
-title: "Froment's sign"
-date: 2026-09-15
-출처: "DOI: 10.1197/j.jht.2004.02.015"
 ---
 
 # 🩺 [[Froment's sign]] (Froment's Sign / 프로망 징후 / 종이 잡기 검사)

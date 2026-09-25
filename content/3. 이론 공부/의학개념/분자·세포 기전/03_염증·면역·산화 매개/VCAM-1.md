@@ -1,16 +1,14 @@
 ---
 title: VCAM-1 (Vascular Cell Adhesion Molecule-1)
-aliases: [VCAM-1, VCAM1, CD106, 혈관세포부착분자-1]
-category: 의학개념
+created: 2026-09-05
+updated: 2026-09-05
 tags:
   - 이론
   - 세포부착분자
   - 죽상동맥경화
   - 내피세포
   - 염증반응
-created: 2026-09-05
-updated: 2026-09-05
-date: 2026-09-05
+category: 의학개념
 ---
 
 # VCAM-1 (Vascular Cell Adhesion Molecule-1)

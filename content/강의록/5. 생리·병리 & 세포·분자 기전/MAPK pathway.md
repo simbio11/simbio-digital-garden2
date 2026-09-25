@@ -10,6 +10,6 @@ MAPK 경로는 세포 외 자극(스트레스, 사이토카인, 성장인자 등
 1. **ERK1/2 (Extracellular signal-Regulated Kinases)**
 - 성장, 분화, 생존 관련
 2. **JNK (c-Jun N-terminal Kinases)**
-- 염증, 세포사멸 관련  
+- 염증, 세포사멸 관련
 3. **p38 MAPK**
 - 스트레스, 염증, 세포사멸 관련

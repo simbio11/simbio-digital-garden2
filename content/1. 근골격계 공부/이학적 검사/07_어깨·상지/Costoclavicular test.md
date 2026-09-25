@@ -1,4 +1,14 @@
 ---
+title: Costoclavicular test
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사
+  - 흉곽출구증후군
+  - 쇄골
+  - 정형외과
+출처: "DOI: 10.1016/S0140-6736(00"
 aliases:
   - 늑쇄 검사
   - Costoclavicular test
@@ -7,15 +17,6 @@ aliases:
   - Costoclavicular Maneuver
   - 군인 자세 검사
   - Military Brace Test
-tags:
-  - 근골격계
-  - 이학적검사
-  - 흉곽출구증후군
-  - 쇄골
-  - 정형외과
-title: Costoclavicular test
-date: 2026-09-15
-출처: "DOI: 10.1016/S0140-6736(00"
 ---
 
 # 🩺 Costoclavicular test (늑쇄 검사 / 에덴 검사 / 군인 자세 검사)

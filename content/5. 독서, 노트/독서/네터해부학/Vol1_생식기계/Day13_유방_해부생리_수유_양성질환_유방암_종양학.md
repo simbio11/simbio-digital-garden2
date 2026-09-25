@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 13: The Breast"
-day: 13
-section_pages: "pp. 284-305"
-total_plates: 22
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day13_유방_해부생리_수유_양성질환_유방암_종양학
+created: 2026-09-17
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -15,20 +10,25 @@ tags:
   - 종양학
   - 생식기계
   - 유방암
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - "네터 생식기계 Day 13"
   - "유방과 유방암 종양학"
-status: completed
-created: 2026-09-17
-title: Day13_유방_해부생리_수유_양성질환_유방암_종양학
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 13: The Breast"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 13
+section_pages: "pp. 284-305"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 22
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 13: 유방 - 정상해부·림프순환·수유생리·섬유낭성변화·섬유선종 및 유방암 종양학 (Section 13 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 284-305)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 13 전편 (Plate 13-1 ~ Plate 13-22, 총 22개 플레이트 전수 포함)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 284-305)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 13 전편 (Plate 13-1 ~ Plate 13-22, 총 22개 플레이트 전수 포함)
 > 📌 **핵심 테마**: 유방 실질 구조(15~20개 유선엽, 쿠퍼 인대, 몽고메리선) 및 말단 유관소엽단위(TDLU) 미세해부, 제4늑간신경(T4) 외측피부분지 매개 유두 감각, 3대 혈액 공급망(내흉 60%, 외측흉 30%, 후늑간 전지 10%)과 척추주위 뱃슨 정맥총(Batson's plexus) 및 표재정맥-폐 순환 전이 기전, 버그(Berg) 3단계 액와 림프절(30~60개) 및 특수 림프 배액로(그로스만 경로 Groszman, 게로타 경로 Gerota, 반대측 교차 경로 Cross-mammary)와 감시 림프절 생검(SLNB), 신생아기 유방 반응(마녀의 젖 Witch's milk, Mastitis neonatorum)과 태너(Tanner) 5단계 사춘기 발달(10.8세 thelarche), 프로락틴(유즙 합성) 및 옥시토신(근상피세포 사출 반사) 매개 수유 생리학(수유 절정기 유방 부피의 20~33% 차지), 발생학적 변이(폴란드 증후군 Poland syndrome, 부유두, Kajava 8단계 부유방, 처녀성/임신성 거대유방증), 남성 유방 발달(사춘기 결절 Puberty node)과 에스트로겐/안드로겐 불균형(아로마타제, SHBG 매개) 여성형 유방증(Gynecomastia), 산욕기 유방 울혈 및 수유기 급성 유선염(황색포도상구균, 신생아 2개월 미만 수유 시 TMP/SMX 금기, 4대 부위 농양 배농), 유즙누출증(고프로락틴혈증, 키아리-프롬멜 Chiari-Frommel vs 아후마다-델카스티요 Ahumada-del Castillo 증후군) vs 혈성 병적 유두 분비물(관내 유두종 50%, 악성 10~15%), 전흉벽 표재성 몬도르 혈전정맥염(Mondor disease, 얕은 고랑 징후, 항생제/항응고제 금기), 영상 판독 체계(MMG 1~2 mm 병변 2년 조기발견, 30% 사망률 감소, BI-RADS Cat 0~6), 섬유낭성 변화 3단계 진행 및 스펙트럼(접시 가장자리 saucer edge 유방통, 선증, 블루돔 낭종 흡인 지침, 아포크린 화생, 비정형 증식증 5배 암 위험도), 20~30대 다발성 가동성 섬유선종(Breast mouse, 출혈성 경색 빈발) 및 요하네스 뮐러 엽상종양(Phyllodes tumor, 7~8 lb, 10% 육종성 변성, 1 cm 광범위 절제), 유방 육종(Tremendous size without nodal metastasis), 유방암 임상 징후(배가시간 100일, 설익은 배 사각거림, 피부/유두 함몰, 오렌지껍질 징후), 상피내암(DCIS 10년 내 35% 침윤 vs LCIS 75% 폐경전 진단 및 유관암 발생 역설) 및 침윤성 암(IDC 75~80% vs ILC 10~15% 인도열 단일줄 침윤, 팽출성 국한암), 전격성 진피 림프관/혈관 폐색 염증성 유방암(백혈구 15,000 급상승, Carcinoma en cuirasse), 유전성 유방암 HBOC(BRCA1 삼중음성 vs BRCA2 남성 유방암/호르몬 양성, 부계 유전, 2-히트 가설, PARP 저해제), 유두 습진양/궤양형 파제트병(하부 유관 동반 생검, 파제트 세포), 그리고 남성 유방암의 2년 지연 진단 특성과 호르몬 치료
 
 ---
@@ -1039,14 +1039,14 @@ for plate_id, plate_title in plates_info:
         f"13-{num_suffix}",
         plate_title.lower()
     ]
-    
+
     target_page = None
     for page_num in range(len(doc)):
         text = doc[page_num].get_text().lower()
         if any(term.lower() in text for term in search_terms):
             target_page = page_num
             break
-            
+
     if target_page is not None:
         page = doc[target_page]
         pix = page.get_pixmap(matrix=fitz.Matrix(3.0, 3.0))  # 300 DPI 고해상도

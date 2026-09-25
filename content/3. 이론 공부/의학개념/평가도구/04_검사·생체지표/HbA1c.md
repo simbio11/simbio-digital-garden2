@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: HbA1c
+created: 2026-09-05
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 혈당
   - 당뇨
   - 검사지표
-created: 2026-09-05
+출처: PMID 40568559
 aliases:
   - 당화혈색소
   - Hemoglobin A1c
   - glycated hemoglobin
-title: HbA1c
-date: 2026-09-19
-출처: PMID 40568559
+type: 의학개념
+category: 평가도구
 ---
 # HbA1c (당화혈색소)
 

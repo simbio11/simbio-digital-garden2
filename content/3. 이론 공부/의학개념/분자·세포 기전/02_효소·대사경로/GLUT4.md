@@ -1,19 +1,19 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: GLUT4
+created: 2026-09-05
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 인슐린
   - 당뇨
   - 골격근
-created: 2026-09-05
+출처: PMID 40568559
 aliases:
   - Glucose transporter type 4
   - 포도당 수송체 4
-title: GLUT4
-date: 2026-09-05
-출처: PMID 40568559
+type: 의학개념
+category: 분자·세포 기전
 ---
 # GLUT4 (포도당 수송체 4)
 

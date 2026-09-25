@@ -1,19 +1,20 @@
 ---
-aliases:
-  - "Mouse wrap around test"
-  - "Mouth wrap-around test"
-  - "입 감싸기 검사"
-  - "마우스 랩어라운드 검사"
-  - "견갑하근 입 감싸기 검사"
+title: Mouse wrap around test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 견관절
   - 근막통증증후군
   - 견갑하근
-title: Mouse wrap around test
-date: 2026-09-15
 출처: "https://pubmed.ncbi.nlm.nih.gov/19066669/"
+aliases:
+  - "Mouse wrap around test"
+  - "Mouth wrap-around test"
+  - "입 감싸기 검사"
+  - "마우스 랩어라운드 검사"
+  - "견갑하근 입 감싸기 검사"
 ---
 
 # 🩺 Mouth wrap-around test (입 감싸기 검사)

@@ -1,20 +1,20 @@
 ---
-aliases:
-  - 태충
-  - 太衝
-  - LR3
-  - Taichong
-  - Liver 3
+title: 태충(LR3)
+created: 2026-09-18
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
   - 경혈
   - 원혈
   - 두통
-created: 2026-09-18
-title: 태충(LR3)
-date: 2026-09-18
 출처: PMID 41591775
+aliases:
+  - 태충
+  - 太衝
+  - LR3
+  - Taichong
+  - Liver 3
 ---
 # 🌀 족궐음간경 [[태충]] (太衝, LR3)
 

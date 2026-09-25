@@ -1,15 +1,15 @@
 ---
-type: MOC
-category: 독서노트
-date: 2026-09-04
+title: 00_독서_노트_MOC
+created: 2026-09-04
 updated: 2026-09-04
-status: active
 tags:
   - 독서
   - MOC
   - 강의록
   - 일일노트
-title: 00_독서_노트_MOC
+status: active
+type: MOC
+category: 독서노트
 ---
 
 # 📚 5. 독서·노트 — MOC (학습 기록 총괄)

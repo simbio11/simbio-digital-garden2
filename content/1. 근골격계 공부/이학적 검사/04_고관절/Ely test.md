@@ -1,5 +1,7 @@
 ---
-aliases: [엘리 검사, Ely Test, Ely's Test, Elys Test, 던컨-엘리 검사, Duncan-Ely Test, 대퇴직근 단축 검사, 대퇴신경 신장 검사]
+title: Ely test
+created: 2026-09-24
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -8,13 +10,11 @@ tags:
   - 대퇴직근
   - 대퇴근막장근
   - 대퇴신경
+출처: "PMID: 18668173"
 검사분류: 대퇴 전방 연부조직 구축 및 대퇴신경 신장 검사
 대상관절_조직: "[[대퇴직근]](Rectus femoris), [[대퇴근막장근]](TFL), [[대퇴신경]](Femoral nerve, L2~L4), 요추 전만"
 민감도: 56% ~ 64% (Peeler & Anderson, 2008)
 특이도: 85% ~ 92% (고관절 굴곡 보상 관찰 시)
-title: Ely test
-date: 2026-09-24
-출처: "PMID: 18668173"
 ---
 
 # 엘리 검사 (Ely's Test)

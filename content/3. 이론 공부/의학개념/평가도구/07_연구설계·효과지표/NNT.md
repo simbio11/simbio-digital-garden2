@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: NNT
+created: 2026-09-13
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 효과크기
   - 임상시험
   - 평가도구
-created: 2026-09-13
+출처: PMID 42477222
 aliases:
   - Number Needed to Treat
   - 치료적 이익 지수
   - NNT
   - NNТ
-title: NNT
-date: 2026-09-18
-출처: PMID 42477222
+type: 의학개념
+category: 평가도구
 ---
 # NNT (Number Needed to Treat, 치료 필요 환자 수)
 

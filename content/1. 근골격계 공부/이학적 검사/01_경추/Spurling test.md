@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Spurling test
+title: Spurling test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
-title: Spurling test
-date: 2026-09-22
+aliases:
+  - Spurling test
 ---
 # 🔁 Spurling test → [[스펄링 검사]]
 

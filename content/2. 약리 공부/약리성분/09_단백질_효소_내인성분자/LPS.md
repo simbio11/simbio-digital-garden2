@@ -1,17 +1,18 @@
 ---
-aliases:
-  - Lipopolysaccharide
-  - 지질다당류
-  - 내독소
-  - Endotoxin
+title: LPS
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 패혈증
   - 신경염증
-title: LPS
-date: 2026-09-22
 출처: "DOI: 10.1126/science.282.5396.2085"
+aliases:
+  - Lipopolysaccharide
+  - 지질다당류
+  - 내독소
+  - Endotoxin
 ---
 
 # 🔬 [[LPS]] (Lipopolysaccharide, 지질다당류/내독소)

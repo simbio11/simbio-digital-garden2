@@ -1,17 +1,18 @@
 ---
-aliases:
-  - NSAID
-  - NSAIDs
-  - 비스테로이드성 소염진통제
-  - Nonsteroidal Anti-inflammatory Drugs
+title: NSAIDs
+created: 2026-09-24
+updated: 2026-09-25
 tags:
   - 약리
   - 약리/양방약
   - 해열진통소염제
   - NSAIDs
-title: NSAIDs
-date: 2026-09-24
 출처: "PMID: 34174454"
+aliases:
+  - NSAID
+  - NSAIDs
+  - 비스테로이드성 소염진통제
+  - Nonsteroidal Anti-inflammatory Drugs
 ---
 
 # 💊 [[NSAIDs]] (Non-Steroidal Anti-Inflammatory Drugs, 비스테로이드성 소염진통제)
@@ -53,10 +54,10 @@ graph TD
     TissueDamage["조직 손상 및 염증 자극"] --> AA["아라키돈산 방출"]
     AA --> COX1["[[COX]]-1 (항상성 유지)"]
     AA --> COX2["[[COX]]-2 (염증 유도형)"]
-    
+
     NSAIDBlock["💊 [[NSAIDs]] 투여"] -.->|저해| COX1
     NSAIDBlock -.->|저해| COX2
-    
+
     COX1 --> MucinDown["위점막 [[PGE2]] 결핍 $\rightarrow$ ⚠️ [[위궤양]], 출혈"]
     COX2 --> PainRelief["말초 [[PGE2]]/[[PGF2a]] 차단 $\rightarrow$ ✨ 소염, 진통, 해열"]
 ```

@@ -1,6 +1,5 @@
 ---
 title: "외측선 (Lateral Line, LL)"
-category: "근골격계 / 근막경선"
 created: 2026-08-30
 updated: 2026-08-30
 tags:
@@ -8,7 +7,7 @@ tags:
   - anatomy-trains
   - fascia
   - thomas-myers
-date: 2026-09-14
+category: "근골격계 / 근막경선"
 ---
 
 # [[3_외측선_LL]](Lateral Line)

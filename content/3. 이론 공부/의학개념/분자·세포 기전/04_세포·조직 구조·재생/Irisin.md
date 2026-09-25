@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: _의학/03_이론/의학개념/분자·세포 기전
+title: Irisin
+created: 2026-09-22
+updated: 2026-09-25
 tags:
   - 이론
   - 생리학/호르몬
@@ -10,15 +11,14 @@ tags:
   - 골격근
   - 골밀도
   - 근감소증
-created: 2026-09-22
+출처: "PMID: 36225200"
 aliases:
   - 아이리신
   - Irisin
   - Irisin (FNDC5 cleavage product)
   - FNDC5 유래 펩타이드
-title: Irisin
-date: 2026-09-22
-출처: "PMID: 36225200"
+type: 의학개념
+category: _의학/03_이론/의학개념/분자·세포 기전
 ---
 
 # 🧠 [[아이리신]] (Irisin, FNDC5 유래 펩타이드)

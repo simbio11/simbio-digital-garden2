@@ -1,11 +1,7 @@
 ---
-aliases:
-  - 티넬 징후
-  - 티넬 검사
-  - Tinel Sign
-  - Tinel's Sign
-  - Tinel-Hoffmann Sign
-  - 신경 타진 검사
+title: Tinnel 징후
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
@@ -13,9 +9,14 @@ tags:
   - 정중신경
   - 척골신경
   - 수근관증후군
-title: Tinnel 징후
-date: 2026-09-15
 출처: "PMID: 15162113"
+aliases:
+  - 티넬 징후
+  - 티넬 검사
+  - Tinel Sign
+  - Tinel's Sign
+  - Tinel-Hoffmann Sign
+  - 신경 타진 검사
 ---
 
 # 티넬 징후 (Tinel's Sign)
@@ -42,7 +43,7 @@ flowchart TD
 
 ## 1. 검사 개요 (Test Overview)
 
-* **검사 목적**: 
+* **검사 목적**:
   1. [[정중신경]], [[척골신경]], [[요골신경]], [[경골신경]], [[총비골신경]] 등 표재성 말초신경이 주행하는 섬유골성 터널에서의 만성 포착성 신경병증(Entrapment Neuropathy) 진단.
   2. 신경 단열 봉합술 또는 신경 손상 후 축삭의 원위부 재생(Axonal Regeneration) 진행 경과 판정.
 * **검사 대상**:

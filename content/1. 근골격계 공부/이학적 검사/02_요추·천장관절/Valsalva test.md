@@ -1,9 +1,7 @@
 ---
-aliases:
-  - "Valsalva test"
-  - "Valsalva maneuver"
-  - "발살바 검사"
-  - "발살바 수기"
+title: Valsalva test
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
@@ -11,9 +9,12 @@ tags:
   - 경추
   - 추간판탈출증
   - 복압
-title: Valsalva test
-date: 2026-09-22
 출처: "https://www.youtube.com/watch?v=-ceSV5qA_GQ"
+aliases:
+  - "Valsalva test"
+  - "Valsalva maneuver"
+  - "발살바 검사"
+  - "발살바 수기"
 ---
 
 # 🩺 [[Valsalva test]] (발살바 검사 / Valsalva Maneuver Test)

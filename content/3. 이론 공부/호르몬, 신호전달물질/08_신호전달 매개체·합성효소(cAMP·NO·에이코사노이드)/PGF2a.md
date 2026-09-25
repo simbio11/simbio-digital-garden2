@@ -1,19 +1,19 @@
 ---
-type: 의학개념
-category: 호르몬, 신호전달물질
+title: PGF2a
+created: 2026-09-06
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 프로스타글란딘
   - 월경통
-created: 2026-09-06
+출처: PMID 41821745
 aliases:
   - PGF2α
   - Prostaglandin F2α
   - 프로스타글란딘 F2α
-title: PGF2a
-date: 2026-09-16
-출처: PMID 41821745
+type: 의학개념
+category: 호르몬, 신호전달물질
 ---
 # PGF2a (프로스타글란딘 F2α)
 

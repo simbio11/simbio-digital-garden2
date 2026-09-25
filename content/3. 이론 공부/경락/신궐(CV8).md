@@ -1,11 +1,7 @@
 ---
-aliases:
-  - 신궐
-  - 神闕
-  - CV8
-  - RN8
-  - Shenque
-  - Conception Vessel 8
+title: 신궐(CV8)
+created: 2026-09-20
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -13,10 +9,14 @@ tags:
   - 경혈
   - 소아
   - 첩부
-created: 2026-09-20
-title: 신궐(CV8)
-date: 2026-09-20
 출처: PMID 42365413
+aliases:
+  - 신궐
+  - 神闕
+  - CV8
+  - RN8
+  - Shenque
+  - Conception Vessel 8
 ---
 # 🌀 임맥 [[신궐(CV8)]] (神闕, CV8)
 

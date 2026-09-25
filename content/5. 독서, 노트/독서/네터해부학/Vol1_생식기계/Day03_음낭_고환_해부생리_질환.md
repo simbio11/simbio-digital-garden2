@@ -1,12 +1,7 @@
 ---
-type: 의학원서_요약노트
-volume: "Volume 1: Reproductive System"
-section: "Section 3: The Scrotum and Testis"
-day: 3
-section_pages: "pp. 50-74"
-total_plates: 25
-source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
-source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+title: Day03_음낭_고환_해부생리_질환
+created: 2026-09-16
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
@@ -15,20 +10,25 @@ tags:
   - 비뇨의학과
   - 생식기계
   - 고환
+status: completed
+출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
 aliases:
   - 네터 생식기계 Day 03
   - 음낭 및 고환
-status: completed
-created: 2026-09-16
-title: Day03_음낭_고환_해부생리_질환
-date: 2026-09-21
-출처: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+type: 의학원서_요약노트
+section: "Section 3: The Scrotum and Testis"
+source_file: "The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf"
+day: 3
+section_pages: "pp. 50-74"
+source_url: "https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk"
+total_plates: 25
+volume: "Volume 1: Reproductive System"
 ---
 
 # 📑 [Netter Vol.1] Day 03: 음낭 및 고환의 해부·발생·기능부전 및 종양학 (Section 3 완독)
 
-> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 50-74)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)  
-> 🏷️ **범위**: Section 3 전편 (Plate 3-1 ~ Plate 3-25, 총 25개 플레이트)  
+> 📖 **원서 출처**: [The Netter Collection of Medical Illustrations - Volume 1, Reproductive System.pdf (pp. 50-74)](https://drive.google.com/file/d/1x-xTgPfUfiK7dsQyp5L5qfjFYSD_XyGm/view?usp=drivesdk)
+> 🏷️ **범위**: Section 3 전편 (Plate 3-1 ~ Plate 3-25, 총 25개 플레이트)
 > 📌 **핵심 테마**: 음낭벽 6개 동심원 층상구조 및 하정삭신경, 고환의 3중 혈류 공급 및 덩굴정맥동 대향류 열·호르몬 교환, 고환 하강 2단계 기전(INSL3/Androgen), 정자발생 64일 주기와 심박당 정자생성 역학, 성선저하증(Hyper vs Hypogonadotropic) 축 감별 및 안드로겐 치료, 급성 음낭증(고환 염전 골든타임 및 청색 반점 징후), 고환 생식세포종양(GCNIS, Seminoma vs Non-seminoma) 분자병리 및 병기
 
 ---
@@ -203,7 +203,7 @@ graph TD
  TransAb --> INSL3[Leydig 세포 INSL3 분비]
  INSL3 --> Guber1[고환도대 Gubernaculum 팽대 및 비후]
  Guber1 --> DeepRing[내서혜륜 Deep Ring 도달]
- 
+
  DeepRing --> InguinoScrotal[2단계: 서혜음낭 하강 25~35주]
  InguinoScrotal --> Androgen[고환 테스토스테론 및 5α-DHT 작용]
  Androgen --> Processus[초상돌기 Processus Vaginalis 개통 및 견인]

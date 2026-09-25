@@ -1,18 +1,18 @@
 ---
-aliases: [쇼버 검사, 쇼버 테스트, Schober Test, Schober's Test, Modified Schober Test, 요추 가동성 검사, 척추 유합 검사]
+title: Schober test
+created: 2026-09-15
+updated: 2026-09-24
 tags:
   - 근골격계
   - 이학적검사
   - 요추
   - 강직성척추염
   - 천장관절
+출처: "DOI: 10.1136/ard.31.1.1"
 검사분류: 요추 시상면 굴곡 가동역 및 척추 관절염 유합 평가
 대상관절_조직: "[[요추]](Lumbar spine, L1~L5), [[천골]](Sacrum, S1~S2), [[천장관절]](SI joint), [[극간인대]](Interspinous ligament)"
 민감도: "68% ~ 78% (Moll & Wright, 강직성 척추염 진행성 요추 가동 제한 평가 시)"
 특이도: "82% ~ 89% (요추 굴곡 5cm 미만 증가 시 척추 유합증 변별 특이도)"
-title: Schober test
-date: 2026-09-15
-출처: "DOI: 10.1136/ard.31.1.1"
 ---
 
 # 쇼버 검사 (Schober's Test / Modified Schober Test)

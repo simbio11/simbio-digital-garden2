@@ -1,15 +1,15 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: MMP
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 효소
   - 골관절염
-created: 2026-09-03
-title: MMP
-date: 2026-09-11
 출처: PMID 39198866
+type: 의학개념
+category: 분자·세포 기전
 ---
 # MMP (Matrix Metalloproteinases, 기질 금속단백분해효소)
 

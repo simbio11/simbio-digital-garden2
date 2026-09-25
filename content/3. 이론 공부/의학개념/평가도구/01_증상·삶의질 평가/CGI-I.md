@@ -1,22 +1,22 @@
 ---
-type: 의학개념
-category: 평가도구
+title: CGI-I
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 평가도구
   - 임상시험
   - 골관절염
-created: 2026-09-21
+출처: "PMID: 42718497"
 aliases:
   - CGI-I
   - Clinical Global Impression
   - Clinical Global Impression-Improvement
   - 임상적 전반 인상
   - 전반적 개선 인상
-title: CGI-I
-date: 2026-09-21
-출처: "PMID: 42718497"
+type: 의학개념
+category: 평가도구
 ---
 # CGI-I (Clinical Global Impression — Improvement, 임상적 전반 개선 인상)
 

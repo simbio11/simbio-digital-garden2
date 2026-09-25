@@ -1,11 +1,7 @@
 ---
-aliases:
-  - "Steinmann Test"
-  - "Steinmann's Sign"
-  - "슈타인만 검사"
-  - "스타인만 검사"
-  - "반월상연골 압통 이동 검사"
-  - "Moving Tenderness Test"
+title: Steinmann test
+created: "2024-01-22"
+updated: "2026-09-15"
 tags:
   - 근골격계
   - 이학적검사
@@ -13,11 +9,14 @@ tags:
   - 반월상연골
   - 무릎통증
   - 관절선압통
-created: "2024-01-22"
-updated: "2026-09-15"
-title: Steinmann test
-date: 2026-09-15
 출처: "https://www.youtube.com/watch?v=kZm5VEHKMPQ"
+aliases:
+  - "Steinmann Test"
+  - "Steinmann's Sign"
+  - "슈타인만 검사"
+  - "스타인만 검사"
+  - "반월상연골 압통 이동 검사"
+  - "Moving Tenderness Test"
 ---
 
 # 슈타인만 검사 (Steinmann Test)

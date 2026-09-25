@@ -1,16 +1,17 @@
 ---
+title: back scratch test
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사/정형외과
+출처: "DOI: 10.1123/japa.7.2.162"
 aliases:
   - "아플리 등 긁기 검사"
   - "등 긁기 검사"
   - "Apley Scratch Test"
   - "Apley's Scratch Test"
   - "Back Scratch Test"
-tags:
-  - 근골격계
-  - 이학적검사/정형외과
-title: back scratch test
-date: 2026-09-15
-출처: "DOI: 10.1123/japa.7.2.162"
 ---
 
 # 🩺 [[back scratch test]] (Apley Scratch Test / 아플리 등 긁기 검사 / 백 스크래치 검사)

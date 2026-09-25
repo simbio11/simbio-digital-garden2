@@ -1,11 +1,7 @@
 ---
-aliases:
-  - 토마스 검사
-  - 토마스 테스트
-  - Thomas Test
-  - Thomas' Test
-  - 고관절 굴곡 구축 검사
-  - Hip Flexion Contracture Test
+title: Thomas test
+created: 2026-09-15
+updated: 2026-09-25
 tags:
   - 근골격계
   - 이학적검사
@@ -14,9 +10,14 @@ tags:
   - 장요근
   - 대퇴직근
   - 대퇴근막장근
-title: Thomas test
-date: 2026-09-15
 출처: "PMID: 9562169"
+aliases:
+  - 토마스 검사
+  - 토마스 테스트
+  - Thomas Test
+  - Thomas' Test
+  - 고관절 굴곡 구축 검사
+  - Hip Flexion Contracture Test
 ---
 
 # 토마스 검사 (Thomas Test)
@@ -45,7 +46,7 @@ flowchart TD
 ## 1. 검사 개요 (Test Overview)
 
 * **검사 목적: 휴 오웬 토마스(Hugh Owen Thomas) 박사가 창안한 검사로, 골반 전방 경사(Anterior pelvic tilt) 및 과도한 요추 전만(Lordosis)을 유발하는 고관절 전면 굴곡근군([[장요근]], [[대퇴직근]], [[대퇴근막장근]], 봉공근)의 단축 및 구축을 진단.
-* **검사 대상**: 
+* **검사 대상**:
   * 만성 요통 환자, 골반 부정렬, 오리 궁둥이 체형(하부교차증후군).
   * 오래 앉아 일하는 사무직 근로자, 운전자, 사이클 선수.
   * 보행 시 고관절 신전이 제한되어 보폭이 좁아진 환자.
@@ -65,7 +66,7 @@ flowchart TD
   * 전상장골극(ASIS) 외측에서 기시하여 장경인대(ITB)로 이어져 거디 결절(Gerdy's tubercle)에 정지. 고관절 굴곡, 외전, 내회전을 담당.
 
 ### 2.2 생체역학적 보상 메커니즘 (Pelvic-Lumbar Biomechanics)
-* **요추-골반 보상 작용**: 
+* **요추-골반 보상 작용**:
   * 서 있거나 바로 누웠을 때, 단축된 장요근은 대퇴골을 고정한 채 요추체를 앞으로 잡아당겨 보상적으로 심한 **요추 전만(Lumbar Lordosis)**을 형성하여 구축을 감춥니다.
 * **검사의 원리**:
   * 한쪽 고관절을 가슴에 닿도록 최대로 굴곡시키면 골반이 후방 회전(Posterior tilt)되면서 요추가 바닥에 평평하게 밀착(Flattening)되어 요추의 보상 기전이 완전히 소거됩니다.

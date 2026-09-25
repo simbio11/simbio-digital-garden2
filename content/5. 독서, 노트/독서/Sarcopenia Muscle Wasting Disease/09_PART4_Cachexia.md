@@ -1,11 +1,7 @@
 ---
-type: 의학원서_요약노트
-book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
-publisher: 대한근감소증학회
-section: "PART 4. Cachexia"
-pages: "pp.289-310"
-chapters: ["Ch18", "Ch19"]
-source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+title: 09_PART4_Cachexia
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 독서
   - 의학원서
@@ -13,9 +9,13 @@ tags:
   - 악액질
   - 암악액질
 status: completed
-created: 2026-09-21
-title: 09_PART4_Cachexia
-date: 2026-09-22
+type: 의학원서_요약노트
+section: "PART 4. Cachexia"
+source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+book: "Sarcopenia: Muscle Wasting Disease (2nd Ed.)"
+chapters: ["Ch18", "Ch19"]
+pages: "pp.289-310"
+publisher: 대한근감소증학회
 ---
 
 # 📑 [근감소증] PART 4. Cachexia (악액질)

@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 양방 약
+title: PPI
+created: 2026-09-04
+updated: 2026-09-25
 tags:
   - 약리
   - 약리학
@@ -11,7 +12,7 @@ tags:
   - GERD
   - 위궤양
   - PPI
-created: 2026-09-04
+출처: "PMID: 16645899"
 aliases:
   - PPI
   - 프로톤펌프억제제
@@ -23,9 +24,8 @@ aliases:
   - 판토프라졸
   - 란소프라졸
   - 라베프라졸
-title: PPI
-date: 2026-09-21
-출처: "PMID: 16645899"
+type: 의학개념
+category: 양방 약
 ---
 
 # 프로톤 펌프 억제제 (PPI, Proton Pump Inhibitor)

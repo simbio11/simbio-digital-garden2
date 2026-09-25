@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 음릉천
-  - 陰陵泉
-  - SP9
-  - Yinlingquan
-  - Spleen 9
+title: 음릉천(SP9)
+created: 2026-09-21
+updated: 2026-09-24
 tags:
   - 이론
   - 경락
@@ -13,10 +10,13 @@ tags:
   - 합혈
   - 슬관절
   - 수종
-created: 2026-09-21
-title: 음릉천(SP9)
-date: 2026-09-21
 출처: "PMID: 42718497"
+aliases:
+  - 음릉천
+  - 陰陵泉
+  - SP9
+  - Yinlingquan
+  - Spleen 9
 ---
 # 🌀 족태음비경 [[음릉천]] (陰陵泉, SP9) — 合水
 

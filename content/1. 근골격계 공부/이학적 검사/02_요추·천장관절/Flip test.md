@@ -1,4 +1,14 @@
 ---
+title: Flip test
+created: 2026-09-15
+updated: 2026-09-24
+tags:
+  - 근골격계
+  - 이학적검사
+  - 요추
+  - 좌골신경통
+  - 꾀병감별
+출처: "https://www.youtube.com/watch?v=EWjMWJ6WFdM"
 aliases:
   - "Flip test"
   - "플립 검사"
@@ -8,15 +18,6 @@ aliases:
   - "Seated Lasègue Test"
   - "좌위 라세그 검사"
   - "좌위 하지직거상 검사"
-tags:
-  - 근골격계
-  - 이학적검사
-  - 요추
-  - 좌골신경통
-  - 꾀병감별
-title: Flip test
-date: 2026-09-15
-출처: "https://www.youtube.com/watch?v=EWjMWJ6WFdM"
 ---
 
 # 🩺 [[Flip test]] (플립 검사 / Seated Lasègue Test, 좌위 라세그 검사)

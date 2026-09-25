@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: mPPT
+created: 2026-09-12
+updated: 2026-09-25
 tags:
   - 이론
   - 개념사전
@@ -8,14 +9,13 @@ tags:
   - 허약
   - 기능평가
   - 재활
-created: 2026-09-12
+출처: "PMID: 42532077"
 aliases:
   - mPPT
   - Modified Physical Performance Test
   - 수정 신체수행능력검사
-title: mPPT
-date: 2026-09-12
-출처: "PMID: 42532077"
+type: 의학개념
+category: 평가도구
 ---
 # mPPT (수정 신체수행능력검사, modified Physical Performance Test)
 

@@ -1,20 +1,20 @@
 ---
-type: 개념
-category: 분자·세포 기전
+title: 위성세포(Satellite cell)
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
   - 위성세포
   - 근육재생
   - 근골격계
-created: 2026-09-22
+출처: "PMID: 29127046"
 aliases:
   - 근육 위성세포
   - Muscle satellite cell
   - Satellite cell of skeletal muscle
   - 근육줄기세포
-title: 위성세포(Satellite cell)
-date: 2026-09-22
-출처: "PMID: 29127046"
+type: 개념
+category: 분자·세포 기전
 ---
 
 # 🔬 [[위성세포]] (Satellite cell)

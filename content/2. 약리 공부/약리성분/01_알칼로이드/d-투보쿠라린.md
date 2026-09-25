@@ -1,23 +1,24 @@
 ---
-aliases:
-  - d-Tubocurarine
-  - d-투보쿠라린
-  - 투보쿠라린
-  - Tubocurarine
-  - 쿠라레
+title: d-투보쿠라린
+created: 2026-09-13
+updated: 2026-09-24
 tags:
   - 약리
   - 약리성분
   - 파이토케미컬
   - 알칼로이드
   - 근이완제
-CID: 6000
-분자식: C37H41ClN2O6
-분자량: 645.2 g/mol
-대표본초: "[[쿠라레]], [[방기과]]"
-title: d-투보쿠라린
-date: 2026-09-13
 출처: "PMID: 41671734"
+aliases:
+  - d-Tubocurarine
+  - d-투보쿠라린
+  - 투보쿠라린
+  - Tubocurarine
+  - 쿠라레
+CID: 6000
+대표본초: "[[쿠라레]], [[방기과]]"
+분자량: 645.2 g/mol
+분자식: C37H41ClN2O6
 ---
 
 > [!abstract]+ **핵심 3줄 요약 (Key Summary)**

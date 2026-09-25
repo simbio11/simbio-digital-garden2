@@ -1,20 +1,20 @@
 ---
-type: 의학개념
-category: 평가도구
+title: VO2peak
+created: 2026-09-12
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 노인
   - 재활
-created: 2026-09-12
+출처: "PMID: 42532077"
 aliases:
   - VO2peak
   - 최대산소섭취량
   - Peak oxygen uptake
   - VO2max
-title: VO2peak
-date: 2026-09-12
-출처: "PMID: 42532077"
+type: 의학개념
+category: 평가도구
 ---
 # VO2peak (최대 산소섭취량)
 

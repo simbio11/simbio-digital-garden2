@@ -1,15 +1,15 @@
 ---
-type: 의학개념
-category: 분자·세포 기전
+title: ROS
+created: 2026-09-03
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - 산화스트레스
   - 항산화
   - 연골
-created: 2026-09-03
-title: ROS
-date: 2026-09-03
+type: 의학개념
+category: 분자·세포 기전
 ---
 # ROS (Reactive Oxygen Species, 활성산소종)
 

@@ -1,6 +1,7 @@
 ---
-type: 의학개념
-category: 평가도구
+title: 골격근지수(SMI)
+created: 2026-09-12
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
@@ -8,15 +9,14 @@ tags:
   - 근감소증
   - BIA
   - DXA
-created: 2026-09-12
+출처: "PMID: 42440096"
 aliases:
   - SMI
   - Skeletal Muscle Index
   - 골격근지수
   - ASM/height²
-title: 골격근지수(SMI)
-date: 2026-09-23
-출처: "PMID: 42440096"
+type: 의학개념
+category: 평가도구
 ---
 # 골격근지수 (Skeletal Muscle Index, SMI)
 

@@ -1,21 +1,21 @@
 ---
-type: 의학원서_MOC
 title: "Sarcopenia: Muscle Wasting Disease (2nd Edition)"
-publisher: 대한근감소증학회
-edition: 2판
-published: 2025-09-11
-source_file: "[[근감소증]] ocr+선명도 (1).pdf"
-total_pages: 566
-total_sections: 15
-status: in_progress
 created: 2026-09-21
+updated: 2026-09-25
 tags:
   - 독서
   - 의학원서
   - 근감소증
   - sarcopenia
   - MOC
-date: 2026-09-22
+status: in_progress
+type: 의학원서_MOC
+source_file: "[[근감소증]] ocr+선명도 (1).pdf"
+edition: 2판
+published: 2025-09-11
+publisher: 대한근감소증학회
+total_pages: 566
+total_sections: 15
 ---
 
 # 📚 Sarcopenia: Muscle Wasting Disease (2판)

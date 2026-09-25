@@ -1,13 +1,14 @@
 ---
 title: IFN-감마
-date: 2026-09-22
+created: 2026-09-22
+updated: 2026-09-24
 tags:
   - 이론
+출처: "https://www.uniprot.org/uniprotkb/P01579"
 aliases:
   - 인터페론 감마
   - IFN-γ
   - Interferon gamma
-출처: "https://www.uniprot.org/uniprotkb/P01579"
 ---
 
 # IFN-감마 (인터페론 감마)

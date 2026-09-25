@@ -1,13 +1,14 @@
 ---
-type: 의학개념
-category: 평가도구
+title: BCTQ
+created: 2026-09-08
+updated: 2026-09-24
 tags:
   - 이론
   - 개념사전
   - CTS
   - PROM
   - 기능장애
-created: 2026-09-08
+출처: PMID 28334999
 aliases:
   - Boston Carpal Tunnel Questionnaire
   - BCTQ
@@ -16,9 +17,8 @@ aliases:
   - Brigham and Women's Carpal Tunnel Questionnaire
   - Carpal Tunnel Syndrome Instrument
   - 보스턴 손목터널 설문
-title: BCTQ
-date: 2026-09-15
-출처: PMID 28334999
+type: 의학개념
+category: 평가도구
 ---
 # BCTQ (Boston Carpal Tunnel Questionnaire, Levine 설문)
 
