@@ -166,10 +166,22 @@ graph LR
 
 #### 극단적 희귀 지단백 결핍증의 분자병리 비교
 
-| 질환명 | 원인 유전자 및 결손 단백질 | 혈청 지질 및 지단백 양상 | 조직 병리학적 특징 | 주요 임상 신경/전신 증상 |
-| :--- | :--- | :--- | :--- | :--- |
-| **무베타지단백혈증 (Abetalipoproteinemia / Bassen-Kornzweig)** | **MTTP 유전자** (소포체 내 지질전이단백 MTP 결손) | **ApoB 함유 지단백(킬로미크론, VLDL, LDL) 완전 결손!** 혈청 콜레스테롤 <50, TG 검출 불가 | 장 상피세포질에 지질 점적이 꽉 차서 백색으로 팽창 | • 유아기 지방변(Steatorrhea), 성장 장애<br>• **비타민 E 결핍에 따른 척수소뇌 실조증 (실조, 보행장애, 반사 소실)**<br>• 비전형적 망막색소변성증<br>• 말초혈액 도말상 **가시적혈구 (Acanthocytosis)** |
-| **탕지에병 (Tangier Disease)** | **ABCA1 유전자** (콜레스테롤 배출 펌프 결손) | **HDL 및 ApoA-I 거의 완전 결손 (<5 mg/dL)!** LDL-C도 40% 수준으로 감소 | 세망내피계 대식세포에 콜레스테롤 에스테르가 가득 차 거품세포 형성 | • **편도가 오렌지색/황갈색으로 거대 비대 (Enlarged Orange Tonsils)** (병변 특이적!)<br>• 간비장비대, 조기 동맥경화증<br>• 척수공동증양 말초신경병증 |
+**(1) 원인 유전자·혈청 지질 및 지단백 양상**
+
+| 질환명 | 원인 유전자 및 결손 단백질 | 혈청 지질 및 지단백 양상 |
+| :--- | :--- | :--- |
+| **무베타지단백혈증 (Abetalipoproteinemia / Bassen-Kornzweig)** | **MTTP 유전자** (소포체 내 지질전이단백 MTP 결손) | **ApoB 함유 지단백(킬로미크론, VLDL, LDL) 완전 결손!** |
+| **탕지에병 (Tangier Disease)** | **ABCA1 유전자** (콜레스테롤 배출 펌프 결손) | **HDL 및 ApoA-I 거의 완전 결손 (<5 mg/dL)!** LDL-C도 40% 수준으로 감소 |
+
+**(2) 조직 병리학적 특징**
+
+| 질환명 | 조직 병리학적 특징 |
+| :--- | :--- |
+| **무베타지단백혈증 (Abetalipoproteinemia / Bassen-Kornzweig)** | 장 상피세포질에 지질 점적이 꽉 차서 백색으로 팽창 |
+| **탕지에병 (Tangier Disease)** | 세망내피계 대식세포에 콜레스테롤 에스테르가 가득 차 거품세포 형성 |
+
+* **무베타지단백혈증 (Abetalipoproteinemia / Bassen-Kornzweig)**: 혈청 콜레스테롤 <50, TG 검출 불가. 유아기 지방변(Steatorrhea), 성장 장애. **비타민 E 결핍에 따른 척수소뇌 실조증 (실조, 보행장애, 반사 소실)**. 비전형적 망막색소변성증. 말초혈액 도말상 **가시적혈구 (Acanthocytosis)**.
+* **탕지에병 (Tangier Disease)**: **편도가 오렌지색/황갈색으로 거대 비대 (Enlarged Orange Tonsils)** (병변 특이적!). 간비장비대, 조기 동맥경화증. 척수공동증양 말초신경병증.
 
 ---
 
@@ -225,13 +237,29 @@ graph LR
 
 #### 주요 이상지질혈증 치료 약리학 매트릭스
 
-| 약제 클래스 | 대표 약물명 | 주요 분자 작용 기전 | 혈중 지질 변화 효과 | 주요 부작용 및 임상 주의점 |
-| :--- | :--- | :--- | :--- | :--- |
-| **스타틴 (Statins)** | Atorvastatin, Rosuvastatin | **HMG-CoA 환원효소 경쟁적 억제** $\rightarrow$ 간세포 내 콜레스테롤 감소로 **간세포막 LDLR 발현 폭증** $\rightarrow$ 순환 LDL 흡수 제거 | **LDL-C $\downarrow 30\sim55\%$**<br>TG $\downarrow 10\sim30\%$<br>HDL $\uparrow 5\sim10\%$ | **심혈관 1차/2차 예방의 1차 선택제**.<br>간효소치(AST/ALT) 상승, 근육병증/횡문근융해증(Myopathy/Rhabdomyolysis), 신규 당뇨병 발생 소폭 증가 |
-| **콜레스테롤 흡수 억제제** | **Ezetimibe** | 소장 융모의 **NPC1L1 수송체 차단** $\rightarrow$ 장관 내 콜레스테롤 흡수 억제 | **LDL-C $\downarrow 15\sim20\%$** (스타틴 병용 시 시너지) | 스타틴과 병용 시 최고의 내약성, 단독 투여 시 부작용 극히 드묾 |
-| **PCSK9 억제제** | Evolocumab, Alirocumab (피하주사) | **PCSK9 순환 단백질에 결합 중화** $\rightarrow$ LDLR의 리소좀 분해를 막고 세포막 재활용 유지 | **LDL-C $\downarrow 50\sim60\%$**<br>Lp(a) $\downarrow 25\%$ | 초고위험군 또는 스타틴 불내성 환자의 구원 투수. 주사 부위 반응 |
-| **피브레이트 (Fibrates)** | Fenofibrate, Gemfibrozil | **PPAR-$\alpha$ 핵수용체 전사 활성화** $\rightarrow$ LPL 발현 유도 및 ApoC-III 억제로 VLDL 분해 촉진 | **TG $\downarrow 30\sim50\%$**<br>HDL-C $\uparrow 10\sim20\%$ | **TG > 500 mg/dL 시 췌장염 예방 1차 선택제**.<br>Gemfibrozil은 스타틴 대사를 방해하여 근육병증 위험 급증(스타틴 병용 시 Fenofibrate 권장) |
-| **오메가-3 지방산** | Icosapent ethyl (EPA 고순도) | 간의 VLDL 합성 및 분비 억제, 중성지방 청소율 증가 | **TG $\downarrow 20\sim45\%$** | 심혈관 사건 감소 입증(REDUCE-IT 연구). 심방세동(AF) 발생 위험 주의 |
+**(1) 대표 약물·주요 분자 작용 기전**
+
+| 약제 클래스 | 대표 약물명 | 주요 분자 작용 기전 |
+| :--- | :--- | :--- |
+| **스타틴 (Statins)** | Atorvastatin, Rosuvastatin | **HMG-CoA 환원효소 경쟁적 억제** $\rightarrow$ LDLR 발현 폭증 |
+| **콜레스테롤 흡수 억제제** | **Ezetimibe** | 소장 융모의 **NPC1L1 수송체 차단** $\rightarrow$ 장관 내 콜레스테롤 흡수 억제 |
+| **PCSK9 억제제** | Evolocumab, Alirocumab (피하주사) | **PCSK9 순환 단백질 결합 중화** $\rightarrow$ LDLR 재활용 |
+| **피브레이트 (Fibrates)** | Fenofibrate, Gemfibrozil | **PPAR-$\alpha$ 핵수용체 전사 활성화** $\rightarrow$ LPL 유도 |
+| **오메가-3 지방산** | Icosapent ethyl (EPA 고순도) | 간의 VLDL 합성 및 분비 억제, 중성지방 청소율 증가 |
+
+**(2) 혈중 지질 변화 효과·부작용 및 주의점**
+
+| 약제 클래스 | 혈중 지질 변화 효과 | 주요 부작용 및 임상 주의점 |
+| :--- | :--- | :--- |
+| **스타틴 (Statins)** | **LDL-C $\downarrow 30\sim55\%$** | **심혈관 1차/2차 예방의 1차 선택제** |
+| **콜레스테롤 흡수 억제제** | **LDL-C $\downarrow 15\sim20\%$** (스타틴 병용 시 시너지) | 스타틴과 병용 시 최고의 내약성, 단독 투여 시 부작용 극히 드묾 |
+| **PCSK9 억제제** | **LDL-C $\downarrow 50\sim60\%$**<br>Lp(a) $\downarrow 25\%$ | 초고위험군 또는 스타틴 불내성 환자의 구원 투수. 주사 부위 반응 |
+| **피브레이트 (Fibrates)** | **TG $\downarrow 30\sim50\%$** | **TG > 500 mg/dL 시 췌장염 예방 1차 선택제** |
+| **오메가-3 지방산** | **TG $\downarrow 20\sim45\%$** | 심혈관 사건 감소 입증(REDUCE-IT 연구). 심방세동(AF) 발생 위험 주의 |
+
+* **스타틴 (Statins)**: 간세포 내 콜레스테롤 감소로 **간세포막 LDLR 발현 폭증** → 순환 LDL 흡수 제거. TG $\downarrow 10\sim30\%$, HDL $\uparrow 5\sim10\%$. 간효소치(AST/ALT) 상승, 근육병증/횡문근융해증(Myopathy/Rhabdomyolysis), 신규 당뇨병 발생 소폭 증가.
+* **PCSK9 억제제**: LDLR의 리소좀 분해를 막고 세포막 재활용 유지. Lp(a) $\downarrow 25\%$. 초고위험군 또는 스타틴 불내성 환자의 구원 투수. 주사 부위 반응.
+* **피브레이트 (Fibrates)**: LPL 발현 유도 및 ApoC-III 억제로 VLDL 분해 촉진. HDL-C $\uparrow 10\sim20\%$. Gemfibrozil은 스타틴 대사를 방해하여 근육병증 위험 급증(스타틴 병용 시 Fenofibrate 권장).
 
 ---
 
@@ -330,12 +358,28 @@ graph LR
 
 #### 고셔병, 니만-픽병, 테이-삭스병 및 파브리병 정밀 감별
 
-| 질환명 | 유전 방식 | 결손 효소 | 세포 내 축적 기질 | 핵심 병리학적 소견 | 주요 임상 특징 및 감별점 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **고셔병 (Gaucher Disease, 최빈도)** | 상염색체 열성 | **글루코세레브로시다아제 ($\beta$-Glucosidase)** | **글루코세레브로사이드 (Glucosylceramide)** | **고셔 세포 (Gaucher cells)**: 대식세포 세포질이 **구겨진 화장지(Wrinkled tissue paper)** 또는 구겨진 비단 양상 | • 현저한 간비장비대, 범혈구감소증<br>• 무균성 골괴사, 골통 위기(Bone crises)<br>• 대퇴골 원위부 **에를렌마이어 플라스크 변형 (Erlenmeyer flask deformity)** |
-| **니만-픽병 (Niemann-Pick Disease)** | 상염색체 열성 | **스핑고미엘리나아제 (Sphingomyelinase)** | **스핑고미엘린 (Sphingomyelin)** | **거품 세포 (Foam cells)**: 세포질 내 균일한 미세 지질 액포가 가득 참 | • **현저한 간비장비대 (Hepatosplenomegaly)**<br>• 진행성 신경퇴행, 발달 퇴행<br>• 안저 **황반부 체리적색 반점 (Cherry-red spot)** |
-| **테이-삭스병 (Tay-Sachs Disease)** | 상염색체 열성 | **헥소사미니다아제 A (Hexosaminidase A)** | **$\text{GM}_2$ 강글리오사이드** | 신경세포 리소좀의 **양파껍질 모양 층판상 봉입체 (Onion-skin lysosomes)** | • 급격한 신경 발달 퇴행, 청각과민증(Hyperacusis)<br>• 안저 **황반부 체리적색 반점 (Cherry-red spot)**<br>• ⚠️ **간비장비대가 전혀 없음 (No Hepatosplenomegaly! 니만-픽과의 결정적 감별점)** |
-| **파브리병 (Fabry Disease)** | **X-연관 열성** | **$\alpha$-갈락토시다아제 A ($\alpha$-Galactosidase A)** | **세라마이드 트리헥소사이드 (Globotriaosylceramide, Gb3)** | 혈관 내피세포 및 족세포에 얼룩말 무늬 봉입체 (Zebra bodies) | • 사지 말단 작열통(**말단지각이상 Acroparesthesias**)<br>• 하복부/회음부 **혈관각화종 (Angiokeratomas)**<br>• 무한증(Hypohidrosis), 청년기 조기 신부전 및 심근병증 |
+**(1) 유전 방식·결손 효소·세포 내 축적 기질**
+
+| 질환명 | 유전 방식 | 결손 효소 | 세포 내 축적 기질 |
+| :--- | :--- | :--- | :--- |
+| **고셔병 (Gaucher Disease, 최빈도)** | 상염색체 열성 | **글루코세레브로시다아제 ($\beta$-Glucosidase)** | **글루코세레브로사이드 (Glucosylceramide)** |
+| **니만-픽병 (Niemann-Pick Disease)** | 상염색체 열성 | **스핑고미엘리나아제 (Sphingomyelinase)** | **스핑고미엘린 (Sphingomyelin)** |
+| **테이-삭스병 (Tay-Sachs Disease)** | 상염색체 열성 | **헥소사미니다아제 A (Hexosaminidase A)** | **$\text{GM}_2$ 강글리오사이드** |
+| **파브리병 (Fabry Disease)** | **X-연관 열성** | **$\alpha$-갈락토시다아제 A ($\alpha$-Galactosidase A)** | **세라마이드 트리헥소사이드 (Globotriaosylceramide, Gb3)** |
+
+**(2) 핵심 병리학적 소견**
+
+| 질환명 | 핵심 병리학적 소견 |
+| :--- | :--- |
+| **고셔병 (Gaucher Disease, 최빈도)** | **고셔 세포**: 구겨진 화장지(Wrinkled tissue paper) 양상 |
+| **니만-픽병 (Niemann-Pick Disease)** | **거품 세포 (Foam cells)**: 세포질 내 균일한 미세 지질 액포가 가득 참 |
+| **테이-삭스병 (Tay-Sachs Disease)** | 신경세포 리소좀의 **양파껍질 모양 층판상 봉입체 (Onion-skin lysosomes)** |
+| **파브리병 (Fabry Disease)** | 혈관 내피세포 및 족세포에 얼룩말 무늬 봉입체 (Zebra bodies) |
+
+* **고셔병 (Gaucher Disease, 최빈도)**: 대식세포 세포질이 **구겨진 화장지(Wrinkled tissue paper)** 또는 구겨진 비단 양상. 현저한 간비장비대, 범혈구감소증. 무균성 골괴사, 골통 위기(Bone crises). 대퇴골 원위부 **에를렌마이어 플라스크 변형 (Erlenmeyer flask deformity)**.
+* **니만-픽병 (Niemann-Pick Disease)**: **현저한 간비장비대 (Hepatosplenomegaly)**. 진행성 신경퇴행, 발달 퇴행. 안저 **황반부 체리적색 반점 (Cherry-red spot)**.
+* **테이-삭스병 (Tay-Sachs Disease)**: 급격한 신경 발달 퇴행, 청각과민증(Hyperacusis). 안저 **황반부 체리적색 반점 (Cherry-red spot)**. ⚠️ **간비장비대가 전혀 없음 (No Hepatosplenomegaly! 니만-픽과의 결정적 감별점)**.
+* **파브리병 (Fabry Disease)**: 사지 말단 작열통(**말단지각이상 Acroparesthesias**). 하복부/회음부 **혈관각화종 (Angiokeratomas)**. 무한증(Hypohidrosis), 청년기 조기 신부전 및 심근병증.
 
 ---
 
@@ -395,13 +439,25 @@ graph TD
 
 ### 1. 주요 비타민 결핍증 핵심 감별 매트릭스
 
-| 비타민 명칭 | 필수 생화학 효소 / 기능 | 주요 결핍 질환명 | 특징적 신체 및 신경 증상 | 결정적 진단 및 치료 지침 |
-| :--- | :--- | :--- | :--- | :--- |
-| **비타민 B1 (Thiamine)** | PDH, $\alpha$-KGDH, 트랜스케톨라아제 | **각기병 (습성/건성), 베르니케-코르사코프** | 고박출성 심부전, 말초신경염(족하수), 안구운동마비, 보행실조, 작화증 | 적혈구 트랜스케톨라아제 활성도 측정. **포도당 투여 전 정맥 티아민 선행 필수** |
-| **비타민 B3 (Niacin)** | $\text{NAD}^+ / \text{NADP}^+$ 산화환원 전자전달 | **펠라그라 (Pellagra)** | **4D: 피부염(카살 목걸이), 설사(선홍색 설염), 치매(정신병), 사망** | 소변 N-메틸니코틴아미드 배설 저하. 경구 니코틴아미드 보충 |
-| **비타민 C (Ascorbic acid)** | Prolyl/Lysyl hydroxylase (콜라겐 합성) | **괴혈병 (Scurvy)** | 모낭주위 출혈, **코르크마개 털**, 출혈성 잇몸, 치아 탈락, 상처 치유 지연 | 혈청 비타민 C 농도 측정. 비타민 C 경구 보충 시 수일 내 출혈 멈춤 |
-| **비타민 A (Retinol)** | 로돕신 시각 색소, 점막 상피세포 분화 | **야맹증, 각막연화증** | 야맹증, **비토 반점 (Bitot's spots)**, 안구건조증, 실명, 모낭 과각화증 | 혈청 레티놀 농도 측정. 고용량 비타민 A 경구 투여 |
-| **비타민 E ($\alpha$-Tocopherol)** | 세포막 다가불포화지방산 항산화 보호 | **용혈성 빈혈, 척수소뇌 실조** | 심부건반사 소실, 위치/진동감각 소실, 실조증, 가시적혈구 (B12 결핍과 유사하나 빈혈 양상 다름) | 혈청 토코페롤 농도. 무베타지단백혈증/흡수장애 시 고용량 보충 |
+**(1) 필수 생화학 효소·주요 결핍 질환**
+
+| 비타민 명칭 | 필수 생화학 효소 / 기능 | 주요 결핍 질환명 |
+| :--- | :--- | :--- |
+| **비타민 B1 (Thiamine)** | PDH, $\alpha$-KGDH, 트랜스케톨라아제 | **각기병 (습성/건성), 베르니케-코르사코프** |
+| **비타민 B3 (Niacin)** | $\text{NAD}^+ / \text{NADP}^+$ 산화환원 전자전달 | **펠라그라 (Pellagra)** |
+| **비타민 C (Ascorbic acid)** | Prolyl/Lysyl hydroxylase (콜라겐 합성) | **괴혈병 (Scurvy)** |
+| **비타민 A (Retinol)** | 로돕신 시각 색소, 점막 상피세포 분화 | **야맹증, 각막연화증** |
+| **비타민 E ($\alpha$-Tocopherol)** | 세포막 다가불포화지방산 항산화 보호 | **용혈성 빈혈, 척수소뇌 실조** |
+
+**(2) 특징적 증상·진단 및 치료 지침**
+
+| 비타민 명칭 | 특징적 신체 및 신경 증상 | 결정적 진단 및 치료 지침 |
+| :--- | :--- | :--- |
+| **비타민 B1 (Thiamine)** | 고박출성 심부전, 말초신경염(족하수), 안구운동마비, 보행실조, 작화증 | 적혈구 트랜스케톨라아제 활성도 측정. **포도당 투여 전 정맥 티아민 선행 필수** |
+| **비타민 B3 (Niacin)** | **4D: 피부염(카살 목걸이), 설사(선홍색 설염), 치매(정신병), 사망** | 소변 N-메틸니코틴아미드 배설 저하. 경구 니코틴아미드 보충 |
+| **비타민 C (Ascorbic acid)** | 모낭주위 출혈, **코르크마개 털**, 출혈성 잇몸, 치아 탈락, 상처 치유 지연 | 혈청 비타민 C 농도 측정. 비타민 C 경구 보충 시 수일 내 출혈 멈춤 |
+| **비타민 A (Retinol)** | 야맹증, **비토 반점 (Bitot's spots)**, 안구건조증, 실명, 모낭 과각화증 | 혈청 레티놀 농도 측정. 고용량 비타민 A 경구 투여 |
+| **비타민 E ($\alpha$-Tocopherol)** | 심부건반사 소실, 위치/진동감각 소실, 실조증, 가시적혈구 (B12 결핍과 유사하나 빈혈 양상 다름) | 혈청 토코페롤 농도. 무베타지단백혈증/흡수장애 시 고용량 보충 |
 
 ---
 

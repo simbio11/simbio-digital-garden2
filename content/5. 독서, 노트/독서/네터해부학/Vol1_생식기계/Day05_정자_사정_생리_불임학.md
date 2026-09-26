@@ -126,16 +126,20 @@ volume: "Volume 1: Reproductive System"
   - 인간의 정세관 상피 내 정자발생 주기는 **나선형/헬리컬(Spiral/helical) 세포 배열**을 이루고 있어, 정자 생산이 설치류와 같이 박동성(Pulsatile)이 아닌 **연속적이고 일정한(Continuous) 과정**으로 유지됨.
 
 #### 2) WHO 정액분석 표준 하한 기준치 (Lower Reference Limits)
+
 | 검사 항목 (Parameter) | WHO 최신 기준치 (5th percentile) | 고전 기준치 | 임상적 의의 및 병태생리 |
 | :--- | :--- | :--- | :--- |
-| **사정액 용적 (Volume)** | $\ge 1.5\text{ mL}$ | $\ge 2.0\text{ mL}$ | 질 내 산도 완충 작용. $< 1.5\text{ mL}$ 시 사정관 폐색(EDO), 역행성 사정, CBAVD, 안드로겐 결핍 또는 검체 수거 오류 의심 |
-| **정자 농도 (Concentration)** | $\ge 15 \times 10^6\text{ /mL}$ | $> 20 \times 10^6\text{ /mL}$ | $< 15 \times 10^6\text{ /mL}$: **희소정자증 (Oligozoospermia)**. 약물, 독소, 정계정맥류, 내분비 장애, 유전 질환 |
+| **사정액 용적 (Volume)** | $\ge 1.5\text{ mL}$ | $\ge 2.0\text{ mL}$ | 질 내 산도 완충 작용. $< 1.5\text{ mL}$ 시 사정관 폐색(EDO), 역행성 사정, CBAVD |
+| **정자 농도 (Concentration)** | $\ge 15 \times 10^6\text{ /mL}$ | $> 20 \times 10^6\text{ /mL}$ | $< 15 \times 10^6\text{ /mL}$: **희소정자증 (Oligozoospermia)** |
 | **총 정자수 (Total count)** | $\ge 39 \times 10^6\text{ /ejaculate}$ | $\ge 40 \times 10^6\text{ /ejaculate}$ | 1회 사정액 전체의 정자 생산능 총량 |
 | **총 운동성 (Total motility)** | $\ge 40\%$ | $\ge 50\%$ | 전진성 + 비전진성 운동 정자 비율 |
 | **전진 운동성 (Progressive, PR)** | $\ge 32\%$ | $\ge 25\%$ (Grade a) | 자궁경관 점액 돌파 및 난관 수송 능력. 저하 시 **무력정자증 (Asthenozoospermia)** |
 | **정상 형태율 (Normal morphology)** | $\ge 4\%$ (**Kruger strict criteria**) | $\ge 14\sim 30\%$ | 가임력 판별의 가장 강력한 지표. $< 4\%$: **기형정자증 (Teratozoospermia)** |
 | **생존율 (Vitality)** | $\ge 58\%$ (호산성 염색 배제 검사) | $\ge 75\%$ | 괴사정자증(Necrozoospermia)과 무력정자증 감별 |
 | **산도 (pH)** | $\ge 7.2$ | $7.2\sim 8.0$ | 정낭액(알칼리성)과 전립선액(산성)의 비율 반영. $< 7.0$ 시 사정관 폐색 또는 CBAVD 시사 |
+* **기준치 미달 시 감별**:
+  * **사정액 용적 $< 1.5\text{ mL}$**: 안드로겐 결핍 또는 검체 수거 오류도 감별 대상.
+  * **정자 농도 $< 15 \times 10^6\text{ /mL}$**: 약물, 독소, 정계정맥류, 내분비 장애, 유전 질환이 원인.
 
 #### 3) 정자 형태학과 특수 정액 검사 (Specialized Semen Assays)
 - **크루거 엄격 기준 (Kruger Strict Criteria)**:
@@ -313,15 +317,20 @@ graph TD
   - **고환 정자 (Testicular Sperm)**: 운동성이 매우 희박하거나 미성숙 $\rightarrow$ 반드시 IVF-ICSI 필요.
 
 #### 2) 정자 채취 기법의 정밀 비교
-| 술식 | 영문 정식 명칭 | 목표 장기 및 침습도 | 주 적응증 | 채취 기술 및 특징 |
-| :--- | :--- | :--- | :--- | :--- |
-| **Vasal Aspiration** | Vasal Sperm Aspiration | 정관 / 음낭 천자 최소 절개 | 전립선/골반 정관 폐색, 당뇨·척수손상 사정부전 | 확대경 하 정관 천자 후 정액 흡인. 성숙도가 가장 높아 **IUI/IVF 가능** |
-| **MESA** | Microsurgical Epididymal Sperm Aspiration | 부고환 / 미세수술 절개 ($15\sim 25\times$) | 폐색성 무정자증 (OA, CBAVD 등) | 수술 현미경 하 단일 부고환 세관을 절개하여 **적혈구 오염이 전무한 고순도·고수율 정자 획득**. 냉동 보관(Cryobanking)에 최적 |
-| **PESA** | Percutaneous Epididymal Sperm Aspiration | 부고환 / 경피적 주사기 흡인 | 폐색성 무정자증 (OA) | 비절개 국소마취. 맹검 천자로 여러 세관이 파열되어 혈액 오염 및 낮은 정자 수율, 동결 효율 저하 |
-| **TESA** | Testicular Sperm Aspiration | 고환 / 경피적 바늘 흡인 | 폐색성 무정자증, 침습도 최소화 희망 시 | 부고환을 후방으로 고정한 뒤 16~23G 주삿바늘을 고환 내로 찔러 음압으로 정세관 흡인 |
-| **TESE** | Testicular Sperm Extraction | 고환 / 개복 쐐기 생검 | 폐색성 및 비폐색성 무정자증 | 고환 백막을 소절개하여 무작위 실질 조직 채취 (NOA에서 표본오차 높음) |
-| **micro-TESE** | Microdissection Testicular Sperm Extraction | 고환 / 광범위 양분 절개 + **수술 현미경 탐색** | **비폐색성 무정자증 (NOA)의 골드 스탠다드** | 고환 실질을 전체 노출 후 현미경 하에서 **직경이 굵고(larger caliber), 불투명하며 백색(more opaque/whiter)을 띠는 정자형성 정세관을 선별 채취**. 정자 획득률 50~60% 달성 및 혈관 손상 최소화 |
-| **FNA Map-directed TESE** | FNA Map-directed TESE | 고환 / 사전 지도 기반 표적 채취 | 비폐색성 무정자증 (NOA) | 사전 FNA 지도에서 정자가 확인된 정확한 위치만을 표적하여 TESA/TESE를 시행함으로써 불필요한 고환 조직 손상 방지 |
+
+| 술식 (영문 정식 명칭) | 목표 장기 및 침습도 | 주 적응증 | 채취 기술 및 특징 |
+| :--- | :--- | :--- | :--- |
+| **Vasal Aspiration** Vasal Sperm Aspiration | 정관 / 음낭 천자 최소 절개 | 전립선/골반 정관 폐색, 당뇨·척수손상 사정부전 | 확대경 하 정관 천자 후 정액 흡인. 성숙도가 가장 높아 **IUI/IVF 가능** |
+| **MESA** Microsurgical Epididymal Sperm Aspiration | 부고환 / 미세수술 절개 ($15\sim 25\times$) | 폐색성 무정자증 (OA, CBAVD 등) | 수술 현미경 하 단일 부고환 세관 절개. 냉동 보관(Cryobanking)에 최적 |
+| **PESA** Percutaneous Epididymal Sperm Aspiration | 부고환 / 경피적 주사기 흡인 | 폐색성 무정자증 (OA) | 비절개 국소마취. 맹검 천자로 여러 세관이 파열되어 혈액 오염 및 낮은 정자 수율, 동결 효율 저하 |
+| **TESA** Testicular Sperm Aspiration | 고환 / 경피적 바늘 흡인 | 폐색성 무정자증, 침습도 최소화 희망 시 | 부고환을 후방으로 고정한 뒤 16~23G 주삿바늘을 고환 내로 찔러 음압으로 정세관 흡인 |
+| **TESE** Testicular Sperm Extraction | 고환 / 개복 쐐기 생검 | 폐색성 및 비폐색성 무정자증 | 고환 백막을 소절개하여 무작위 실질 조직 채취 (NOA에서 표본오차 높음) |
+| **micro-TESE** Microdissection Testicular Sperm Extraction | 고환 / 광범위 양분 절개 + **수술 현미경 탐색** | **비폐색성 무정자증 (NOA)의 골드 스탠다드** | 고환 실질 전체 노출 후 현미경 하 정세관 선별 채취 (정자 획득률 50~60%) |
+| **FNA Map-directed TESE** FNA Map-directed TESE | 고환 / 사전 지도 기반 표적 채취 | 비폐색성 무정자증 (NOA) | FNA 지도에서 정자 확인 위치만 표적하여 TESA/TESE 시행 |
+* **채취 기법 세부**:
+  * **MESA**: 수술 현미경 하 단일 부고환 세관을 절개하여 **적혈구 오염이 전무한 고순도·고수율 정자 획득**.
+  * **micro-TESE**: **직경이 굵고(larger caliber), 불투명하며 백색(more opaque/whiter)을 띠는 정자형성 정세관을 선별 채취**하며 혈관 손상 최소화.
+  * **FNA Map-directed TESE**: 불필요한 고환 조직 손상 방지.
 
 #### 3) 정자 동결 보존 (Cryopreservation)의 임상적 혁신
 - 채취된 정자의 냉동 및 해동 기술 발전으로 여성 파트너의 난자 채취 시술과의 시차를 분리(Decoupling)하여 수술 일정을 유연하게 조율할 수 있으며, 1회 채취 정자로 수차례의 IVF-ICSI 시도가 가능하여 남성의 반복 수술 부담을 제거.

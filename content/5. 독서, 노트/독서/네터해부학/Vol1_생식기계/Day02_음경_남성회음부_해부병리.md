@@ -615,12 +615,13 @@ graph TD
 
 | 특성 | 임균성 요도염 (Gonococcal, GU) | 비임균성 요도염 (Non-gonococcal, NGU) |
 | :--- | :--- | :--- |
-| **원인 병원체** | *Neisseria gonorrhoeae* | *Chlamydia trachomatis* (가장 흔함), *Mycoplasma genitalium*, *Ureaplasma*, HSV-2 |
+| **원인 병원체** | *Neisseria gonorrhoeae* | *Chlamydia trachomatis* (가장 흔함) 등 |
 | **잠복기** | **짧음 (3~5일)** | **김 (1~3주)** |
 | **분비물 성상** | **대량의 농성(황록색) 분비물**, 극심한 배뇨통 | **소량의 장액성/유백색 분비물**, 가려움증 |
 | **도말/검사** | 백혈구 내 **그람음성 쌍구균 (GNDC)** | 다핵백혈구 다수, 균체 불염 (Multiplex PCR 확진) |
 | **주요 합병증** | 요도해면체염(통증성 발기), 전립선농양, 부고환염, **요도 협착**, 불임 | 라이터 증후군 (Reiter syndrome), 만성 전립선염 |
 | **표준 치료** | Ceftriaxone 근주 | Doxycycline 경구 (또는 Azithromycin) |
+* **비임균성 요도염 원인 병원체 전체**: *Chlamydia trachomatis* (가장 흔함), *Mycoplasma genitalium*, *Ureaplasma*, HSV-2.
 
 > 🔬 **질편모충 요도염 (*Trichomonas vaginalis*)**: 미국에서만 연간 800만 건 발생하는 기생충 감염으로, 아침에 묽은 우유빛(Milky white) 분비물이 보이며 도말 검사 상 활발히 회전 운동하는 편모충(Flagellates)이 관찰됩니다 (Metronidazole 치료).
 

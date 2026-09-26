@@ -10,11 +10,7 @@ tags:
 
 > **핵심 요약 (Key Summary)**:
 > 신장 신사구체인접기에서 분비되는 레닌을 시발점으로 혈압과 체액량 및 전해질 균형을 조절하는 핵심 내분비 신호축
-> 레닌 $
-ightarrow$ 안지오텐신 I $
-ightarrow$ ACE $
-ightarrow$ 안지오텐신 II $
-ightarrow$ 알도스테론 분비 연쇄 반응
+> 레닌 $\rightarrow$ 안지오텐신 I $\rightarrow$ ACE $\rightarrow$ 안지오텐신 II $\rightarrow$ 알도스테론 분비 연쇄 반응
 > 고혈압·심부전·만성 신질환 병태의 중추이자 한의 수습(水濕) 저류·신양허(腎陽虛)·음허양항 치료 표적
 
 ---
@@ -47,7 +43,7 @@ ightarrow$ 알도스테론 분비 연쇄 반응
 
 ### 2.1 레닌 (Renin)
 * 신장 수입세동맥벽의 신사구체인접세포(JG cell)에서 분비되는 단백질 분해효소.
-* 분비 자극: 신동맥압 감소(신허혈), 원위세뇨관 치밀반(Macula densa)의 $Na^+/Cl^-$ 도달량 감소, 교감신경 $eta_1$ 수용체 흥분.
+* 분비 자극: 신동맥압 감소(신허혈), 원위세뇨관 치밀반(Macula densa)의 $Na^+/Cl^-$ 도달량 감소, 교감신경 $\beta_1$ 수용체 흥분.
 
 ### 2.2 안지오텐신 II (Angiotensin II, Ang II)
 * **AT1 수용체 결합**:

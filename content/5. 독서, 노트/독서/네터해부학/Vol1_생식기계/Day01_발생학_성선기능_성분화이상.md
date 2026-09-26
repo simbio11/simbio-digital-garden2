@@ -83,16 +83,18 @@ volume: "Volume 1: Reproductive System"
   - 임신 5주경 난황낭경(**Yolk sac stalk**)을 따라 아메바 운동으로 후복벽의 **생식선능(Genital ridge)**으로 이동하여 **양위성 생식선(Bipotential gonad)**을 형성.
 
 #### 3) 염색체 위치별 성결정 유전자 지도 (Chromosomal Mapping of Sex Determination)
+
 | 염색체 위치 | 유전자 기호 | 주요 발현 시기 및 발생학적 역할 | 분화 방향 |
 | :--- | :--- | :--- | :--- |
 | **Chromosome Y ($Yp$)** | **SRY** | 고환결정인자(TDF), HMG-box 모티프로 DNA bending, SOX9 직접 활성화 | 고환 유도 |
 | **Chromosome 17** | **SOX9** | Sertoli 세포 분화의 핵심 마스터 유전자, AMH 전사 직접 촉진 | 고환 유도 |
 | **Chromosome 8** | **GATA4, FOG2** | 생식선능에서 양위성 생식선으로의 전환 촉진, SRY/SOX9 활성화 보조 | 초기 공통 |
 | **Chromosomes 10 & 13** | **FGFR2 (Chr 10), FGF9 (Chr 13)** | SOX9과 양성 피드백 루프를 형성하여 고환 분화 신호 영구 고정 | 고환 유지 |
-| **Chromosome 11** | **WT1, SF1** | Wilms tumor-1(신장/생식선 기저 발생) 및 Steroidogenic factor-1(Leydig/Sertoli 기능) | 공통/고환 |
+| **Chromosome 11** | **WT1, SF1** | Wilms tumor-1 및 Steroidogenic factor-1 | 공통/고환 |
 | **Chromosome X ($Xp21$)** | **DAX1** | 핵 호르몬 수용체, SRY 하류 고환 촉진 유전자 억제 (과발현 시 고환 분화 차단) | 항-고환/난소 |
 | **Chromosome 3** | **FOXL2** | 과립막 세포 특이 전사인자, 평생 난소 분화 상태 유지 및 고환 전환 억제 | 난소 유지 |
 | **Chromosome 1** | **WNT4, RSPO1** | β-catenin 신호경로 활성화로 능동적 난소 분화 추진 및 항-고환 작용 발휘 | 난소 유도 |
+* **Chromosome 11 (WT1, SF1) 부연**: Wilms tumor-1(신장/생식선 기저 발생) 및 Steroidogenic factor-1(Leydig/Sertoli 기능).
 
 #### 4) 분화 후 고환의 3대 핵심 호르몬 (남성화 3총사)
 1. **Testosterone (Leydig 세포)**: 중신관(Wolffian duct)을 부고환, 정관, 정낭으로 분화시킵니다.
@@ -146,16 +148,25 @@ graph TD
 - **질(Vagina) 원위부의 기원**: 요로생식동 후벽의 한 쌍의 비후 조직인 **질동구(Sinovaginal bulbs)**와 **질판(Vaginal plate)**으로부터 발달합니다.
 
 #### 2) 내생식기 분화 및 성인기 잔존 구조물 (Anatomical Homologues & Remnants)
+
 | 배아 원기 구조 (Embryonic Anlage) | 남성 성인 유래물 (Male Adult) | 여성 성인 유래물 (Female Adult) | 잔존물 및 임상적 의의 (Clinical Pearls & Cross-Ref) |
 | :--- | :--- | :--- | :--- |
-| **생식선 원기 (Gonad)** | 고환 (Testis) | 난소 (Ovary) | 횡격인대(Diaphragmatic lig.)는 난소현수인대(Suspensory lig. of ovary)가 됨 |
+| **생식선 원기 (Gonad)** | 고환 (Testis) | 난소 (Ovary) | 횡격인대는 난소현수인대(Suspensory lig. of ovary)가 됨 |
 | **중신 세관 - 두측 (Cranial mesonephric tubules)** | 부고환부속기 (Appendix epididymidis) | 소포성 부속기 (Appendix vesiculosa), 난소상체 (Epoöphoron) | 난소간막(mesovarium) 내 위치 |
-| **중신 세관 - 중간 (Middle mesonephric tubules)** | 고환수출관 (Vasa efferentia), 부고환두 (Caput/Globus major of epididymis) | 난소상체 관 (Tubules of epoöphoron) | 정자 수송 통로 형성 |
+| **중신 세관 - 중간 (Middle mesonephric tubules)** | 고환수출관 (Vasa efferentia), 부고환두 (Caput/Globus major) | 난소상체 관 (Tubules of epoöphoron) | 정자 수송 통로 형성 |
 | **중신 세관 - 미측 (Caudal mesonephric tubules)** | 부정소체 (Paradidymis) | 난소방체 (Paroöphoron) | 난소간막 내 위치, 양성 낭종 기원 |
-| **중신관 (Wolffian duct)** | 부고환체·미부(Corpus/Cauda epididymidis), 정관(Vas deferens), 정낭(Seminal vesicle), 사정관(Ejaculatory duct) | 가트너관 낭종 (Gartner duct cyst) | 사정관은 전립선요도 바닥의 정구(Verumontanum)에 개구. 가트너관은 질 전외측 벽(Anterolateral vaginal wall)에 대형 유증상 낭종 유발 (Plates 8-13, 9-13 참조) |
+| **중신관 (Wolffian duct)** | 부고환체·미부, 정관, 정낭, 사정관 | 가트너관 낭종 (Gartner duct cyst) | 질 전외측 벽 대형 유증상 낭종 유발 |
 | **부중신관 (Müllerian duct)** | 고환부속기 (Appendix testis), 전립선 소낭 (Prostatic utricle) | 난관(Fallopian tube), 자궁(Uterus), 상부 질 (근위 4/5) | 고환부속기 염전은 소아 급성 음낭통증 호발. 전립선 소낭은 남성 내 자궁 상동기관 |
-| **요로생식동 (Urogenital sinus)** | 전립선(Prostate), 요도구선(Cowper gland / Bulbourethral gland) | 요도주위선(Skene duct/glands), 대전정선(Bartholin gland), 하부 질 (원위 1/5) | 전립선은 Skene선과 상동 (Plate 7-5 참조). 요도구선은 Bartholin선과 상동 (Plate 6-16 참조). 내배엽성으로 볼프관과 기원 다름 |
+| **요로생식동 (Urogenital sinus)** | 전립선(Prostate), 요도구선(Cowper gland) | 요도주위선(Skene), 대전정선(Bartholin), 하부 질 (원위 1/5) | 전립선=Skene선 상동, 요도구선=Bartholin선 상동 (Plates 7-5, 6-16) |
 | **고환도대 / 서혜주름 (Gubernaculum / Inguinal fold)** | 고환도대 (Scrotal ligament) | 자궁원인대 (Round lig.), 난소고유인대 (Ovarian lig.) | 고환 하강 및 자궁 위치 유지 |
+* **상동기관 세부 명칭 및 임상 상세**:
+  * **중신관 (Wolffian duct) 남성 유래물 전체 명칭**: 부고환체·미부(Corpus/Cauda epididymidis), 정관(Vas deferens), 정낭(Seminal vesicle), 사정관(Ejaculatory duct).
+  * **사정관 개구부**: 전립선요도 바닥의 정구(Verumontanum)에 개구.
+  * **가트너관 (Gartner duct)**: 질 전외측 벽(Anterolateral vaginal wall)에 대형 유증상 낭종을 유발함 (Plates 8-13, 9-13 참조).
+  * **요로생식동 여성 유래물 전체 명칭**: 요도주위선(Skene duct/glands), 대전정선(Bartholin gland), 하부 질 (원위 1/5).
+  * **상동 관계**: 전립선은 Skene선과 상동 (Plate 7-5 참조). 요도구선(Cowper gland / Bulbourethral gland)은 Bartholin선과 상동 (Plate 6-16 참조). 내배엽성으로 볼프관과 기원 다름.
+  * **횡격인대 (Diaphragmatic lig.)**: 난소현수인대(Suspensory lig. of ovary)가 됨.
+  * **부고환두 (Caput)의 영문 전체 표기**: Globus major of epididymis.
 
 > ⚠️ **PMDS (지속성 뮐러관 증후군, Hernia Uteri Inguinale)**:
 > 표현형은 정상 남성이지만 AMH 결핍 또는 AMH 수용체 돌연변이로 자궁·난관이 복강/서혜부에 지속되는 질환. 잔존 뮐러관 구조가 고환을 복강 내에 계류(tether)시켜 음낭 하강을 방해하므로, 영아 서혜부 탈장(Inguinal hernia) 수술이나 잠복고환(Undescended testis) 정복술 중 우연히 발견됩니다.
@@ -642,18 +653,22 @@ graph TD
 
 ## 7. 핵심 비교 총괄표 (Section 1 High-Yield Summary Table)
 
-| 질환명 (Condition) | 핵형 (Karyotype) | 성선 (Gonad) | 내부 생식관 (Internal Ducts) | 외부 생식기 (External Genitalia) | 호르몬 프로파일 (LH/FSH/T/17-KS) | 덱사메타손 억제 반응 (Dexa Test) | 핵심 감별 단서 및 가임력 (Key Clues & Fertility) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **클라인펠터 증후군** | 47,XXY (90%) | 단단하고 위축된 고환 ($<2\text{ mL}$, 세정관 유리질화, Leydig 과형성) | 정상 남성 관 (무정자증) | 남성형 외관 (소음경) | T 저하, LH/FSH 현저한 상승 | 해당 없음 | 여성형 유방, 긴 사지, 유방암 위험 20배, TESE-ICSI로 생물학적 부친 가능 |
-| **터너 증후군** | 45,X (대표적) | 줄무늬 성선 (Streak gonad) | 난관, 자궁 정상 (미발달) | 유아형 여성 외생식기 | E2 극저, LH/FSH/GnRH 극심한 상승 | 해당 없음 | 저신장, 익상경, 방패흉곽, 대동맥축착, 시공간·수학 인지 결손 |
-| **칼만 증후군 (IHH)** | 46,XY | 미성숙 잠복고환 | 정상 남성 관 구조 | 소음경, 잠복고환 | T 저하, LH/FSH 저하/정상, Prolactin 정상 | 해당 없음 | **무후각증(Anosmia)**, 구개열, KAL1 결실, 성선자극호르몬 치료로 80% 정자 유도 |
-| **완전 안드로겐 불감성 (CAIS)** | 46,XY | 복강/서혜부 미하강 고환 | **자궁·난관 없음, 질 맹관** | 완전 여성형 외형 | T 정상~상승, LH 상승, E2 정상 여성치 | 해당 없음 | 유방 풍만 발달, **음모·액모 결손**, 고환암 위험 4~9% (사춘기 후 적출) |
-| **5α-환원효소 결핍증 (5-ARD)** | 46,XY | 정상 고환 | 남성 관 구조 (정관 보존) | 출생 시 모호/여성형 $\rightarrow$ 사춘기 남성화 | T 정상, DHT 극저 (T/DHT비 상승) | 해당 없음 | **사춘기 시 음경 급성장(Guevedoces)**, 발기/사정 가능, **생존 정자 생성(IVF/ICSI 가능)** |
-| **선천 부신 과형성 (CAH)** | 46,XX | 정상 난소 | **자궁, 난관, 상부 질 보존 (저형성)** | 남성화 (음핵 비대, 음순 융합, 후부요도 합류) | 17-OHP 폭증, ACTH 폭증, 17-KS 극심 상승 | **17-KS 정상으로 억제됨 (Suppressed)** | **염분소실 저혈압 쇼크 위험**, 사각 체형, 다모증, 조절 시 가임력 유지 |
-| **자율성 부신피질 종양** | 46,XY / 46,XX | 유아형 고환 / 난소 | 정상 관 구조 | 남성화 (모호외생식기 없음, 출생 후 발생) | Androgen 폭증, ACTH/성선자극호르몬 억제 | **17-KS 억제되지 않음 (Not Suppressed)** | 반대측 부신 위축, 외과적 종양 절제 필수 |
-| **스와이어 증후군 (Swyer)** | 46,XY | 줄무늬 성선 (Streak gonad) | **자궁, 난관 정상 존재** | 완전 여성형 외관 | T 저하, LH/FSH 상승 | 해당 없음 | **자궁 있음 + 유방 미발달 + 희소 음모**, 성선모세포종 위험으로 즉시 적출 |
-| **MRKH 증후군** | 46,XX | 정상 난소 | **자궁·질 결손, 난관 이상** | 완전 정상 여성 외관 | LH, FSH, E2 정상 여성 수치 | 해당 없음 | **원발성 무월경 2위, 남성화 전혀 없음**, IVF 대리모 임신 가능 |
-| **난고환성 DSD (진성 반음양)** | 46,XX (60~70%) | 난고환 (Ovotestis) | 난관 및 정관 가변적 혼재 | 모호외생식기 (Ambiguous) | 가변적 (T 및 E2 동시 분비 가능) | 해당 없음 | 조직검사상 난포+세정관 확인, 단각자궁/광간막 내 잠복, 성선 편측화 법칙 |
+| 질환 및 핵형 (Condition / Karyotype) | 성선 및 생식관 (Gonad & Genitalia) | 호르몬 프로파일 · 덱사 반응 (Hormones / Dexa) | 핵심 감별 단서 및 가임력 (Key Clues & Fertility) |
+| :--- | :--- | :--- | :--- |
+| **클라인펠터 증후군**<br>47,XXY (90%) | 단단하고 위축된 고환($<2\text{ mL}$); 정상 남성 관(무정자증); 남성형 외관(소음경) | T 저하, LH/FSH 현저한 상승 · 덱사 해당 없음 | 여성형 유방, 긴 사지, 유방암 위험 20배, TESE-ICSI로 생물학적 부친 가능 |
+| **터너 증후군**<br>45,X (대표적) | 줄무늬 성선 (Streak gonad); 난관, 자궁 정상 (미발달); 유아형 여성 외생식기 | E2 극저, LH/FSH/GnRH 극심한 상승 · 덱사 해당 없음 | 저신장, 익상경, 방패흉곽, 대동맥축착, 시공간·수학 인지 결손 |
+| **칼만 증후군 (IHH)**<br>46,XY | 미성숙 잠복고환; 정상 남성 관 구조; 소음경, 잠복고환 | T 저하, LH/FSH 저하/정상, Prolactin 정상 · 덱사 해당 없음 | **무후각증(Anosmia)**, 구개열, KAL1 결실, 성선자극호르몬 치료로 80% 정자 유도 |
+| **완전 안드로겐 불감성 (CAIS)**<br>46,XY | 복강/서혜부 미하강 고환; **자궁·난관 없음, 질 맹관**; 완전 여성형 외형 | T 정상~상승, LH 상승, E2 정상 여성치 · 덱사 해당 없음 | 유방 풍만 발달, **음모·액모 결손**, 고환암 위험 4~9% (사춘기 후 적출) |
+| **5α-환원효소 결핍증 (5-ARD)**<br>46,XY | 정상 고환; 남성 관 구조 (정관 보존); 출생 시 모호/여성형 $\rightarrow$ 사춘기 남성화 | T 정상, DHT 극저 (T/DHT비 상승) · 덱사 해당 없음 | **사춘기 시 음경 급성장(Guevedoces)**, **생존 정자 생성(IVF/ICSI 가능)** |
+| **선천 부신 과형성 (CAH)**<br>46,XX | 정상 난소; **자궁, 난관, 상부 질 보존 (저형성)**; 남성화 (음핵 비대, 음순 융합) | 17-OHP 폭증, ACTH 폭증, 17-KS 극심 상승 · 덱사 17-KS 정상 억제(Suppressed) | **염분소실 저혈압 쇼크 위험**, 사각 체형, 다모증, 조절 시 가임력 유지 |
+| **자율성 부신피질 종양**<br>46,XY / 46,XX | 유아형 고환 / 난소; 정상 관 구조; 남성화 (모호외생식기 없음, 출생 후 발생) | Androgen 폭증, ACTH·성선자극호르몬 억제 · 덱사 17-KS 미억제(Not Suppressed) | 반대측 부신 위축, 외과적 종양 절제 필수 |
+| **스와이어 증후군 (Swyer)**<br>46,XY | 줄무늬 성선 (Streak gonad); **자궁, 난관 정상 존재**; 완전 여성형 외관 | T 저하, LH/FSH 상승 · 덱사 해당 없음 | **자궁 있음 + 유방 미발달 + 희소 음모**, 성선모세포종 위험으로 즉시 적출 |
+| **MRKH 증후군**<br>46,XX | 정상 난소; **자궁·질 결손, 난관 이상**; 완전 정상 여성 외관 | LH, FSH, E2 정상 여성 수치 · 덱사 해당 없음 | **원발성 무월경 2위, 남성화 전혀 없음**, IVF 대리모 임신 가능 |
+| **난고환성 DSD (진성 반음양)**<br>46,XX (60~70%) | 난고환 (Ovotestis); 난관 및 정관 가변적 혼재; 모호외생식기 (Ambiguous) | 가변적 (T 및 E2 동시 분비 가능) · 덱사 해당 없음 | 조직검사상 난포+세정관 확인, 단각자궁/광간막 내 잠복, 성선 편측화 법칙 |
+* **표에서 압축한 세부 소견**:
+  * **클라인펠터 증후군**: 고환 조직에 세정관 유리질화, Leydig 과형성이 동반됨.
+  * **선천 부신 과형성 (CAH)**: 남성화 소견에 후부요도 합류가 포함됨.
+  * **5α-환원효소 결핍증 (5-ARD)**: 발기/사정 가능.
 
 ---
 *다음 차수 예고: Day 02 — Section 2: 음경 및 남성 회음부 해부학, 발기 신경생리 (Plates 2-1 ~ 2-13, pp. 20-32)*

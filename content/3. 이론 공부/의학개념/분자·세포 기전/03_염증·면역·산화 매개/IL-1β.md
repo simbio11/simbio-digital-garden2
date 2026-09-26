@@ -39,12 +39,10 @@ tags:
 
 | 표적 조직 | IL-1β의 생물학적 작용 | 임상 발현 |
 | :--- | :--- | :--- |
-| 시상하부 발열 중추 | 내피세포 COX-2 유도 $
-ightarrow$ PGE2 합성 촉진 | 전신 오한 및 고열 반응 |
+| 시상하부 발열 중추 | 내피세포 COX-2 유도 $\rightarrow$ PGE2 합성 촉진 | 전신 오한 및 고열 반응 |
 | 혈관 내피세포 | [[ICAM-1]], VCAM-1, E-selectin 발현 촉진 | 백혈구 유출 및 국소 부종, 발적 |
 | 관절 활막 및 연골 | [[MMP-1]], [[MMP-13]], ADAMTS-5 유도, 프로테오글리칸 분해 | 퇴행성 관절염, 류마티스 관절염 연골 파괴 |
-| 파골세포(Osteoclast) | RANKL 발현 증가 $
-ightarrow$ 파골세포 분화 촉진 | 관절 골 미란(Bone erosion), 골다공증 |
+| 파골세포(Osteoclast) | RANKL 발현 증가 $\rightarrow$ 파골세포 분화 촉진 | 관절 골 미란(Bone erosion), 골다공증 |
 | 중성구(Neutrophil) | 급격한 침윤 및 탈과립 자극 | 급성 통풍성 관절염의 극심한 통증 |
 
 ---

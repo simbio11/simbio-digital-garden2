@@ -125,7 +125,7 @@ volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol
 ---
 
 ### Plate 1-10 | 횡격막 (Diaphragm Viewed from Above)
-![[Netter_V2_Plate1-10.png]]
+![[Netter_V3_Plate1-10.png]]
 
 #### 3대 열공(Apertures), 각(Crura) 및 신경 지배
 * **중심건 (Central tendon)**: 세잎 클로버 모양의 건성 중심부로 심낭막(Pericardium) 바닥과 단단히 유합.
@@ -136,9 +136,13 @@ volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol
 
 | 열공 명칭 (Aperture) | 척추 높이 | 통과하는 주요 해부학적 구조물 | 관통하는 부위 및 특징 |
 | :--- | :--- | :--- | :--- |
-| **대정맥공 (Caval Opening)** | **제8흉추 (T8)** | **하대정맥 (IVC)**, 우측 횡격신경 말초지 | **중심건 (Central tendon)**을 관통. 흡기 시 건이 팽팽해지며 내강이 넓어져 정맥 환류 촉진 |
-| **식도열공 (Esophageal Hiatus)** | **제10흉추 (T10)** | **식도 (Esophagus)**, **전/후 미주신경간 (Vagus nn.)**, 좌위혈관 식도지 | **우각(Right crus)의 근육 섬유 다발**이 둘러쌈. 흡기 시 조여져 위산 역류 방지 |
-| **대동맥열공 (Aortic Hiatus)** | **제12흉추 (T12)** | **복대동맥 (Aorta)**, **흉관 (Thoracic duct)**, **기정맥 (Azygos vein)** | 정중궁상인대(Median arcuate ligament) 후방 통과. 근육이 아닌 건성 궁이라 흡기 시에도 압박되지 않음 |
+| **대정맥공 (Caval Opening)** | **제8흉추 (T8)** | **하대정맥 (IVC)**, 우측 횡격신경 말초지 | **중심건 (Central tendon)** 관통 |
+| **식도열공 (Esophageal Hiatus)** | **제10흉추 (T10)** | **식도 (Esophagus)**, **전/후 미주신경간 (Vagus nn.)**, 좌위혈관 식도지 | **우각(Right crus)의 근육 섬유 다발**이 둘러쌈 |
+| **대동맥열공 (Aortic Hiatus)** | **제12흉추 (T12)** | **복대동맥**, **흉관**, **기정맥 (Azygos vein)** | 정중궁상인대 후방 통과 (건성 궁) |
+* **열공별 상세 (Apertures of the Diaphragm)**:
+  * **대정맥공 (Caval Opening)**: 중심건(Central tendon)을 관통. 흡기 시 건이 팽팽해지며 내강이 넓어져 정맥 환류 촉진.
+  * **식도열공 (Esophageal Hiatus)**: 우각(Right crus)의 근육 섬유 다발이 둘러쌈. 흡기 시 조여져 위산 역류 방지.
+  * **대동맥열공 (Aortic Hiatus)**: 통과 구조물은 복대동맥(Aorta), 흉관(Thoracic duct), 기정맥(Azygos vein). 정중궁상인대(Median arcuate ligament) 후방 통과. 근육이 아닌 건성 궁이라 흡기 시에도 압박되지 않음.
 
 * **신경 지배**:
   * 운동 신경: **횡격신경 (Phrenic nerve, C3, C4, C5)** 단독 지배. (경추 손상 환자에서 C3 상부 손상 시 자발호흡 상실).
@@ -195,10 +199,13 @@ volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol
 | :--- | :--- | :--- | :--- |
 | **우측 폐 (Right)** | **우상엽 (RUL)** | **B1 (첨구역), B2 (후구역), B3 (전구역)** | Apical, Posterior, Anterior |
 | | **우중엽 (RML)** | **B4 (외측구역), B5 (내측구역)** | Lateral, Medial |
-| | **우하엽 (RLL)** | **B6 (상구역), B7 (내측기저구역), B8 (전기저구역), B9 (외측기저구역), B10 (후기저구역)** | Superior, Medial basal, Anterior basal, Lateral basal, Posterior basal |
+| | **우하엽 (RLL)** | **B6, B7, B8, B9, B10** | Superior, Medial basal, Anterior basal, … |
 | **좌측 폐 (Left)** | **좌상엽 (LUL)** | **B1+2 (첨후구역), B3 (전구역)** | Apicoposterior, Anterior |
 | | **설부 (Lingula)** | **B4 (상설구역), B5 (하설구역)** | Superior lingular, Inferior lingular |
-| | **좌하엽 (LLL)** | **B6 (상구역), B7+8 (전내측기저구역), B9 (외측기저구역), B10 (후기저구역)** | Superior, Anteromedial basal, Lateral basal, Posterior basal |
+| | **좌하엽 (LLL)** | **B6 (상구역), B7+8 (전내측기저구역), B9 (외측기저구역), B10 (후기저구역)** | Superior, Anteromedial basal, Lateral basal, … |
+* **기관지폐구역 명칭 상세 (Boyden 분류)**:
+  * **우하엽 (RLL)**: B6 (상구역), B7 (내측기저구역), B8 (전기저구역), B9 (외측기저구역), B10 (후기저구역) — Superior, Medial basal, Anterior basal, Lateral basal, Posterior basal.
+  * **좌하엽 (LLL)**: B6 (상구역), B7+8 (전내측기저구역), B9 (외측기저구역), B10 (후기저구역) — Superior, Anteromedial basal, Lateral basal, Posterior basal.
 
 > ⚠️ **Clinical Pearl**:
 > 앙와위(Supine position, 바로 누운 자세)에서 의식 소실 환자가 구토물이나 이물을 흡인(Aspiration)할 경우, 중력 방향에 가장 부합하는 **우하엽의 상구역 (Right lower lobe, Superior segment, B6)**으로 이물이 직행하여 흡인성 폐렴(Aspiration pneumonia) 및 폐농양(Lung abscess)이 가장 빈발합니다. 기립 시에는 우하엽의 후기저구역(B10)으로 떨어집니다.
@@ -221,7 +228,9 @@ volume: "The Netter Collection of Medical Illustrations: Respiratory System (Vol
 | **길이** | **더 짧음 (약 2.5 cm)** | **더 길음 (약 5.0 cm)** |
 | **기관 중심선과의 각도** | **더 수직에 가까움 (약 20~25°)** | **더 수평에 가까움 (약 40~45°)** |
 | **해부학적 관계** | 기정맥궁(Azygos arch)이 상방을 돌아 넘어감 | 대동맥궁이 상방을 넘고, 식도/흉대동맥 전방 통과 |
-| **임상적 결과** | **이물 흡인(Foreign body aspiration)의 70~80%가 우측으로 진입**; 기관삽관 튜브 깊이 삽입 시 우측 폐로 편측 삽관 위험 | 흡인 빈도 낮음 |
+| **임상적 결과** | **이물 흡인의 70~80%가 우측 진입**; 깊은 삽관 시 우측 편측 삽관 위험 | 흡인 빈도 낮음 |
+* **주기관지 비대칭의 임상적 결과 (우측 편향의 해부학적 근거)**:
+  * 이물 흡인(Foreign body aspiration)의 70~80%가 우측으로 진입; 기관삽관 튜브 깊이 삽입 시 우측 폐로 편측 삽관 위험.
 
 ---
 
@@ -373,10 +382,14 @@ graph TD
 | 발생 단계 (Stage) | 발생 시기 | 주요 해부학적 및 조직학적 변화 | 임상 및 생존 생리 |
 | :--- | :--- | :--- | :--- |
 | **1. 배아기 (Embryonic)** | **임신 4~7주** | 전장 출아, 기관 및 주기관지 형성, 기관지폐구역(삼차 기관지) 수준까지 분기 | 대혈관 형성 동반 |
-| **2. 가선기 (Pseudoglandular)** | **임신 5~17주** | **종말세기관지(Terminal bronchiole)까지 전도 기도 분기 완성**. 조직이 외분비선(Exocrine gland)과 흡사 | **호흡세기관지나 폐포가 전혀 없어 가스 교환 불가능 (생존 절대 불가)** |
-| **3. 세관기 (Canalicular)** | **임신 16~26주** | 종말세기관지에서 **호흡세기관지(Respiratory bronchiole) 및 원시 폐포관 분지**, 혈관망 침투하여 상피와 밀착, **임신 24주경 제2형 폐포세포 출현 및 계면활성제 분비 개시** | **임신 24주 이후 신생아 중환자실 집중 치료 시 한계 생존 가능 (Viable)** |
+| **2. 가선기 (Pseudoglandular)** | **임신 5~17주** | **종말세기관지(Terminal bronchiole)까지 전도 기도 분기 완성** | **호흡세기관지나 폐포가 전혀 없어 가스 교환 불가능 (생존 절대 불가)** |
+| **3. 세관기 (Canalicular)** | **임신 16~26주** | **호흡세기관지·원시 폐포관 분지**, 24주경 제2형 폐포세포·계면활성제 분비 개시 | **임신 24주 이후 신생아 중환자실 집중 치료 시 한계 생존 가능 (Viable)** |
 | **4. 낭포기 (Saccular)** | **임신 26~36주** | 원시 폐포낭(Terminal saccules) 증식, 제1형/제2형 폐포세포 분화, 모세혈관망 융합 | 가스 교환 면적 급증 |
-| **5. 폐포기 (Alveolar)** | **임신 36주 ~ 생후 8세** | **2차 중격 형성 (Secondary septation)**에 의해 원시 낭이 성숙 폐포로 세분화. 출생 시 2천~5천만 개 $\rightarrow$ **만 8세까지 3억~5억 개로 폭발적 증식 (성인 폐포의 85%는 출생 후 형성!)** | 진정한 성숙 폐포 확립 |
+| **5. 폐포기 (Alveolar)** | **임신 36주 ~ 생후 8세** | **2차 중격 형성 (Secondary septation)**으로 원시 낭이 성숙 폐포로 세분화 | 진정한 성숙 폐포 확립 |
+* **발생 단계별 조직학·임상 상세 (Stage Details)**:
+  * **2. 가선기 (Pseudoglandular, 임신 5~17주)**: 종말세기관지(Terminal bronchiole)까지 전도 기도 분기 완성. 조직이 외분비선(Exocrine gland)과 흡사.
+  * **3. 세관기 (Canalicular, 임신 16~26주)**: 종말세기관지에서 호흡세기관지(Respiratory bronchiole) 및 원시 폐포관 분지, 혈관망 침투하여 상피와 밀착, 임신 24주경 제2형 폐포세포 출현 및 계면활성제 분비 개시.
+  * **5. 폐포기 (Alveolar, 임신 36주~생후 8세)**: 2차 중격 형성(Secondary septation)에 의해 원시 낭이 성숙 폐포로 세분화. 출생 시 2천~5천만 개 $\rightarrow$ 만 8세까지 3억~5억 개로 폭발적 증식 (성인 폐포의 85%는 출생 후 형성!).
 
 ---
 

@@ -391,7 +391,7 @@ graph TD
 
 | 감별 항목 | 세균성 질증 (Bacterial Vaginosis, BV) | 칸디다 외음질염 (Candidiasis / Moniliasis) | 트리코모나스 질염 (Trichomoniasis) |
 | :--- | :--- | :--- | :--- |
-| **원인 병원체** | *Gardnerella*, *Bacteroides*, *Mobiluncus* 등 혐기성 세균 복합 과증식 | *Candida albicans* (80~95%), *Candida glabrata*, *C. tropicalis* (5~20%) | *Trichomonas vaginalis* (부인과 환자의 25%에서 발견, 3~5개 편모를 지닌 방추형 원충) |
+| **원인 병원체** | *Gardnerella*, *Bacteroides*, *Mobiluncus* 등 혐기성 세균 복합 과증식 | *Candida albicans* (80~95%), *C. glabrata*, *C. tropicalis* | *Trichomonas vaginalis* (3~5개 편모를 지닌 방추형 원충) |
 | **유발 요인** | 잦은 질 세척, 다수의 성 파트너, 자궁내장치 | 항생제 사용, 임신, 당뇨병, 면역저하, 국소 피임제, 고온다습 환경 | 성적 접촉 (**STI, 성매개 감염**) |
 | **분비물 성상** | 묽고 균일한 **회백색 (Thin homogeneous grayish-white)** | 진하고 농후한 **치즈 찌꺼기/두부 비지 모양 (Curd-like white plaque)** | 다량의 **기포가 섞인 묽은 황록색 (Foamy, frothy greenish-yellow)** |
 | **임상 증상** | 성교 후 악화되는 생선 비린내, 경미한 소양증 | **극심한 외음부 가려움증 (Intense pruritus)**, 작열감, 외음부 동통 | 심한 악취, 외음부 작열감, 극심한 가려움, 배뇨통, 성교통 |
@@ -399,8 +399,14 @@ graph TD
 | **질내 산도 (pH)** | **$\mathbf{pH > 4.5}$** (일반적으로 5.0~5.5) | **$\mathbf{pH \le 4.5}$** (정상 산성 범위 유지, 3.8~4.2) | **$\mathbf{pH > 5.0}$** (알칼리화, 5.5~6.5) |
 | **Whiff 검사** | **양성 (+)** ($10\%\text{ KOH}$ 점적 시 즉각 비린내 방출) | 음성 (-) | 양성 또는 위양성 (+/-) |
 | **현미경 검사**<br>(Wet mount) | **단서세포 (Clue cells > 20%)**: 편평상피세포 경계가 세균들로 뒤덮여 흐릿해짐 | $10\%\text{ KOH}$ 마운트상 분지하는 **가성균사 (Pseudohyphae)** 및 포자 관찰 | 생리식염수 도말상 백혈구보다 약간 크며 **활발히 회전 운동하는 편모충** (민감도 60~70%) |
-| **특수 진단 검사** | Amsel 4대 기준 확진 | Sabouraud 또는 Nickerson 배지 배양, 단클론항체 염색 | **OSOM Trichomonas Rapid Test** (모세관 유동 딥스틱), **핵산 탐침 검사** (민감도 >83%, 특이도 >97%) |
-| **표준 치료법** | **Metronidazole** $500\text{ mg}$ bid $\times$ 7일<br>또는 국소 Clindamycin 질크림 | **Fluconazole** $150\text{ mg}$ 단회 경구 복용<br>또는 Clotrimazole 질정 | **Metronidazole** $2\text{ g}$ 단회 경구 복용<br>⚠️ **배우자 반드시 동시 치료 (Ping-pong 재감염 방지)** |
+| **특수 진단 검사** | Amsel 4대 기준 확진 | Sabouraud 또는 Nickerson 배지 배양, 단클론항체 염색 | **OSOM Trichomonas Rapid Test** (모세관 유동 딥스틱); **핵산 탐침 검사** |
+| **표준 치료법** | **Metronidazole** $500\text{ mg}$ bid $\times$ 7일 | **Fluconazole** $150\text{ mg}$ 단회 경구 복용 | **Metronidazole** $2\text{ g}$ 단회 경구 복용 |
+* **표에서 분리한 부연 소견**:
+  * **칸디다 외음질염**: *Candida glabrata* 및 *C. tropicalis*는 전체의 5~20%를 차지.
+  * **트리코모나스 질염**: *Trichomonas vaginalis*는 부인과 환자의 25%에서 발견됨. **핵산 탐침 검사**는 민감도 >83%, 특이도 >97%.
+  * **BV 치료 대안**: 국소 Clindamycin 질크림.
+  * **칸디다 치료 대안**: Clotrimazole 질정.
+  * **트리코모나스 치료**: ⚠️ **배우자 반드시 동시 치료 (Ping-pong 재감염 방지)**.
 
 ---
 
@@ -634,11 +640,14 @@ graph TD
 | :--- | :--- | :--- |
 | **발생 기원** | 태생기 **중신관(볼프관, Mesonephric / Wolffian duct)** 잔유물 | 분만 손상/회음절개 봉합 시 함입된 편평상피 또는 요로생식동 상피에 묻힌 뮐러관 잔유물 |
 | **호발 부위** | **질 전외측벽 (Anterolateral vaginal wall)** | **질 후벽 하부 (Posterior wall near introitus)** (봉합 반흔 부위) |
-| **임상 양상** | 단발성 또는 다발성. 낭종이 거대할 경우 질강을 폐쇄하여 **방광 압박, 성교통, 분만 시 난산(Dystocia)** 유발 | 직경 $1\text{ cm}$ 미만 (드물게 $>3\text{ cm}$). 청자색의 단단한 결절, 무증상 또는 성교통 |
-| **해부학적 확장** | 중신관 주행 경로를 따라 **광인대 엽 사이(Leaves of broad ligament)로 상행 연장** 가능 (절제 시 위험) | 질벽 국소 점막하에 국한됨 |
+| **임상 양상** | 단발성 또는 다발성. 거대 시 질강 폐쇄 | 직경 $1\text{ cm}$ 미만, 청자색 결절 |
+| **해부학적 확장** | 중신관 경로를 따라 광인대 엽 사이로 상행 연장 가능 | 질벽 국소 점막하에 국한됨 |
 | **낭종 내용물** | 맑고 묽은 분비액 (**Thin, watery secretion**) | 진하고 끈적끈적한 점액 (**Thick, glairy mucus**) 또는 케라틴 파편 |
 | **내벽 상피** | 단층 또는 중층의 입방/원주상피 (간혹 편평상피) | 편평상피 또는 원주상피 |
 | **악성 변성** | **악성 변성은 전무함 (Never malignant degeneration)** | 악성 변성 없음 |
+* **가트너관 낭종 임상 양상**: 단발성 또는 다발성. 낭종이 거대할 경우 질강을 폐쇄하여 **방광 압박, 성교통, 분만 시 난산(Dystocia)** 유발.
+* **표피포함낭종 임상 양상**: 직경 $1\text{ cm}$ 미만 (드물게 $>3\text{ cm}$). 청자색의 단단한 결절, 무증상 또는 성교통.
+* **가트너관 낭종 해부학적 확장**: 중신관 주행 경로를 따라 **광인대 엽 사이(Leaves of broad ligament)로 상행 연장** 가능 (절제 시 위험).
 
 #### 2) 첨규콘딜로마 및 기타 양성 종양
 - **첨규콘딜로마 (Condylomata acuminata)**:

@@ -20,9 +20,9 @@ tags:
 단백질 인산화효소 C(Protein Kinase C, PKC)는 세포 내 수많은 신호전달 경로를 매개하는 세린/트레오닌 인산화효소(Ser/Thr Kinase) 군이다.
 
 ### 1.1 3대 아형군 (Subfamilies)
-1. **전형적 PKC (Classical/Conventional, cPKC: $lpha, eta	ext{I}, eta	ext{II}, \gamma$)**:
+1. **전형적 PKC (Classical/Conventional, cPKC: $\alpha, \beta\text{I}, \beta\text{II}, \gamma$)**:
    * 활성화에 **$Ca^{2+}$**과 **디아실글리세롤(DAG)**이 모두 필수적임.
-2. **신생 PKC (Novel, nPKC: $\delta, \epsilon, \eta, 	heta$)**:
+2. **신생 PKC (Novel, nPKC: $\delta, \epsilon, \eta, \theta$)**:
    * **DAG**에 의해 활성화되나, $Ca^{2+}$ 독립적임.
 3. **비전형적 PKC (Atypical, aPKC: $\zeta, \iota/\lambda$)**:
    * $Ca^{2+}$과 DAG 모두에 독립적이며, 포스파티딜세린이나 단백질-단백질 상호작용으로 조절됨.
@@ -57,7 +57,7 @@ tags:
 ## 3. 병태생리 및 임상적 의의
 
 1. **당뇨병성 미세혈관 합병증**:
-   * 고혈당 상태에서 포도당 대사 이상으로 데 노보(de novo) DAG 합성이 폭증하여 **PKC-$eta$가 만성 과활성화**됨.
+   * 고혈당 상태에서 포도당 대사 이상으로 데 노보(de novo) DAG 합성이 폭증하여 **PKC-$\beta$가 만성 과활성화**됨.
    * 내피세포 기능 부전, VEGF 과발현, 기저막 비후를 유발하여 당뇨병성 망막병증, 신증, 신경병증 초래.
 2. **혈관 및 기관지 평활근 과수축**:
    * 칼슘 감작(Calcium sensitization)을 유도하여 혈관 저항을 높이고 고혈압 및 천식 악화.
@@ -72,7 +72,7 @@ tags:
 
 | 한약재/처방 | 지표 성분 | PKC 조절 기전 |
 | :--- | :--- | :--- |
-| [[단삼]] | 탄시논 IIA, [[살비아놀산 B]] | 고혈당 유도 PKC-$eta$ 활성화 차단으로 혈관 내피 보호 |
+| [[단삼]] | 탄시논 IIA, [[살비아놀산 B]] | 고혈당 유도 PKC-$\beta$ 활성화 차단으로 혈관 내피 보호 |
 | [[황련]] | [[베르베린]] | PKC/NF-$\kappa$B 경로 억제를 통한 죽상경화반 안정화 |
 | [[은행엽]] | 플라보노이드 배당체 | PKC 매개 모세혈관 투과성 항진 억제 및 망막 혈류 개선 |
 | [[파두]] | 포르볼 에스테르 (PMA) | 맹렬한 PKC 지속 자극으로 강력한 사하 및 장점막 자극 유발 |
@@ -84,4 +84,4 @@ tags:
 * Newton AC. Protein kinase C: poised to signal. *Am J Physiol Endocrinol Metab*. 2010;298(3):E395-402.
   * [연구 요약] PKC의 구조, 자가억제 기전, 인산화 성숙 단계 및 2차 전달물질(DAG, 칼슘) 조절 총정리.
 * Geraldes P, King GL. Activation of protein kinase C isoforms and its impact on diabetic complications. *Circ Res*. 2010;106(8):1319-1331.
-  * [연구 요약] 당뇨 합병증에서 PKC 동형단백체(특히 PKC-$eta$)의 과활성화가 혈관 손상을 일으키는 병태생리 규명.
+  * [연구 요약] 당뇨 합병증에서 PKC 동형단백체(특히 PKC-$\beta$)의 과활성화가 혈관 손상을 일으키는 병태생리 규명.

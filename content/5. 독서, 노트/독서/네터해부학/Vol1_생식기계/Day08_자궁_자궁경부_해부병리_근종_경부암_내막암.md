@@ -39,7 +39,7 @@ volume: "Volume 1: Reproductive System"
 
 1. **자궁의 3차원 해부학 및 혈관·요관의 외과적 관계**:
    - 자궁은 기저부(Fundus), 체부(Corpus), 협부(Isthmus), 경부(Cervix)로 구분되며 정상 성인에서 방광 위로 전경·전굴(Anteverted & Anteflexed, 80%)되어 있습니다.
-   - **자궁동맥-요관의 교차 ("Water under the bridge")**: 내장골동맥에서 분지한 자궁동맥(Uterine a.)은 기자인대(Cardinal lig.) 기저부를 지나 자궁경부 외측 약 $1.5\sim 2	ext{ cm}$ 지점에서 **요관(Ureter)의 상방을 가로질러 주행**합니다. 자궁절제술 시 요관 손상(결찰 또는 절단)이 가장 호발하는 핵심 외과적 랜드마크입니다.
+   - **자궁동맥-요관의 교차 ("Water under the bridge")**: 내장골동맥에서 분지한 자궁동맥(Uterine a.)은 기자인대(Cardinal lig.) 기저부를 지나 자궁경부 외측 약 $1.5\sim 2\text{ cm}$ 지점에서 **요관(Ureter)의 상방을 가로질러 주행**합니다. 자궁절제술 시 요관 손상(결찰 또는 절단)이 가장 호발하는 핵심 외과적 랜드마크입니다.
    - **혈관 기형 및 혈전증 위험**: L4 레벨에서 우측 총장골동맥이 좌측 총장골정맥 전면을 압박하여 좌측 하지 심부정맥혈전증(DVT) 위험을 높이는 **메이-서너 증후군(May-Thurner syndrome)**이 동반될 수 있습니다.
 2. **골반 지지 기전과 근막내 자궁절제술**:
    - 골반내근막(Endopelvic pseudofascia)은 골반격막 상근막에서 연장되어 요도-방광, 질, 하부자궁-직장을 감싸는 **3개의 섬유성 관상 칼라(Tubular fascial collars)**를 형성하며 방광류/직장류 교정술의 기초가 됩니다.
@@ -50,24 +50,22 @@ volume: "Volume 1: Reproductive System"
    - **림프계의 조직학적 특이성**: 자궁내막 기저부, 근층, 장막하에는 풍부한 림프망이 존재하나 **자궁내막 표층(Superficial endometrium)에는 림프관이 전혀 존재하지 않으며**, 자궁 자체의 림프관에는 판막(Valves)이 없습니다.
 4. **자궁내막 주기 및 월경통 역학**:
    - 분비기 초기(Day 16~17)의 결정적 병리 지표는 **핵하 공포(Subnuclear vacuolization)**이며, 착상기(Day 21~25)에는 선의 **톱니모양(Saw-toothed / Serrated)** 외관과 간질 부종, 나선동맥 사행화가 극대화됩니다.
-   - **원발성 월경통**: 내막의 PGF2α 과생성으로 자궁내 안정기 압력이 $60\sim 80	ext{ mmHg}$, 수축기 피크 압력이 **$> 400	ext{ mmHg}$**까지 치솟아 자궁근 허혈성 통증을 유발합니다. 치료는 NSAIDs(COX 억제), OCP(기질 감소), 지속성 저온 온열 요법이 유효합니다.
+   - **원발성 월경통**: 내막의 PGF2α 과생성으로 자궁내 안정기 압력이 $60\sim 80\text{ mmHg}$, 수축기 피크 압력이 **$> 400\text{ mmHg}$**까지 치솟아 자궁근 허혈성 통증을 유발합니다. 치료는 NSAIDs(COX 억제), OCP(기질 감소), 지속성 저온 온열 요법이 유효합니다.
 5. **뮐러관 기형, 변위 및 자궁 탈출증**:
-   - **중격자궁 (Septate uterus)**: 외측 윤곽은 정상($< 1	ext{ cm}$ 함몰)이지만 중앙 흡수 부전으로 섬유성 중격 잔존. 자연유산율(최대 60~80%)이 가장 높아 자궁경하 중격절제술(Hysteroscopic metroplasty)의 절대 적응증. 뮐러관 기형의 30~50%에서 신장 기형(신무발생 등)이 동반됩니다.
+   - **중격자궁 (Septate uterus)**: 외측 윤곽은 정상($< 1\text{ cm}$ 함몰)이지만 중앙 흡수 부전으로 섬유성 중격 잔존. 자연유산율(최대 60~80%)이 가장 높아 자궁경하 중격절제술(Hysteroscopic metroplasty)의 절대 적응증. 뮐러관 기형의 30~50%에서 신장 기형(신무발생 등)이 동반됩니다.
    - **임신 자궁 감돈 (Incarceration of gravid uterus)**: 중증 후굴 자궁에서 임신 12~14주경 천골갑 하부에 자궁저가 감돈되어 방광 기저부 압박에 의한 급성 요폐(Urinary retention)를 유발합니다.
    - **자궁 탈출증 (Prolapse)**: 항문거근과 기자인대/자궁천골인대 지지 부전으로 발생하며, 1도~4도(전탈출 Procidentia)로 분류되고 욕창성 궤양(Decubitus ulcer)이 동반될 수 있습니다.
 6. **자궁경부 병리 및 암 종양학**:
-   - **변환대 (Transformation Zone, TZ)**: 원주상피가 편평상피로 화생(Squamous metaplasia)되는 부위로, 고위험군 **HPV 16(E6 $
-ightarrow$ p53 분해)** 및 **HPV 18(E7 $
-ightarrow$ pRb 분해)** 감염에 의한 자궁경부암 호발지.
+   - **변환대 (Transformation Zone, TZ)**: 원주상피가 편평상피로 화생(Squamous metaplasia)되는 부위로, 고위험군 **HPV 16(E6 $\rightarrow$ p53 분해)** 및 **HPV 18(E7 $\rightarrow$ pRb 분해)** 감염에 의한 자궁경부암 호발지.
    - **쉴러 검사 (Schiller's test)**: 글리코겐이 풍부한 정상 편평상피는 루골 요오드에 암갈색으로 염색되나, 암/이형성 상피는 **비염색(Iodine-negative / Schiller positive)**을 나타냅니다.
    - **진행 및 사망 기전**: 자궁경부암은 직접 침윤(질, 자궁방결합직) 및 골반 림프절 전이를 거치며, 최빈 사망 원인은 원격 전이보다 **양측 요관 폐색에 의한 수신증 및 요독증(Uremia)**입니다.
    - **FIGO 병기 및 치료**: 미세침윤(IA)은 원추절제술 또는 단순자궁절제술, 조기 침윤(IB1~IIA1)은 광범위 자궁절제술(Wertheim-Meigs) + 림프절 곽청술, 국소 진행성(IB3, IIA2~IVA)은 **동시항암화학방사선요법 (CCRT, Cisplatin 기반)**이 표준 치료.
 7. **비정상 자궁출혈(PALM-COEIN) 및 체부 질환**:
    - 기능성 출혈의 4대 메커니즘: 에스트로겐 소퇴 출혈, 에스트로겐 파탄 출혈(무배란 주기), 프로게스테론 소퇴 출혈, 프로게스테론 파탄 출혈.
-   - **자궁선근증 (Adenomyosis)**: 기저층 내막 조직이 근층 깊숙이 침투($> 2.5	ext{ mm}$)하여 주위 평활근 비후/비대를 유발. 미만성 대칭성 구형의 "물렁하고 압통을 동반한 자궁(Globular boggy tender uterus)", MRI T2 접합부대(Junctional zone) $\ge 12	ext{ mm}$.
+   - **자궁선근증 (Adenomyosis)**: 기저층 내막 조직이 근층 깊숙이 침투($> 2.5\text{ mm}$)하여 주위 평활근 비후/비대를 유발. 미만성 대칭성 구형의 "물렁하고 압통을 동반한 자궁(Globular boggy tender uterus)", MRI T2 접합부대(Junctional zone) $\ge 12\text{ mm}$.
    - **아셔만 증후군 (Asherman syndrome)**: 유산/분만 후 과도한 소파술로 기저층 파괴 및 자궁강 유착. HSG/자궁경 진단, 자궁경하 박리술 후 IUD 거치 및 고용량 에스트로겐 투여. 추후 임신 시 유착태반(Placenta accreta) 위험 증가.
    - **자궁근종 (Leiomyoma)**: 단클론성 종양(FIGO 0~8). 가장 흔한 2차 변성은 **초자양 변성(Hyaline, 65%)**. 임신 중 급격한 허혈 괴사로 급성 복통을 유발하는 **적색 변성(Red / Carneous degeneration)**은 **절대 수술하지 않고 보존적 진통 요법이 원칙**.
-   - **자궁육종 (Sarcoma)**: 기존 근종의 악성 변성은 $<0.2\%$로 극히 드물며 대부분 De novo 발생. LMS 3대 기준: 핵 비정형성, 분열상 $\ge 10	ext{ MF}/10	ext{ HPF}$, 응고성 종양 괴사. 폐경 후 급격한 자궁 종대 시 의심, 혈행성 폐 전이 호발.
+   - **자궁육종 (Sarcoma)**: 기존 근종의 악성 변성은 $<0.2\%$로 극히 드물며 대부분 De novo 발생. LMS 3대 기준: 핵 비정형성, 분열상 $\ge 10\text{ MF}/10\text{ HPF}$, 응고성 종양 괴사. 폐경 후 급격한 자궁 종대 시 의심, 혈행성 폐 전이 호발.
 8. **자궁내막암 이원론 및 수술적 병기**:
    - **Type I (자궁내막양선암, 80%)**: 에스트로겐 과다 노출 기저, 비만, 비정형 증식증(EIN) 경유, PTEN 돌연변이, 양호한 예후.
    - **Type II (장액성 UPSC / 투명세포암, 10~20%)**: 비호르몬성, 고령·마른 체형, 위축성 내막 기저, **TP53 돌연변이(> 90%)**, 림프/복막 파종 호발, 치명적 예후.
@@ -82,11 +80,7 @@ ightarrow$ pRb 분해)** 감염에 의한 자궁경부암 호발지.
 ![[Netter_V1_Plate8-1.png]]
 
 #### 1) 골반강 내 장기 배열 및 복막 함요 (Peritoneal Pouches & Fossae)
-- **전방에서 후방으로의 시상면 배열**: 치골 결합(Pubic symphysis) $
-ightarrow$ 방광(Urinary bladder) $
-ightarrow$ 자궁 및 질(Uterus & Vagina) $
-ightarrow$ 직장(Rectum) $
-ightarrow$ 천골(Sacrum).
+- **전방에서 후방으로의 시상면 배열**: 치골 결합(Pubic symphysis) $\rightarrow$ 방광(Urinary bladder) $\rightarrow$ 자궁 및 질(Uterus & Vagina) $\rightarrow$ 직장(Rectum) $\rightarrow$ 천골(Sacrum).
 - **복막의 재귀와 주요 함요(Pouches & Fossae)**:
   1. **방광자궁와 (Vesicouterine pouch)**: 방광 상후면에서 자궁 협부 전면으로 복막이 넘어가며 형성되는 얕은 함요. 방광이 팽창하거나 자궁이 전굴될 때 가변적으로 좁아집니다.
   2. **자궁직장와 / 더글라스와 (Rectouterine pouch of Douglas)**: 자궁 후면 전체와 질 후원개(Posterior vaginal fornix) 상부를 덮은 복막이 직장 전벽으로 넘어가며 형성되는 복강 및 골반강 전체의 **최하단 사장 공간(Lowest dependent peritoneal space)**.
@@ -156,7 +150,7 @@ ightarrow$ 천골(Sacrum).
   - 내장골동맥의 전분지(Anterior division)에서 분지하며, 흔히 중직장동맥이나 질동맥과 공통 줄기 또는 인접 부위에서 기원.
   - 항문거근 상근막 위를 전내측으로 주행하여 광인대 하연 기저부(기자인대 상부)로 진입.
   - 광인대 내부에서 자궁정맥총(Uterine venous plexus)과 치밀한 결합조직초에 둘러싸임.
-  - **자궁동맥-요관 교차 ("Water under the bridge")**: 자궁경부 외측 약 **$1.5\sim 2.0	ext{ cm}$** 지점에서 **자궁동맥이 요관(Ureter)의 상방을 활 모양(Arch)으로 가로질러 주행**합니다.
+  - **자궁동맥-요관 교차 ("Water under the bridge")**: 자궁경부 외측 약 **$1.5\sim 2.0\text{ cm}$** 지점에서 **자궁동맥이 요관(Ureter)의 상방을 활 모양(Arch)으로 가로질러 주행**합니다.
     - 골반 수술 및 자궁절제술 시 요관 손상(결찰, 절단, 허혈성 천공)의 최빈발 부위이므로, 기자인대 결찰 전 반드시 요관을 육안으로 확인하고 박리(Ureterolysis)해야 합니다.
   - **분지 및 종말**:
     - 협부 레벨에서 **하행 자궁경부지(Descending cervical branch)**를 분지: 자궁경부를 감싸고 질동맥(Vaginal a.) 분지와 문합하여 질의 정중 무대롱 동맥(Azygos artery of vagina)을 형성.
@@ -247,7 +241,7 @@ ightarrow$ 천골(Sacrum).
 #### 3) 하복신경, 골반신경총 및 3대 2차 신경총
 - **하복신경 (Hypogastric Nerves)**: 상하복신경총의 하단에서 좌우 2개의 신경줄기로 분기하여 자궁천골인대의 천골 부착부 외측을 따라 하외측으로 주행.
 - **골반신경총 / 하하복신경총 (Pelvic Plexus / Inferior Hypogastric Plexus)**:
-  - 직장 팽대부 및 상부 질 외측에 위치하며, $2\sim 3	ext{ cm}^2$ 면적에 미세 신경절들이 그물망처럼 얽힌 복합체.
+  - 직장 팽대부 및 상부 질 외측에 위치하며, $2\sim 3\text{ cm}^2$ 면적에 미세 신경절들이 그물망처럼 얽힌 복합체.
   - 하복신경(교감)과 천골신경총 S2~S4에서 나온 골반내장신경(Nervi erigentes, 부교감)이 합류.
 - **골반신경총에서 갈라지는 3대 2차 내장신경총**:
   1. **직장신경총 (Rectal plexus)**: 직장 벽으로 주행.
@@ -265,8 +259,8 @@ ightarrow$ 천골(Sacrum).
 
 #### 1) 자궁의 형태학적 수치와 생애 주기별 비율 변화
 - **정상 성인 자궁의 치수와 무게**:
-  - **미경산부 (Nulliparous)**: 길이 약 $7.5	ext{ cm}$, 너비 약 $5	ext{ cm}$, 전후 두께 약 $2.5	ext{ cm}$, 무게 약 $30\sim 40	ext{ g}$.
-  - **경산부 (Multiparous)**: 모든 치수가 약 $1	ext{ cm}$씩 증가하며 무게는 $50\sim 60	ext{ g}$ (만삭 임신 시에는 자궁 무게만 $1,000	ext{ g}$에 도달).
+  - **미경산부 (Nulliparous)**: 길이 약 $7.5\text{ cm}$, 너비 약 $5\text{ cm}$, 전후 두께 약 $2.5\text{ cm}$, 무게 약 $30\sim 40\text{ g}$.
+  - **경산부 (Multiparous)**: 모든 치수가 약 $1\text{ cm}$씩 증가하며 무게는 $50\sim 60\text{ g}$ (만삭 임신 시에는 자궁 무게만 $1,000\text{ g}$에 도달).
 - **생애 주기별 체부(Corpus) 대 경부(Cervix) 비율의 역동적 변화**:
   - **신생아 및 유아기**: 모체 에스트로겐 소퇴 후 경부가 체부보다 훨씬 큼 (**체부:경부 = 1:2**).
   - **성인 가임기**: 난소 호르몬의 지속적 자극으로 체부가 크게 발달하여 경부의 2배 (**체부:경부 = 2:1**).
@@ -277,7 +271,7 @@ ightarrow$ 천골(Sacrum).
 
 #### 2) 자궁협부(Isthmus)의 외과적 중요성과 외자궁구의 형태
 - **자궁협부 (Isthmus)**:
-  - 체부와 경부 사이의 약 $1	ext{ cm}$ 길이의 좁은 이행 구역.
+  - 체부와 경부 사이의 약 $1\text{ cm}$ 길이의 좁은 이행 구역.
   - 상단 경계는 **해부학적 내자궁구(Anatomical internal os)**(자궁강 내강이 좁아지는 지점), 하단 경계는 **조직학적 내자궁구(Histological internal os)**(자궁내막 원주상피가 자궁경관 점액분비 원주상피로 전환되는 지점)로 정의.
   - **산과적 중요성**: 임신 3분기에 협부가 $3배$ 이상 신장되어 얇은 **자궁하부(Lower Uterine Segment, LUS)**를 형성하며, 제왕절개술(Cesarean section)의 표준 횡절개창(Low transverse incision) 부위가 됩니다.
 - **외자궁구 (External os)의 형태 변화**:
@@ -310,7 +304,7 @@ ightarrow$ 천골(Sacrum).
      - 자궁내막 기저층 바로 아래의 얇은 윤상근층.
      - 양측 난관 개구부(Tubal ostia)와 내자궁구(Internal os) 주위를 괄약근 모양(Sphincter-like)으로 둘러싸 월경혈의 역류를 막고 임신 중 자궁강을 폐쇄 유지.
 - **임신 중 평활근세포의 변화**:
-  - 임신 초기에는 세포 분열에 의한 세포 증식(Hyperplasia)이 일부 일어나지만, 대부분은 **평활근세포 자체의 거대한 비대(Hypertrophy)**에 기인합니다. 개별 평활근세포의 길이는 비임신 시 약 $50\,\mu	ext{m}$에서 임신 만삭 시 **최대 $500\,\mu	ext{m}$($10	ext{배}$ 신장)**까지 커지며, 세포 부피는 $20	ext{배}$ 이상 팽창합니다.
+  - 임신 초기에는 세포 분열에 의한 세포 증식(Hyperplasia)이 일부 일어나지만, 대부분은 **평활근세포 자체의 거대한 비대(Hypertrophy)**에 기인합니다. 개별 평활근세포의 길이는 비임신 시 약 $50\,\mu\text{m}$에서 임신 만삭 시 **최대 $500\,\mu\text{m}$($10\text{배}$ 신장)**까지 커지며, 세포 부피는 $20\text{배}$ 이상 팽창합니다.
 
 ---
 
@@ -350,17 +344,17 @@ ightarrow$ 천골(Sacrum).
 #### 1) 28일 주기의 날짜별 조직학적 랜드마크
 자궁내막은 난소 호르몬의 박동에 따라 엄격한 형태학적 변화를 거칩니다:
 1. **초기 증식기 (Early Proliferative Phase, Day 5~9)**:
-   - 월경 탈락 직후 얇아진 내막($1\sim 2	ext{ mm}$).
+   - 월경 탈락 직후 얇아진 내막($1\sim 2\text{ mm}$).
    - 선(Glands)은 좁고 직선적(Straight, tubular)이며 단층 입방/낮은 원주상피로 피복. 간질(Stroma)은 방추형 세포들이 치밀하게 밀집. 유사분열(Mitoses)은 드묾.
 2. **후기 증식기 (Late Proliferative Phase, Day 10~14)**:
-   - 난포의 활발한 에스트라디올(E2) 분비로 내막 두께 급증($3\sim 5	ext{ mm}$).
+   - 난포의 활발한 에스트라디올(E2) 분비로 내막 두께 급증($3\sim 5\text{ mm}$).
    - 선이 길어지고 사행(Tortuous)하며, 선 상피세포 핵이 여러 층으로 겹쳐 보이는 **위중층(Pseudostratification)** 형성. 선과 간질 전반에서 다수의 유사분열상 관찰. 간질 부종(Edema) 시작.
 3. **초기 분비기 (Early Secretory Phase, Day 15~20)**:
    - 배란 후 황체 형성 및 프로게스테론 분비 개시.
    - **결정적 병리 진단 소견 (Day 16~17)**: 선 상피세포 기저부에 글리코겐이 축적되어 H&E 염색 상 핵 아래가 비어 보이는 **핵하 공포 (Subnuclear vacuoles)**가 전 세포에 걸쳐 균일하게 출현. 핵이 내강 쪽으로 밀려남.
    - Day 20경 유사분열이 완전히 소실됨.
 4. **중기 분비기 / 착상기 (Midsecretory Phase, Day 21~25)**:
-   - 수정란 착상 창(Window of implantation)에 해당. 내막 두께가 **$6\sim 8	ext{ mm}$로 최대치**에 도달.
+   - 수정란 착상 창(Window of implantation)에 해당. 내막 두께가 **$6\sim 8\text{ mm}$로 최대치**에 도달.
    - 글리코겐 분비물이 선 내강으로 쏟아져 나오면서 핵은 다시 기저부로 내려오고, 선 상피 세포 첨단부는 닳아 해진 모양(Shaggy apical border)을 띰.
    - 선 내강이 크게 확장되어 조직 절편 상 전형적인 **"톱니바퀴 / 거치상 (Saw-toothed / Serrated)"** 윤곽을 형성.
    - 나선동맥의 급격한 신장 및 극심한 사행화. 나선동맥 주변 간질세포들이 부풀어 오르고 세포질이 풍부해지는 **초기 탈락막 반응(Decidualization)** 출현.
@@ -391,8 +385,8 @@ ightarrow$ 천골(Sacrum).
   - 프로게스테론 소퇴 시 내막 세포의 리소좀이 불안정해지면서 포스포리파아제 A2가 활성화되어 아라키돈산으로부터 **프로스타글란딘 F2α(PGF2α)**가 폭발적으로 과생성됩니다.
   - PGF2α는 자궁 평활근의 강력한 강직성 수축과 세동맥 수축을 유발합니다.
 - **자궁강내 압력의 극단적 상승**:
-  - 정상 여성: 자궁 안정기 압력 $< 10	ext{ mmHg}$, 수축기 압력 $50\sim 120	ext{ mmHg}$.
-  - 원발성 월경통 환자: **기저 안정기 압력이 $60\sim 80	ext{ mmHg}$**로 상승하며, **수축기 피크 압력은 $> 400	ext{ mmHg}$**까지 폭증합니다.
+  - 정상 여성: 자궁 안정기 압력 $< 10\text{ mmHg}$, 수축기 압력 $50\sim 120\text{ mmHg}$.
+  - 원발성 월경통 환자: **기저 안정기 압력이 $60\sim 80\text{ mmHg}$**로 상승하며, **수축기 피크 압력은 $> 400\text{ mmHg}$**까지 폭증합니다.
   - 이는 전신 동맥 수축기압을 능가하여 자궁근층 모세혈관을 완전히 폐쇄시키며, 극심한 심근경색과 동일한 **무산소성 대사, 젖산 축적 및 C-신경섬유 통각 자극(Myometrial ischemia)**을 유발합니다.
 - **전신 자율신경계 증상**:
   - 혈류로 유입된 PGF2α와 통증 반사로 인해 **창백(Pallor), 식은땀(Cold perspiration), 실신/허탈(Collapse)**, 오심, 구토, 장운동 항진에 의한 설사(Diarrhea), 두통이 빈번히 동반됩니다.
@@ -418,28 +412,25 @@ ightarrow$ 천골(Sacrum).
 
 #### 1) 뮐러관 발생 장애와 비뇨기계 기형 동반
 - **발생학적 3단계와 기형 기전**:
-  1. 발생(Development): 뮐러관 형성 결손 $
-ightarrow$ 무발생/저형성.
-  2. 융합(Fusion): 좌우 뮐러관의 정중선 융합 부전 $
-ightarrow$ 중복자궁, 쌍각자궁.
-  3. 흡수(Resorption): 융합 후 정중 중격의 재흡수 부전 $
-ightarrow$ 중격자궁.
+  1. 발생(Development): 뮐러관 형성 결손 $\rightarrow$ 무발생/저형성.
+  2. 융합(Fusion): 좌우 뮐러관의 정중선 융합 부전 $\rightarrow$ 중복자궁, 쌍각자궁.
+  3. 흡수(Resorption): 융합 후 정중 중격의 재흡수 부전 $\rightarrow$ 중격자궁.
 - **비뇨기계 기형과의 빈번한 동반 (Urinary Tract Anomalies)**:
   - 배아기 뮐러관과 볼프관(비뇨기계 유도)의 밀접한 발생학적 연관성으로 인해, **뮐러관 기형 환자의 $30\sim 50\%$에서 동측 신장 무발생(Renal agenesis), 골반신(Pelvic kidney), 중복 요관 등 비뇨기 기형이 동반**됩니다. 따라서 생식기 기형 진단 시 반드시 신장 초음파나 CT/IVP를 필수적으로 시행해야 합니다.
 
 #### 2) 주요 뮐러관 기형의 병태생리 및 임상 분류
 1. **자궁 무형성 / 저형성 (Agenesis / Hypoplasia - MRKH 증후군)**:
-   - Mayer-Rokitansky-Küster-Hauser 증후군: $46,	ext{XX}$ 정상 핵형 및 정상 난소 기능을 가지나 자궁과 질 상부 $2/3$가 결손되어 원발성 무월경으로 내원.
+   - Mayer-Rokitansky-Küster-Hauser 증후군: $46,\text{XX}$ 정상 핵형 및 정상 난소 기능을 가지나 자궁과 질 상부 $2/3$가 결손되어 원발성 무월경으로 내원.
 2. **단각자궁 (Unicornuate Uterus)**:
    - 한쪽 뮐러관만 발달. 반대측에 잔존각(Rudimentary horn)이 동반될 수 있음.
    - 잔존각 내에 기능성 자궁내막이 존재하면서 자궁강과 연결되지 않은 경우(Non-communicating), 월경혈 저류로 극심한 월경통 및 혈자궁증 유발. 잔존각 임신 시 임신 2분기 파열로 치명적 복강내 출혈을 일으키므로 외과적 절제 필수.
 3. **중복자궁 (Uterus Didelphys)**:
    - 좌우 뮐러관이 완전히 융합되지 않아 2개의 독립된 자궁체부, 2개의 자궁경부, 그리고 종격 질 중격(Longitudinal vaginal septum)을 형성.
 4. **쌍각자궁 (Bicornuate Uterus)**:
-   - 자궁저부에서 불완전 융합. **자궁 기저부 외측 함몰(Fundal cleft)이 $> 1	ext{ cm}$로 깊게 파여 하트 모양**을 이룸. 수술(Strassman metroplasty)은 거의 필요하지 않음.
+   - 자궁저부에서 불완전 융합. **자궁 기저부 외측 함몰(Fundal cleft)이 $> 1\text{ cm}$로 깊게 파여 하트 모양**을 이룸. 수술(Strassman metroplasty)은 거의 필요하지 않음.
 5. **중격자궁 (Septate Uterus)**:
    - 좌우 뮐러관은 완전히 융합되었으나 정중 중격이 흡수되지 않고 잔존.
-   - **자궁 기저부 외측 윤곽은 정상이거나 함몰이 $< 1	ext{ cm}$ 미만**임 (쌍각자궁과의 절대적 감별점).
+   - **자궁 기저부 외측 윤곽은 정상이거나 함몰이 $< 1\text{ cm}$ 미만**임 (쌍각자궁과의 절대적 감별점).
    - **임상적 중요성**: 뮐러관 기형 중 **자연유산율(최대 $60\sim 80\%$) 및 조산율이 가장 높음**. 섬유성 중격은 혈관 분포가 극히 불량하여 수정란 착상 시 태반 허혈을 유발하기 때문입니다.
    - **치료**: 개복 수술 없이 **자궁경하 중격 절제술(Hysteroscopic metroplasty)**을 통해 간단히 절제하여 임신 유지율을 정상화할 수 있습니다.
 6. **DES(Diethylstilbestrol) 관련 기형**:
@@ -492,10 +483,8 @@ ightarrow$ 중격자궁.
   - **3도 (Third degree)**: 자궁경부가 처녀막 밖으로 완전히 돌출 (불완전 탈출).
   - **4도 (Fourth degree / Procidentia)**: 자궁 전체와 질벽이 체외로 완전히 뒤집혀 튀어나온 완전 탈출(Complete prolapse).
 - **동반 골반 장기 탈출증 (Pelvic Organ Prolapse, POP)**:
-  - **방광류 (Cystocele)**: 방광질근막 결손으로 전질벽이 밀려나옴 $
-ightarrow$ 복압성 요실금 또는 요폐, 잔뇨.
-  - **직장류 (Rectocele)**: 직장질근막 결손으로 후질벽이 밀려나옴 $
-ightarrow$ 배변 곤란(회음부를 손으로 눌러야 배변 가능).
+  - **방광류 (Cystocele)**: 방광질근막 결손으로 전질벽이 밀려나옴 $\rightarrow$ 복압성 요실금 또는 요폐, 잔뇨.
+  - **직장류 (Rectocele)**: 직장질근막 결손으로 후질벽이 밀려나옴 $\rightarrow$ 배변 곤란(회음부를 손으로 눌러야 배변 가능).
   - **장류 (Enterocele)**: 더글라스와의 복막낭이 소장을 포함한 채 질 후원개와 직장 사이를 밀고 내려옴.
 - **국소 합병증**: 외자궁구가 장기간 외부 속옷과 마찰되어 **욕창성 궤양 (Decubitus ulcer)**, 상피 각화증(Hyperkeratosis), 만성 감염 및 출혈 동반.
 
@@ -601,16 +590,12 @@ ightarrow$ 배변 곤란(회음부를 손으로 눌러야 배변 가능).
 - **병원체 특성**: 그람음성 세포내 쌍구균(Gram-negative intracellular diplococci). 호중구(PMN) 내부에 탐식된 균체 관찰.
 - **병변 및 증상**: 자궁경관 내막 원주상피를 선택적으로 침범하여 농포를 형성하고 점막을 파괴. 외자궁구에서 농성(Purulent) 분비물이 흘러나오며, 요도염, 스킨선염, 바르톨린선염 동반.
 - **상행 감염과 합병증**:
-  - 자궁내막을 거쳐 난관으로 상행 $
-ightarrow$ 급성 화농성 난관염(Acute suppurative salpingitis) $
-ightarrow$ 골반염증성 질환(PID) $
-ightarrow$ 난관난소농양(TOA).
+  - 자궁내막을 거쳐 난관으로 상행 $\rightarrow$ 급성 화농성 난관염(Acute suppurative salpingitis) $\rightarrow$ 골반염증성 질환(PID) $\rightarrow$ 난관난소농양(TOA).
   - 난관 점막의 주름이 유착되어 불임, 난관수종(Hydrosalpinx), 자궁외임신 초래.
   - **피츠-휴-커티스 증후군 (Fitz-Hugh-Curtis Syndrome)**: 골반 감염이 우측 결장측구를 따라 상행하여 간피막을 침범, 간 피막과 전복벽 사이에 **"바이올린 현 (Violin-string)" 모양의 섬유성 유착**을 형성하여 우상복부 흉막성 통증 유발.
 
 #### 2) 클라미디아 감염 (Chlamydia trachomatis, D~K 혈청형)
-- **병원체 특성**: 절대 세포내 기생세균(Obligate intracellular bacteria). 2단계 생활사: 감염력을 가진 세포외 **기본소체 (Elementary body)** $
-ightarrow$ 세포 내에서 대사 및 분열을 수행하는 **망상소체 (Reticulate body)**.
+- **병원체 특성**: 절대 세포내 기생세균(Obligate intracellular bacteria). 2단계 생활사: 감염력을 가진 세포외 **기본소체 (Elementary body)** $\rightarrow$ 세포 내에서 대사 및 분열을 수행하는 **망상소체 (Reticulate body)**.
 - **임상적 특징 ("Silent Epidemic")**:
   - 감염 여성의 **$70\sim 80\%$가 완전히 무증상**이어서 진단과 치료를 받지 못한 채 방치됨.
   - 진찰 시 자궁경부의 부종, 점액농성 분비물(Mucopurulent cervicitis), 면봉 접촉 시 쉽게 출혈하는 **조직 취약성(Cervical friability)** 관찰.
@@ -619,8 +604,8 @@ ightarrow$ 세포 내에서 대사 및 분열을 수행하는 **망상소체 (Re
 #### 3) 진단 및 복합 동시 치료 원칙
 - **진단**: 자궁경관 도말물의 **핵산증폭검사 (NAAT, PCR)**가 임균과 클라미디아 모두에서 최고 민감도와 특이도를 지닌 표준 진단법.
 - **치료 지침**: 임균 감염 환자의 $40\%$ 이상에서 클라미디아가 공존하므로, 임균 확진 시에도 두 균을 동시에 박멸하는 복합 요법을 시행:
-  - 임균: **Ceftriaxone $500	ext{ mg}$ IM 단회 투여**.
-  - 클라미디아: **Doxycycline $100	ext{ mg}$ bid 7일간 경구 투여** (또는 임신부의 경우 Azithromycin $1	ext{ g}$ PO 단회).
+  - 임균: **Ceftriaxone $500\text{ mg}$ IM 단회 투여**.
+  - 클라미디아: **Doxycycline $100\text{ mg}$ bid 7일간 경구 투여** (또는 임신부의 경우 Azithromycin $1\text{ g}$ PO 단회).
   - **핑퐁 감염 방지를 위한 성파트너 동시 치료 필수**.
 
 ---
@@ -674,11 +659,9 @@ ightarrow$ 세포 내에서 대사 및 분열을 수행하는 **망상소체 (Re
 - **선암 (Adenocarcinoma, 15~20%)**:
   - 자궁경관선 상피에서 기원. 점액성 선암이 가장 흔하며 HPV 18형 감염과 밀접한 연관. SCC 대비 발견이 늦고 예후가 불량한 경향.
 - **병기별 골반 림프절 전이율**:
-  - **Stage I: 약 $15\%$** $
-ightarrow$ **Stage III: 약 $47\%$**로 병기 진행에 따라 급증.
+  - **Stage I: 약 $15\%$** $\rightarrow$ **Stage III: 약 $47\%$**로 병기 진행에 따라 급증.
 - **병기별 5년 생존율**:
-  - **Stage IA: $99\%$** $
-ightarrow$ **Stage IVB: 약 $2\%$**로 급격한 하락.
+  - **Stage IA: $99\%$** $\rightarrow$ **Stage IVB: 약 $2\%$**로 급격한 하락.
 - **재발 양상**: 환자의 약 $1/3$에서 재발하며, 재발의 절반은 1차 치료 후 3년 이내에 발생합니다.
 
 ---
@@ -689,10 +672,8 @@ ightarrow$ **Stage IVB: 약 $2\%$**로 급격한 하락.
 
 #### 1) 3대 직접 침윤 경로와 최빈 사망 원인
 자궁경부암은 혈행성 전이보다 국소 침윤과 림프절 전이가 선행하는 국소 침윤성 질환입니다:
-1. **질벽 침윤**: 자궁경부에서 질 점막을 타고 하강하여 질 상부 $2/3$(Stage IIA) $
-ightarrow$ 질 하부 $1/3$(Stage IIIA)로 진행.
-2. **외측 자궁방결합직 침윤**: 기자인대를 따라 외측으로 파고들어 자궁방결합직(Parametrium, Stage IIB) $
-ightarrow$ 골반 측벽(Pelvic sidewall, Stage IIIB)에 도달.
+1. **질벽 침윤**: 자궁경부에서 질 점막을 타고 하강하여 질 상부 $2/3$(Stage IIA) $\rightarrow$ 질 하부 $1/3$(Stage IIIA)로 진행.
+2. **외측 자궁방결합직 침윤**: 기자인대를 따라 외측으로 파고들어 자궁방결합직(Parametrium, Stage IIB) $\rightarrow$ 골반 측벽(Pelvic sidewall, Stage IIIB)에 도달.
 3. **인접 장기 침윤**: 방광 후벽 점막 또는 직장 전벽 점막을 직접 관통(Stage IVA).
 - **최빈 사망 원인 (Cause of Death)**:
   - 간, 폐, 뼈 등의 원격 장기 전이보다, 종양이 외측 기자인대 및 요관 주변 림프절을 침범하여 **양측 요관 폐색(Bilateral ureteral obstruction)을 일으키고, 이로 인한 수신증(Hydronephrosis) 및 요독증(Uremia)**으로 사망하는 비율이 압도적으로 높습니다.
@@ -700,10 +681,10 @@ ightarrow$ 골반 측벽(Pelvic sidewall, Stage IIIB)에 도달.
 #### 2) FIGO 병기 체계와 치료 선택
 - **FIGO 임상 병기 (Clinical Staging)**:
   - **Stage I**: 자궁경부에 국한
-    - IA: 현미경적 미세침윤 (IA1: 기질 침윤 깊이 $< 3	ext{ mm}$, IA2: $3\sim 5	ext{ mm}$).
-    - IB: 육안적 병변 (IB1: $< 2	ext{ cm}$, IB2: $2\sim 4	ext{ cm}$, IB3: $\ge 4	ext{ cm}$).
+    - IA: 현미경적 미세침윤 (IA1: 기질 침윤 깊이 $< 3\text{ mm}$, IA2: $3\sim 5\text{ mm}$).
+    - IB: 육안적 병변 (IB1: $< 2\text{ cm}$, IB2: $2\sim 4\text{ cm}$, IB3: $\ge 4\text{ cm}$).
   - **Stage II**: 자궁을 벗어났으나 골반벽이나 질 하부 $1/3$까지는 미치지 않음
-    - IIA: 질 상부 $2/3$ 침범, 자궁방결합직 침범 없음 (IIA1: $< 4	ext{ cm}$, IIA2: $\ge 4	ext{ cm}$).
+    - IIA: 질 상부 $2/3$ 침범, 자궁방결합직 침범 없음 (IIA1: $< 4\text{ cm}$, IIA2: $\ge 4\text{ cm}$).
     - IIB: 자궁방결합직(Parametrium) 침범 (골반벽까지는 미치지 않음).
   - **Stage III**:
     - IIIA: 질 하부 $1/3$ 침범.
@@ -727,7 +708,7 @@ ightarrow$ 골반 측벽(Pelvic sidewall, Stage IIIB)에 도달.
 ![[Netter_V1_Plate8-22.png]]
 
 #### 1) 정상 월경의 임상 지표와 기능성 출혈의 4대 메커니즘
-- **정상 생리의 객관적 기준**: 주기 길이 $24\sim 38	ext{일}$, 주기 변동성 $\le 7\sim 9	ext{일}$, 출혈 기간 $4.5\sim 8	ext{일}$, 총 출혈량 $5\sim 80	ext{ mL}$.
+- **정상 생리의 객관적 기준**: 주기 길이 $24\sim 38\text{일}$, 주기 변동성 $\le 7\sim 9\text{일}$, 출혈 기간 $4.5\sim 8\text{일}$, 총 출혈량 $5\sim 80\text{ mL}$.
 - **호르몬 불균형에 의한 비정상 출혈의 4대 병태생리**:
   1. **에스트로겐 소퇴 출혈 (Estrogen Withdrawal Bleeding)**: 난소 절제, E2 투여 중단 등 혈중 에스트로겐 수치의 급격한 감소로 내막 지지가 상실되어 발생.
   2. **에스트로겐 파탄 출혈 (Estrogen Breakthrough Bleeding)**:
@@ -758,11 +739,7 @@ ightarrow$ 골반 측벽(Pelvic sidewall, Stage IIIB)에 도달.
 
 #### 1) 무배란의 내분비 악순환과 "대항받지 않는 에스트로겐"
 - **무배란의 악순환 (The Vicious Circle of Anovulation)**:
-  - 시상하부(GnRH)-뇌하수체(LH/FSH)-난소 축의 조율 장애 $
-ightarrow$ 정상적인 LH 급등(LH surge) 결손 $
-ightarrow$ 성숙 난포의 배란 실패 $
-ightarrow$ **황체(Corpus luteum) 미형성 $
-ightarrow$ 프로게스테론 분비 결핍**.
+  - 시상하부(GnRH)-뇌하수체(LH/FSH)-난소 축의 조율 장애 $\rightarrow$ 정상적인 LH 급등(LH surge) 결손 $\rightarrow$ 성숙 난포의 배란 실패 $\rightarrow$ **황체(Corpus luteum) 미형성 $\rightarrow$ 프로게스테론 분비 결핍**.
   - 프로게스테론의 항증식 및 분화 작용이 상실되어, 자궁내막이 수개월에서 수년간 오직 에스트로겐의 지속적인 단독 자극(**Unopposed Estrogen**)에 노출됨.
 - **말초 에스트로겐 생성원 (Peripheral Aromatization)**:
   - 비만 여성에서 부신에서 분비된 안드로스테네디온(Androstenedione)이 말초 지방조직의 **아로마타제(Aromatase)** 효소에 의해 **에스트론(Estrone, E1)**으로 대량 전환.
@@ -778,7 +755,7 @@ ightarrow$ 프로게스테론 분비 결핍**.
 ![[Netter_V1_Plate8-24.png]]
 
 #### 1) 병태생리 및 평활근 비대의 기전
-- **병리 정의**: 정상적으로 자궁강 내에 있어야 할 자궁내막의 선(Glands)과 간질(Stroma) 조직이 자궁내막-근층 경계(Endometrial-myometrial junction)를 침투하여 **근층 내부 깊숙이($> 2.5	ext{ mm}$ 또는 저배율 1시야 이상)** 존재하는 질환.
+- **병리 정의**: 정상적으로 자궁강 내에 있어야 할 자궁내막의 선(Glands)과 간질(Stroma) 조직이 자궁내막-근층 경계(Endometrial-myometrial junction)를 침투하여 **근층 내부 깊숙이($> 2.5\text{ mm}$ 또는 저배율 1시야 이상)** 존재하는 질환.
 - **평활근 반응**:
   - 이소성으로 침투한 자궁내막 조직이 호르몬 자극에 반응하면서 주위 평활근 세포의 현저한 **반응성 비대(Hypertrophy) 및 과형성(Hyperplasia)**을 유발.
   - 자궁벽이 두꺼워지며, 특히 **자궁 후벽(Posterior wall)에 비대칭적 비후**가 가장 호발합니다.
@@ -787,14 +764,13 @@ ightarrow$ 프로게스테론 분비 결핍**.
 #### 2) 임상 양상 및 영상 진단 기준
 - **임상 증상 3대 특징**:
   1. 점점 악화되는 중증의 이차성 월경통 (Progressive secondary dysmenorrhea).
-  2. 심한 월경과다 (Menorrhagia, 환자의 $50\%$) $
-ightarrow$ 만성 철결핍성 빈혈.
+  2. 심한 월경과다 (Menorrhagia, 환자의 $50\%$) $\rightarrow$ 만성 철결핍성 빈혈.
   3. 깊은 성교통 및 만성 골반통.
 - **신체검진 특징**:
-  - **"Globular, symmetrically/asymmetrically enlarged, boggy, and tender uterus"**: 자궁 전체가 임신 $12\sim 14	ext{주}$ 크기 이내로 균일하게 커져 있으며, 만졌을 때 물렁물렁하고(Boggy), 월경 직전/중에 극심한 압통을 동반함 (근종의 단단하고 결절성인 nodular 외관과 감별).
+  - **"Globular, symmetrically/asymmetrically enlarged, boggy, and tender uterus"**: 자궁 전체가 임신 $12\sim 14\text{주}$ 크기 이내로 균일하게 커져 있으며, 만졌을 때 물렁물렁하고(Boggy), 월경 직전/중에 극심한 압통을 동반함 (근종의 단단하고 결절성인 nodular 외관과 감별).
 - **영상 진단 기준**:
   - **질식 초음파 (TVS)**: 근층의 비대칭적 비후, 근층 내부의 미세 저에코/고에코 낭종(Myometrial cysts), 방사형 선상 그림자(**"Rain shower" or "Sunburst" appearance**), 내막-근층 경계의 불분명.
-  - **골반 MRI (골드 스탠다드)**: T2 강조영상에서 저신호강도를 보이는 **접합부대(Junctional Zone, JZ)의 두께 $\ge 12	ext{ mm}$** 시 확진 ($8\sim 12	ext{ mm}$는 의심, $< 8	ext{ mm}$는 배제).
+  - **골반 MRI (골드 스탠다드)**: T2 강조영상에서 저신호강도를 보이는 **접합부대(Junctional Zone, JZ)의 두께 $\ge 12\text{ mm}$** 시 확진 ($8\sim 12\text{ mm}$는 의심, $< 8\text{ mm}$는 배제).
 - **치료 체계**:
   - 완치법: 전자궁절제술(Hysterectomy).
   - 자궁 보존 요법: **레보노르게스트렐 방출 자궁내장치 (LNG-IUS / 미레나)** 삽입 (국소 고용량 프로게스틴으로 이소성 내막을 위축시켜 출혈과 통증 극적 호전), 경구 프로게스틴(Dienogest), GnRH 작용제, NSAIDs.
@@ -830,7 +806,7 @@ ightarrow$ 만성 철결핍성 빈혈.
 2. **재유착 방지 장치 삽입**:
    - 수술 직후 자궁강 내에 **자궁내 피임기구(IUD, Lippes loop 또는 Cu-T) 또는 소아용 폴리 카테터 풍선(Pediatric Foley catheter balloon)**을 거치하여 물리적으로 자궁벽의 재접착을 방지.
 3. **고용량 호르몬 요법 (내막 재생 유도)**:
-   - 결합 에스트로겐(Conjugated Equine Estrogens $2.5\sim 5.0	ext{ mg/day}$)을 $30\sim 60	ext{일}$간 지속 투여하여 기저층 잔유 세포의 증식을 유도한 후, 마지막 10일간 프로게스틴(Medroxyprogesterone acetate)을 추가하여 인공 소퇴 출혈 유도.
+   - 결합 에스트로겐(Conjugated Equine Estrogens $2.5\sim 5.0\text{ mg/day}$)을 $30\sim 60\text{일}$간 지속 투여하여 기저층 잔유 세포의 증식을 유도한 후, 마지막 10일간 프로게스틴(Medroxyprogesterone acetate)을 추가하여 인공 소퇴 출혈 유도.
 4. **산과적 경고 및 예후**:
    - 유착 재발률이 최대 $50\%$에 달하므로 치료 후 추적 HSG/자궁경 필수.
    - 아셔만 증후군 치료 후 임신에 성공한 환자는 기저 내막 결손으로 인해 **태반 착상 이상(유착태반 Placenta accreta, increta, percreta) 및 전치태반(Placenta previa), 산후 대출혈의 위험이 극도로 높아지므로** 고위험 임신 관리가 필수적입니다.
@@ -849,13 +825,7 @@ ightarrow$ 만성 철결핍성 빈혈.
     - 핵의 크기 부동증, 다형성, 염색질 농축, 뚜렷한 핵소체.
     - **세포 비정형성을 동반한 자궁내막증식증(Atypical Endometrial Hyperplasia / EIN) 환자의 $> 40\%$에서 자궁절제술 시행 시 이미 숨어 있는 자궁내막암이 공존(Coexisting endometrial carcinoma)함이 확인**됩니다. 따라서 비정형 증식증은 상피내암에 준하여 근치적 자궁절제술을 고려해야 합니다.
 - **단계적 악성 진행 가설 (Step-like Progression)**:
-  - 정상 자궁내막 $
-ightarrow$ 자궁내막 용종 $
-ightarrow$ 낭성 증식증 $
-ightarrow$ 선종성 증식증 $
-ightarrow$ 비정형 증식증(EIN) $
-ightarrow$ 상피내암(CIS) $
-ightarrow$ 침윤성 선암(Adenocarcinoma).
+  - 정상 자궁내막 $\rightarrow$ 자궁내막 용종 $\rightarrow$ 낭성 증식증 $\rightarrow$ 선종성 증식증 $\rightarrow$ 비정형 증식증(EIN) $\rightarrow$ 상피내암(CIS) $\rightarrow$ 침윤성 선암(Adenocarcinoma).
 
 #### 2) 자궁내막 용종 (Endometrial Polyps)
 - 자궁내막 선과 섬유성 간질, 두꺼운 혈관벽을 가진 혈관으로 구성된 양성 돌출성 종괴.
@@ -952,14 +922,11 @@ ightarrow$ 침윤성 선암(Adenocarcinoma).
 #### 2) 장막하 유경성 근종의 염전 및 골반 장기 압박 폐색
 - **유경성 근종의 염전 (Torsion)**:
   - 가는 줄기(Pedicle)를 가진 7형 장막하 근종이 복강 내에서 꼬이면서 혈류가 차단됨.
-  - 정맥 울혈 $
-ightarrow$ 급성 동맥 폐색 $
-ightarrow$ 괴사 및 복막염 유발.
+  - 정맥 울혈 $\rightarrow$ 급성 동맥 폐색 $\rightarrow$ 괴사 및 복막염 유발.
   - 참을 수 없는 급성 복통과 복막 자극 징후를 보이며, 이 경우는 즉각적인 **응급 수술(복강경하 염전 근종 절제술)**이 적응증입니다.
 - **골반 장기 폐색 합병증**:
   - **요관 압박**: 거대 근종이나 광인대내 근종이 요관을 골반벽에 압박하여 무증상 수신증(Hydronephrosis) 및 신우신염, 신기능 저하 초래.
-  - **산과적 산도 폐색**: 하부 자궁경부 근종이 골반 입구를 메워 태아 선진부 진입을 기계적으로 차단 $
-ightarrow$ 난산(Dystocia)으로 인한 제왕절개 분만 필수.
+  - **산과적 산도 폐색**: 하부 자궁경부 근종이 골반 입구를 메워 태아 선진부 진입을 기계적으로 차단 $\rightarrow$ 난산(Dystocia)으로 인한 제왕절개 분만 필수.
   - **장 및 방광 압박**: 만성 변비, 배변통, 급성 요폐.
 
 ---
@@ -979,7 +946,7 @@ ightarrow$ 난산(Dystocia)으로 인한 제왕절개 분만 필수.
    - 자궁근층 평활근 기원. 육안상 피막이 없고 부드러우며 다발성 출혈과 괴사를 동반한 어육 모양(Fish-flesh) 종괴.
    - **스탠포드 3대 병리 확진 기준**:
      1. **현저한 미만성 핵 비정형성 (Diffuse moderate-to-severe nuclear atypia)**.
-     2. **고배율 10시야당 10개 이상의 유사분열상 (Mitotic index $\ge 10	ext{ MF}/10	ext{ HPF}$)**.
+     2. **고배율 10시야당 10개 이상의 유사분열상 (Mitotic index $\ge 10\text{ MF}/10\text{ HPF}$)**.
      3. **응고성 종양 세포 괴사 (Coagulative tumor cell necrosis)** (혈관 주위 세포까지 무차별 괴사).
      - *이 중 2가지 이상을 만족할 때 평활근육종으로 진단*.
 2. **자궁내막간질육종 (Endometrial Stromal Sarcoma, ESS)**:
@@ -1004,7 +971,7 @@ ightarrow$ 난산(Dystocia)으로 인한 제왕절개 분만 필수.
   - 자궁경부암과 달리, **Pap smear는 이미 존재하는 자궁내막암의 약 $20\%$밖에 검출하지 못합니다**. 정상 세포진 소견이 자궁내막암을 절대 배제할 수 없습니다.
 - **진단적 접근**:
   - 폐경 후 질출혈(Postmenopausal bleeding, PMB)은 자궁내막암의 가장 중요하고 조기 경고 증상.
-  - 질식 초음파 상 폐경 후 내막 두께가 **$> 4\sim 5	ext{ mm}$**인 경우 반드시 **자궁내막 조직생검 (Pipelle endometrial biopsy, 정확도 $> 90\%$)** 또는 진단적 D&C를 시행하여 확진해야 합니다.
+  - 질식 초음파 상 폐경 후 내막 두께가 **$> 4\sim 5\text{ mm}$**인 경우 반드시 **자궁내막 조직생검 (Pipelle endometrial biopsy, 정확도 $> 90\%$)** 또는 진단적 D&C를 시행하여 확진해야 합니다.
 
 #### 2) 보크만(Bokhman)의 자궁내막암 이원론적 2대 아형 모델
 
@@ -1014,10 +981,11 @@ ightarrow$ 난산(Dystocia)으로 인한 제왕절개 분만 필수.
 | **호르몬 의존성** | **에스트로겐 과다 노출 의존적 (Unopposed Estrogen)** | **에스트로겐 비의존성 (독립적 발생)** |
 | **전형적 환자 특성** | 비만, 당뇨, 고혈압, 미산부, PCOS, 늦은 폐경 | 고령 여성, 마른 체형, 위축된 자궁내막 기저 |
 | **선행 전암 병변** | **비정형 자궁내막증식증 (EIN / Atypical Hyperplasia)** | **자궁내막 상피내암종 (EIC / EmGD)** |
-| **핵심 유전자 변이** | **$PTEN$ 결손($30\sim 80\%$), $PIK3CA, KRAS, CTNNB1$, MSI-H / Lynch 증후군** | **$\mathbf{TP53}$ 돌연변이 ($> 90\%$), $HER2(ERBB2)$ 증폭/과발현** |
+| **핵심 유전자 변이** | **$PTEN$ 결손, $PIK3CA$, MSI-H / Lynch 증후군** | **$\mathbf{TP53}$ 돌연변이 ($> 90\%$), $HER2(ERBB2)$ 증폭/과발현** |
 | **조직학적 분화도** | 분화도 양호 (Grade 1, 2가 대부분) | 분화도 극히 불량 (본질적으로 Grade 3 취급) |
 | **침윤 및 전이 양상** | 근층 침윤이 서서히 진행, 림프절 전이 드묾 | 조기 깊은 근층 침윤, 난관 통한 복막 파종 및 림프절 전이 호발 |
 | **5년 생존율 및 예후** | **$> 85\%$ (매우 양호한 예후)** | **$30\sim 50\%$ (극히 불량하고 치명적)** |
+* **Type I 자궁내막암 핵심 유전자 변이 전체**: **$PTEN$ 결손($30\sim 80\%$), $PIK3CA, KRAS, CTNNB1$, MSI-H / Lynch 증후군**
 
 #### 3) 림프절 전이 위험 인자
 - 종양의 조직학적 분화도(Grade)와 자궁근층 침윤 깊이(Depth of myometrial invasion)가 림프절 전이를 결정하는 2대 축입니다:

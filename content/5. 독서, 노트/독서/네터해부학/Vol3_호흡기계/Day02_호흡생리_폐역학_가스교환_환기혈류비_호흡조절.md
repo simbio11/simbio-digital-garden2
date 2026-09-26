@@ -224,9 +224,12 @@ graph TD
 
 | 웨스트 구역 (Zone) | 압력 관계 | 혈류 특성 및 기전 | 생리 및 임상적 의의 |
 | :--- | :--- | :--- | :--- |
-| **Zone 1 (폐첨부)** | **$P_A > P_a > P_v$** | **혈류 없음 (No flow)**. 폐포압이 모세혈관압보다 높아 모세혈관을 짓눌러 찌그러뜨림 | **정상인에서는 부재**. 출혈성 쇼크(저혈량증으로 $P_a$ 급락) 또는 **양압 인공호흡기(PEEP으로 $P_A$ 급상승)** 적용 시 출현 $\rightarrow$ **폐포 사강 (Alveolar dead space)** 형성 |
-| **Zone 2 (중간부)** | **$P_a > P_A > P_v$** | **간헐적 혈류 (Waterfall / Starling resistor 효과)**. 혈류 구동력은 $(P_a - P_v)$가 아닌 **$(P_a - P_A)$**에 의해 결정됨 | 심장의 수축기에는 흐르고 이완기에는 멈춤 |
+| **Zone 1 (폐첨부)** | **$P_A > P_a > P_v$** | **혈류 없음 (No flow)**. 폐포압이 모세혈관압보다 높아 모세혈관을 짓눌러 찌그러뜨림 | **정상에서는 부재**, 쇼크나 PEEP 시 폐포 사강 형성 |
+| **Zone 2 (중간부)** | **$P_a > P_A > P_v$** | **간헐적 혈류 (Waterfall / Starling resistor)** | 심장의 수축기에는 흐르고 이완기에는 멈춤 |
 | **Zone 3 (폐기저부)** | **$P_a > P_v > P_A$** | **지속적 최대 혈류 (Continuous flow)**. 정수압 상승으로 모세혈관이 항상 활짝 열려 있음 | 혈류 구동력은 통상적인 동정맥압차 **$(P_a - P_v)$**에 의해 결정됨 |
+* **웨스트 구역별 혈류 역학 상세 (West's Zones)**:
+  * **Zone 1 (폐첨부)**: 정상인에서는 부재. 출혈성 쇼크(저혈량증으로 $P_a$ 급락) 또는 양압 인공호흡기(PEEP으로 $P_A$ 급상승) 적용 시 출현 $\rightarrow$ **폐포 사강 (Alveolar dead space)** 형성.
+  * **Zone 2 (중간부)**: 혈류 구동력은 $(P_a - P_v)$가 아닌 **$(P_a - P_A)$**에 의해 결정됨.
 
 ---
 
@@ -254,13 +257,13 @@ graph TD
 * **폐포-동맥혈 산소분압차 ($\text{A-a }\text{DO}_2 = \text{PAO}_2 - \text{PaO}_2$)**:
   * 정상 성인 기준치: **$5\sim15\ \text{mmHg}$** (연령 보정 정상 상한치 $\approx \frac{\text{Age}}{4} + 4$).
 
-| 저산소혈증 병태 기전 | A-a $\text{DO}_2$ 단락차 | $\text{PaCO}_2$ 수치 | $100\%\ \text{O}_2$ 반응성 | 대표 임상 원인 질환 |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. 폐포 저환기 (Hypoventilation)** | **정상 ($<15$)** | **현저한 상승 ($>45$)** | **극적으로 교정됨** | 마약성 진통제(Opioids) 과다, 벤조디아제핀, 중증근무력증, 길랑-바레 |
-| **2. 흡입 산소분압 저하** | **정상 ($<15$)** | 정상 또는 저하 | **교정됨** | 고산지대 (High altitude) 노출 |
-| **3. 환기-혈류비 불균등 (V/Q Mismatch)** | **현저한 상승 ($>20$)** | 정상, 저하 또는 상승 | **교정됨** | **만성폐쇄성폐질환 (COPD), 천식, 폐색전증** |
-| **4. 진성 우좌 단락 (True Shunt)** | **극단적 상승 ($>30\sim50$)** | 정상 또는 저하 | **절대 교정 안 됨! (Non-responsive)** | **급성 호흡곤란증후군 (ARDS), 광범위 폐렴, 폐포 무기폐, 활로사징(TOF)** |
-| **5. 가스 확산 장애 (Diffusion Defect)** | **상승** | 정상 또는 저하 | 교정됨 | 특발성 폐섬유증 (IPF, 운동 시 저산소혈증 급격 악화) |
+| 저산소혈증 병태 기전 | A-a $\text{DO}_2$ / $\text{PaCO}_2$ | $100\%\ \text{O}_2$ 반응성 | 대표 임상 원인 질환 |
+| :--- | :--- | :--- | :--- |
+| **1. 폐포 저환기 (Hypoventilation)** | A-a 정상 ($<15$); $\text{PaCO}_2$ 상승 ($>45$) | **극적으로 교정됨** | 마약성 진통제(Opioids) 과다, 벤조디아제핀, 중증근무력증, 길랑-바레 |
+| **2. 흡입 산소분압 저하** | A-a 정상 ($<15$); $\text{PaCO}_2$ 정상 또는 저하 | **교정됨** | 고산지대 (High altitude) 노출 |
+| **3. 환기-혈류비 불균등 (V/Q Mismatch)** | A-a 상승 ($>20$); $\text{PaCO}_2$ 정상, 저하 또는 상승 | **교정됨** | **만성폐쇄성폐질환 (COPD), 천식, 폐색전증** |
+| **4. 진성 우좌 단락 (True Shunt)** | A-a 극단적 상승 ($>30\sim50$); $\text{PaCO}_2$ 정상 또는 저하 | **절대 교정 안 됨! (Non-responsive)** | **급성 호흡곤란증후군 (ARDS), 광범위 폐렴, 폐포 무기폐, 활로사징(TOF)** |
+| **5. 가스 확산 장애 (Diffusion Defect)** | A-a 상승; $\text{PaCO}_2$ 정상 또는 저하 | 교정됨 | 특발성 폐섬유증 (IPF, 운동 시 저산소혈증 급격 악화) |
 
 ---
 
@@ -317,13 +320,15 @@ graph TD
 
 | 물질 분류 | 폐 순환 통과 시 대사 양상 | 작용 효소 및 처리 기전 | 임상적 생리 의의 |
 | :--- | :--- | :--- | :--- |
-| **안지오텐신 I (Ang I)** | **강력한 활성화 ($\uparrow$)** | 모세혈관 내피 표면의 **ACE (Angiotensin Converting Enzyme)**에 의해 2개 아미노산 절단 $\rightarrow$ **안지오텐신 II (Ang II)로 전환** | 전신 혈압 및 체액 조절의 핵심 관문 (ACEi 약물 작용점) |
+| **안지오텐신 I (Ang I)** | **강력한 활성화 ($\uparrow$)** | 모세혈관 내피면 **ACE**가 2개 아미노산 절단 → **Ang II 전환** | 전신 혈압 및 체액 조절의 핵심 관문 (ACEi 약물 작용점) |
 | **브라디키닌 (Bradykinin)** | **완전 불활성화 (80% $\downarrow$)** | **ACE (Kininase II)**에 의해 비활성 펩타이드로 신속 분해 | ACE 억제제 사용 시 브라디키닌 축적으로 **마른기침 및 혈관부종** 유발 |
 | **세로토닌 (5-HT)** | **거의 전량 제거 (90% $\downarrow$)** | 내피세포막 SERT 수송체로 세포 내 흡수 후 **MAO**에 의해 분해 | 유암종 증후군에서 좌심판막이 보존되는 분자적 이유 |
 | **프로스타글란딘 ($\text{PGE}_1, \text{E}_2, \text{F}_{2\alpha}$)** | **광범위 불활성화 (90% $\downarrow$)** | 15-hydroxyprostaglandin dehydrogenase에 의해 첫 통과 시 분해 | 전신 혈관 이완 방지 |
 | **노르에피네프린** | 부분 불활성화 (30~40% $\downarrow$) | Uptake-1 매개 흡수 | 국소 농도 조절 |
 | **에피네프린, 도파민** | **대사되지 않고 100% 통과** | 불활성화 효소 없음 | 부신수질 호르몬의 전신 표적 장기 전달 보장 |
 | **안지오텐신 II, 바소프레신(ADH)** | **대사되지 않고 통과** | 불활성화 없음 | 전신 혈관 수축 작용 유지 |
+* **폐 내피 대사 상세 (Vasoactive Substances)**:
+  * **안지오텐신 I (Ang I)**: 모세혈관 내피 표면의 ACE (Angiotensin Converting Enzyme)에 의해 2개 아미노산 절단 $\rightarrow$ **안지오텐신 II (Ang II)로 전환**.
 
 ---
 
@@ -394,12 +399,17 @@ graph TD
 
 | 생리학적 평가 지표 | 표준 계산 공식 | 정상 기준치 | 임상적 의미 및 응용 질환 |
 | :--- | :--- | :--- | :--- |
-| **폐포 기체 방정식** | $\text{PAO}_2 = \text{FiO}_2(P_{\text{B}} - 47) - \frac{\text{PaCO}_2}{0.8}$ | 대기압 룸에어 시 $\approx 150 - 1.25(\text{PaCO}_2)$ | 폐포 수준의 이론적 산소분압 계산 |
+| **폐포 기체 방정식** | $PAO_2 = FiO_2(P_B - 47) - \frac{PaCO_2}{0.8}$ | 대기압 룸에어 시 $\approx 150 - 1.25(\text{PaCO}_2)$ | 폐포 수준의 이론적 산소분압 계산 |
 | **폐포-동맥혈 산소분압차** | $\text{A-a }\text{DO}_2 = \text{PAO}_2 - \text{PaO}_2$ | $5\sim15\ \text{mmHg}$ ($\text{Age}/4 + 4$) | 정상: 단순 저환기/고산 / 상승: V/Q 불균등, 단락, IPF |
 | **폐쇄성 폐질환 지표** | $\text{FEV}_1 / \text{FVC}$ | $\ge 0.70$ ($70\%$) | $< 0.70$ 시 폐쇄성 환기장애 (COPD, 천식) |
-| **생리적 사강 비율 (Bohr)** | $\frac{V_D}{V_T} = \frac{\text{PaCO}_2 - P_{\bar{E}\text{CO}_2}}{\text{PaCO}_2}$ | $0.20\sim0.35$ (약 1/3) | 폐색전증이나 기계환기 시 사강 비율 급증 |
-| **폐혈관 저항 (PVR)** | $\text{PVR} = \frac{\text{MPAP} - \text{PCWP}}{\text{Cardiac Output}} \times 80$ | $< 240\ \text{dynes}\cdot\text{sec}\cdot\text{cm}^{-5}$ ($< 3\ \text{Wood units}$) | 폐동맥 고혈압 진단 기준 ($\ge 3\ \text{Wood units}$) |
+| **생리적 사강 비율 (Bohr)** | $\frac{V_D}{V_T} = \frac{PaCO_2 - P_{\bar{E}CO_2}}{PaCO_2}$ | $0.20\sim0.35$ (약 1/3) | 폐색전증이나 기계환기 시 사강 비율 급증 |
+| **폐혈관 저항 (PVR)** | $PVR = \frac{MPAP - PCWP}{Cardiac\ Output} \times 80$ | $< 240\ dynes\cdot sec\cdot cm^{-5}$ ($< 3$ Wood units) | 폐동맥 고혈압 진단 기준 ($\ge 3\ \text{Wood units}$) |
 | **대사성 산증 보상 공식** | $\text{Expected PaCO}_2 = 1.5[\text{HCO}_3^-] + 8 \pm 2$ | 환자 측정치와 비교 | 윈터스 공식: 복합 산염기 장애 감별 |
+* **표준 계산 공식 상세 (LaTeX 원문)**:
+  * **폐포 기체 방정식**: $\text{PAO}_2 = \text{FiO}_2(P_{\text{B}} - 47) - \frac{\text{PaCO}_2}{0.8}$
+  * **생리적 사강 비율 (Bohr)**: $\frac{V_D}{V_T} = \frac{\text{PaCO}_2 - P_{\bar{E}\text{CO}_2}}{\text{PaCO}_2}$
+  * **폐혈관 저항 (PVR)**: $\text{PVR} = \frac{\text{MPAP} - \text{PCWP}}{\text{Cardiac Output}} \times 80$
+  * **정상 기준치 (PVR)**: $< 240\ \text{dynes}\cdot\text{sec}\cdot\text{cm}^{-5}$ ($< 3\ \text{Wood units}$)
 
 ---
 
