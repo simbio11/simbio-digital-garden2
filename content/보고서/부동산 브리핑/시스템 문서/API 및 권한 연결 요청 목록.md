@@ -10,7 +10,7 @@ tags:
 
 > [!info] 문서 목적
 > 2026-09-05 Simbio 지시: "지금 부동산 브리핑이랑 개원 리서치 할 때 필요한 API나 권한 전부 요구해, 다 연결시켜줄게"
-> 아래 표의 **🟡 신청 필요** 항목을 하나씩 연결해 주시면, 비비가 키를 `C:\Simbio\00. 봇 운영 시스템\프로젝트\공공데이터 API\.env`에 추가하고 fetch 스크립트를 만들어 브리핑/리서치에 자동 반영합니다.
+> 아래 표의 **🟡 신청 필요** 항목을 하나씩 연결해 주시면, 비비가 키를 `C:\Users\cmksc\workspace\credentials\공공데이터_API.env`에 추가하고 fetch 스크립트를 만들어 브리핑/리서치에 자동 반영합니다.
 > **⚠️ 크롤링 항목(네이버 부동산·대법원 경매·아실)은 공식 API가 없어 이용약관·법적 리스크 확인이 필요** — 연결 전 Simbio 의사 결정 요청.
 
 ---
@@ -53,7 +53,7 @@ tags:
 | 항목 | 상태 |
 |---|---|
 | 공공데이터포털 SERVICE_KEY (국토부 실거래·상가) | ✅ 보유 — `프로젝트/공공데이터 API/.env` |
-| **신규 키 저장 위치** | `C:\Simbio\00. 봇 운영 시스템\프로젝트\공공데이터 API\.env`에 `ECOS_KEY=`, `RONE_KEY=`, `KOSIS_KEY=`, `SEOUL_KEY=`, `HIRA_KEY=`, `LOCALDATA_KEY=`, `NAVER_CLIENT_ID=`, `NAVER_CLIENT_SECRET=` 추가 예정 |
+| **신규 키 저장 위치** | `C:\Users\cmksc\workspace\credentials\공공데이터_API.env`에 `ECOS_KEY=`, `RONE_KEY=`, `KOSIS_KEY=`, `SEOUL_KEY=`, `HIRA_KEY=`, `LOCALDATA_KEY=`, `NAVER_CLIENT_ID=`, `NAVER_CLIENT_SECRET=` 추가 예정 |
 | 업로드(구글 드라이브)·디스코드 전송 | ✅ 보유 |
 | 크롤링 2건(네이버 부동산 #10/#13, 대법원 경매 #9) | ❌ 약관·법적 검토 → **Simbio 결정 필요** (승인 시 '속도 제한·최소 요청' 방식으로 설계) |
 
@@ -70,7 +70,7 @@ tags:
 
 ## ✍️ 키 등록 단계별 가이드 (2026-09-05 — 하나씩 바로 하실 수 있게)
 
-> **키 받으면**: 이 채팅에 `ECOS_KEY=xxxx`처럼 보내주세요 → 비비가 `.env`에 넣고 즉시 호출 테스트까지 해드립니다. (직접 넣고 싶으시면 `C:\Simbio\00. 봇 운영 시스템\프로젝트\공공데이터 API\.env`에 추가)
+> **키 받으면**: 이 채팅에 `ECOS_KEY=xxxx`처럼 보내주세요 → 비비가 `.env`에 넣고 즉시 호출 테스트까지 해드립니다. (직접 넣고 싶으시면 `C:\Users\cmksc\workspace\credentials\공공데이터_API.env`에 추가)
 
 | 순서 | API | 어디서 | 진행 방법 | 소요/승인 |
 |---|---|---|---|---|
