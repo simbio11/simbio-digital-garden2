@@ -1,0 +1,69 @@
+---
+title: 시각아날로그척도(VAS)
+created: 2026-09-28
+updated: 2026-09-28
+tags:
+  - 이론
+  - 개념사전
+  - 통증평가
+  - PROM
+  - 임상시험
+출처: PMID 6226917
+aliases:
+  - VAS
+  - Visual Analogue Scale
+  - 시각통증척도
+  - 시각아날로그척도
+  - 통증 VAS
+  - 100 mm VAS
+type: 의학개념
+category: 평가도구
+---
+
+# 시각아날로그척도 (VAS, Visual Analogue Scale)
+
+> **핵심 3줄 요약 (Key Summary)**:
+> 🔬 100 mm 직선의 한쪽 끝을 '통증 없음', 다른 쪽 끝을 '상상 가능한 최악의 통증'으로 두고 환자가 현재 통증 위치를 직접 표시하게 하는 연속형 통증 강도 척도 — 자를 대고 mm 단위로 읽는다
+> 🩺 0~100 mm 연속변수라 통계 검정력이 좋고 변화 감지 민감도가 높아 임상시험의 1차 평가변수로 널리 쓰인다 — 만성 근골격계 통증에서 10~20 mm(또는 약 30%) 감소를 최소 중요 차이 범위로 보지만 시험마다 사전 정의가 다르다
+> ⚠️ 시각·운동 능력과 언어 이해에 의존하므로 고령·시력 저하·인지 저하 환자에서는 [[NPRS]]가 더 실용적이다
+
+## 목적·구성
+- 목적: 통증 강도를 연속량으로 정량화해 치료 전후 변화와 중재 간 차이를 비교한다
+- 구성: 길이 100 mm(10 cm)의 수평선. 왼쪽 끝 '통증 없음', 오른쪽 끝 '상상 가능한 최악의 통증'. 환자가 선 위에 표시하면 시술자가 자로 mm를 읽는다(0~100)
+- 변형: 수직선 버전, 색·얼굴 표정을 더한 시각척도(고령·소아용), 0~10으로 반올림해 쓰는 VAS-NRS 혼합형. 통증 외에 불안·어지럼·피로·소양감에도 같은 형식을 적용한다
+- 측정 시점 정의가 필수다 — '현재', '지난 24시간 평균', '지난 1주 평균' 중 무엇인지 명시해야 하고, 시험 간 비교 시 같은 정의인지 확인한다
+- 무작위 시험에서는 기저 수준을 맞추기 위해 **기저보정(baseline-adjusted)** 평균값으로 보고하는 경우가 많다
+
+## 채점·해석
+- 점수가 높을수록 통증이 크다. 연속변수이므로 평균±표준편차로 보고할 수 있다(비모수 분포라면 중앙값·IQR 병기)
+- 최소 임상적 중요 차이(MCID): 만성 근골격계 통증에서 통상 10~20 mm 또는 기저 대비 약 30% 감소를 기준선으로 인용한다. Salaffi 등은 11점 [[NPRS]]에서 약 2점(통증 감소) 규모를 제시했고, 무릎 골관절염 시험에서는 18 mm를 사전 정의 임상적 유의 기준으로 쓴 사례가 있다 → [[MCID]]
+- 해석 주의: 통증 강도 축만 잡는다. 기능(PROM)·심리(운동공포·파국화)와 함께 3축으로 읽어야 한다 → [[WOMAC]] · [[운동공포]]
+- 바닥·천장 효과: 0 mm 또는 100 mm 부근에서는 변화를 구별하지 못한다
+
+## 임상 사용·한계
+- 진료실 활용: 치료 전·후 같은 시점 정의로 반복 측정하고, 기능 지표와 함께 기록한다. 시험 결과를 환자에게 옮길 때는 "평균 20 mm 감소"를 '10점 만점에 2점' 언어로 바꿔 설명한다
+- 한계
+  - 시각·운동 능력에 의존 — 시력 저하·손 떨림·인지 저하 환자에서 오차가 커진다(이 경우 [[NPRS]] 사용)
+  - 주관적 보고 — 우울·불안·기대·문화적 표현 방식의 영향을 받는다
+  - mm 단위 측정의 시술자 변이 — 표시점-눈금 거리 측정을 일관되게 한다
+- [[NPRS]]와의 관계: 두 도구의 상관은 높지만 VAS는 연속형·시각 의존, NPRS는 이산형·언어 의존이다. 한 시험 안에서 서로 다른 도구를 섞어 쓰면 결과를 직접 비교할 수 없다
+
+## 논문 연결
+- 2026-09-28 심층리뷰 1번(만성 요통 맥동식 건식부항 3군 RCT, BMC Complement Altern Med 2018;18(1):115, [PMID: 29609566](https://pubmed.ncbi.nlm.nih.gov/29609566/)): **기저보정 VAS(0~100 mm)가 1차 평가변수** — 4주 강한 맥동식 34.9 mm(28.7~41.2)·최소부항 40.4 mm(34.2~46.7)·대조군 56.1 mm(49.8~62.4). 강한 맥동식 vs 대조 −21.2 mm(12.2~30.1, P<0.001), 12주 −15.1 mm(P=0.014). **군간 차 약 16~21 mm는 위 MCID 범위(10~20 mm)의 상한에 걸치는 크기**다 → [[부항]] · [[요통]]
+- 2026-09-24 심층리뷰 2번(ATLAS 경구 보충제 RCT, Osteoarthritis Cartilage 2026;34(10):1515-1524, [PMID: 42331134](https://pubmed.ncbi.nlm.nih.gov/42331134/)): 무릎 골관절염에서 **기저 VAS ≥40/100**을 포함 기준으로, **18 mm를 사전 정의 임상적 유의 기준**으로 사용 — 보충제 20.1 mm 대 위약 20.3 mm 감소로 군간차 0.16 mm에 그쳤다(임상적 유의 기준 배제)
+- 관련: [[2026-09-28_근골격계-척추관절_심층리뷰]] 1번 · [[2026-09-24_통합의학약리학_심층리뷰]] 2번
+
+## 출처
+- Price DD, McGrath PA, Rafii A, Buckingham B. The validation of visual analogue scales as ratio scale measures for chronic and experimental pain. Pain. 1983;17(1):45-56. [PMID: 6226917](https://pubmed.ncbi.nlm.nih.gov/6226917/)
+  - [연구 요약] 만성 통증과 실험적 통증에서 VAS가 비율척도(ratio scale)로 기능함을 검증한 고전 연구 — 치료 전후 변화율 해석의 근거가 된다
+- Salaffi F, Stancati A, Silvestri CA, Ciapetti A, Grassi W. Minimal clinically important changes in chronic musculoskeletal pain intensity measured on a numerical rating scale. Eur J Pain. 2004;8(4):283-291. [PMID: 15207508](https://pubmed.ncbi.nlm.nih.gov/15207508/)
+  - [연구 요약] 만성 근골격계 통증에서 통증 강도 척도의 최소 임상적 중요 변화를 산출한 연구 — 절대·상대(약 30%) 기준을 함께 제시해 임상시험의 MCID 정의에 널리 인용된다
+- Dworkin RH, et al. Interpreting the clinical importance of group differences in chronic pain clinical trials: IMMPACT recommendations. Pain. 2009;146(3):238-244. [PMID: 19836888](https://pubmed.ncbi.nlm.nih.gov/19836888/)
+  - [연구 요약] 만성 통증 시험에서 군간 차이를 임상적으로 해석하는 원칙을 정리한 합의문 — '통계 유의'와 '임상적 중요'를 구분해 보고하도록 권고한다
+- Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection. Med Care. 1992;30(6):473-483. [PMID: 1593914](https://pubmed.ncbi.nlm.nih.gov/1593914/)
+  - [연구 요약] 통증 VAS와 함께 삶의 질 지표를 병용 보고하는 관행의 기원이 되는 SF-36 개발 논문 → [[SF-36]]
+
+## 함께 보기
+- [[NPRS]] · [[MCID]] · [[WOMAC]] · [[부항]] · [[요통]] · [[SF-36]] · [[압통역치(PPT)]] · [[GRoC]] · [[운동공포]]
+
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): VAS, 시각통증척도, 100mm -->
