@@ -28,10 +28,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,234</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">102,953</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+30</span></div>
-<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,596</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,239</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">103,017</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+35</span></div>
+<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,598</span></div>
 </div>
 <!-- SC:STATS:END -->
 
@@ -52,10 +52,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:GRID:START -->
 <div class="sc-grid">
 <a class="sc-card" href="0.-기본의학-공부/00_기본의학_MOC" style="--c:var(--cat-exam)" data-files="22" data-folders="7" data-tags="76"><span class="sc-ico">🩺</span><span class="sc-txt"><span class="sc-name">기본의학</span><span class="sc-sub"><span class="sc-desc">레드플래그 · 응급 감별 · 소화기 · 신경계</span><span class="sc-count">📄 22 · 📁 7 · 🏷️ 76</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="568" data-folders="45" data-tags="185"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 568 · 📁 45 · 🏷️ 185</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1335" data-folders="50" data-tags="611"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1335 · 📁 50 · 🏷️ 611</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2676" data-folders="165" data-tags="691"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2676 · 📁 165 · 🏷️ 691</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="293" data-folders="69" data-tags="61"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 293 · 📁 69 · 🏷️ 61</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="569" data-folders="45" data-tags="185"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 569 · 📁 45 · 🏷️ 185</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1336" data-folders="50" data-tags="612"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1336 · 📁 50 · 🏷️ 612</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2677" data-folders="165" data-tags="692"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2677 · 📁 165 · 🏷️ 692</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="295" data-folders="69" data-tags="61"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 295 · 📁 69 · 🏷️ 61</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="181" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 181 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[아이히호프 검사|아이히호프 검사]]<span class="sc-recent-d">2026-10-03</span>
+- [[귤홍|귤홍]]<span class="sc-recent-d">2026-10-03</span>
+- [[풋 드롭|풋 드롭]]<span class="sc-recent-d">2026-10-03</span>
+- [[부동산 브리핑-2026-10-03|지방 특집 — 지방 11곳 가격·전세가율 지도 / 세종시 딥다이브 (W5 마지막 날 · 급매 판별법 지방 교차검증)]]<span class="sc-recent-d">2026-10-03</span>
 - [[지질·당화혈색소·갑상선_만성질환선별·약물상호작용_2026-10-02|지질·당화혈색소·갑상선_만성질환선별·약물상호작용_2026-10-02]]<span class="sc-recent-d">2026-10-02</span>
 - [[에프티네주맙|에프티네주맙]]<span class="sc-recent-d">2026-10-02</span>
 - [[Sunnybrook 안면신경등급|Sunnybrook 안면신경등급]]<span class="sc-recent-d">2026-10-02</span>
 - [[부다페스트 기준|부다페스트 기준]]<span class="sc-recent-d">2026-10-02</span>
-- [[거울치료|거울치료]]<span class="sc-recent-d">2026-10-02</span>
-- [[2026-10-02_신경계통증의학_개념학습|2026-10-02_신경계통증의학_개념학습]]<span class="sc-recent-d">2026-10-02</span>
-- [[2026-10-02_신경계통증의학_심층리뷰|2026-10-02_신경계통증의학_심층리뷰]]<span class="sc-recent-d">2026-10-02</span>
-- [[부동산 브리핑-2026-10-02|수도권 자가 마련 가격 지도 — 경기 서부·북부 21개 시군 전수 스냅샷과 W5 급매 판별법 주간 종합]]<span class="sc-recent-d">2026-10-02</span>
 
 </div>
 <!-- SC:RECENT:END -->
