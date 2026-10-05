@@ -1,0 +1,81 @@
+properties:
+  file.name:
+    displayName: 책
+  category:
+    displayName: 분류
+  status:
+    displayName: 상태
+  theme:
+    displayName: 주제
+  file.mtime:
+    displayName: 수정일
+  file.size:
+    displayName: 크기(B)
+views:
+  - type: table
+    name: 📊 분류 현황
+    filters:
+      and:
+        - file.inFolder("_의학/05_독서·논문/독서")
+        - file.hasTag("책요약")
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - status
+  - type: table
+    name: 📖 전체 책 목록
+    filters:
+      and:
+        - file.inFolder("_의학/05_독서·논문/독서")
+        - file.hasTag("책요약")
+    order:
+      - file.name
+      - category
+      - status
+      - theme
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: 📗 정리대기
+    filters:
+      and:
+        - file.inFolder("_의학/05_독서·논문/독서")
+        - status == "정리대기"
+    order:
+      - file.name
+      - category
+      - theme
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: 📘 완독
+    filters:
+      and:
+        - file.inFolder("_의학/05_독서·논문/독서")
+        - status == "완독"
+    order:
+      - file.name
+      - category
+      - theme
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: ⚠️ 정리 필요
+    filters:
+      and:
+        - file.inFolder("_의학/05_독서·논문/독서")
+        - file.ext == "md"
+        - file.size < 100
+        - file.name != "📚 독서 대시보드"
+    order:
+      - file.name
+      - file.size
+    sort:
+      - property: file.name
+        direction: ASC
