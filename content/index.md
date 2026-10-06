@@ -28,10 +28,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,302</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">105,637</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+99</span></div>
-<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,643</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,314</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">107,812</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+111</span></div>
+<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,656</span></div>
 </div>
 <!-- SC:STATS:END -->
 
@@ -53,10 +53,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <div class="sc-grid">
 <a class="sc-card" href="0.-기본의학-공부/00_기본의학_MOC" style="--c:var(--cat-exam)" data-files="25" data-folders="8" data-tags="90"><span class="sc-ico">🩺</span><span class="sc-txt"><span class="sc-name">기본의학</span><span class="sc-sub"><span class="sc-desc">레드플래그 · 응급 감별 · 소화기 · 신경계</span><span class="sc-count">📄 25 · 📁 8 · 🏷️ 90</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="570" data-folders="45" data-tags="185"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 570 · 📁 45 · 🏷️ 185</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1345" data-folders="50" data-tags="621"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1345 · 📁 50 · 🏷️ 621</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2703" data-folders="166" data-tags="710"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2703 · 📁 166 · 🏷️ 710</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="313" data-folders="73" data-tags="73"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 313 · 📁 73 · 🏷️ 73</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="187" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 187 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1346" data-folders="50" data-tags="621"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1346 · 📁 50 · 🏷️ 621</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2710" data-folders="166" data-tags="725"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2710 · 📁 166 · 🏷️ 725</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="315" data-folders="74" data-tags="73"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 315 · 📁 74 · 🏷️ 73</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="189" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 189 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
 
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
-- [[부동산 브리핑-2026-10-06|수도권 자가 마련 가격 지도 — 서울 서남권 7구 + 동작구 딥다이브 / W6 입주 물량 파도 타기]]<span class="sc-recent-d">2026-10-06</span>
-- [[개원 리서치-2026-10-06|개원 리서치-2026-10-06]]<span class="sc-recent-d">2026-10-06</span>
-- [[김상욱 교수의 경고 AI 시대일수록 변하지 않는 본질에 집중하라 문자 문화의 위기와 '좌절한 엘리트'가 만드는 문명의 위험|김상욱 교수의 경고 AI 시대일수록 변하지 않는 본질에 집중하라 문자 문화의 위기와 '좌절한 엘리트'가 만드는 문명의 위험]]<span class="sc-recent-d">2026-10-06</span>
-- [[인지심리학 '진심 어린 개소리'의 메커니즘과 나르시시스트·감정 배설자로부터 나를 지키는 관계의 기술|인지심리학 '진심 어린 개소리'의 메커니즘과 나르시시스트·감정 배설자로부터 나를 지키는 관계의 기술]]<span class="sc-recent-d">2026-10-06</span>
-- [[2026-10-06-YouTube-Digest|2026-10-06 YouTube Daily Productivity Digest]]<span class="sc-recent-d">2026-10-06</span>
-- [[주식 브리핑-2026-10-06|주식 브리핑-2026-10-06]]<span class="sc-recent-d">2026-10-06</span>
-- [[클리닉 응급대응_아니필락시스·저혈당·뇌졸중·심정지_2026-10-05|클리닉 응급대응_아니필락시스·저혈당·뇌졸중·심정지_2026-10-05]]<span class="sc-recent-d">2026-10-05</span>
-- [[요수신경근|요수신경근]]<span class="sc-recent-d">2026-10-05</span>
+- [[베타메타손|베타메타손]]<span class="sc-recent-d">2026-10-06</span>
+- [[발 자세 지수|발 자세 지수]]<span class="sc-recent-d">2026-10-06</span>
+- [[FFI|FFI]]<span class="sc-recent-d">2026-10-06</span>
+- [[PEMF|PEMF]]<span class="sc-recent-d">2026-10-06</span>
+- [[Rathleff 프로토콜|Rathleff 프로토콜]]<span class="sc-recent-d">2026-10-06</span>
+- [[도침|도침]]<span class="sc-recent-d">2026-10-06</span>
+- [[숏풋 운동|숏풋 운동]]<span class="sc-recent-d">2026-10-06</span>
+- [[저염색 테이핑|저염색 테이핑]]<span class="sc-recent-d">2026-10-06</span>
 
 </div>
 <!-- SC:RECENT:END -->
