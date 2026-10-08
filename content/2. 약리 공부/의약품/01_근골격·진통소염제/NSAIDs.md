@@ -12,6 +12,7 @@ aliases:
   - NSAID
   - NSAIDs
   - 비스테로이드성 소염진통제
+  - 비스테로이드성 항염증제
   - Nonsteroidal Anti-inflammatory Drugs
 ---
 
