@@ -118,3 +118,14 @@ Nrf2가 핵 내 ARE 염기서열(5'-TGACnnnGC-3')에 결합하면 세포 보호 
 2. Wardyn JD, Ponsford AH, Sanderson CM. Dissecting molecular cross-talk between Nrf2 and NF-κB pathways. *Biochem Soc Trans*. 2015;43(4):621-626. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26551702/)
 3. Kumar H, Kim IS, More SV, et al. Natural product-derived pharmacological modulators of Nrf2/ARE pathway for chronic diseases. *Natural Product Reports*. 2014;31(1):109-139. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24292194/)
 4. Yadav SK, Soin D, Ito K, Dhib-Jalbut S. (2019). Insight into the mechanism of action of dimethyl fumarate in multiple sclerosis. *Journal of Molecular Medicine*, 97:463-472. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30820593/)
+
+---
+
+## 📎 개념 학습 보충 (2026-10-10 논문 연계)
+
+### 홍삼의 항산화 축 — Nrf2/ARE 활성으로 산화 LDL·MDA 감소 해석 (2026-10-10, [PMID: 42395024](https://pubmed.ncbi.nlm.nih.gov/42395024/))
+- T2DM 부가 RCT에서 [[홍삼]]군은 산화 LDL(-5.645, p=0.013)·MDA(-0.571, p=0.031)가 위약보다 유의하게 낮았다
+- 이는 [[진세노사이드]]·마이야르 반응 산물(MRPs)이 **Keap1-Nrf2-ARE 경로를 활성화해 HO-1·NQO1·GSH 합성 효소군을 유도**한다는 기전으로 설명된다(전임상·기계론 수준)
+- **실전 활용**: 항산화를 목표로 하는 본초 상담은 '여러 성분을 Keap1-Nrf2-ARE 경로로 묶어' 설명하면 통합 이해가 쉽다(§8). 단 일부 암세포에서 Nrf2 과활성이 항암제 저항성과 연관되므로 대상군을 구분한다
+- 관련: [[홍삼]] · [[진세노사이드]] · [[지질과산화]] · [[산화 스트레스]] · [[이상지질혈증]]
+- 관련 리뷰: [[2026-10-10_대사노인질환_심층리뷰]] 1번
