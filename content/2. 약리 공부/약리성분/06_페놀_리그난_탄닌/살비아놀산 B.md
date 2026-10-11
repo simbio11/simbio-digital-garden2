@@ -1,7 +1,7 @@
 ---
 title: 살비아놀산 B
 created: 2026-09-21
-updated: 2026-09-25
+updated: 2026-10-11
 tags:
   - 약리
   - 약리성분
@@ -10,7 +10,7 @@ tags:
   - 활혈거어
   - 항섬유화
   - 심혈관보호
-출처: "PMID: 42331637"
+출처: PubChem CID 6451084 · PMID 24006304, 31678285, 12174378, 38993621, 19555749, 16291709
 aliases:
   - Salvianolic acid B
   - Sal B

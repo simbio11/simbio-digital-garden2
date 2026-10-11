@@ -1,16 +1,14 @@
 ---
 title: hyperforin
 created: 2026-09-03
-updated: 2026-09-24
+updated: 2026-10-11
 tags:
   - 약리
-  - 개념사전
+  - 약리성분
   - PXR
-출처: PMID 36224261
+출처: PubChem CID 441298 · PMID 39152679, 36224261, 33657393, 36442576, 16477470, 16341856
 aliases:
   - Hyperforin
-type: 의학개념
-category: 약리성분
 ---
 # hyperforin (하이퍼포린)
 
@@ -22,11 +20,6 @@ category: 약리성분
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
 > <iframe src="https://molecule-viewer-rho.vercel.app/?cid=441298" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
-
-🔬 **분자 구조** (Wikimedia Commons, Public Domain)
-
-![[Hyperforin_구조.png|480]]
-> [그림 1] Hyperforin(C₃₅H₅₂O₄) 분자 구조 — 출처: Wikimedia Commons
 
 | 항목 | 내용 |
 | :--- | :--- |
@@ -67,8 +60,8 @@ graph TD
 ```
 
 - **PXR-CYP3A4/P-gp 유도**: hyperforin은 핵수용체 PXR을 강력히 활성화하여 CYP3A4·P-gp(ABCB1)의 전사를 유도, 병용 약물의 대사·유출을 증가시켜 혈중 농도를 낮춥니다. 유도 효과는 용량·함량 의존적입니다.
-- **TRPC6 채널을 통한 항우울 작용**: hyperforin의 항우울 작용은 TRPC6 채널 특이 결합 모티프 활성화에 의존하며, TRPC6 결손 마우스에서 불안·우울 표현형과 해마 CA1 흥분성 저하가 나타납니다. PXR을 활성화하지 않는 유사체 Hyp13이 TRPC6 의존 항불안·항우울 효과를 재현하여, 상호작용 없는 차세대 항우울제 설계의 분자적 기반이 되고 있습니다 (2022, *Molecular Psychiatry*, PMID 36224261).
-- **Dlat 결합을 통한 대사 촉진**: LiP-SMap 및 도킹 연구로 Dlat(dihydrolipoamide S-acetyltransferase)이 hyperforin의 직접 분자 표적으로 규명되었으며, Dlat-AMPK-PGC-1α-Ucp1 경로로 지방조직 발열(browning)을 촉진해 비만을 억제하는 것으로 보고되어 있습니다 (2021, *Cell Metabolism*, PMID 33657393).
+- **TRPC6 채널을 통한 항우울 작용**: hyperforin의 항우울 작용은 TRPC6 채널 특이 결합 모티프 활성화에 의존하며, TRPC6 결손 마우스에서 불안·우울 표현형과 해마 CA1 흥분성 저하가 나타납니다. PXR을 활성화하지 않는 유사체 Hyp13이 TRPC6 의존 항불안·항우울 효과를 재현하여, 상호작용 없는 차세대 항우울제 설계의 분자적 기반이 되고 있습니다(참고문헌 2).
+- **Dlat 결합을 통한 대사 촉진**: LiP-SMap 및 도킹 연구로 Dlat(dihydrolipoamide S-acetyltransferase)이 hyperforin의 직접 분자 표적으로 규명되었으며, Dlat-AMPK-PGC-1α-Ucp1 경로로 지방조직 발열(browning)을 촉진해 비만을 억제하는 것으로 보고되어 있습니다(참고문헌 3).
 
 ---
 
@@ -85,7 +78,7 @@ graph TD
 
 - **경도~중등도 우울증**: 세로토닌·도파민·노르에피네프린 재흡수 억제 및 TRPC6 경로를 통한 항우울 효과가 다수 보고되어 있습니다.
 - **비만·대사증후군(전임상)**: Dlat-AMPK-PGC-1α-Ucp1 경로를 통한 지방조직 갈변화(browning) 및 열발생 촉진 효과가 동물모델에서 보고되어, 향후 대사질환 치료 후보로 연구되고 있습니다.
-- **항종양·항치매·항당뇨 활성**: 다면 약리 총설에서 항우울 외에도 이러한 활성과 추출·합성·제형 기술이 종합 정리된 바 있습니다 (2022, *Phytochemistry*, PMID 36442576).
+- **항종양·항치매·항당뇨 활성**: 다면 약리 총설에서 항우울 외에도 이러한 활성과 추출·합성·제형 기술이 종합 정리된 바 있습니다(참고문헌 4).
 
 ---
 
@@ -119,12 +112,13 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. Hohmann N, Friedrichs AS, Burhenne J, Blank A, Mikus G, Haefeli WE. (2024). Dose-dependent induction of CYP3A activity by St. John's wort alone and in combination with rifampin. *Clinical and Translational Science*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39152679/)
-2. (2022). Analysis of hyperforin (St. John's wort) action at TRPC6 channel leads to the development of a new class of antidepressant drugs. *Molecular Psychiatry*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36224261/)
-3. (2021). The phytochemical hyperforin triggers thermogenesis in adipose tissue via a Dlat-AMPK signaling axis to curb obesity. *Cell Metabolism*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33657393/)
-4. (2022). Hyperforin: A natural lead compound with multiple pharmacological activities. *Phytochemistry*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36442576/)
-5. Madabushi R, Frank B, Drewelow B, Derendorf H, Butterweck V. (2006). Hyperforin in St. John's wort drug interactions. *European Journal of Clinical Pharmacology*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16477470/)
-6. (2006). The extent of induction of CYP3A by St. John's wort varies among products and is linked to hyperforin dose. *European Journal of Clinical Pharmacology*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16341856/)
+1. Hohmann N, Friedrichs AS, Burhenne J, Blank A, Mikus G, Haefeli WE. (2024). Dose-dependent induction of CYP3A activity by St. John's wort alone and in combination with rifampin. *Clinical and Translational Science*. PMID: [39152679](https://pubmed.ncbi.nlm.nih.gov/39152679/)
+2. El Hamdaoui Y, Zheng F, Fritz N, Ye L, Tran MA, Schwickert K, et al. (2022). Analysis of hyperforin (St. John's wort) action at TRPC6 channel leads to the development of a new class of antidepressant drugs. *Molecular Psychiatry*. PMID: [36224261](https://pubmed.ncbi.nlm.nih.gov/36224261/)
+3. Chen S, Liu X, Peng C, Tan C, Sun H, Liu H, et al. (2021). The phytochemical hyperforin triggers thermogenesis in adipose tissue via a Dlat-AMPK signaling axis to curb obesity. *Cell Metabolism*. PMID: [33657393](https://pubmed.ncbi.nlm.nih.gov/33657393/)
+4. Li XX, Yan Y, Zhang J, Ding K, Xia CY, Pan XG, et al. (2023). Hyperforin: A natural lead compound with multiple pharmacological activities. *Phytochemistry*. PMID: [36442576](https://pubmed.ncbi.nlm.nih.gov/36442576/)
+   - **[재검증]**: 원문 연도("2022")는 esummary 실제 발행연도("2023 Feb")와 달라 정정.
+5. Madabushi R, Frank B, Drewelow B, Derendorf H, Butterweck V. (2006). Hyperforin in St. John's wort drug interactions. *European Journal of Clinical Pharmacology*. PMID: [16477470](https://pubmed.ncbi.nlm.nih.gov/16477470/)
+6. Mueller SC, Majcher-Peszynska J, Uehleke B, Klammt S, Mundkowski RG, Miekisch W, et al. (2006). The extent of induction of CYP3A by St. John's wort varies among products and is linked to hyperforin dose. *European Journal of Clinical Pharmacology*. PMID: [16341856](https://pubmed.ncbi.nlm.nih.gov/16341856/)
 
 ## 🔗 함께 보기
 - [[세인트존스워트]] · [[CYP3A4]] · [[콜히친]]

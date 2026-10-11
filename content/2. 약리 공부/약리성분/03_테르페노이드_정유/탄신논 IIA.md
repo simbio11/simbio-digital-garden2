@@ -1,7 +1,7 @@
 ---
 title: 탄신논 IIA (Tanshinone IIA)
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-10-11
 tags:
   - 약리
   - 약리성분
@@ -10,8 +10,9 @@ tags:
   - 활혈거어
   - eNOS
   - 항염증
-출처: "https://molecule-viewer-rho.vercel.app/?cid=164676\""
-category: 약리성분
+출처: PubChem CID 164676 · PMID 21282198, 27855363, 24157079
+aliases:
+  - Tanshinone IIA
 ---
 
 # 탄신논 IIA (Tanshinone IIA)
@@ -93,21 +94,19 @@ category: 약리성분
  [혈관 확장 / 저항 감소] [심근 아폽토시스 억제]     [죽상동맥경화반 안정화]
 ```
 
-### ① 심근 허혈-재관류 손상 보호 및 항부정맥
-- **미토콘드리아 보호 및 아폽토시스 차단**: 허혈-재관류 시 미토콘드리아 투과성 전이공(mPTP)의 과도한 개방을 막아 미토콘드리아 막전위($\Delta\Psi_m$)를 보존하고 시토크롬 c 방출을 차단한다.
-- **Bcl-2/Bax 단백 발현비 정상화**: 카스파제-3 및 카스파제-9 활성화를 억제하여 심근경색 부위의 심근세포 괴사와 세포자멸사를 현저히 축소시킨다.
-- **L-type $\text{Ca}^{2+}$ 통로 억제**: 심근세포 내 과도한 칼슘 유입(Calcium overload)을 방지하여 심실성 부정맥 발생을 경감시킨다.
+### ① 심근 허혈 보호(다중 경로 NO 생성)
+- 살비아놀산 B와 함께 다중 경로를 통한 NO 생성을 매개해 마우스 심근 허혈 손상을 경감시킨다(참고문헌 1).
+- ⚠️ 미토콘드리아 투과성 전이공(mPTP) 억제·Bcl-2/Bax 정상화·L-type Ca²⁺ 통로 억제 등 세부 분자 기전은 이번 재검증에서 원저 문헌을 직접 확인하지 못했다. 근거가 확인되기 전까지 임상 판단 근거로 쓰지 않는다.
 
-### ② 혈관 내피 보호 및 혈관 확장 작용
-- **eNOS(내피세포 산화질소 합성효소) 인산화 촉진**: PI3K/Akt-eNOS 경로를 매개로 혈관 내피세포의 NO 생성을 촉진하여 관상동맥 및 뇌혈관 평활근을 이완시킨다.
-- **혈관 리모델링 억제**: 혈관 평활근 세포(VSMC)의 이상 증식과 이동을 차단하여 스텐트 삽입 후 재협착 및 고혈압성 혈관 비후를 방지한다.
+### ② 혈관 내피 보호 및 혈관 확장 작용 ⚠️
+- PI3K/Akt-eNOS 경로를 매개한 NO 생성 촉진, 혈관 평활근세포 리모델링 억제 서술이 있었으나 이를 직접 검증한 원저 논문을 확인하지 못했다.
 
 ### ③ 강력한 항염증 및 항죽상경화증
-- [[NF-κB]] 및 MAPK 경로 억제: 대식세포 및 내피세포에서 IκB$\alpha$ 분해를 막아 핵내 전사인자 활성화를 억제한다.
-- **세포 부착 인자 억제**: TNF-$\alpha$ 자극에 의한 [[VCAM-1]], [[ICAM-1]], MCP-1 발현을 차단하여 단핵구의 내피 하층 침윤과 거품세포(Foam cell) 형성을 원천 억제한다.
+- TNF-α 자극에 의한 [[VCAM-1]], [[ICAM-1]] 발현을 NF-κB 활성화 차단을 통해 억제해 내피전구세포를 보호한다(참고문헌 2).
+- TNF-α 유도 VCAM-1·ICAM-1·CX3CL1 발현 억제를 통해 항죽상동맥경화 효과를 나타낸다(참고문헌 3).
 
-### ④ 항혈전 및 혈소판 응집 억제
-- 트롬복산 $\text{A}_2$($\text{TXA}_2$) 합성을 억제하고 프로스타사이클린($\text{PGI}_2$) 경로를 보존하여 혈소판 활성화 및 미세혈전 형성을 막는다.
+### ④ 항혈전 및 혈소판 응집 억제 ⚠️
+- 트롬복산 A₂(TXA₂) 억제·프로스타사이클린(PGI₂) 경로 보존을 통한 항혈전 작용 서술이 있었으나 직접 검증한 원저 논문을 확인하지 못했다.
 
 ---
 
@@ -120,12 +119,12 @@ category: 약리성분
 
 ## 5. 주요 질환별 약리 효능 & 분자 기전 (Therapeutic Efficacy)
 
-## _의학/04_임상 적응증 및 주의사항
-
-- **주요 임상 적응증**:
-  - 관상동맥 질환(안정형·불안정형 협심증, 심근경색 후 재활).
-  - 뇌경색 급성기 및 만성기 후유증(허혈성 뇌혈관 질환).
-  - 고지혈증 및 죽상동맥경화증, 당뇨병성 미세혈관 합병증.
+### 1) 심근 허혈 보호
+* 살비아놀산 B와 함께 다중 경로를 통한 NO 생성을 매개해 마우스 심근 허혈 손상을 경감시킨다(참고문헌 1).
+### 2) 혈관내피 보호 및 항죽상동맥경화
+* TNF-α 유도 VCAM-1·ICAM-1 발현을 NF-κB 활성화 차단을 통해 억제한다(참고문헌 2). TNF-α 유도 VCAM-1·ICAM-1·CX3CL1 발현 억제를 통한 항죽상경화 효과도 확인되었다(참고문헌 3).
+### 3) 주요 임상 적응증(전통·현대 의학 연계)
+* 관상동맥 질환(안정형·불안정형 협심증, 심근경색 후 재활), 뇌경색 급성기 및 만성기 후유증(허혈성 뇌혈관 질환), 고지혈증 및 죽상동맥경화증, 당뇨병성 미세혈관 합병증.
 
 ---
 
@@ -161,11 +160,14 @@ category: 약리성분
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-- Gao S, et al. Tanshinone IIA: A review of its biological activities and therapeutic potential in cardiovascular diseases. *Front Pharmacol*. 2012;3:197.
-  - [연구 요약] 탄신논 IIA의 eNOS 활성화, 미토콘드리아 보호, 심근세포 아폽토시스 억제 등 심혈관계 분자 기전의 포괄적 리뷰.
-- Xu S, Liu P. Tanshinone II-A: new perspectives for old remedies. *Trends Cardiovasc Med*. 2013;23(4):149-153.
-  - [연구 요약] 단삼 디테르페노이드의 혈관 내피 보호 및 동맥경화 죽상판 안정화 기전 분석.
-- Shang Q, et al. Tanshinone IIA promotes eNOS activation and attenuates vascular remodeling via PI3K/Akt pathway. *Vasc Pharmacol*. 2017;93:33-40.
-  - [연구 요약] 혈관 평활근 이상 증식 억제 및 산화질소(NO) 방출을 매개하는 탄신논 IIA의 분자 신호 전달 경로 실측 규명.
+1. Pan C, Lou L, Huo Y, Singh G, Chen M, Zhang D, Wu A, Zhao M, Wang S, Li J. (2011). Salvianolic acid B and tanshinone IIA attenuate myocardial ischemia injury in mice by NO production through multiple pathways. *Therapeutic Advances in Cardiovascular Disease*, 5(2), 99-111. PMID: [21282198](https://pubmed.ncbi.nlm.nih.gov/21282198/)
+   - **[재검증]**: 원문 서지("Gao S et al. *Front Pharmacol*. 2012;3:197")는 PubMed 조회 불가(가공 인용으로 추정) → esearch로 실제 탄신논 IIA 심근보호 논문 확인 후 교체.
+   - [연구 요약] 탄신논 IIA와 살비아놀산 B가 다중 경로의 NO 생성을 매개해 마우스 심근 허혈 손상을 경감시킴을 규명.
+2. Yang JX, Pan YY, Ge JH, Chen B, Mao W, Qiu YG, Wang XX. (2016). Tanshinone II A Attenuates TNF-α-Induced Expression of VCAM-1 and ICAM-1 in Endothelial Progenitor Cells by Blocking Activation of NF-κB. *Cellular Physiology and Biochemistry*, 40(1-2), 195-206. PMID: [27855363](https://pubmed.ncbi.nlm.nih.gov/27855363/)
+   - **[재검증]**: 원문 서지("Xu S, Liu P. *Trends Cardiovasc Med*. 2013;23(4):149-153")는 PubMed 조회 불가(가공 인용으로 추정) → esearch로 실제 내피 보호 논문 확인 후 교체.
+   - [연구 요약] 탄신논 IIA가 NF-κB 활성화 차단을 통해 내피전구세포의 TNF-α 유도 VCAM-1·ICAM-1 발현을 억제함을 규명.
+3. Chang CC, Chu CF, Wang CN, Wu HT, Bi KW, Pang JH, Huang ST. (2014). The anti-atherosclerotic effect of tanshinone IIA is associated with the inhibition of TNF-α-induced VCAM-1, ICAM-1 and CX3CL1 expression. *Phytomedicine*, 21(3), 207-216. PMID: [24157079](https://pubmed.ncbi.nlm.nih.gov/24157079/)
+   - **[재검증]**: 원문 서지("Shang Q et al. *Vasc Pharmacol*. 2017;93:33-40")는 PubMed 조회 불가(가공 인용으로 추정) → esearch로 실제 항죽상경화 논문 확인 후 교체.
+   - [연구 요약] 탄신논 IIA의 항죽상동맥경화 효과가 TNF-α 유도 VCAM-1·ICAM-1·CX3CL1 발현 억제와 관련됨을 규명.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 페난트렌퀴논, 심근보호 -->
