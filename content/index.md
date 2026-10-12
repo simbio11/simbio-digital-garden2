@@ -28,10 +28,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,246</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">118,735</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+334</span></div>
-<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,756</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,252</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">118,753</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+340</span></div>
+<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,758</span></div>
 </div>
 <!-- SC:STATS:END -->
 
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="559" data-folders="45" data-tags="185"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 559 · 📁 45 · 🏷️ 185</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1355" data-folders="50" data-tags="639"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1355 · 📁 50 · 🏷️ 639</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2601" data-folders="167" data-tags="788"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2601 · 📁 167 · 🏷️ 788</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="344" data-folders="71" data-tags="81"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 344 · 📁 71 · 🏷️ 81</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="350" data-folders="78" data-tags="83"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 350 · 📁 78 · 🏷️ 83</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="199" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 199 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-10-12|부동산 브리핑 — 서울 동남권(강남·서초·송파·강동) 스냅샷 · 강남구 딥다이브 · W7 테마 '학군·학원가 프리미엄 실측' 개시]]<span class="sc-recent-d">2026-10-12</span>
+- [[학군·학원가 프리미엄 실측-2026-10-12|학군·학원가 프리미엄 실측 — W7 주간 테마 기준선]]<span class="sc-recent-d">2026-10-12</span>
+- [[개원 리서치-2026-10-12|개원 리서치-2026-10-12]]<span class="sc-recent-d">2026-10-12</span>
+- [[서울 동작구 사당·이수_후보지카드|서울 동작구 사당·이수_후보지카드]]<span class="sc-recent-d">2026-10-12</span>
+- [[부동산 용어 노트|부동산 용어 노트]]<span class="sc-recent-d">2026-10-12</span>
+- [[주식 브리핑-2026-10-12|주식 브리핑-2026-10-12]]<span class="sc-recent-d">2026-10-12</span>
+- [[3주차_주식·매크로_주간_요약|3주차_주식·매크로_주간_요약]]<span class="sc-recent-d">2026-10-12</span>
 - [[주간복습_2026-10-11|주간복습 2026-10-11]]<span class="sc-recent-d">2026-10-11</span>
-- [[광인대|광인대]]<span class="sc-recent-d">2026-10-11</span>
-- [[히드록시사플로르옐로우 A|히드록시사플로르옐로우 A]]<span class="sc-recent-d">2026-10-11</span>
-- [[클로미펜|클로미펜]]<span class="sc-recent-d">2026-10-11</span>
-- [[행소탕|행소탕]]<span class="sc-recent-d">2026-10-11</span>
-- [[귀래(ST29)|귀래(ST29)]]<span class="sc-recent-d">2026-10-11</span>
-- [[기해(CV6)|기해(CV6)]]<span class="sc-recent-d">2026-10-11</span>
-- [[중극(CV3)|중극(CV3)]]<span class="sc-recent-d">2026-10-11</span>
 
 </div>
 <!-- SC:RECENT:END -->
