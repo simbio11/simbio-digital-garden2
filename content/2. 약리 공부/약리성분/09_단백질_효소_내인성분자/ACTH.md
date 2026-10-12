@@ -1,7 +1,7 @@
 ---
 title: ACTH
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -45,11 +45,12 @@ aliases:
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132284" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132265" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
 
 | 항목 | 상세 내용 |
 | :--- | :--- |
 | **일반명** | ACTH (Adrenocorticotropic Hormone, Corticotropin) |
+| **PubChem CID** | [16132265](https://pubchem.ncbi.nlm.nih.gov/compound/16132265) (C₂₀₇H₃₀₈N₅₆O₅₈S, MW 4541) ⚠️ 기존 노트의 CID 16132284는 베타-멜라노트로핀(β-MSH) 유도체를 가리키는 오류로 확인되어 정정했습니다. |
 | **분자 구조** | 39개 아미노산 단일 사슬 펩타이드 (생물학적 활성은 N-말단 1~24번 잔기에 집중 — 진단·치료용 합성 ACTH인 코신트로핀/Cosyntropin이 이 서열 기반) |
 | **전구체 단백질** | 프로오피오멜라노코르틴(POMC) → ACTH, α-MSH, β-엔돌핀으로 동시 분해 |
 | **분비 조절** | 촉진: 시상하부 [[CRH]], 바소프레신, 급성 스트레스 / 억제: 혈중 [[코르티솔]]에 의한 음성 되먹임 |
@@ -153,11 +154,11 @@ graph TD
 3. **StatPearls (NCBI Bookshelf)**. *Glucocorticoid Therapy and Adrenal Suppression*.
    - [NBK279156](https://www.ncbi.nlm.nih.gov/books/NBK279156/)
    - **[연구 요약]**: 외인성 글루코코르티코이드 장기 투여에 따른 HPA축 억제 기전과 안전한 감량 원칙을 정리.
-4. **Makino T. (2021)**. *Exploration for the real causative agents of licorice-induced pseudoaldosteronism*. **Journal of Natural Medicines**, 75, 275-283.
-   - [DOI: 10.1007/s11418-021-01484-3](https://doi.org/10.1007/s11418-021-01484-3)
+4. **Makino T. (2021)**. *Exploration for the real causative agents of licorice-induced pseudoaldosteronism*. **Journal of Natural Medicines**, 75, 275-283. PMID: [33481180](https://pubmed.ncbi.nlm.nih.gov/33481180/) · DOI: [10.1007/s11418-021-01484-3](https://doi.org/10.1007/s11418-021-01484-3)
    - **[연구 요약]**: 감초 대사체(18β-glycyrrhetyl-3-O-sulfate)가 11β-HSD2를 억제해 코르티솔의 미네랄로코르티코이드 유사 작용을 지속시키는 기전을 규명(IC50 0.10 µM).
-5. **Gallo-Payet N. (2016)**. *60 YEARS OF POMC: Adrenal and extra-adrenal functions of ACTH*. **Journal of Molecular Endocrinology**, 56(4), T135-T156.
-   - [DOI: 10.1530/JME-15-0257](https://doi.org/10.1530/JME-15-0257)
+5. **Gallo-Payet N. (2016)**. *60 YEARS OF POMC: Adrenal and extra-adrenal functions of ACTH*. **Journal of Molecular Endocrinology**, 56(4), T135-T156. PMID: [26793988](https://pubmed.ncbi.nlm.nih.gov/26793988/) · DOI: [10.1530/JME-15-0257](https://doi.org/10.1530/JME-15-0257)
    - **[연구 요약]**: POMC 유래 ACTH의 분자생물학적 구조, MC2R 신호전달 및 부신피질 스테로이드 합성 조절 경로 총정리.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): PubChem CID 오류(16132284→16132265, β-MSH 유도체를 가리키던 오류) 정정. References 4·5번에 PMID 신규 추가(Makino 2021, Gallo-Payet 2016 — 둘 다 esummary로 완전 일치 확인).
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 펩타이드호르몬, 스트레스반응 -->

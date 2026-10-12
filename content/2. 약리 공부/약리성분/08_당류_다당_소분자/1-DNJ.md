@@ -1,7 +1,7 @@
 ---
 title: 1-DNJ
 created: 2026-09-10
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -9,7 +9,7 @@ tags:
   - 알파글루코시다아제억제제
   - 당뇨
   - 항바이러스
-출처: "https://molecule-viewer-rho.vercel.app/?cid=29435\""
+출처: PubChem CID 29435 · PMID 8050098
 aliases:
   - 1-DNJ
   - 1-데옥시노지리마이신
@@ -151,9 +151,11 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Asano N, et al. (1994)**. *Polyhydroxylated alkaloids from Morus alba and their glycosidase inhibitory activities*. **Carbohydrate Research**, 259(2), 243-255.
-   - **[연구 요약]**: 뽕나무 잎 유래 1-DNJ의 구조 결정 및 소장 글리코시다아제 효소 억제 활성 최초 규명.
-2. **Kimura T, et al. (2007)**. *Food-grade mulberry powder enriched with 1-deoxynojirimycin suppresses the elevation of postprandial blood glucose in humans*. **Journal of Agricultural and Food Chemistry**, 55(14), 5869-5874.
+1. Asano N, et al. (1994). N-containing sugars from *Morus alba* and their glycosidase inhibitory activities. *Carbohydrate Research*. 259(2):243-55. PMID: [8050098](https://pubmed.ncbi.nlm.nih.gov/8050098/) (기존 노트의 제목 "Polyhydroxylated alkaloids..."는 오류로 확인되어 정정, 권호·쪽수는 일치)
+   - **[연구 요약]**: 뽕나무 잎 유래 1-DNJ 등 질소 함유 당의 구조 결정 및 소장 글리코시다아제 효소 억제 활성 최초 규명.
+2. Kimura T, et al. (2007). Food-grade mulberry powder enriched with 1-deoxynojirimycin suppresses the elevation of postprandial blood glucose in humans. *Journal of Agricultural and Food Chemistry*. 55(14):5869-74. PMID: [17555327](https://pubmed.ncbi.nlm.nih.gov/17555327/)
    - **[연구 요약]**: 1-DNJ 고함유 상엽 분말의 인체 식후 고혈당 억제 효과를 확인한 무작위 대조 임상 시험.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): PMID 2건 모두 esummary로 재확인해 서지사항 일치. Asano 1994 논문 제목만 정정했습니다.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 이미노슈가 -->

@@ -1,7 +1,7 @@
 ---
 title: MCPG
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -44,7 +44,7 @@ aliases:
 
 | 항목 | 상세 내용 |
 | :--- | :--- |
-| **분자식 / 분자량** | $\text{C}_6\text{H}_9\text{NO}_2$ / 약 143.14 g/mol |
+| **분자식 / 분자량** | $\text{C}_6\text{H}_9\text{NO}_2$ / 127.14 g/mol (PubChem CID 55289519 재확인, 기존 노트의 143.14는 오류로 정정) |
 | **PubChem CID** | [55289519](https://pubchem.ncbi.nlm.nih.gov/compound/Methylenecyclopropylglycine) |
 | **화학 골격 분류** | 사이클로프로필 고리를 포함한 비단백성 아미노산(글라이신 유도체), 하이포글리신 A와 유사한 사이클로프로판 카르복실산 계열 |
 | **구조적 특징** | 메틸렌사이클로프로판 고리에 글라이신 곁가지가 결합, 체내에서 유사 기전으로 아실-CoA 탈수소효소를 저해하는 하이포글리신 A와 함께 존재하는 경우가 많음 |
@@ -131,10 +131,12 @@ graph TD
 1. **Shrivastava A, Kumar A, Thomas JD, et al. (2017)**. *Association of acute toxic encephalopathy with litchi consumption in an outbreak in Muzaffarpur, India, 2014: a case-control study*. **The Lancet Global Health**.
    - [PMID: 28153514](https://pubmed.ncbi.nlm.nih.gov/28153514/)
    - **[연구 요약]**: 무자파르푸르 소아 뇌증 집단발병과 여지(리치) 섭취의 연관성을 규명한 환자-대조군 연구. 저혈당·저글리코겐 상태의 공복 소아에서 위험도가 높았음을 보고.
-2. **John TJ, Das M. (2017)**. *Methylene cyclopropyl glycine, not pesticide exposure as the primary etiological factor underlying hypoglycemic encephalopathy in Muzaffarpur, India*.
+2. Asthana S, et al. (2019). Methylenecyclopropyl glycine, not pesticide exposure as the primary etiological factor underlying hypoglycemic encephalopathy in Muzaffarpur, India. *Toxicology Letters*. (기존 노트의 저자명 "John TJ, Das M"·연도 "2017"은 오류로 확인되어 정정, 실제 2019년 발표)
    - [PMID: 30389321](https://pubmed.ncbi.nlm.nih.gov/30389321/)
    - **[연구 요약]**: 살충제 노출 가설을 반박하고 MCPG가 뇌증의 핵심 병인 물질임을 재확인.
 3. **PubChem Compound Summary** — Methylenecyclopropylglycine (CID 55289519).
-   - [https://pubchem.ncbi.nlm.nih.gov/compound/Methylenecyclopropylglycine](https://pubchem.ncbi.nlm.nih.gov/compound/Methylenecyclopropylglycine)
+   - [https://pubchem.ncbi.nlm.nih.gov/compound/55289519](https://pubchem.ncbi.nlm.nih.gov/compound/55289519)
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): 분자량 오류(143.14→127.14) 정정, References 2번 저자명·연도 오류(John TJ/Das M 2017→Asthana S 2019) 정정. PMID·제목은 1·2번 모두 esummary로 완전 일치 확인.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 독성학, 여지핵 -->

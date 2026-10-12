@@ -1,7 +1,7 @@
 ---
 title: KOR
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -140,12 +140,14 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Kardon AP, et al. (2014)**. *Dynorphin acts as a neuromodulator to inhibit itch in the dorsal horn of the spinal cord*. **Cell Reports**, 9(3), 863-872.
-   - [DOI: 10.1016/j.celrep.2014.10.010](https://doi.org/10.1016/j.celrep.2014.10.010)
+1. **Kardon AP, et al. (2014)**. *Dynorphin acts as a neuromodulator to inhibit itch in the dorsal horn of the spinal cord*. **Neuron**, 82(3), 573-586. PMID: [24726382](https://pubmed.ncbi.nlm.nih.gov/24726382/)
+   - [DOI: 10.1016/j.neuron.2014.02.046](https://doi.org/10.1016/j.neuron.2014.02.046) (기존 노트의 저널·권호·DOI "Cell Reports 9(3):863-872"는 오류로 확인되어 정정 — 실제는 *Neuron*)
    - **[연구 요약]**: 척수 후각의 내인성 다이노르핀-KOR 시스템이 가려움증 특이적 신호를 억제하는 분자 회로를 규명.
-2. **Fishbane S, et al. (2020)**. *A phase 3 trial of difelikefalin in hemodialysis patients with pruritus*. **New England Journal of Medicine**, 382(3), 222-232.
+2. **Fishbane S, et al. (2020)**. *A phase 3 trial of difelikefalin in hemodialysis patients with pruritus*. **New England Journal of Medicine**, 382(3), 222-232. PMID: [31702883](https://pubmed.ncbi.nlm.nih.gov/31702883/)
    - [DOI: 10.1056/NEJMoa1912770](https://doi.org/10.1056/NEJMoa1912770)
    - **[연구 요약]**: 말초 선택적 KOR 작동제 디페리케팔린이 혈액투석 환자의 중증 소양증을 유의하게 개선함을 입증한 3상 임상시험.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): References 1번의 저널·권호·DOI가 실제와 달라(Cell Reports→Neuron) 정정, PMID 2건 신규 확인·추가.
 3. **StatPearls (NCBI Bookshelf)**. *Difelikefalin*.
    - [NBK574566](https://www.ncbi.nlm.nih.gov/books/NBK574566/)
    - **[연구 요약]**: 디페리케팔린의 약동학(반감기, 분포용적, 단백결합률, CYP450 비관여 대사)과 안전성 프로파일 요약.

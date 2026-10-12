@@ -1,7 +1,7 @@
 ---
 title: Caspase-3
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -137,17 +137,19 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Nicholson DW, et al. (1995)**. *Identification and inhibition of the ICE/CED-3 protease necessary for mammalian apoptosis*. **Nature**, 376(6535), 37-43.
+1. **Nicholson DW, et al. (1995)**. *Identification and inhibition of the ICE/CED-3 protease necessary for mammalian apoptosis*. **Nature**, 376(6535), 37-43. PMID: [7596430](https://pubmed.ncbi.nlm.nih.gov/7596430/)
    - [DOI: 10.1038/376037a0](https://doi.org/10.1038/376037a0)
    - **[연구 요약]**: Caspase-3(CPP32)의 분자 구조와 PARP 절단 기질 특이성을 최초로 규명한 랜드마크 논문.
-2. **Porter AG, Jänicke RU. (1999)**. *Emerging roles of caspase-3 in apoptosis*. **Cell Death & Differentiation**, 6(2), 99-104.
+2. **Porter AG, Jänicke RU. (1999)**. *Emerging roles of caspase-3 in apoptosis*. **Cell Death & Differentiation**, 6(2), 99-104. PMID: [10200555](https://pubmed.ncbi.nlm.nih.gov/10200555/)
    - [DOI: 10.1038/sj.cdd.4400476](https://doi.org/10.1038/sj.cdd.4400476)
    - **[연구 요약]**: 포유류 세포 사멸 과정에서 Caspase-3의 필수 실행 메커니즘을 총괄 정리.
-3. **Tawa P, et al. (2004)**. *Catalytic activity of caspase-3 is required for its degradation: stabilization of the active complex by synthetic inhibitors*. **Cell Death & Differentiation**, 11(4), 439-447.
+3. **Tawa P, et al. (2004)**. *Catalytic activity of caspase-3 is required for its degradation: stabilization of the active complex by synthetic inhibitors*. **Cell Death & Differentiation**, 11(4), 439-447. PMID: [14713960](https://pubmed.ncbi.nlm.nih.gov/14713960/)
    - [DOI: 10.1038/sj.cdd.4401360](https://doi.org/10.1038/sj.cdd.4401360)
    - **[연구 요약]**: 활성형 Caspase-3가 자신의 촉매활성에 의존해 빠르게 분해되며, 억제제 처리 시 안정화됨을 규명.
-4. **Ye F, Zhang W, Fan C, et al. (2023)**. *Antileukemic effect of venetoclax and hypomethylating agents via caspase-3/GSDME-mediated pyroptosis*. **Journal of Translational Medicine**, 21, 606.
+4. **Ye F, Zhang W, Fan C, et al. (2023)**. *Antileukemic effect of venetoclax and hypomethylating agents via caspase-3/GSDME-mediated pyroptosis*. **Journal of Translational Medicine**, 21, 606. PMID: [37679782](https://pubmed.ncbi.nlm.nih.gov/37679782/)
    - [DOI: 10.1186/s12967-023-04481-0](https://doi.org/10.1186/s12967-023-04481-0)
    - **[연구 요약]**: 베네토클락스+저메틸화제 병용이 Caspase-3/GSDME 경로를 통해 백혈병 세포의 파이롭토시스를 유도함을 규명, Caspase-3 활성화가 실제 항암 병용요법의 표적임을 입증.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): References 4건 전부 PMID 신규 확인·추가(esummary로 완전 일치). PubChem CID 없음(단백질 효소)은 기존 노트가 이미 올바르게 정정한 상태였음.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 세포자멸사, 아포토시스 -->

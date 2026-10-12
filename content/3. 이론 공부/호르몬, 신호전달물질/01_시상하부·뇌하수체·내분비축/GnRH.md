@@ -1,7 +1,7 @@
 ---
 title: GnRH
 created: 2026-09-08
-updated: 2026-10-11
+updated: 2026-10-12
 tags:
   - 이론
   - 호르몬
@@ -171,7 +171,7 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Legro RS 등 (2017)**. *Effect of Acupuncture and Clomiphene in Chinese Women With Polycystic Ovary Syndrome: A Randomized Clinical Trial*. **JAMA**, 317(24):2502-2514. [PMID 28655015](https://pubmed.ncbi.nlm.nih.gov/28655015/) · [DOI 10.1001/jama.2017.7217](https://doi.org/10.1001/jama.2017.7217)
+1. **Wu XK 등 (Legro RS 공동저자, 2017)**. *Effect of Acupuncture and Clomiphene in Chinese Women With Polycystic Ovary Syndrome: A Randomized Clinical Trial*. **JAMA**, 317(24):2502-2514. [PMID 28655015](https://pubmed.ncbi.nlm.nih.gov/28655015/) · [DOI 10.1001/jama.2017.7217](https://doi.org/10.1001/jama.2017.7217)
    - [연구 요약] PCOS 무배란 여성 1,000명 RCT — 배란유도는 약물 축(클로미펜)이 담당하고 침은 추가 이득을 주지 못했다. GnRH–FSH/LH 축이 배란유도의 상위 고리임을 확인하는 맥락 근거다.
 2. **Zhang GS 등 (2025)**. *Acupuncture for polycystic ovary syndrome*. **Cochrane Database Syst Rev**, 10(10):CD007689. [PMID 41147529](https://pubmed.ncbi.nlm.nih.gov/41147529/)
    - [연구 요약] 침 vs 샴침에서 출산·배란 차이가 없었다 — 배란 조절의 약물 축 위치를 재확인한다.

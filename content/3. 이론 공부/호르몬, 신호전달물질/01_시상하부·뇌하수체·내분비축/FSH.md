@@ -1,10 +1,11 @@
 ---
 title: FSH
 created: 2026-09-08
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 이론
-출처: "https://molecule-viewer-rho.vercel.app/?cid=16132364\""
+  - 호르몬
+출처: PMID 17055639 · PMID 19387872
 aliases:
   - FSH
   - 난포자극호르몬
@@ -32,8 +33,12 @@ aliases:
 
 ## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132364" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+| 항목 | 상세 내용 |
+| :--- | :--- |
+| **분자 유형** | 이종이합체(heterodimer) 당단백질 호르몬 — PubChem에 등재되는 저분자가 아니므로 **CID 없음**(TSH·ACTH·CRH 등 펩타이드 호르몬과 동일한 분류). 기존 노트에 기재된 CID 16132364는 조회 결과 **완전히 무관한 폴리페놀계 화합물(C₄₂H₂₆O₂₁)로 확인되어 삭제**하였다. |
+| **공통 α-서브유닛 유전자** | *CGA* (LH·TSH·hCG와 동일 서열 공유) |
+| **특이 β-서브유닛 유전자** | *FSHB* |
+| **수용체** | FSHR (과립막세포·세르톨리세포 표면 Gs-결합 수용체) |
 
 * **당단백질 복합체 구조**:
   * **공통 $\alpha$-서브유닛**: 92개 아미노산으로 구성되며 LH, TSH, hCG와 동일한 구조 공유.
@@ -90,15 +95,17 @@ aliases:
 * **담습조체(痰濕阻滯) 및 신양허형 PCOS (LH/FSH 불균형형)**:
   * 비신양허로 수액 대사가 지연되어 난소 피질이 두꺼워지고 배란이 막힌 병태 $\rightarrow$ 온양화담(溫陽化痰), 활혈조경의 [[창부도담탕]], [[온경탕]], [[조경종옥탕]]으로 인슐린 저항성을 개선하고 배란 유도.
 * **주요 표적 본초**:
-  * [[음양곽]]: 이카린(Icariin) 성분이 난소 FSHR 발현을 상향 조절.
+  * [[음양곽]]: 이카린(Icariin) 성분이 난포 발달을 촉진한다는 보고가 있으나(산란계 모델, PMID 38430778), 인체·랫트 난소 FSHR 발현에 대한 직접 근거는 ⚠️ 근거 미확인.
   * [[토사자]] & [[구기자]]: 에스트로겐 수용체 조절 및 과립막세포 증식 촉진.
 
 ---
 
 ## 6. 출처 및 학술 참고 문헌 (References)
 
-* Yen, S. S. C., & Jaffe, R. B. (2019). *Yen & Jaffe's Reproductive Endocrinology* (8th ed.). Elsevier.
-* Kumar, T. R. (2005). "Follicle-stimulating hormone: Structure, function, and clinical implications." *Reviews in Endocrine and Metabolic Disorders*, 6(3), 195-202.
-  * `[연구 요약]` FSH 분자 구조의 $\alpha/\beta$ 서브유닛 특이성과 난소 과립막세포 수용체 활성화 및 난포 성숙 조절 메커니즘 총설.
-* Sun, Y., et al. (2020). "Icariin improves ovarian function by upregulating follicle-stimulating hormone receptor in a rat model of premature ovarian failure." *Frontiers in Endocrinology*, 11, 574218.
-  * `[연구 요약]` 음양곽 유래 이카린이 난소 과립막세포의 FSHR 전사를 유도하여 혈중 FSH 과상승을 정상화하고 난소 예비력을 회복시킴을 입증.
+* Yen, S. S. C., & Jaffe, R. B. (2019). *Yen & Jaffe's Reproductive Endocrinology* (8th ed.). Elsevier. (교과서, PMID 해당 없음)
+* Kumar TR (2007). Mouse models for gonadotropins: a 15-year saga. *Molecular and Cellular Endocrinology*, 260-262, 249-54. PMID: [17055639](https://pubmed.ncbi.nlm.nih.gov/17055639/)
+  * `[연구 요약]` FSHB/LHB/CGA 유전자 결손 마우스 모델을 통해 α/β 서브유닛의 조직 특이적 기능과 난소·고환 표적세포 작용을 정리한 총설.
+* Kumar TR (2009). FSHbeta knockout mouse model: a decade ago and into the future. *Endocrine*, 36(1), 1-5. PMID: [19387872](https://pubmed.ncbi.nlm.nih.gov/19387872/)
+  * `[연구 요약]` FSHβ 결손 마우스가 난포 성숙 정지·불임을 보임을 통해 FSH가 과립막세포 증식과 아로마타아제 발현에 필수적임을 입증한 모델을 정리.
+* Ding W, et al. (2024). Dietary supplementation of osthole and icariin improves the production performance of laying hens by promoting follicular development. *Poultry Science*, 103(5), 103579. PMID: [38430778](https://pubmed.ncbi.nlm.nih.gov/38430778/)
+  * `[연구 요약]` 음양곽 유래 이카린(icariin)을 산란계에 투여하여 난포 발달 촉진 효과를 확인한 연구. <font color="#fa7e7e">⚠️ 포유류(랫트) 조기 난소 부전 모델이 아닌 가축(산란계) 모델 연구이므로, §5의 "FSHR 상향 조절" 서술은 종간 외삽에 근거한 추정임을 밝힌다.</font>

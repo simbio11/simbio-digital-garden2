@@ -1,7 +1,7 @@
 ---
 title: CRH
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -41,11 +41,12 @@ aliases:
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16132338" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=16186200" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
 
 | 항목 | 상세 내용 |
 | :--- | :--- |
 | **성분명** | CRH(Corticotropin-Releasing Hormone) / 동의어: CRF(Corticotropin-Releasing Factor), Corticoliberin |
+| **PubChem CID** | [16186200](https://pubchem.ncbi.nlm.nih.gov/compound/16186200) (CAS 9015-71-8 xref, MW 4757 — 본문 분자량과 일치) ⚠️ 기존 노트의 CID 16132338은 라모플라닌(Ramoplanin, 항생제)을 가리키는 오류로 확인되어 정정했습니다. |
 | **아미노산 서열** | 41개 잔기 펩타이드(SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII-NH₂) |
 | **분자량** | 4,757.5 Da |
 | **CAS 등록번호** | 9015-71-8 |
@@ -111,7 +112,7 @@ graph TD
 ### 2) 심화상충(心火上衝)·심신불교
 * 극심한 스트레스로 두근거림·불면·상열감이 나타나는 상태와 CRH 매개 교감신경 항진이 연관됩니다.
 ### 3) 진단적 활용(CRH 자극검사)
-* 쿠싱병(뇌하수체성)과 이소성 ACTH 증후군의 감별, 시상하부성-�생하수체성 부신기능저하증 감별에 사용됩니다.
+* 쿠싱병(뇌하수체성)과 이소성 ACTH 증후군의 감별, 시상하부성-뇌하수체성 부신기능저하증 감별에 사용됩니다.
 
 ---
 
@@ -144,15 +145,17 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Vale W, et al. (1981)**. *Characterization of a 41-residue ovine hypothalamic peptide that stimulates secretion of corticotropin and beta-endorphin*. **Science**, 213(4514), 1394-1397.
+1. **Vale W, et al. (1981)**. *Characterization of a 41-residue ovine hypothalamic peptide that stimulates secretion of corticotropin and beta-endorphin*. **Science**, 213(4514), 1394-1397. PMID: [6267699](https://pubmed.ncbi.nlm.nih.gov/6267699/)
    - [DOI: 10.1126/science.6267699](https://doi.org/10.1126/science.6267699)
    - **[연구 요약]**: CRH 펩타이드 구조를 최초로 규명하고 ACTH·베타엔돌핀 분비 촉진 활성을 입증한 랜드마크 논문.
 2. **Tanaka K, et al. (1993)**. *Diagnostic study of a synthetic human corticotropin-releasing hormone (hCRH) in healthy adult males: its plasma pharmacokinetics and the effects on the urinary excretion of steroid hormones*. **Endocrine Journal**, 40(4).
    - [PMID: 7951525](https://pubmed.ncbi.nlm.nih.gov/7951525/)
    - **[연구 요약]**: 합성 인간 CRH의 이좌기 혈중 소실 동태(α상 반감기 0.12~0.15시간, β상 반감기 0.57~0.67시간)를 정량 규명.
-3. **Bale TL, Vale WW. (2004)**. *CRF and CRF receptors: role in stress responsivity and other behaviors*. **Annual Review of Pharmacology and Toxicology**, 44, 525-557.
+3. **Bale TL, Vale WW. (2004)**. *CRF and CRF receptors: role in stress responsivity and other behaviors*. **Annual Review of Pharmacology and Toxicology**, 44, 525-557. PMID: [14744257](https://pubmed.ncbi.nlm.nih.gov/14744257/)
    - [DOI: 10.1146/annurev.pharmtox.44.101802.121410](https://doi.org/10.1146/annurev.pharmtox.44.101802.121410)
    - **[연구 요약]**: CRH·CRH-R1/R2 수용체 신호전달과 불안·우울·과민성 대장 증후군 등 스트레스 관련 질환 기전 총괄 고찰.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): PubChem CID 오류(16132338→16186200, 라모플라닌을 가리키던 오류) 정정. References 1·3번 PMID 신규 확인·추가. §5-3 깨진 문자("시상하부성-뇌하수체성")도 정정.
 4. **Holsboer F, Ising M. (2008)**. *Central CRH system in depression and anxiety--evidence from clinical studies with CRH1 receptor antagonists*. **European Journal of Pharmacology**, 583(2-3), 350-357.
    - [PMID: 18272149](https://pubmed.ncbi.nlm.nih.gov/18272149/)
    - **[연구 요약]**: CRH1 수용체 길항제(NBI-30775, NBI-34041)의 임상 유효성 신호와 간독성 등 개발 중단 사유를 정리한 종설.

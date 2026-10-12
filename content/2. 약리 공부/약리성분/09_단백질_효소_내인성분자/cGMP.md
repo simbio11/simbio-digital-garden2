@@ -1,7 +1,7 @@
 ---
 title: cGMP
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분/세포생물학
@@ -26,12 +26,13 @@ aliases:
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=2405" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=135398570" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
 | 항목 | 내용 |
 | :--- | :--- |
 | **물질명** | cGMP (Cyclic Guanosine Monophosphate, 환상 구아노신 일인산) |
-| **분자식 / 분자량** | C10H12N5O7P / 345.21 g/mol |
+| **PubChem CID** | [135398570](https://pubchem.ncbi.nlm.nih.gov/compound/135398570) ⚠️ 기존 노트의 CID 2405는 전혀 다른 화합물(C18H31NO4)을 가리키는 오류로 확인되어 정정했습니다. |
+| **분자식 / 분자량** | C10H12N5O7P / 345.21 g/mol (PubChem CID 135398570 조회 확인) |
 | **분자 분류** | 퓨린 뉴클레오티드 유도체 / 세포 내 2차 신호전달물질 (Second Messenger) |
 | **합성 효소** | 구아닐릴 시클라아제 (Guanylyl Cyclase, GC): 가용성 sGC 및 막결합 pGC |
 | **분해 효소** | 포스포디에스테라아제 (Phosphodiesterase, 특히 PDE5, PDE6, PDE9) |

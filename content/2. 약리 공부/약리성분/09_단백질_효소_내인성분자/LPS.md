@@ -1,7 +1,7 @@
 ---
 title: LPS
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -136,12 +136,14 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Poltorak A, et al. (1998)**. *Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene*. **Science**, 282(5396), 2085-2088.
+1. **Poltorak A, et al. (1998)**. *Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene*. **Science**, 282(5396), 2085-2088. PMID: [9851930](https://pubmed.ncbi.nlm.nih.gov/9851930/)
    - [DOI: 10.1126/science.282.5396.2085](https://doi.org/10.1126/science.282.5396.2085)
    - **[연구 요약]**: LPS의 포유류 표적 수용체가 TLR4임을 규명해 선천면역학의 패러다임을 바꾼 논문.
-2. **Cani PD, et al. (2007)**. *Metabolic endotoxemia initiates obesity and insulin resistance*. **Diabetes**, 56(7), 1761-1772.
+2. **Cani PD, et al. (2007)**. *Metabolic endotoxemia initiates obesity and insulin resistance*. **Diabetes**, 56(7), 1761-1772. PMID: [17456850](https://pubmed.ncbi.nlm.nih.gov/17456850/)
    - [DOI: 10.2337/db06-1491](https://doi.org/10.2337/db06-1491)
    - **[연구 요약]**: 장내 세균 유래 LPS의 혈중 유입(대사성 내독소혈증)이 만성 전신 염증과 당뇨·비만의 근본 원인임을 입증.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): References 1·2번에 PMID 신규 확인·추가(esummary 완전 일치). 3·4번은 기존에도 PMID가 정확했음.
 3. **Yao Z, Mates JM, Cheplowitz AM, et al. (2016)**. *Blood-Borne Lipopolysaccharide Is Rapidly Eliminated by Liver Sinusoidal Endothelial Cells via High-Density Lipoprotein*. **Journal of Immunology**, 197(6), 2390-2398.
    - [PMID: 27534554](https://pubmed.ncbi.nlm.nih.gov/27534554/)
    - **[연구 요약]**: 혈중 LPS의 반감기가 마우스에서 2~4분으로 매우 짧으며, 간 굴모세혈관 내피세포가 HDL을 매개로 약 75%를 제거함을 규명.

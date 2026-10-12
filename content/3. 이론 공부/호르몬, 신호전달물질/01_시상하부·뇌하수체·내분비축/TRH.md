@@ -1,7 +1,7 @@
 ---
 title: TRH
 created: 2026-09-08
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 이론
   - 약리성분
@@ -26,17 +26,19 @@ aliases:
 ---
 
 ## 📌 목차
-1. [기본 생화학 정보](#1-기본-생화학-정보-biochemical-identity)
-2. [분비 기관 & 생합성 경로](#2-분비-기관--생합성-경로)
-3. [수용체 & 세포 내 신호전달 경로](#3-수용체--세포-내-신호전달-경로)
-4. [주요 생리 활성: 시상하부-뇌하수체-갑상선(HPT) 축](#4-주요-생리-활성-시상하부-뇌하수체-갑상선hpt-축)
-5. [관련 질환 & 임상 활용](#5-관련-질환--임상-활용)
-6. [한의학적 연계](#6-한의학적-연계)
-7. [출처 및 학술 참고 문헌 (References)](#7-출처-및-학술-참고-문헌-references)
+1. [기본 생화학 정보 & 분자 구조식 (Biochemical Identity)](#1-기본-생화학-정보--분자-구조식-biochemical-identity)
+2. [분비 기관 & 생합성 경로 (Biosynthesis & Secretion)](#2-분비-기관--생합성-경로-biosynthesis--secretion)
+3. [수용체 & 세포 내 신호전달 경로 (Receptors & Signaling Pathways)](#3-수용체--세포-내-신호전달-경로-receptors--signaling-pathways)
+4. [주요 생리 활성: 시상하부-뇌하수체-갑상선(HPT) 축 (Physiological Actions)](#4-주요-생리-활성-시상하부-뇌하수체-갑상선hpt-축-physiological-actions)
+5. [분비 조절 & 피드백 기전 (Regulation & Feedback Loop)](#5-분비-조절--피드백-기전-regulation--feedback-loop)
+6. [관련 질환 & 임상 활용 (Clinical Pathophysiology & Diseases)](#6-관련-질환--임상-활용-clinical-pathophysiology--diseases)
+7. [약물 치료 표적 & 한의학적 연계 (Pharmacological Targets & Herbs)](#7-약물-치료-표적--한의학적-연계-pharmacological-targets--herbs)
+8. [💡 사용자 진료실 핵심 필기 & 임상 응용 팁 (Melt-In & High-Yield)](#8--사용자-진료실-핵심-필기--임상-응용-팁-melt-in--high-yield)
+9. [출처 및 학술 참고 문헌 (References)](#9-출처-및-학술-참고-문헌-references)
 
 ---
 
-## 1. 기본 생화학 정보 (Biochemical Identity)
+## 1. 기본 생화학 정보 & 분자 구조식 (Biochemical Identity)
 
 | 항목 | 상세 정보 |
 | :--- | :--- |
@@ -49,7 +51,7 @@ aliases:
 
 ---
 
-## 2. 분비 기관 & 생합성 경로
+## 2. 분비 기관 & 생합성 경로 (Biosynthesis & Secretion)
 
 - **전구체**: 프리프로TRH(prepro-TRH) 유전자가 코딩하는 큰 전구단백질에서 여러 개의 TRH 분자가 효소적 절단을 거쳐 생성됩니다.
 - **분비 부위**: 시상하부 실방핵의 신경분비세포에서 합성되어 정중융기(median eminence)로 축삭 수송된 뒤, 뇌하수체 문맥계(hypophyseal portal system)를 통해 뇌하수체 전엽으로 분비됩니다.
@@ -57,33 +59,40 @@ aliases:
 
 ---
 
-## 3. 수용체 & 세포 내 신호전달 경로
+## 3. 수용체 & 세포 내 신호전달 경로 (Receptors & Signaling Pathways)
 
 - **표적 수용체**: 뇌하수체 전엽 갑상선자극세포(thyrotrope)의 TRH 수용체(TRHR)는 G단백질 연결 수용체(Gq/11)입니다.
 - **세포 내 신호전달**: TRH-TRHR 결합 → 포스포리파아제 C(PLC) 활성화 → IP3/DAG 생성 → 세포 내 Ca²⁺ 증가 및 PKC 활성화 → TSH(및 프로락틴) 분비 소포의 세포외 유출(exocytosis) 촉진.
+
+---
+
+## 4. 주요 생리 활성: 시상하부-뇌하수체-갑상선(HPT) 축 (Physiological Actions)
+
+2006년 *Journal of Biological Chemistry*에 발표된 Nikrodhanond 등의 연구는 TRH가 갑상선호르몬 항상성 유지에서 지배적(dominant) 조절 인자임을 마우스 모델로 입증했습니다. TRH는 [[TSH]] 분비뿐 아니라 갑상선호르몬 농도에 대한 음성 되먹임 감수성을 뇌하수체에 부여하는 핵심 축으로 기능합니다(PMID 16339138).
+
+TRH는 TSH 외에도 뇌하수체 프로락틴 분비세포(lactotrope)를 자극해 프로락틴 분비를 촉진하는 작용도 가지고 있습니다.
+
+---
+
+## 5. 분비 조절 & 피드백 기전 (Regulation & Feedback Loop)
 
 ```mermaid
 graph TD
     Hypothalamus["시상하부 실방핵<br>TRH 합성·분비"] --> Portal["뇌하수체 문맥계 통해 이동"]
     Portal --> Pituitary["뇌하수체 전엽 TRHR(GPCR) 결합"]
     Pituitary --> Signal["Gq/PLC/IP3-Ca2+ 경로 활성화"]
-    Signal --> TSH["TSH 분비 촉진"]
+    Signal --> TSH["[[TSH]] 분비 촉진"]
     TSH --> Thyroid["갑상선 T3/T4 분비 촉진"]
     Thyroid -.음성 되먹임.-> Hypothalamus
     Thyroid -.음성 되먹임.-> Pituitary
 ```
 
----
-
-## 4. 주요 생리 활성: 시상하부-뇌하수체-갑상선(HPT) 축
-
-2006년 *Journal of Biological Chemistry*에 발표된 Nikrodhanond 등의 연구는 TRH가 갑상선호르몬 항상성 유지에서 지배적(dominant) 조절 인자임을 마우스 모델로 입증했습니다. TRH는 TSH 분비뿐 아니라 갑상선호르몬 농도에 대한 음성 되먹임 감수성을 뇌하수체에 부여하는 핵심 축으로 기능하며, 갑상선호르몬(T3)은 시상하부와 뇌하수체 양쪽에서 TRH 및 TRHR 발현을 억제해 HPT 축의 항상성을 유지합니다.
-
-TRH는 TSH 외에도 뇌하수체 프로락틴 분비세포(lactotrope)를 자극해 프로락틴 분비를 촉진하는 작용도 가지고 있습니다.
+* **음성 되먹임**: 갑상선호르몬(T3)은 시상하부와 뇌하수체 양쪽에서 TRH 및 TRHR 발현을 억제해 HPT 축의 항상성을 유지합니다(PMID 16339138).
+* **분비 조절 인자**: 저온 노출, 스트레스가 TRH 분비를 촉진하며, 렙틴·코르티솔 등 대사·스트레스 신호도 TRH 뉴런 활성에 영향을 미칩니다 → [[코르티솔]]
 
 ---
 
-## 5. 관련 질환 & 임상 활용
+## 6. 관련 질환 & 임상 활용 (Clinical Pathophysiology & Diseases)
 
 * **원발성 갑상선기능저하증**: 갑상선 자체 기능 저하로 T3/T4가 낮아지면 음성 되먹임 감소로 TRH·TSH가 대상성으로 상승합니다.
 * **중추성(시상하부/뇌하수체성) 갑상선기능저하증**: TRH 또는 TSH 분비 결함으로 인한 갑상선기능저하증으로, TRH 자극검사가 병소가 시상하부인지 뇌하수체인지 감별하는 데 활용될 수 있습니다.
@@ -91,16 +100,34 @@ TRH는 TSH 외에도 뇌하수체 프로락틴 분비세포(lactotrope)를 자�
 
 ---
 
-## 6. 한의학적 연계
+## 7. 약물 치료 표적 & 한의학적 연계 (Pharmacological Targets & Herbs)
 
-TRH-TSH-갑상선호르몬 축은 현대 내분비학의 개념으로, 한의학의 신정(腎精)·명문화(命門火) 등 개념과 직접적인 대응 관계가 학술적으로 확립되어 있지는 않습니다. 갑상선기능 이상 환자를 한의학적으로 변증할 때 TRH/TSH 등 혈액검사 수치를 참고 정보로 활용할 수 있으나, 특정 본초·처방이 TRH 분비를 직접 조절한다는 개별 주장은 <font color="#fa7e7e">⚠️ 내용 검토 필요</font>로 표기하며 근거 확인이 필요합니다.
+* **양약 표적 (Western Pharmacology)**
+  * **합성 TRH 제제(protirelin)**: TRH 자극검사(정맥 주사 후 TSH 반응 관찰)에 사용되나, 초민감 TSH 측정법 발전으로 임상 사용 빈도는 감소했습니다.
+  * **항경련·신경보호 연구**: TRH 유사체의 항경련·신경보호 효과가 연구되고 있으나 일반 치료제로서의 임상 활용은 제한적입니다.
+* **한방 본초 & 방제 연계 (K-Medicine Connection)**
+  * TRH-[[TSH]]-갑상선호르몬 축은 현대 내분비학의 개념으로, 한의학의 신정(腎精)·명문화(命門火) 등 개념과 직접적인 대응 관계가 학술적으로 확립되어 있지는 않습니다.
+  * 갑상선기능 이상 환자를 한의학적으로 변증할 때 TRH/[[TSH]] 등 혈액검사 수치를 참고 정보로 활용할 수 있으나, 특정 본초·처방이 TRH 분비를 직접 조절한다는 개별 주장은 <font color="#fa7e7e">⚠️ 내용 검토 필요</font>로 표기하며 근거 확인이 필요합니다.
 
 ---
 
-## 7. 출처 및 학술 참고 문헌 (References)
+## 8. 💡 사용자 진료실 핵심 필기 & 임상 응용 팁 (Melt-In & High-Yield)
 
-1. **Nikrodhanond AA, Ortiga-Carvalho TM, Shibusawa N, Hashimoto K, Liao XH, Refetoff S, Yamada M, Mori M, Wondisford FE. (2006)**. Dominant role of thyrotropin-releasing hormone in the hypothalamic-pituitary-thyroid axis. *Journal of Biological Chemistry*, 281(9), 5000–5007. PMID: [16339138](https://pubmed.ncbi.nlm.nih.gov/16339138/)
-   - **[연구 요약]**: TRH 결핍 마우스 모델을 통해 TRH가 HPT 축에서 갑상선호르몬 항상성을 유지하는 지배적 조절 인자임을 입증한 연구.
-2. PubChem Compound Summary — Protirelin (CID 638678): [https://pubchem.ncbi.nlm.nih.gov/compound/638678](https://pubchem.ncbi.nlm.nih.gov/compound/638678)
+* **사용자 원문 필기**: (별도 수기 필기 원문 없음 — 추후 원장님 필기 입력 시 본 위치에 100% 보존)
+* **임상 수치 해석 체크 포인트**:
+  * [[TSH]] 상승 + T3/T4 저하 → 원발성 갑상선기능저하증(갑상선 자체 문제).
+  * TSH 저하(또는 부적절하게 정상) + T3/T4 저하 → 중추성(시상하부/뇌하수체성) 갑상선기능저하증 의심 → TRH 자극검사로 병소 감별.
+  * TRH는 TSH뿐 아니라 프로락틴도 자극하므로, 중추성 갑상선기능저하증 평가 시 프로락틴 동반 상승 여부도 함께 확인한다.
+
+---
+
+## 9. 출처 및 학술 참고 문헌 (References)
+
+1. Nikrodhanond AA, Ortiga-Carvalho TM, Shibusawa N, Hashimoto K, Liao XH, Refetoff S, Yamada M, Mori M, Wondisford FE (2006). Dominant role of thyrotropin-releasing hormone in the hypothalamic-pituitary-thyroid axis. *Journal of Biological Chemistry*, 281(8), 5000-7. PMID: [16339138](https://pubmed.ncbi.nlm.nih.gov/16339138/)
+   - `[연구 요약]` TRH 결핍 마우스 모델을 통해 TRH가 HPT 축에서 갑상선호르몬 항상성을 유지하는 지배적 조절 인자임을 입증한 연구.
+2. PubChem Compound Summary — Protirelin (CID 638678). [링크](https://pubchem.ncbi.nlm.nih.gov/compound/638678)
+   - `[연구 요약]` 분자식 C16H22N6O4·분자량 362.38 g/mol 확인. TRH는 트리펩타이드이므로 FSH·LH·TSH와 달리 PubChem 소분자 CID가 존재한다.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): §9 참고문헌 1번의 호수·쪽수를 esummary 조회 결과에 맞춰 정정(281(9), 5000–5007 → 281(8), 5000-7). CID 638678은 재확인 결과 정확함. 7섹션→9섹션으로 재구성(§4 피드백 부분을 별도 §5로 분리, §6 한의학적 연계를 §7 약물치료표적과 통합, §8 진료실 필기 신설).
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 갑상선축 -->

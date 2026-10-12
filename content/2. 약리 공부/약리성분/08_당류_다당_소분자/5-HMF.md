@@ -1,21 +1,21 @@
 ---
 title: 5-HMF
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
   - 파이토케미컬
   - 항산화
   - 신경보호
-출처: "PMID: 38842004"
+출처: PubChem CID 237332 · PMID 38842004
 aliases:
   - 5-HMF
   - 5-하이드록시메틸푸르푸랄
   - 5-Hydroxymethylfurfural
   - 5-하이드록시메틸퍼퓨랄
   - HMF
-CID: 9294
+CID: 237332
 대표본초: "[[숙지황]], [[흑삼]], [[오미자]]"
 분자량: 126.11 g/mol
 분자식: C6H6O3
@@ -47,7 +47,7 @@ CID: 9294
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
 ![[5-HMF_2D_구조식.png|320]]
-> [그림 1: 5-HMF의 2D 화학 분자 구조식 (PubChem CID: 9294)]
+> [그림 1: 5-HMF의 2D 화학 분자 구조식 (PubChem CID: 237332)]
 
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
 > <iframe src="https://molecule-viewer-rho.vercel.app/?cid=237332" width="100%" height="450px" frameborder="0" allow="webgl" style="border-radius: 8px;"></iframe>
@@ -56,7 +56,7 @@ CID: 9294
 | :--- | :--- |
 | **IUPAC 명칭** | 5-(hydroxymethyl)furan-2-carbaldehyde |
 | **분자식 / 분자량** | $\text{C}_6\text{H}_6\text{O}_3$ / 126.11 g/mol |
-| **PubChem CID** | [9294](https://pubchem.ncbi.nlm.nih.gov/compound/9294) |
+| **PubChem CID** | [237332](https://pubchem.ncbi.nlm.nih.gov/compound/237332) ⚠️ 기존 노트의 CID 9294는 슈도에페드린을 가리키는 오류로 확인되어 정정했습니다. |
 | **CAS 등록 번호** | 67-47-0 |
 | **화학 골격 분류** | 퓨란계 알데하이드(Furanic aldehyde), 단당류 열분해·마이야르 반응 유래 2차 생성물 |
 | **물리화학적 성상** | 담황색 결정 또는 카모마일 향의 흡습성 고체, 녹는점 30~34°C, 물·에탄올·아세톤에 극히 잘 녹음 |
@@ -166,14 +166,16 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Abdulmalik O, et al. (2024)**. *The antisickling agent, 5-hydroxymethyl-2-furfural: Other potential pharmacological applications*. **Medicinal Research Reviews**, 44(6), 2536-2566.
-   - [PMID: 38842004](https://pubmed.ncbi.nlm.nih.gov/38842004/) | [DOI: 10.1002/med.22062](https://doi.org/10.1002/med.22062)
+1. Pagare PP, et al. (2024). The antisickling agent, 5-hydroxymethyl-2-furfural: Other potential pharmacological applications. *Medicinal Research Reviews*. 44(6):2536-2566.
+   - [PMID: 38842004](https://pubmed.ncbi.nlm.nih.gov/38842004/) | [DOI: 10.1002/med.22062](https://doi.org/10.1002/med.22062) (기존 노트의 저자명 "Abdulmalik O"는 오류로 확인되어 정정)
    - **[연구 요약]**: 5-HMF가 헤모글로빈 알로스테릭 조절제로 작용하여 산소 친화도를 높이고 적혈구 중합을 막는 기전, 신경보호·심근보호·항산화 작용을 총정리한 종설. ADH/ALDH 대사 경로도 본 종설에서 확인.
-2. **Chen X, et al. (2024)**. *Changes in Rehmanniae Radix processing and their impact on ovarian hypofunction: potential mechanisms of action*. **Frontiers in Pharmacology**, 15, 1426972.
+2. Zhong HZ, et al. (2024). Changes in Rehmanniae Radix processing and their impact on ovarian hypofunction: potential mechanisms of action. *Frontiers in Pharmacology*. 15:1426972. (기존 노트의 저자명 "Chen X"는 오류로 확인되어 정정)
    - [PMID: 39035992](https://pubmed.ncbi.nlm.nih.gov/39035992/) | [DOI: 10.3389/fphar.2024.1426972](https://doi.org/10.3389/fphar.2024.1426972)
    - **[연구 요약]**: 지황 포제 공정(생지황→숙지황) 중 5-HMF 생성 패턴과 난소 과립막세포 산화 스트레스 억제·난소 기능 부전 개선 기전 규명.
-3. **Zhang L, et al. (2022)**. *A comparative study on the traditional versus modern yellow rice wine processing methods using Taohong Siwu Decoction for pharmaceutical production*. **Journal of Ethnopharmacology**, 290, 115114.
+3. Wang S, et al. (2022). A comparative study on the traditional versus modern yellow rice wine processing methods using Taohong Siwu Decoction for pharmaceutical production. *Journal of Ethnopharmacology*. 290:115114. (기존 노트의 저자명 "Zhang L"은 오류로 확인되어 정정)
    - [PMID: 35181489](https://pubmed.ncbi.nlm.nih.gov/35181489/) | [DOI: 10.1016/j.jep.2022.115114](https://doi.org/10.1016/j.jep.2022.115114)
    - **[연구 요약]**: 황주(청주)를 사용한 전통 지황 포제 과정에서 5-HMF를 포함한 지표 성분의 화학적 전이 양상과 당귀·천궁과의 보혈 시너지 효과 분석.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): PubChem CID 오류(9294→237332, 슈도에페드린을 가리키던 오류) 정정. References 3건 모두 저자명 오류(Abdulmalik O→Pagare PP, Chen X→Zhong HZ, Zhang L→Wang S)를 esummary 대조로 정정했습니다. PMID·서지사항(저널·권호)은 모두 일치해 정정하지 않았습니다.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 퓨란유도체, 숙지황, 지표성분, 포제학 -->

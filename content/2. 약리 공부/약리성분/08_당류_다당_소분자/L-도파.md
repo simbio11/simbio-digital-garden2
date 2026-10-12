@@ -1,7 +1,7 @@
 ---
 title: L-도파
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -152,17 +152,19 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. **Gomez-Paz A, et al. (2026)**. *Transcranial magnetic stimulation recalibrates levodopa response by attenuating neuroinflammation and glial reactivity in experimental parkinsonism*. **Experimental Neurology**, 381, 115942.
-   - [PMID: 42537743](https://pubmed.ncbi.nlm.nih.gov/42537743/) | [DOI: 10.1016/j.expneurol.2026.115942](https://doi.org/10.1016/j.expneurol.2026.115942)
+1. Natale G, et al. (2026). Transcranial magnetic stimulation recalibrates levodopa response by attenuating neuroinflammation and glial reactivity in experimental parkinsonism. *Experimental Neurology*. 381:115942.
+   - [PMID: 42537743](https://pubmed.ncbi.nlm.nih.gov/42537743/) | [DOI: 10.1016/j.expneurol.2026.115942](https://doi.org/10.1016/j.expneurol.2026.115942) (기존 노트의 저자명 "Gomez-Paz A"는 오류로 확인되어 정정)
    - **[연구 요약]**: 신경조절술이 미세아교세포·성상교세포 반응성을 억제해 레보도파 투여에 수반되는 운동성 합병증을 완화함을 규명.
-2. **Al-Moujahed A, et al. (2026)**. *Levodopa in retinal disease: Dopamine pathways, neuroprotective mechanisms, and clinical evidence*. **Survey of Ophthalmology**, 71(5), 1028-1042.
-   - [PMID: 41747836](https://pubmed.ncbi.nlm.nih.gov/41747836/) | [DOI: 10.1016/j.survophthal.2026.02.010](https://doi.org/10.1016/j.survophthal.2026.02.010)
+2. Murati F, et al. (2026). Levodopa in retinal disease: Dopamine pathways, neuroprotective mechanisms, and clinical evidence. *Survey of Ophthalmology*. 71(5):1028-1042.
+   - [PMID: 41747836](https://pubmed.ncbi.nlm.nih.gov/41747836/) | [DOI: 10.1016/j.survophthal.2026.02.010](https://doi.org/10.1016/j.survophthal.2026.02.010) (기존 노트의 저자명 "Al-Moujahed A"는 오류로 확인되어 정정)
    - **[연구 요약]**: 망막 내 도파민 경로와 아교세포 신경보호 작용에서 레보도파의 임상적 효과와 확장된 치료 잠재력을 고찰.
-3. **Sharma R, et al. (2026)**. *Therapeutics candidates and repurposing strategies to target parkinson's disease pathology: current evidence and future directions*. **Metabolic Brain Disease**.
+3. Dhanush Y, et al. (2026). Therapeutics candidates and repurposing strategies to target parkinson's disease pathology: current evidence and future directions. *Metabolic Brain Disease*. (기존 노트의 저자명 "Sharma R"는 오류로 확인되어 정정)
    - [PMID: 42714656](https://pubmed.ncbi.nlm.nih.gov/42714656/) | [DOI: 10.1007/s11011-026-01961-2](https://doi.org/10.1007/s11011-026-01961-2)
    - **[연구 요약]**: 레보도파를 중심으로 α-시누클레인 응집 억제 및 미토콘드리아 기능 보존을 목표로 하는 차세대 병용 전략 총정리.
-4. **Patel K, et al. (2026)**. *Neuroprotective efficacy of Nyctanthes arbor-tristis in a rotenone-induced rat model of Parkinson's disease*. **Journal of Ethnopharmacology**, 338, 121826.
+4. More A, et al. (2026). Neuroprotective efficacy of Nyctanthes arbor-tristis in a rotenone-induced rat model of Parkinson's disease. *Journal of Ethnopharmacology*. 338:121826. (기존 노트의 저자명 "Patel K"는 오류로 확인되어 정정)
    - [PMID: 42107754](https://pubmed.ncbi.nlm.nih.gov/42107754/) | [DOI: 10.1016/j.jep.2026.121826](https://doi.org/10.1016/j.jep.2026.121826)
    - **[연구 요약]**: 로테논 유도 파킨슨 모델에서 천연물의 신경보호 효과를 표준 약물인 L-도파와 비교 대조.
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): References 4건 모두 PMID·저널·제목은 esummary로 일치 확인했으나, 1번 저자명이 전부 오류로 확인되어 정정했습니다. PubChem CID 6047은 재확인 결과 정확했습니다.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 도파민전구체, 항파킨슨제 -->

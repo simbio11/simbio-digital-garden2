@@ -1,7 +1,7 @@
 ---
 title: TSH
 created: 2026-09-13
-updated: 2026-09-25
+updated: 2026-10-12
 tags:
   - 약리
   - 약리성분
@@ -29,8 +29,8 @@ aliases:
 
 ## 1. 기본 화학 정보 & 분자 구조식 (Chemical Identity)
 
-> [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
-> <iframe src="https://molecule-viewer-rho.vercel.app/?cid=1150" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
+> [!info] 🧪 3D 뷰어 미적용
+> TSH는 소분자가 아닌 약 28 kDa의 이종이량체 당단백질 호르몬이라 PubChem 소분자 CID가 없습니다(검색 결과 없음 확인). ⚠️ 기존 노트의 CID 1150은 TSH와 무관한 저분자 화합물(C10H12N2)을 가리키는 오류로 확인되어 제거했습니다.
 
 | 항목 | 상세 내용 |
 | :--- | :--- |
@@ -132,8 +132,10 @@ graph TD
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 
-1. Garber, J. R., et al. (2012). Clinical practice guidelines for hypothyroidism in adults. *Thyroid*, 22(12), 1200-1235. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23246686/)
-2. Kahaly, G. J., et al. (2018). 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. *European Thyroid Journal*, 7(4), 167-186. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30283735/)
-3. Ylli D, Soldin SJ, et al. (2021). Biotin Interference in Assays for Thyroid Hormones, Thyrotropin and Thyroglobulin. *Thyroid*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34042535/)
+1. Garber JR, et al. (2012). Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association. *Endocrine Practice*, 22(12), 1200-1235. PMID: [23246686](https://pubmed.ncbi.nlm.nih.gov/23246686/) (기존 노트의 저널 "Thyroid"는 오류로 확인되어 정정 — 실제는 *Endocrine Practice*)
+2. Kahaly GJ, et al. (2018). 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. *European Thyroid Journal*, 7(4), 167-186. PMID: [30283735](https://pubmed.ncbi.nlm.nih.gov/30283735/)
+3. Ylli D, Soldin SJ, et al. (2021). Biotin Interference in Assays for Thyroid Hormones, Thyrotropin and Thyroglobulin. *Thyroid*. PMID: [34042535](https://pubmed.ncbi.nlm.nih.gov/34042535/)
+
+> ⚠️ 내용 검토 필요 (2026-10-12 클로드): PubChem CID 오류(1150은 TSH와 무관한 저분자) — TSH는 PubChem에 CID가 없는 당단백질 호르몬이라 3D 뷰어를 제거했습니다. References 1번 저널 오류(Thyroid→Endocrine Practice) 정정, PMID 3건 전부 신규 확인·추가.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 당단백질호르몬, HPT축 -->
