@@ -1,7 +1,7 @@
 ---
 title: IL-4
 created: 2026-09-22
-updated: 2026-09-30
+updated: 2026-10-13
 tags:
   - 이론
   - 개념사전
@@ -65,7 +65,7 @@ category: 호르몬, 신호전달물질
 
 ## 9. 출처 및 학술 참고 문헌 (References)
 - UniProt [P05112](https://www.uniprot.org/uniprotkb/P05112) — IL-4 단백질 정보(서열·도메인)
-- Mendes-Junior EM, et al. *Nutrients* 2021;14(1):78. [PMID: 35010953](https://pubmed.ncbi.nlm.nih.gov/35010953/)
+- Lin CH, et al. American Ginseng Attenuates Eccentric Exercise-Induced Muscle Damage via the Modulation of Lipid Peroxidation and Inflammatory Adaptation in Males. *Nutrients* 2022;14(1):78. [PMID: 35010953](https://pubmed.ncbi.nlm.nih.gov/35010953/)
   - **[연구 요약]** 편심성 운동 후 IL-1β·IL-4·IL-10·TNF-α를 함께 측정했고, IL-4는 서양삼군에서 운동 전(P=0.011)과 72시간(P=0.028)에 낮게 유지됐다 — 항염 사이토카인 단독 해석의 한계를 보여준다.
 - *Goodman & Gilman's The Pharmacological Basis of Therapeutics* — 사이토카인·JAK-STAT 표적 약물 단원
 

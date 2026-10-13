@@ -1,7 +1,7 @@
 ---
 title: SHBG
 created: 2026-09-20
-updated: 2026-09-24
+updated: 2026-10-13
 tags:
   - 이론
   - 개념사전
