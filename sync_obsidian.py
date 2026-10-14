@@ -15,13 +15,15 @@ quartz_repo_path = Path(r"C:\Users\cmksc\quartz")
 # (2026-09-09 볼트 개편으로 00. 봇 운영 시스템/보고서 → _헤르메스/보고서 로 이동)
 FOLDER_MAPPINGS = {
     # 2026-09-25 볼트 4축 대개편 반영 — **사이트 경로명은 유지하고 소스만 새 경로로 연결**(URL 보존).
-    "0. 기본의학 공부": vault_path / "의학" / "00_기본의학",
-    "1. 근골격계 공부": vault_path / "의학" / "01_근골격계",
-    "2. 약리 공부": vault_path / "의학" / "02_약리",
-    "3. 이론 공부": vault_path / "의학" / "03_이론",
-    "5. 독서, 노트": vault_path / "의학" / "05_독서·논문",
+    "0. 기본의학 공부": vault_path / "_의학" / "00_기본의학",
+    "1. 근골격계 공부": vault_path / "_의학" / "01_근골격계",
+    "2. 약리 공부": vault_path / "_의학" / "02_약리",
+    "3. 이론 공부": vault_path / "_의학" / "03_이론",
+    "5. 독서, 노트": vault_path / "_의학" / "05_독서·논문",
     "보고서": vault_path / "_생활" / "보고서",
     "강의록": vault_path / "_지식" / "강의",   # 2026-09-24 비오님: 공개 유지
+    # 2026-09-25 볼트 루트 개편: 볼트 폴더는 `_첨부·자료`가 됐지만 **사이트 경로는 그대로 둔다**(URL 보존).
+    "7. 첨부·자료": vault_path / "_첨부·자료",
 }
 
 # 사이트에 올리지 않을 볼트 상대경로(posix). quartz.config.yaml 의 ignorePatterns 와 일치시킬 것.
@@ -31,6 +33,10 @@ EXCLUDE_REL_PREFIXES = (
     "7. 첨부·자료/임상례",
     # 2026-09-24 비오님 결정: 개인 단톡방 내용은 공개하지 않는다.
     "_지식/한의원 AI 자동화 톡방",
+    # 2026-10-14: 책 그림 원본(3.8GB, 13,555장)은 사이트로 복사하지 않는다.
+    #   그대로 두면 push 1회 2GB 제한·Pages 1GB 한도를 넘겨 배포가 깨진다.
+    #   사이트용 경량본은 content/7. 첨부·자료/책노트/ 에 따로 생성한다(prune 보호 대상).
+    "7. 첨부·자료/첨부파일/책노트",
 )
 
 # 개별 파일 단위 비공개 목록(content/ 기준 상대경로). scripts/phi_exclude.txt 참조.
@@ -133,8 +139,13 @@ def sync_folders():
 #    미러 루트 사본이 라이브에 계속 노출됨.
 #  · 안전장치 — 볼트 소스 폴더가 없으면 그 폴더는 절대 건드리지 않고,
 #    삭제 예정이 PRUNE_MAX_FILES 를 넘으면 '경로 이상'으로 보고 중단한다.
-PRUNE_MAX_FILES = 40  # 이 수를 넘으면 자동 삭제 중단(매핑 오작동으로 인한 대량 삭제 방지)
+PRUNE_MAX_FILES = int(os.environ.get("QUARTZ_PRUNE_MAX", "40"))  # 이 수를 넘으면 자동 삭제 중단(매핑 오작동으로 인한 대량 삭제 방지)
+# 2026-09-25: 볼트 4축 개편으로 유령 사본이 1,144개 → QUARTZ_PRUNE_MAX 로 1회 한도 상향 가능
 PRUNE_SKIP_NAMES = {"index.md"}  # 미러에서 생성/관리되는 파일 보호
+# 2026-10-14: 볼트에 원본이 없는 '배포 전용' 폴더 — prune(유령 사본 삭제) 대상에서 제외한다.
+#   · 7. 첨부·자료/책노트 = 사이트용 경량 이미지(책 그림). 원본 고해상도는 볼트 _첨부·자료/첨부파일/책노트 에 있고
+#     동기화에서 제외되므로, 이 폴더는 볼트 대응 파일이 없어 그냥 두면 전부 삭제된다.
+PRUNE_KEEP_PREFIXES = ("7. 첨부·자료/책노트",)
 PRUNE_LOG = quartz_repo_path / "logs" / "mirror_prune.log"
 
 
@@ -173,6 +184,9 @@ def prune_stale(apply=True):
             if any(part.startswith(".") for part in rel.parts):
                 continue
             if rel.name in PRUNE_SKIP_NAMES:
+                continue
+            rel_posix = rel.as_posix()
+            if any(rel_posix == p or rel_posix.startswith(p + "/") for p in PRUNE_KEEP_PREFIXES):
                 continue
             if not (src_folder / path.relative_to(dst_folder)).exists():
                 stale.append(path)
