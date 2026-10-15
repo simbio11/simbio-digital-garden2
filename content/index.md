@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,299</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,300</span></div>
 <div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">132,274</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+407</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+408</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">1,914</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="559" data-folders="45" data-tags="186"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 559 · 📁 45 · 🏷️ 186</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1359" data-folders="50" data-tags="639"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1359 · 📁 50 · 🏷️ 639</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2618" data-folders="167" data-tags="950"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2618 · 📁 167 · 🏷️ 950</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="368" data-folders="76" data-tags="91"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 368 · 📁 76 · 🏷️ 91</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="369" data-folders="80" data-tags="91"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 369 · 📁 80 · 🏷️ 91</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="205" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 205 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
