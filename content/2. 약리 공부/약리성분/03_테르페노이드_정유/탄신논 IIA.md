@@ -1,7 +1,7 @@
 ---
 title: 탄신논 IIA (Tanshinone IIA)
 created: 2026-09-05
-updated: 2026-10-11
+updated: 2026-10-15
 tags:
   - 약리
   - 약리성분
@@ -41,6 +41,12 @@ aliases:
 > [!abstract]+ 🧪 3D 약리 분자 구조 (Interactive 3D Viewer)
 > <iframe src="https://molecule-viewer-rho.vercel.app/?cid=164676" style="width: 100%; height: 600px; border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" allowfullscreen></iframe>
 
+![[탄신논 IIA_01_구조식_PubChem_CID164676.png|450]]
+> [그림 1: 탄신논 IIA(tanshinone IIA) 2D 화학 구조식 — 페난트렌퀴논 골격의 지용성 디테르페노이드 — 출처: PubChem — CID 164676 (Public Domain)]
+![[탄신논 IIA_03_Tanshinone_IIA_구조식.png|450]]
+> [그림 2: 탄신논 IIA 구조식(위키미디어 SVG 렌더) — 페난트렌퀴논 골격과 푸란환 — 출처: Wikimedia Commons — File:Tanshinone IIA.svg (Public domain)]
+
+
 탄신논 IIA는 단삼의 적색 색소를 구성하는 주요 친유성 지표 성분 중 하나로, 페난트로[1,2-b]퓨란-10,11-디온 골격을 지닌 디테르펜 퀴논 화합물이다.
 
 ```
@@ -68,6 +74,11 @@ aliases:
 ---
 
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
+
+![[탄신논 IIA_02_단삼_Salvia_miltiorrhiza_1.png|450]]
+> [그림 3: 단삼(Salvia miltiorrhiza) 건조 근 — 자색 외피를 가진 약용 뿌리 — 출처: Wikimedia Commons — File:Dried salvia miltiorrhiza.jpg (CC0)]
+![[탄신논 IIA_02_단삼_Salvia_miltiorrhiza_2.png|450]]
+> [그림 4: 단삼(Salvia miltiorrhiza) 건재 절편 — 자색 단면 — 출처: Wikimedia Commons — File:Purple salvia miltiorrhiza slices.jpg (CC0)]
 
 | 함유 본초 (한글/한자) | 기원 식물학적 명칭 (과명 / 학명) | 주요 함유 부위 | 한의학적 효능 특성 |
 | :--- | :--- | :--- | :--- |
@@ -171,3 +182,9 @@ aliases:
    - [연구 요약] 탄신논 IIA의 항죽상동맥경화 효과가 TNF-α 유도 VCAM-1·ICAM-1·CX3CL1 발현 억제와 관련됨을 규명.
 
 <!-- 보관 태그(1회용·링크오류, 필요시 복원): 페난트렌퀴논, 심근보호 -->
+
+---
+## 📎 개념 학습 보충 (2026-10-15 논문 연계)
+- **미세순환 축 (2026-10-15)** — [[목단과립]]([[단삼]] 포함)의 활혈 기전 설명에 [[탄신논 IIA]]의 미세혈관·항염 방향이 인용된다(PMID 42069162).
+- **주의** — 활혈 처방 병용 환자에서는 항혈전제와의 출혈 위험을 함께 평가한다.
+- 관련: [[단삼]] · [[목단과립]] · [[2026-10-15_통합의학약리학_심층리뷰]] 1번
