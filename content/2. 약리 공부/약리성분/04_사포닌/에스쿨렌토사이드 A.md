@@ -1,7 +1,7 @@
 ---
 title: 에스쿨렌토사이드 A
 created: 2026-09-22
-updated: 2026-10-11
+updated: 2026-10-17
 tags:
   - 약리
   - 약리성분
@@ -50,6 +50,9 @@ aliases:
 
 ---
 
+![[에스쿨렌토사이드_A_01_구조식_PubChem_CID11657924.png|480]]
+> [그림 1: ① 기본 화학 정보 — 에스쿨렌토사이드 A 구조식] 화학구조식(올레아난형 트리테르페노이드 사포닌). — 출처: PubChem — CID 11657924 (Public Domain)
+
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
 
 | 함유 본초 (한글/한자) | 한의학적 귀경 및 약효 특성 |
@@ -57,6 +60,13 @@ aliases:
 | [[상륙]] (商陸) | 준하축수(峻下逐水)·소종산결(消腫散結)의 강렬한 공하약(攻下藥)이자 독성 본초. 에스쿨렌토사이드 A는 상륙의 핵심 약리 성분이자 점막 자극 독성과도 연관된다. |
 
 ---
+
+![[에스쿨렌토사이드_A_02_기원_상륙_실사1.jpg|480]]
+> [그림 2: ② 기원 본초 — [[상륙]](商陸, Phytolacca esculenta) 실사 1] 약용부위인 뿌리를 만드는 식물의 전초 실사. — 출처: Wikimedia Commons — File:Karmozijnbes (Phytolacca esculenta).jpg (CC BY-SA 4.0)
+![[에스쿨렌토사이드_A_03_기원_상륙_실사2.jpg|480]]
+> [그림 3: ② 기원 본초 — 상륙 실사 2] 다른 각도의 상륙 전초 실사. — 출처: Wikimedia Commons — File:Karmozijnbes (Phytolacca esculenta) (2).jpg (CC BY-SA 4.0)
+![[에스쿨렌토사이드_A_04_기원_상륙_잎표피_현미경.jpg|480]]
+> [그림 4: ② 기원 본초 — 상륙 잎 표피 현미경 표본] 상륙 잎 표피·기공의 인상(프린트) 현미경 표본으로, 본초 감별(조직학) 자료. — 출처: Wikimedia Commons — File:Phytolacca esculenta Leaf epidermis and stomata print 4.jpg (CC BY-SA 4.0)
 
 ## 3. 분자약리 표적 & 신호전달 네트워크 (Molecular Targets)
 

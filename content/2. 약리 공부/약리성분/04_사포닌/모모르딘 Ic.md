@@ -1,7 +1,7 @@
 ---
 title: 모모르딘 Ic
 created: 2026-09-21
-updated: 2026-10-11
+updated: 2026-10-17
 tags:
   - 약리
   - 약리성분
@@ -49,6 +49,9 @@ aliases:
 
 ---
 
+![[모모르딘_Ic_01_구조식_PubChem_CID176596.png|480]]
+> [그림 1: ① 기본 화학 정보 — 모모르딘 Ic(Momordin Ic) 구조식] 화학구조식(올레아난형 트리테르페노이드 사포닌). — 출처: PubChem — CID 176596 (Public Domain)
+
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
 
 | 함유 본초 | 기원 식물학적 명칭 | 주요 함유 부위 | 한의학적 귀경 및 약효 특성 |
@@ -58,6 +61,13 @@ aliases:
 <font color="#fa7e7e">⚠️ 내용 검토 필요</font>: [[지부자]]의 귀경·약효와 모모르딘 Ic 함량 서술은 원문이며 이 노트에서 확인하지 못했습니다. 지부자(Kochiae Fructus)의 주된 생리활성 오탄고리 트리테르펜 사포닌이 모모르딘 Ic라는 서술은 아토피 피부염 연구(Yang 2026 — 참고문헌 4)의 배경 설명과 일치합니다.
 
 ---
+
+![[모모르딘_Ic_02_기원_지부자_Bassia_scoparia_1.jpg|480]]
+> [그림 2: ② 기원 본초 — [[지부자]](地膚子, Bassia scoparia) 실사 1] 약용부위인 열매를 맺는 식물의 전초 실사. — 출처: Wikimedia Commons — File:Bassia scoparia 15-p.bot-koch.scop-20.jpg (CC BY-SA 4.0)
+![[모모르딘_Ic_03_기원_지부자_Bassia_scoparia_2.jpg|480]]
+> [그림 3: ② 기원 본초 — 지부자 실사 2] 다른 각도의 지부자 전초 실사. — 출처: Wikimedia Commons — File:Bassia scoparia 15-p.bot-koch.scop-27.jpg (CC BY-SA 4.0)
+![[모모르딘_Ic_04_기원_지부자_Bassia_scoparia_3.jpg|480]]
+> [그림 4: ② 기원 본초 — 지부자 실사 3] 생육 후기(붉게 물든) 지부자 실사. — 출처: Wikimedia Commons — File:Bassia scoparia IMG 5774.jpg (CC BY-SA 4.0)
 
 ## 3. 분자약리 표적 & 신호전달 네트워크 (Molecular Targets)
 

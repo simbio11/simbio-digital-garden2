@@ -1,7 +1,7 @@
 ---
 title: 컴파운드 K
 created: 2026-09-22
-updated: 2026-10-11
+updated: 2026-10-17
 tags:
   - 약리
   - 약리성분
@@ -50,6 +50,13 @@ aliases:
 
 ---
 
+![[컴파운드_K_01_구조식_PubChem_CID9852086.png|480]]
+> [그림 1: ① 기본 화학 정보 — 컴파운드 K(Compound K) 구조식] 화학구조식(진세노사이드 장내 대사체, 다마란형 사포닌). — 출처: PubChem — CID 9852086 (Public Domain)
+![[컴파운드_K_02_모체사포닌_Rb1_구조식.png|480]]
+> [그림 2: ① 기본 화학 정보 — 모체 사포닌 [[진세노사이드]] Rb1 구조식] 컴파운드 K의 모체가 되는 [[진세노사이드]] Rb1의 화학구조식. — 출처: Wikimedia Commons — File:Ginsenoside Rb1.png (CC BY-SA 4.0)
+![[컴파운드_K_03_생합성경로_도해.png|480]]
+> [그림 3: ① 기본 화학 정보 — 진세노사이드 생합성 경로 도해] [[진세노사이드]] Rb1 생합성 경로를 도식화한 도해(전구체-효소 반응). — 출처: Wikimedia Commons — File:Biosynthesis of Ginsenoside Rb1.png (CC BY-SA 4.0)
+
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
 
 | 함유 본초 (한글/한자) | 한의학적 귀경 및 약효 특성 | 컴파운드 K 매개 약리 연계 |
@@ -58,6 +65,9 @@ aliases:
 | 발효홍삼(Fermented Red Ginseng) | 홍삼 가공 과정에서 생물 전환 | 체내 미생물 한계를 극복하기 위해 유산균·효모로 컴파운드 K를 직접 농축한 제제 |
 
 ---
+
+![[컴파운드_K_04_기원_인삼_식물.jpg|480]]
+> [그림 4: ② 기원 본초 — [[인삼]](Panax ginseng) 식물] 컴파운드 K의 출발 물질을 함유한 인삼 식물 실사. — 출처: Wikimedia Commons — File:Ginsengpflanze.jpg (CC BY 3.0)
 
 ## 3. 분자약리 표적 & 신호전달 네트워크 (Molecular Targets)
 

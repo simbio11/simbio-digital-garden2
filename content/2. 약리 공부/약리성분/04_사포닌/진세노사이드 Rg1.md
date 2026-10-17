@@ -1,7 +1,7 @@
 ---
 title: 진세노사이드 Rg1
 created: 2026-09-08
-updated: 2026-10-11
+updated: 2026-10-17
 tags:
   - 약리
   - 약리성분
@@ -49,6 +49,9 @@ aliases:
 
 ---
 
+![[진세노사이드_Rg1_01_구조식_PubChem_CID441923.png|480]]
+> [그림 1: ① 기본 화학 정보 — 진세노사이드 Rg1 구조식] 화학구조식(다마란형 트리테르펜 사포닌). — 출처: PubChem — CID 441923 (Public Domain)
+
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
 
 | 함유 본초 (한글/한자) | 한의학적 귀경 및 약효 특성 |
@@ -58,6 +61,13 @@ aliases:
 | [[삼칠]] (三七) | 화어지혈(化瘀止血) 본초. Rg1·Rb1 함량이 높아 심뇌혈관 질환 예방에 기여 |
 
 ---
+
+![[진세노사이드_Rg1_02_기원_인삼_식물.jpg|480]]
+> [그림 2: ② 기원 본초 — [[인삼]](Panax ginseng) 식물] 붉은 열매가 달린 인삼 식물 실사. — 출처: Wikimedia Commons — File:Ginsengpflanze.jpg (CC BY 3.0)
+![[진세노사이드_Rg1_03_기원_인삼_절편.jpg|480]]
+> [그림 3: ② 기원 본초 — 인삼 절편] 건조 인삼 뿌리의 절편 실사. — 출처: Wikimedia Commons — File:Jilin Mt. Changbai panax ginseng slices.jpg (CC0)
+![[진세노사이드_Rg1_04_기원_수삼_뿌리.jpg|480]]
+> [그림 4: ② 기원 본초 — 수삼 뿌리] 수확한 인삼 뿌리(수삼)의 실사. — 출처: Wikimedia Commons — File:Ginseng root (3526490396).jpg (CC BY-SA 2.0)
 
 ## 3. 분자약리 표적 & 신호전달 네트워크 (Molecular Targets)
 
