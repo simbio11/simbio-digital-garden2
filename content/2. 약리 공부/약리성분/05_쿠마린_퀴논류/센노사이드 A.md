@@ -60,6 +60,9 @@ aliases:
 * 대한민국약전(KP)의 대황 품질 표준화 지표 성분.
   * ⚠️ 내용 검토 필요: 볼트 [[대황]] 노트는 KP 규격을 센노사이드 A 0.25% 이상으로 적고 있으나 약전 원문은 온라인에서 확인하지 못했습니다.
 
+![[센노사이드 A_01_평면구조식.png|450]]
+> [그림 1: 센노사이드 A(Sennoside A)의 2D 평면 구조식 — PubChem CID 73111에서 내려받은 구조를 그대로 확인 — 출처: PubChem — CID 73111 (pubchem.ncbi.nlm.nih.gov/compound/73111)]
+
 ---
 
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
