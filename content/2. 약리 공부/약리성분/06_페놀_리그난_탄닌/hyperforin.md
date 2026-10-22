@@ -28,6 +28,9 @@ aliases:
 | **화학 골격 분류** | 아실플로로글루시놀(bicyclo[3.3.1]non-3-ene-2,9-dione 골격) |
 | **제제별 함량 편차** | 표준화 여부에 따라 상호작용 위험 편차 큼 |
 
+![[hyperforin_1_구조식.png|450]]
+> [그림 1: 2D 구조식 — 프레닐기가 여러 개 붙은 폴리케톤 유도체 — 출처: PubChem — https://pubchem.ncbi.nlm.nih.gov/compound/Hyperforin]
+
 ---
 
 ## 2. 주요 함유 본초 및 천연 기원 (Botanical Sources & Content)
@@ -37,6 +40,9 @@ aliases:
 | [[세인트존스워트]] (성요한풀) | *Hypericum perforatum* | 지상부(개화기 수확) |
 
 *(주: 세인트존스워트는 전통 한의학 본초가 아닌 서양 허브이며, 국내에서는 건강기능식품·수입 생약제제 형태로 유통됩니다.)*
+
+![[hyperforin_2_천연기원.png|450]]
+> [그림 2: 성요한풀(Hypericum perforatum) 꽃과 봉오리 — 출처: Wikimedia Commons — File:(MHNT) Hypericum perforatum flower and button (CC BY-SA 4.0)]
 
 ---
 

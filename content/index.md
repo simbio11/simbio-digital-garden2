@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,312</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">157,190</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+591</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,316</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">157,199</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+595</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,240</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="559" data-folders="45" data-tags="186"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 559 · 📁 45 · 🏷️ 186</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1377" data-folders="50" data-tags="668"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1377 · 📁 50 · 🏷️ 668</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2560" data-folders="167" data-tags="1241"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2560 · 📁 167 · 🏷️ 1241</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="403" data-folders="85" data-tags="104"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 403 · 📁 85 · 🏷️ 104</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="407" data-folders="85" data-tags="104"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 407 · 📁 85 · 🏷️ 104</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="219" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 219 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-10-22|경기 남부 21개 시군구 — 규제 10곳 11.43억 vs 비규제 9곳 4.39억, 평택 딥다이브]]<span class="sc-recent-d">2026-10-22</span>
+- [[개원 리서치-2026-10-22|개원 리서치-2026-10-22]]<span class="sc-recent-d">2026-10-22</span>
+- [[후보지 큐|후보지 큐]]<span class="sc-recent-d">2026-10-22</span>
+- [[주식 브리핑-2026-10-22|주식 브리핑-2026-10-22]]<span class="sc-recent-d">2026-10-22</span>
 - [[복약력 파악과 상호작용_처방약·일반약·건기식·한약_2026-10-21|복약력 파악과 상호작용_처방약·일반약·건기식·한약_2026-10-21]]<span class="sc-recent-d">2026-10-21</span>
 - [[호흡근 대사반사|호흡근 대사반사]]<span class="sc-recent-d">2026-10-21</span>
 - [[행동변화기법|행동변화기법]]<span class="sc-recent-d">2026-10-21</span>
 - [[동맥경직도|동맥경직도]]<span class="sc-recent-d">2026-10-21</span>
-- [[최대흡기압|최대흡기압]]<span class="sc-recent-d">2026-10-21</span>
-- [[비열등성 시험|비열등성 시험]]<span class="sc-recent-d">2026-10-21</span>
-- [[온침|온침]]<span class="sc-recent-d">2026-10-21</span>
-- [[원격재활|원격재활]]<span class="sc-recent-d">2026-10-21</span>
 
 </div>
 <!-- SC:RECENT:END -->
