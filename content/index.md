@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,325</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">157,660</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+603</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,330</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">157,673</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+608</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,243</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="559" data-folders="45" data-tags="186"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 559 · 📁 45 · 🏷️ 186</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1379" data-folders="51" data-tags="670"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1379 · 📁 51 · 🏷️ 670</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2565" data-folders="167" data-tags="1242"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2565 · 📁 167 · 🏷️ 1242</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="407" data-folders="85" data-tags="104"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 407 · 📁 85 · 🏷️ 104</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="412" data-folders="85" data-tags="104"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 412 · 📁 85 · 🏷️ 104</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="221" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 221 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-10-23|경기 서부·북부 21개 시군 스냅샷 - 남양주 딥다이브 + W8 지방 대장주 vs 수도권 비율 금요일 종합]]<span class="sc-recent-d">2026-10-23</span>
+- [[개원 리서치-2026-10-23|개원 리서치-2026-10-23]]<span class="sc-recent-d">2026-10-23</span>
+- [[강원 춘천_후보지카드|강원 춘천_후보지카드]]<span class="sc-recent-d">2026-10-23</span>
+- [[주식 브리핑-2026-10-23|주식 브리핑-2026-10-23]]<span class="sc-recent-d">2026-10-23</span>
 - [[갈근금련탕|갈근금련탕]]<span class="sc-recent-d">2026-10-22</span>
 - [[장내 미생물|장내 미생물]]<span class="sc-recent-d">2026-10-22</span>
 - [[림프부종|림프부종]]<span class="sc-recent-d">2026-10-22</span>
 - [[면역관련 이상반응|면역관련 이상반응]]<span class="sc-recent-d">2026-10-22</span>
-- [[복합 감압요법|복합 감압요법]]<span class="sc-recent-d">2026-10-22</span>
-- [[수기 림프드레나지|수기 림프드레나지]]<span class="sc-recent-d">2026-10-22</span>
-- [[2026-10-22_통합의학약리학_개념학습|2026-10-22_통합의학약리학_개념학습]]<span class="sc-recent-d">2026-10-22</span>
-- [[2026-10-22_통합의학약리학_심층리뷰|2026-10-22_통합의학약리학_심층리뷰]]<span class="sc-recent-d">2026-10-22</span>
 
 </div>
 <!-- SC:RECENT:END -->

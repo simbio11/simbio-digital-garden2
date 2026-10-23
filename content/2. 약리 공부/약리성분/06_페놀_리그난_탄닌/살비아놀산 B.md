@@ -1,7 +1,7 @@
 ---
 title: 살비아놀산 B
 created: 2026-09-21
-updated: 2026-10-11
+updated: 2026-10-23
 tags:
   - 약리
   - 약리성분
@@ -64,6 +64,9 @@ aliases:
   * 세 분자의 댄센수(Danshensu, 살비아산 A)와 한 분자의 카페산(Caffeic acid)이 축합된 독특한 테트라머(Tetramer) 폴리페놀 구조.
   * 단삼의 지용성 성분인 탄신논(Tanshinone)과 대비되는 **단삼의 대표 수용성(Water-soluble) 유효 지표 성분**.
   * ⚠️ 내용 검토 필요: 'Lithospermic acid B 유도체'라는 원문 표현과 달리 PubChem에서는 같은 CID의 동의어입니다. 마그네슘염(magnesium lithospermate B)은 별도 레코드(CID 6918234)입니다. 구성 단위(댄센수 3분자+카페산 1분자) 서술은 논문으로 확인하지 못했습니다.
+
+![[살비아놀산B_1_구조식.png|450]]
+> [그림 1: 살비아놀산 B(salvianolic acid B)의 2D 구조식 — 분자식 C36H30O16, 분자량 718.6. 페놀성 수산기와 공액 이중결합이 항산화·항염 활성의 구조적 근거가 된다 — 출처: PubChem — CID 6451084 (Compound Summary, 2D Structure)]
 
 ---
 
