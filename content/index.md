@@ -28,10 +28,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,338</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">158,078</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+616</span></div>
-<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,247</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,340</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">158,642</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+618</span></div>
+<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,248</span></div>
 </div>
 <!-- SC:STATS:END -->
 
@@ -54,8 +54,8 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="0.-기본의학-공부/00_기본의학_MOC" style="--c:var(--cat-exam)" data-files="36" data-folders="9" data-tags="150"><span class="sc-ico">🩺</span><span class="sc-txt"><span class="sc-name">기본의학</span><span class="sc-sub"><span class="sc-desc">레드플래그 · 응급 감별 · 소화기 · 신경계</span><span class="sc-count">📄 36 · 📁 9 · 🏷️ 150</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="559" data-folders="45" data-tags="186"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 559 · 📁 45 · 🏷️ 186</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1382" data-folders="51" data-tags="671"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1382 · 📁 51 · 🏷️ 671</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2566" data-folders="167" data-tags="1242"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2566 · 📁 167 · 🏷️ 1242</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="413" data-folders="85" data-tags="104"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 413 · 📁 85 · 🏷️ 104</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2566" data-folders="167" data-tags="1243"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2566 · 📁 167 · 🏷️ 1243</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="415" data-folders="85" data-tags="104"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 415 · 📁 85 · 🏷️ 104</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="223" data-folders="20" data-tags="419"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 223 · 📁 20 · 🏷️ 419</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,6 +65,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-10-24|지방 특집 — 지방 11곳 가격·전세가율 지도 + 울산 남구 딥다이브 + W8 지방 대장주 최종 교차검증]]<span class="sc-recent-d">2026-10-24</span>
 - [[근골격 초음파_소견 읽기와 활용_2026-10-23|근골격 초음파_소견 읽기와 활용_2026-10-23]]<span class="sc-recent-d">2026-10-23</span>
 - [[갈카네주맙|갈카네주맙]]<span class="sc-recent-d">2026-10-23</span>
 - [[에레누맙|에레누맙]]<span class="sc-recent-d">2026-10-23</span>
@@ -72,7 +73,6 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 - [[용량-반응 메타분석|용량-반응 메타분석]]<span class="sc-recent-d">2026-10-23</span>
 - [[2026-10-23_신경계통증의학_개념학습|2026-10-23_신경계통증의학_개념학습]]<span class="sc-recent-d">2026-10-23</span>
 - [[2026-10-23_신경계통증의학_심층리뷰|2026-10-23_신경계통증의학_심층리뷰]]<span class="sc-recent-d">2026-10-23</span>
-- [[부동산 브리핑-2026-10-23|경기 서부·북부 21개 시군 스냅샷 - 남양주 딥다이브 + W8 지방 대장주 vs 수도권 비율 금요일 종합]]<span class="sc-recent-d">2026-10-23</span>
 
 </div>
 <!-- SC:RECENT:END -->
