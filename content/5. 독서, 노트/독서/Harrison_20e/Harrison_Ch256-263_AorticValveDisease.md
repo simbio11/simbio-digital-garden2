@@ -9,7 +9,7 @@ created: 2026-10-24
 updated: 2026-10-24
 status: completed
 source_file: "해리슨 내과학 2권-1.pdf"
-source_url: "https\://drive.google.com/open?id=1Z3pH7aFxSIUbGc9cQY-w__nX2-zKkyla"
+source_url: "https://drive.google.com/open?id=1Z3pH7aFxSIUbGc9cQY-w__nX2-zKkyla"
 volume: "Harrison's Principles of Internal Medicine, 20th ed."
 section_pages: "pp. 1802–1828"
 chapters: "Ch 256–263"

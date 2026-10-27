@@ -5,9 +5,10 @@ tags:
   - 독서
   - 책노트
 type: 의학원서_요약노트
-source_pdf: "https\://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a"
+source_pdf: "https://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a"
 source_pages: "pp. 1239–1269"
 created: "2026-10-23"
+aliases:
   - "해리슨 20판 Ch173-175"  
   - "Tuberculosis"  
   - "Leprosy (Hansen's Disease)"  

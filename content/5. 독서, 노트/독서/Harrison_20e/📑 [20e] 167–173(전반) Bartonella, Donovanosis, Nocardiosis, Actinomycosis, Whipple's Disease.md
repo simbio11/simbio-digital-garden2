@@ -5,9 +5,10 @@ tags:
   - 독서
   - 책노트
 type: 의학원서_요약노트
-source_pdf: "https\://drive.google.com/open?id=1fKnai1RTmAdECOHse6pPrpuPwy41M-nh"
+source_pdf: "https://drive.google.com/open?id=1fKnai1RTmAdECOHse6pPrpuPwy41M-nh"
 source_pages: "pp. 1209–1238"
 created: "2026-10-23"
+aliases:
   - "해리슨 20판 Ch167-173"  
   - "Bartonella Infections, Including Cat-Scratch Disease"  
   - "Donovanosis"  
