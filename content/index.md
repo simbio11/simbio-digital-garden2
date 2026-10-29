@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,915</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">165,021</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+690</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,919</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">165,128</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+694</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,372</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="560" data-folders="45" data-tags="192"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 560 · 📁 45 · 🏷️ 192</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1392" data-folders="51" data-tags="678"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1392 · 📁 51 · 🏷️ 678</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2592" data-folders="167" data-tags="1333"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2592 · 📁 167 · 🏷️ 1333</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="438" data-folders="95" data-tags="120"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 438 · 📁 95 · 🏷️ 120</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="442" data-folders="95" data-tags="120"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 442 · 📁 95 · 🏷️ 120</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="735" data-folders="45" data-tags="420"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 735 · 📁 45 · 🏷️ 420</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-10-29|경기 남부 84㎡ 가격 지도 — 평촌 재건축 2.9배 경합과 3축 첫 통과]]<span class="sc-recent-d">2026-10-29</span>
+- [[개원 리서치-2026-10-29|개원 리서치-2026-10-29]]<span class="sc-recent-d">2026-10-29</span>
+- [[주식 브리핑-2026-10-29|주식 브리핑-2026-10-29]]<span class="sc-recent-d">2026-10-29</span>
 - [[감초 가성알도스테론증_진단·용량·고위험군_2026-10-28|감초 가성알도스테론증_진단·용량·고위험군_2026-10-28]]<span class="sc-recent-d">2026-10-28</span>
 - [[2026-10-28_재활운동의학_심층리뷰|재활운동의학 심층리뷰]]<span class="sc-recent-d">2026-10-28</span>
 - [[부동산 브리핑-2026-10-28|서울 도심·강북 14개구 — 재건축 사업 단계 × 가격 배수 실측]]<span class="sc-recent-d">2026-10-28</span>
 - [[개원 리서치-2026-10-28|개원 리서치-2026-10-28 (경기 안양 평촌·범계)]]<span class="sc-recent-d">2026-10-28</span>
 - [[경기 안양 평촌·범계_후보지카드|경기 안양 평촌·범계_후보지카드]]<span class="sc-recent-d">2026-10-28</span>
-- [[영화·콘텐츠 추천-2026-10-28|영화·콘텐츠 추천-2026-10-28]]<span class="sc-recent-d">2026-10-28</span>
-- [[주식 브리핑-2026-10-28|주식 브리핑-2026-10-28]]<span class="sc-recent-d">2026-10-28</span>
-- [[AOFAS 발목-후족 점수|AOFAS 발목-후족 점수]]<span class="sc-recent-d">2026-10-27</span>
 
 </div>
 <!-- SC:RECENT:END -->

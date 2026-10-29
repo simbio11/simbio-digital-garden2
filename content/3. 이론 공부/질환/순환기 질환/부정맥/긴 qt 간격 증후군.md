@@ -52,6 +52,12 @@ status: 완결
 
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
 
+![[긴qt간격증후군_01_부정맥기전.png|450]]
+> [그림 1: 긴 QT에서 부정맥이 생기는 3가지 기전 도해 — A. 조기후탈분극(EADs, IKr·ICaL 재활성), B. 지연후탈분극(DADs, SR 칼슘 유리), C. 짧은 불응기와 느린 전도가 만드는 파형분절(wavebreak)과 회귀(re-entry)로, TdP가 시작되는 전기생리학적 경로를 보여준다 — 출처: Wikimedia Commons — File:Mechanisms of arrhythmia.jpg (CC BY-SA 4.0)]
+
+![[긴qt간격증후군_02_QTc분포곡선.png|450]]
+> [그림 2: 교정 QT(QTc) 간격의 분포 곡선 — 정상 남성(약 400ms)과 정상 여성(약 415ms)은 좁은 종 모양 분포를 보이는데, 긴 QT 증후군 환자군은 480~600ms 쪽으로 넓게 퍼진 별도의 곡선을 이룬다. QTc 480ms 이상을 병적 연장으로 보는 근거가 되는 그림 — 출처: Wikimedia Commons — File:QT distribution.png (CC BY-SA 4.0)]
+
 ### 1) 조기 후탈분극(EAD)과 토르사드 드 포인트 발생 기전
 - **재분극 지연과 활동전위 기간(APD) 연장**:
   - 외향 칼륨 전류 감소 또는 내향 나트륨/칼슘 전류 지속으로 3기 재분극이 심각하게 지연됨.
@@ -79,6 +85,15 @@ flowchart TD
 ---
 
 ## 3. 임상 증상 & 이학적 검사(Physical Exam) 알고리즘
+
+![[긴qt간격증후군_03_LQT아형심전도.jpg|450]]
+> [그림 3: LQT1·LQT2·LQT3 아형별 심전도 — 세 유도 모두 QT가 길지만 T파 모양이 다르다. LQT1은 넓고 매끈한 T파, LQT2는 낮고 갈라진(notched) T파, LQT3는 후기 시작에 뾰족한 T파를 보인다 — 출처: Wikimedia Commons — File:Long QT subtypes.jpg (CC BY-SA 4.0)]
+
+![[긴qt간격증후군_04_QTc480심전도.jpg|450]]
+> [그림 4: LQT1 환자의 심전도 — RR 간격에 견준 QT 간격이 화살표로 표시돼 있고 QTc > 480ms로 측정된 예. QT 연장을 눈으로 재는 방법(QT/RR 제곱근)을 보여준다 — 출처: Wikimedia Commons — File:Long QT syndrome type 1.jpg (CC BY-SA 4.0)]
+
+![[긴qt간격증후군_05_제르벨랑주니엘.png|450]]
+> [그림 5: 제르벨-랑주니엘 증후군(JLNS)의 두 가지 특징 — 왼쪽은 QT가 길게 늘어진 심전도, 오른쪽은 선천성 감각신경성 난청을 상징하는 귀 그림. 상염색체 열성형 긴 QT 증후군에서 QT 연장과 난청이 함께 나타남을 보여준다 — 출처: Wikimedia Commons — File:Jervell and Lange-Nielsen features.jpg (CC BY-SA 4.0)]
 
 ### 1) 주요 임상 증상
 - **실신 (Syncope)**: TdP 발생 시 뇌 혈류가 수 초간 중단되어 쓰러짐. 종종 뇌전증(간질) 발작으로 오진되는 강직성 경련 동반.
