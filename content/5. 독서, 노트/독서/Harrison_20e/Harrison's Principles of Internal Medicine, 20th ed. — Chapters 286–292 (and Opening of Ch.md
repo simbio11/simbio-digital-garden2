@@ -93,7 +93,8 @@ type: 의학원서_요약노트
 > * **산-염기 평가**: $PC{O}_{2}$ 10 mmHg 상승당 pH 감소폭은 **급성 상태에서 0.08 단위**, **만성 상태에서 0.03 단위**이다(환기부전 기준: $PC{O}_{2}>45mmHg$).  
 > * **BODE 지수**: 체질량지수(**B**MI), 기류 폐쇄(**O**bstruction), 호흡곤란(**D**yspnea), 운동 능력(**E**xercise performance)을 통합한 다인자 지수로 폐기능 단독보다 사망률 예측력이 우수하다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p1995.png]]  
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+  
 ![[Harrison_V2_Ch286_Fig6.png]]
 
 > * **안정기 COPD의 GOLD ABCD 평가 및 치료 (Fig. 286-5, Fig. 286-6)** (pp. 1995–1997):  

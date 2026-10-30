@@ -64,7 +64,8 @@ chapters: "Ch 244–252"
 > * 회귀 파면(wavefront)은 이 느린 경로(slow pathway)를 타고 치밀 방실결절로 올라간 뒤 방실결절 상부의 빠른 경로(fast pathway)로 빠져나간다. 다시 느린 경로로 돌아가는 길은 관상정맥동 근육층과 연결된 좌심방 중격(left atrial septum)을 포함하는 것으로 추정된다.  
 > * 보다 드문 형태의 AVNRT는 관상정맥동 천장(roof)을 통해 치밀 방실결절로 연결되는 좌측 하방 연장부(left inferior extension)를 이용하거나, 극히 드문 경우 관상정맥동 근육층을 완전히 우회하여 승모판륜(mitral valve annulus)에서 직접 연결된다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p1739.png]]  
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+  
 - **FIGURE 244-1 캡션 (p.1739)**: 방실결절 회귀(Atrioventricular [AV] node reentry). **A.** 유도 II와 ${V}_{1}$이 제시되어 있다. P파가 QRS군의 끝에 보이며 유도 II에서 음성이고, 하벽 사지유도 II, III, aVF에서 S파처럼 보이게 하고(pseudo-S) 유도 ${V}_{1}$에서 $R'$파처럼 보이게(pseudo-r') 할 수 있다. **B.** 코흐 삼각형(triangle of Koch, Fig. 242-1 참조) 내의 방실결절 회귀 회로를 도식화한 모습으로, 방실결절과 그 연장부 및 결절주위 심방 조직을 포함한다(Tricuspid valve, Inferior AV node extension: Slow pathway, Compact AV node: Fast pathway, CS).
 
 > * **심전도 및 혈역학적 특징 (p.1739)**:  
@@ -132,7 +133,8 @@ chapters: "Ch 244–252"
 > * **조기흥분 심방세동(Preexcited AF) (p.1741)**: AP가 매우 빠른 반복 전도를 허용하면 AF와 심방조동은 생명을 위협할 수 있다. 조기흥분을 유발하는 AP의 약 25%(~25%)는 AF 동안 최소 R-R 간격 \<250 ms를 허용하며, 이는 심실세동(VF) 유발 및 급사의 더 높은 위험과 연관된다. 조기흥분 AF는 넓은 QRS의 매우 불규칙한 리듬으로 나타나며, 방실결절과 AP를 통한 활성화 융합 정도의 변이로 인해 박동마다 QRS 모양이 기괴하게 변하거나 모든 박동이 AP 전도에 의할 수 있다(Fig. 244-5).  
 > * **금기 약물 및 급성 치료 (p.1741)**: 푸르키녜 체계로부터의 심실 활성화는 AP의 심실 쪽 끝을 탈분극시켜 심방 파면이 AP로 전도되는 것을 막을 수 있다. 따라서 AP 전도를 늦추지 않고 방실결절 전도만 늦추면 오히려 AP 전도를 촉진하여 심실 박동수를 위험하게 가속화할 수 있다. **경구 또는 정맥주사 베라파밀, 딜티아젬, 베타차단제, 정맥주사 아데노신(adenosine), 정맥주사 아미오다론(amiodarone)을 포함한 방실결절 차단제 투여는 조기흥분 AF 동안 금기(contraindicated)**이다. 빠른 조기흥분 빈맥은 **전기적 심율동전환(electrical cardioversion)** 또는 **정맥주사 프로카인아미드(procainamide)나 이부틸리드(ibutilide)**로 치료해야 한다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p1742.png]]  
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+  
 - **FIGURE 244-5 캡션 (p.1742)**: 좌심실 자유벽 부전도로(AP)를 통한 전도로 인한 조기흥분 심방세동(AF). 심전도는 방실결절과 좌심실 자유벽 AP를 통한 전도 사이의 융합을 나타내는 빠르고 불규칙한 QRS군을 보여준다. 이 증례에서처럼 조기흥분된 QRS군 사이의 최단 R-R 간격이 \<250 ms인 것은 이 부정맥으로 인한 급사 위험을 나타낸다.
 
 > * **부전도로 환자의 관리 (Management of Patients with APs) (pp.1741–1742)**:  
@@ -396,7 +398,8 @@ chapters: "Ch 244–252"
 > * 전기적·약물적·자연적 동리듬 전환 직후 곧바로 재발을 반복하는 VT를 무정지 VT라 한다(Fig. 251-1).  
 > * **항빈맥 조율(ATP)**은 매우 빠른 VT에서도 **VT 에피소드의 >70%를 효과적으로 종료**시킨다. 일차 예방 ICD 환자에서 **VF 검출 구간을 >220 beats/min**으로 설정하고 검출 시간을 길게 설정하면 불필요하고 부적절한 쇼크를 유의하게 줄일 수 있다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p1762.png]]  
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+  
 - **FIGURE 251-1 캡션 (p.1762)**: 무정지 단형성 VT(incessant monomorphic VT)의 예. 4번째 VT군에서 시작된 항빈맥 조율(화살표 괄호 구간)이 8번째 박동에서 융합을 동반한 심실 포획을 유도하여 조율 중단 시 VT를 종료시키나, 기저 심방세동과 다초점성 PVC가 있는 상태에서 기록 후반부에 동일한 형태의 VT가 자연적으로 다시 시작된다(화살표).
 
 ## **11. 제252장 심부전: 병태생리 및 진단 (Heart Failure: Pathophysiology and Diagnosis) (pp.1763–1768)**

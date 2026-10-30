@@ -185,7 +185,8 @@ type: 의학원서_요약노트
 > * $SV\propto (Preload\times Contractility)/SVR$  
 > * 세포의 $N{a}^{+}/{K}^{+}$ ATPase는 세포 에너지의 **20–80%**를 소모하며, 산소 공급 부족으로 혐기성 대사(피루브산 $\rightarrow$ 젖산)로 전환되면 ATP가 고갈되어 세포 부종과 사멸이 일어난다.
 
-![[Harrison_V2_Ch296_Tab1.png]]  
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+  
 ![[Harrison_V2_Ch296_Tab2.png]]
 
 > * **쇼크의 4대 분류 및 혈역학적 특성 (Table 296-1, Table 296-2)** (p. 2039):
@@ -281,7 +282,8 @@ type: 의학원서_요약노트
 
 ![[Harrison_V2_Ch298_Fig2.png]]  
 ![[Harrison_V2_Ch298_Tab2.png]]  
-![[Harrison_V2_Ch298_Tab3.png]]
+
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 
 > * **심인성 쇼크의 응급 치료 및 최신 임상시험 근거 (Fig. 298-2, Table 298-2, Table 298-3)** (pp. 2053–2056):  
 > * **조기 재관류(Reperfusion-Revascularization — 사망률을 감소시키는 유일한 근거 중심 치료)**:  

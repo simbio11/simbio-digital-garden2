@@ -109,7 +109,8 @@ type: 의학원서_요약노트
 
 ### **5.1 주요 장내 기생 선충의 비교 및 회충증·구충증 (pp.1625–1627)**
 
-![[Harrison_V1_Ch227_Tab1.png]] - **표 227-1 (주요 인체 장내 기생 선충의 특성 비교, p.1626)**:
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+ - **표 227-1 (주요 인체 장내 기생 선충의 특성 비교, p.1626)**:
 
 | 특성 | 회충 (*Ascaris lumbricoides*) | 구충 (*Necator americanus, Ancylostoma duodenale*) | 분선충 (*Strongyloides stercoralis*) | 편충 (*Trichuris trichiura*) | 요충 (*Enterobius vermicularis*)   |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -161,7 +162,9 @@ type: 의학원서_요약노트
 > * 성충(암컷 $40–60cm$, 수컷 $3–6cm$, 평균 수명 $\sim 9$년[최대 18년])은 골돌기 위 피하결절(**onchocercomata**, 촉지 결절 1개당 심부 비촉지 결절 4개 존재)에 살고, 병변은 성충이 아닌 **미세사상충**에 의해 유발된다. 심한 소양성 구진 발진(그림 228-3), 과반응성 국소 피부염(**소다, sowdah**), 서혜부 이완 림프절비대(**늘어진 사타구니, hanging groin**), **나칼랑가 왜소증(Nakalanga dwarfism)**, **끄덕임 증후군(nodding syndrome)** 뇌전증, 그리고 눈의 점상 각막염('눈송이 snowflake' 혼탁)·경화성 각막염(실명의 주원인, 1–5%)·전방포도막염(\$\\sim 5\\%\$)·맥락망막염·시신경위축을 일으킨다. (pp.1632–1633)
 
 ![[Harrison_V1_Ch228_Fig3.png]] - **그림 228-3 캡션**: 회선사상충증(onchocerciasis)의 결과로 발생한 구진성 발진(papular eruption). (p.1633) - 무혈 피부 생검(skin snip, $1–3mm$)을 생리식염수에 2–4시간 배양하여 기어나오는 미세사상충을 확인하며, **이버멕틴(\$150\\ \\mu\\text{g/kg}\$ 단회, 6–12개월마다)** 및 암컷 성충을 불임화하는 **6주 독시사이클린**으로 치료한다(단, *Loa loa* 동시 유행 지역에서 미세사상충 $>30,000/mL$인 경우 이버멕틴 투여 시 치명적 뇌병증 위험으로 금기). (pp.1633–1634) - **로아사상충증(Loiasis — *Loa loa*, 아프리카 안충)**: 성충의 결막하 이동(그림 228-4)과 일시적 국소 혈관부종인 **칼라바르 종창(Calabar swellings)**이 특징이다. **DEC($8–10mg/kg/d$ 경구 21일간; 예방은 주 1회 $300mg$)**로 치료하며, 중감염 시 뇌병증 예방을 위해 성분채집술(apheresis) 및 글루코코르티코이드(프레드니손 $40–60mg/d$) 전처치 후 저용량 DEC($0.5mg/kg/d$)부터 증량한다. (p.1634)  
-![[Harrison's Principles of Internal Medicine, 20th ed._p1634.png]] - **그림 228-4 캡션**: 결막하 이동 후 외과적으로 제거되고 있는 *Loa loa* 성충. (p.1634) - **만소넬라증 및 인수공통 사상충증**: *Mansonella streptocerca*는 이버멕틴(\$150\\ \\mu\\text{g/kg}\$ 단회), *Wolbachia*를 보유한 *M. perstans*는 **독시사이클린($200mg$ bid 6주)**, *M. ozzardi*는 이버멕틴으로 치료한다. 개 심장사상충(*Dirofilaria immitis*)은 인체에서 단일 폐결절(coin lesion)로 발현하며 절제 생검만으로 진단·치료된다. (pp.1634–1635) - **메디나충증(Dracunculiasis, 기니충 감염 — *Dracunculus medinensis*)**: 2017년 전 세계(차드·에티오피아)에서 단 30례만 보고되었다. 물벼룩(*Cyclops*)에 오염된 식수 섭취 약 1년 후 하지 피부에 수포·궤양을 형성하며 $30cm–1m$ 암컷 성충이 출현한다. 매일 막대기에 수 cm씩 감아 서서히 뽑아내는 것이 치료법이다. (p.1635)
+
+> ⚠️ **이미지 미확보 (2026-10-30)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
+ - **그림 228-4 캡션**: 결막하 이동 후 외과적으로 제거되고 있는 *Loa loa* 성충. (p.1634) - **만소넬라증 및 인수공통 사상충증**: *Mansonella streptocerca*는 이버멕틴(\$150\\ \\mu\\text{g/kg}\$ 단회), *Wolbachia*를 보유한 *M. perstans*는 **독시사이클린($200mg$ bid 6주)**, *M. ozzardi*는 이버멕틴으로 치료한다. 개 심장사상충(*Dirofilaria immitis*)은 인체에서 단일 폐결절(coin lesion)로 발현하며 절제 생검만으로 진단·치료된다. (pp.1634–1635) - **메디나충증(Dracunculiasis, 기니충 감염 — *Dracunculus medinensis*)**: 2017년 전 세계(차드·에티오피아)에서 단 30례만 보고되었다. 물벼룩(*Cyclops*)에 오염된 식수 섭취 약 1년 후 하지 피부에 수포·궤양을 형성하며 $30cm–1m$ 암컷 성충이 출현한다. 매일 막대기에 수 cm씩 감아 서서히 뽑아내는 것이 치료법이다. (p.1635)
 
 ## **7. 제229장 주혈흡충증 및 기타 흡충 감염 (Schistosomiasis and Other Trematode Infections) (pp.1635–1640)**
 
