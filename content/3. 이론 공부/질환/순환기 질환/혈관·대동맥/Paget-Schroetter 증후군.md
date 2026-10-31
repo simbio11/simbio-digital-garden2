@@ -32,6 +32,9 @@ status: 완결
 
 ## 1. 질환 개요 & 해부학적 병태생리
 
+![[PagetSchroetter증후군_1_액와쇄골하정맥해부.png|450]]
+> [그림 1: 액와정맥·쇄골하정맥 해부 도해(Gray's Anatomy 576) — 늑골·쇄골 사이 좁은 공간을 지나는 혈관 주행을 보여주며, 흉곽출구에서 반복 부하로 압박·혈전이 생기는 부위를 설명한다 — 출처: Wikimedia Commons — File:Gray576.png (Public domain)]
+
 **Paget-Schroetter 증후군(Paget-Schroetter Syndrome, PSS)**은 **노력성 혈전증(Effort Thrombosis)** 또는 **정맥형 흉곽출구 증후군(Venous Thoracic Outlet Syndrome, vTOS)**으로도 불린다. 건강하고 젊은 운동선수나 육체 노동자가 상지를 머리 위로 올리는 격렬하고 반복적인 동작(Overhead activity)을 수행한 후, 액와정맥(Axillary vein) 및 쇄골하정맥(Subclavian vein)에 급성 혈전이 발생하는 질환이다.
 
 전체 상지 심부정맥 혈전증(Upper Extremity DVT, UEDVT)의 약 10~20%를 차지하며, 중심정맥관 삽입 등에 의한 이차성 혈전증과 달리 기계적 해부학적 이상에 기반한 원발성 혈전증이다.
@@ -41,6 +44,9 @@ status: 완결
 ---
 
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
+
+![[PagetSchroetter증후군_2_상지정맥조영.png|450]]
+> [그림 2: 상지 정맥조영술 — 액와-쇄골하정맥 구간에서 조영제가 끊겨 통과하지 못하는 폐쇄 소견. 화면에 'RIGHT' 표기와 촬영 위치 표식(가위 모양)이 함께 찍혀 있다 — 출처: Wikimedia Commons — File:A-case-of-Paget-Schroetter-syndrome-(PSS)-in-a-young-judo-athlete.jpg (PMC 기반 증례) (CC BY 4.0)]
 
 PSS의 생체역학적 및 혈전성 악순환 경로는 다음과 같다.
 
@@ -120,13 +126,16 @@ PSS의 생체역학적 및 혈전성 악순환 경로는 다음과 같다.
 
 ### 3) 한약 처방 (활혈거어 및 서근활락)
 * **어혈응체 및 경락어저 (瘀血凝滯·經絡瘀沮) - 수술 후 잔여 둔통 및 저림**:
-  * **[[당귀수산]] (當歸鬚散)** 또는 **계지복령환 (桂枝茯苓丸) 가감**: 당귀, 적작약, 도인, 홍화, 계지. 상지 미세혈류 순환 촉진.
+  * [[당귀수산]] (當歸鬚散) 또는 **계지복령환 (桂枝茯苓丸) 가감**: 당귀, 적작약, 도인, 홍화, 계지. 상지 미세혈류 순환 촉진.
   * **서근활락탕 (舒筋活絡湯)**: 흉곽 주변 인대 및 건의 유연성 회복.
 * **⛔ 항응고제 복용 환자 투약 주의**: 수술 후 항응고제 복용 기간 중에는 출혈 위험 본초 엄금.
 
 ---
 
 ## 6. 양방 치료 & 병용·의뢰 기준 (Conventional Treatment & Referral)
+
+![[PagetSchroetter증후군_6_혈전용해후조영.png|450]]
+> [그림 3: 혈관내 혈전용해(TPA 17시간) 후 촬영한 정맥조영 — 폐쇄되었던 액와-쇄골하정맥이 다시 조영되어 재개통된 모습 — 출처: Wikimedia Commons — File:A-case-of-Paget-Schroetter-syndrome-(PSS)-in-a-young-judo-athlete.jpg (PMC 기반 증례) (CC BY 4.0)]
 
 ### 1) 현대 다단계 표준 치료 프로토콜 (Multimodal Algorithm)
 단순 항응고제 단독 치료는 50% 이상에서 만성 상지 장애(혈전후 증후군)를 남기므로, 적극적인 다단계 치료가 원칙이다:

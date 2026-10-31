@@ -11,11 +11,12 @@ type: 의학원서_요약노트
 
 **※ 제197장 중간(p. 1428 상단)부터 시작**: 직전 범위(pp. 1393–1427, TASK044)에서는 HIV의 정의, 병인 기전, 전파 경로, 역학, 실험실 진단(ELISA, 웨스턴 블롯, HIV RNA 정량) 및 CD4+ T 세포 수 모니터링의 도입부를 다루었다. 본 문서는 **p. 1428 상단**의 CD4+ T 세포 수와 기회질환 발생 간 관계 도해(Figure 197-32) 및 혈장 HIV RNA 모니터링·약제 내성 검사·공동수용체 친화성 검사부터 이어받아, 임상 양상, 장기별 기회감염 및 신생물, 면역재구성 염증증후군(IRIS), 항레트로바이러스 치료(cART), 보건의료 종사자 관리, 백신 및 예방 전략(p. 1462 하단까지)을 빠짐없이 해체한다.
 
-## **1. 실험실 모니터링의 연장: HIV RNA, 내성 검사, 공동수용체 친화성 및 기타 표지자 (pp. 1428–1429)**
+## 1. 실험실 모니터링의 연장: HIV RNA, 내성 검사, 공동수용체 친화성 및 기타 표지자 (pp. 1428–1429)
 
 ### **1.1 혈장 HIV RNA 수치 모니터링 (p. 1428)**
 
-![[Harrison_V1_Ch197_Fig32.png]] - **도해 캡션 (Figure 197-32)**: CD4+ T 세포 수와 기회질환(opportunistic diseases) 발생 간의 관계. 기회질환 발생 시점의 CD4+ 림프구 수 중앙값(상자 내부 선), 제1사분위수(상자 하단), 제3사분위수(상자 상단), 평균(별표 *)을 나타낸 상자 수염 그림(boxplot)이다. 약어: Can, 칸디다 식도염(candidal esophagitis); CMV, 거대세포바이러스 감염(cytomegalovirus infection); Crp, 크립토스포리디움증(cryptosporidiosis); Cry, 크립토코쿠스 수막염(cryptococcal meningitis); DEM, AIDS 치매 복합체(AIDS dementia complex); HSV, 단순포진바이러스 감염(herpes simplex virus infection); HZos, 대상포진(herpes zoster); KS, 카포시 육종(Kaposi's sarcoma); MAC, *Mycobacterium avium* complex 균혈증; NHL, 비호지킨 림프종(non-Hodgkin's lymphoma); PCP, 일차성 *Pneumocystis jirovecii* 폐렴; PCP2, 이차성 *P. jirovecii* 폐렴; PML, 진행성 다초점 백질뇌병증(progressive multifocal leukoencephalopathy); Tox, *Toxoplasma gondii* 뇌염; WS, 소모증후군(wasting syndrome). *(출처: RD Moore, RE Chaisson: Ann Intern Med 124:633, 1996.)* (p. 1428) - **혈장 HIV RNA 측정의 임상적 가치와 주기 (p. 1428)**: - 시간에 따른 HIV RNA 수치 변화 측정은 바이러스 수치와 질환 진행 속도 간의 관계(Fig. 197-22), 바이러스 회전율(turnover rates), 면역계 활성화와 바이러스 복제 간의 관계, 약제 내성 발현까지의 시간을 규명하는 데 큰 가치를 지닌다. - HIV RNA 측정치는 면역계 활성화 상태에 크게 영향을 받으며 이차 감염이나 예방접종 상황에서 크게 변동할 수 있으므로, 단일 측정치만으로 치료 결정을 내려서는 절대 안 된다. - **측정 주기**: HIV 진단 시점과 미치료 환자에서는 이후 3~6개월마다 측정한다. 치료 시작 또는 치료 요법 변경 후에는 새로운 항정 상태(steady-state)의 HIV RNA 수치가 확립되어 치료 요법의 효과가 판정될 때까지 약 4주마다 모니터링한다. - 효과적인 항레트로바이러스 치료(antiretroviral therapy)의 대다수 사례에서 혈장 HIV RNA 수치는 치료 시작 후 6개월 이내에 \<50 copies/mL로 떨어진다. 치료 중에는 지속적인 효과를 평가하기 위해 3~6개월마다 모니터링한다.
+![[Harrison_V1_Ch197_Fig32.png]]
+> [그림 1: **도해 캡션 (Figure 197-32)**: CD4+ T 세포 수와 기회질환(opportunistic diseases) 발생 간의 관계. 기회질환 발생 시점의 CD4+ 림프구 수 중앙값(상자 내부 선), 제1사분위수(상자 하단), 제3사분위수(상자 상단), 평균(별표 *)을 나타낸 상자 수염 그림(boxplot)이다. 약어: Can, 칸디다 식도염(candidal esophagitis); CMV, 거대세포바이러스 감염(cytomegalovirus infection); Crp, 크립토스포리디움증(cryptosporidiosis); Cry, 크립토코쿠스 수막염(cryptococcal meningitis); DEM, AIDS 치매 복합체(AIDS dementia complex); HSV, 단순포진바이러스 감염(herpes simplex virus infection); HZos, 대상포진(herpes zoster); KS, 카포시 육종(Kaposi's sarcoma); MAC, *Mycobacterium avium* complex 균혈증; NHL, 비호지킨 림프종(non-Hodgkin's lymphoma); PCP, 일차성 *Pneumocystis jirovecii* 폐렴; PCP2, 이차성 *P. jirovecii* 폐렴; PML, 진행성 다초점 백질뇌병증(progressive multifocal leukoencephalopathy); Tox, *Toxoplasma gondii* 뇌염; WS, 소모증후군(wasting syndrome). *(출처: RD Moore, RE Chaisson: Ann Intern Med 124:633, 1996.)* (p. 1428) - **혈장 HIV RNA 측정의 임상적 가치와 주기 (p. 1428)**: - 시간에 따른 HIV RNA 수치 변화 측정은 바이러스 수치와 질환 진행 속도 간의 관계(Fig. 197-22), 바이러스 회전율(turnover rates), 면역계 활성화와 바이러스 복제 간의 관계, 약제 내성 발현까지의 시간을 규명하는 데 큰 가치를 지닌다. - HIV RNA 측정치는 면역계 활성화 상태에 크게 영향을 받으며 이차 감염이나 예방접종 상황에서 크게 변동할 수 있으므로, 단일 측정치만으로 치료 결정을 내려서는 절대 안 된다. - **측정 주기**: HIV 진단 시점과 미치료 환자에서는 이후 3~6개월마다 측정한다. 치료 시작 또는 치료 요법 변경 후에는 새로운 항정 상태(steady-state)의 HIV RNA 수치가 확립되어 치료 요법의 효과가 판정될 때까지 약 4주마다 모니터링한다. - 효과적인 항레트로바이러스 치료(antiretroviral therapy)의 대다수 사례에서 혈장 HIV RNA 수치는 치료 시작 후 6개월 이내에 \<50 copies/mL로 떨어진다. 치료 중에는 지속적인 효과를 평가하기 위해 3~6개월마다 모니터링한다. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 32]
 
 ### **1.2 HIV 약제 내성 검사 (HIV Resistance Testing) (p. 1428)**
 
@@ -39,7 +40,8 @@ type: 의학원서_요약노트
 > * 혈장·말초혈액 단핵구(PBMC)·휴지기 기억 CD4+ T 세포에서의 복제 가능 HIV 정량 배양, 순환 ${\beta }_{2}$-microglobulin, 가용성 IL-2 수용체, IgA, 산-불안정 내인성 IFN, TNF-$\alpha$ 수치, CD4+ 또는 CD8+ T 세포 표면의 활성화 표지자(CD38, HLA-DR, PD-1) 유무 등이 연구되었다.  
 > * IL-6, D-dimer, sCD14 같은 비특이적 염증 및/또는 응고 혈청 표지자는 모든 원인에 의한 사망률(all-cause mortality)과 높은 상관관계를 보인다(Table 197-9). 다만 현재 환자 모니터링에서 주요 역할을 하지는 않는다.
 
-![[Harrison_V1_Ch197_Tab9.png]] - **표 캡션 (Table 197-9)**: HIV 감염 환자에서 고감도 CRP(Hs-CRP), IL-6, D-Dimer와 모든 원인에 의한 사망률 간의 연관성 *(출처: LH Kuller et al: PLoS Med 5:e203, 2008.)* (p. 1429)
+![[Harrison_V1_Ch197_Tab9.png]]
+> [그림 2: **표 캡션 (Table 197-9)**: HIV 감염 환자에서 고감도 CRP(Hs-CRP), IL-6, D-Dimer와 모든 원인에 의한 사망률 간의 연관성 *(출처: LH Kuller et al: PLoS Med 5:e203, 2008.)* (p. 1429) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 9]
 
 | 표지자 (Marker) | 비보정 교차비 (Unadjusted OR, 제4사분위/제1사분위) | 비보정 $P$ | 보정 교차비 (Adjusted OR, 제4사분위/제1사분위) | 보정 $P$   |
 | :---- | :---: | :---: | :---: | ----- |
@@ -47,7 +49,7 @@ type: 의학원서_요약노트
 | **IL-6** | 8.3 | \<.0001 | 11.8 | \<.0001 |
 | **D-dimer** | 12.4 | \<.0001 | 26.5 | \<.0001 |
 
-## **2. 임상 양상: 급성 HIV 증후군과 무증상 잠복기 (p. 1429)**
+## 2. 임상 양상: 급성 HIV 증후군과 무증상 잠복기 (p. 1429)
 
 ### **2.1 임상 경과 개요 및 급성 HIV 감염 (Acute HIV Infection) (p. 1429)**
 
@@ -59,8 +61,9 @@ type: 의학원서_요약노트
 > * 급성 감염의 단계는 **Fiebig 병기 체계(Fiebig staging system)**를 사용하여 Stage I(HIV RNA 단독 양성)부터 Stage VI(HIV RNA 및 완전한 웨스턴 블롯 양성)까지 기술한다.  
 > * **면역학적 이상**: 초기에는 총 림프구 및 T 세포 아집단(CD4+, CD8+) 수가 모두 감소하며, 이후 CD8+ T 세포 수 증가로 인해 CD4+/CD8+ T 세포 비율 역전이 발생한다. 일차 HIV 감염자의 ~70%에서 림프절병증(lymphadenopathy)이 발생한다. 환자의 약 10%는 초기 증상 소실 후에도 급격한(fulminant) 면역학적·임상적 악화 경과를 보인다.
 
-![[Harrison_V1_Ch197_Fig33.png]] - **도해 캡션 (Figure 197-33)**: 급성 HIV 증후군(The acute HIV syndrome)의 요약. 일차 감염(Primary infection) $\rightarrow$ 3~6주 후 급성 증후군(1주~3개월 지속) 및 혈장 바이러스혈증(바이러스의 광범위한 파종) $\rightarrow$ HIV에 대한 면역반응(1~2주)과 림프구 재이동(retrafficking), 림프 조직 내 만성 지속 감염 확립 $\rightarrow$ 혈장 바이러스혈증 억제 및 임상적 잠복기(Clinical latency) 진입. *(출처: Adapted from G Pantaleo et al: N Engl J Med 328:327, 1993.)* (p. 1429)  
-![[Harrison_V1_Ch197_Tab10.png]] - **표 캡션 (Table 197-10)**: 급성 HIV 증후군의 임상 소견 (Clinical Findings in the Acute HIV Syndrome) *(출처: B Tindall, DA Cooper: AIDS 5:1, 1991.)* (p. 1429)
+![[Harrison_V1_Ch197_Fig33.png]]
+> [그림 3: **도해 캡션 (Figure 197-33)**: 급성 HIV 증후군(The acute HIV syndrome)의 요약. 일차 감염(Primary infection) $\rightarrow$ 3~6주 후 급성 증후군(1주~3개월 지속) 및 혈장 바이러스혈증(바이러스의 광범위한 파종) $\rightarrow$ HIV에 대한 면역반응(1~2주)과 림프구 재이동(retrafficking), 림프 조직 내 만성 지속 감염 확립 $\rightarrow$ 혈장 바이러스혈증 억제 및 임상적 잠복기(Clinical latency) 진입. *(출처: Adapted from G Pantaleo et al: N Engl J Med 328:327, 1993.)* (p. 1429) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 33]
+> ⚠️ **이미지 미확보 (2026-10-31)** — 표 추출본이 세로 띠 조각만 남아 표로 읽을 수 없음
 
 | 전신 소견 (General) | 신경계 소견 (Neurologic) | 피부점막 소견 (Dermatologic)   |
 | :---- | :---- | :---- |
@@ -72,7 +75,7 @@ type: 의학원서_요약노트
 > * **엘리트 비진행자(elite nonprogressors)**: 장기 비진행자 중 HIV RNA 수치가 \<50 copies/mL를 보이는 아집단이다.  
 > * 미치료 환자의 무증상 기간 동안 CD4+ T 세포 감소의 평균 속도는 연간 ~50/µL이다. CD4+ T 세포 수가 \<200/µL로 떨어지면 면역결핍 상태가 심각해져 기회감염과 신생물의 고위험군이 된다.
 
-## **3. 증상성 질환 (Symptomatic Disease): 기관계별 임상 양상 및 기회질환 (pp. 1429–1451)**
+## 3. 증상성 질환 (Symptomatic Disease): 기관계별 임상 양상 및 기회질환 (pp. 1429–1451)
 
 ### **3.1 증상성 질환의 총론 및 기회감염 예방 지침 (pp. 1430–1433)**
 
@@ -98,7 +101,8 @@ type: 의학원서_요약노트
 | **Cytomegalovirus (CMV)** | 과거 말단 장기 질환(end-organ disease). CD4+ >100/µL가 6개월간 유지되고 활동성 CMV 증거 없으면 중단 가능(과거 망막염 환자는 CD4+ \<100/µL 시 재개) | Valganciclovir 900 mg bid PO | Cidofovir 5 mg/kg 격주 IV + Probenecid 또는 Foscarnet 90–120 (mg/kg)/d IV |
 | **권장 예방접종** | HBV(anti-HBc 및 anti-HBs 음성): 3회; HAV(anti-HAV 음성): 2회; 인플루엔자: 매년 불활성화 3가 백신 1회(대안: Oseltamivir 75 mg qd 또는 Rimantadine/amantadine 100 mg bid[A형만]); *S. pneumoniae*: 가급적 CD4+ \$\\le 200/\\mu\\text{L}\$ 이전에 PCV13 0.5 mL IM $\times 1$ 투여 후 $\geq 8$주 뒤 CD4+ >200/µL이면 PPSV23 투여(CD4+ \<100/µL에서 첫 접종 후 >200/µL로 상승 시 재접종); HPV(13–26세 모든 환자): 3회 |  |  |
 
-![[Harrison_V1_Ch197_Fig34.png]] - **도해 캡션 (Figure 197-34)**: **A.** 1992년부터 1998년까지 CD4+ T 세포 수 \<100/µL인 HIV 감염인에서 기회감염 및 카포시 육종 발생률(100인년당)의 감소. *(Adapted from FJ Palella et al: N Engl J Med 338:853, 1998, and JE Kaplan et al: Clin Infect Dis 30[S1]:S5, 2000.)* **B.** 1995년부터 2001년까지 CMV, *Pneumocystis jirovecii* 폐렴(PCP), *Mycobacterium avium* complex(MAC)의 분기별 발생률(100인년당). *(From FJ Palella et al: AIDS 16:1617, 2002.)* (p. 1433)
+![[Harrison_V1_Ch197_Fig34.png]]
+> [그림 5: **도해 캡션 (Figure 197-34)**: **A.** 1992년부터 1998년까지 CD4+ T 세포 수 \<100/µL인 HIV 감염인에서 기회감염 및 카포시 육종 발생률(100인년당)의 감소. *(Adapted from FJ Palella et al: N Engl J Med 338:853, 1998, and JE Kaplan et al: Clin Infect Dis 30[S1]:S5, 2000.)* **B.** 1995년부터 2001년까지 CMV, *Pneumocystis jirovecii* 폐렴(PCP), *Mycobacterium avium* complex(MAC)의 분기별 발생률(100인년당). *(From FJ Palella et al: AIDS 16:1617, 2002.)* (p. 1433) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 34]
 
 ### **3.2 호흡기계 질환 (Diseases of the Respiratory System) (pp. 1430–1435)**
 
@@ -132,10 +136,14 @@ type: 의학원서_요약노트
 > * **아프타성 궤양(Aphthous ulcers)**: 원인 불명의 통증성 후방 구강인두 궤양으로 탈리도마이드(thalidomide)가 효과적이다.  
 > * **식도염(Esophagitis)**: 칸디다, CMV(단일 대형 궤양 경향), HSV(다발성 소형 궤양 경향) 등에 의해 연하통과 흉골후방 통증을 유발한다(Fig. 197-36).
 
-![[Harrison_V1_Ch197_Fig35.png]] - **도해 캡션 (Figure 197-35)**: HIV 감염인의 다양한 구강 병변. **A.** 아구창(Thrush). **B.** 털백반증(Hairy leukoplakia). **C.** 아프타성 궤양(Aphthous ulcer). **D.** 카포시 육종(Kaposi's sarcoma). (p. 1436)  
-![[Harrison_V1_Ch197_Fig36.png]] - **도해 캡션 (Figure 197-36)**: 칸디다 식도염(Candida esophagitis) 환자의 바륨 식도조영술(Barium swallow). 점막 표면을 따른 바륨의 흐름이 육안적으로 매우 불규칙하다. (p. 1437)  
-![[Harrison_V1_Ch197_Fig37.png]] - **도해 캡션 (Figure 197-37)**: HIV 감염 환자의 설사 평가 알고리즘. HIV 연관 장병증(HIV-associated enteropathy)은 배제 진단(diagnosis of exclusion)이며, 대개 치료 가능한 다른 형태의 설사 질환을 배제한 후에만 내릴 수 있다. (병력 및 신체진찰 $\rightarrow$ 장 병원체 대변 배양, 충란·기생충 검사 $\times 3$, *C. difficile* 독소 검사 $\rightarrow$ 음성 시 대장염 의심 여부에 따라 상부위장관 내시경/생검 또는 대장내시경/생검 시행 $\rightarrow$ 비진단 시 HIV 연관 장병증). (p. 1437)  
-![[Harrison_V1_Ch197_Fig38.png]] - **도해 캡션 (Figure 197-38)**: AIDS 환자에서 발생한 중증 미란성 직장주위 단순포진(Severe, erosive perirectal herpes simplex). (p. 1437)
+![[Harrison_V1_Ch197_Fig35.png]]
+> [그림 6: **도해 캡션 (Figure 197-35)**: HIV 감염인의 다양한 구강 병변. **A.** 아구창(Thrush). **B.** 털백반증(Hairy leukoplakia). **C.** 아프타성 궤양(Aphthous ulcer). **D.** 카포시 육종(Kaposi's sarcoma). (p. 1436) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 35]
+![[Harrison_V1_Ch197_Fig36.png]]
+> [그림 7: **도해 캡션 (Figure 197-36)**: 칸디다 식도염(Candida esophagitis) 환자의 바륨 식도조영술(Barium swallow). 점막 표면을 따른 바륨의 흐름이 육안적으로 매우 불규칙하다. (p. 1437) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 36]
+![[Harrison_V1_Ch197_Fig37.png]]
+> [그림 8: **도해 캡션 (Figure 197-37)**: HIV 감염 환자의 설사 평가 알고리즘. HIV 연관 장병증(HIV-associated enteropathy)은 배제 진단(diagnosis of exclusion)이며, 대개 치료 가능한 다른 형태의 설사 질환을 배제한 후에만 내릴 수 있다. (병력 및 신체진찰 $\rightarrow$ 장 병원체 대변 배양, 충란·기생충 검사 $\times 3$, *C. difficile* 독소 검사 $\rightarrow$ 음성 시 대장염 의심 여부에 따라 상부위장관 내시경/생검 또는 대장내시경/생검 시행 $\rightarrow$ 비진단 시 HIV 연관 장병증). (p. 1437) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 37]
+![[Harrison_V1_Ch197_Fig38.png]]
+> [그림 9: **도해 캡션 (Figure 197-38)**: AIDS 환자에서 발생한 중증 미란성 직장주위 단순포진(Severe, erosive perirectal herpes simplex). (p. 1437) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 38]
 
 > * **장관 감염 및 설사 (pp. 1435–1437)**:  
 > * **세균성**: *Salmonella*(미치료 HIV 환자에서 *S. typhimurium* 감염 위험 약 20배 증가, 장기 ciprofloxacin 치료 권장), *Shigella*(특히 *S. flexneri*, 최대 50%에서 균혈증 동반), *Campylobacter*(대개 *C. jejuni*, 최대 10%에서 균혈증, 대부분 erythromycin 감수성), MAC 등.  
@@ -167,7 +175,8 @@ type: 의학원서_요약노트
 > * **지방이영양증 (Lipodystrophy) (p. 1439)**:  
 > * 티미딘 유사체(zidovudine, stavudine)나 단백분해효소 억제제를 포함한 cART를 받는 환자의 33–75%에서 혈장 중성지방·총콜레스테롤·아포지단백 B 상승, 고인슐린혈증·고혈당, 그리고 체간 비만(장간막 지방 증가, 물소혹[buffalo hump], 유방 비대)과 말초 소모(안면·둔부 지방위축[lipoatrophy], 하지 정맥 두드러짐)가 결합된 체형 변화가 나타난다(Fig. 197-39). 약 20%가 대사증후군 기준을 충족하며, 약제 상호작용 우려로 지질저하제는 주로 **gemfibrozil**과 **atorvastatin**이 사용된다.
 
-![[Harrison_V1_Ch197_Fig39.png]] - **도해 캡션 (Figure 197-39)**: 지방이영양증(lipodystrophy)의 특징. **A.** 체간 비만(truncal obesity)과 물소혹(buffalo hump). **B.** 안면 소모(Facial wasting). **C.** CT 스캔상 복강내 지방 축적(Accumulation of intraabdominal fat). (p. 1439)
+![[Harrison_V1_Ch197_Fig39.png]]
+> [그림 10: **도해 캡션 (Figure 197-39)**: 지방이영양증(lipodystrophy)의 특징. **A.** 체간 비만(truncal obesity)과 물소혹(buffalo hump). **B.** 안면 소모(Facial wasting). **C.** CT 스캔상 복강내 지방 축적(Accumulation of intraabdominal fat). (p. 1439) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 39]
 
 > * **전해질 이상, 부신·갑상선·생식샘 질환 (pp. 1439–1440)**:  
 > * **저나트륨혈증/칼륨 이상**: 폐·CNS 질환 동반 SIADH 또는 부신기능부전(고칼륨혈증 동반). 고칼륨혈증은 부신기능부전, HIV 신병증, trimethoprim, pentamidine에 의해 발생하며, 저칼륨혈증은 tenofovir나 amphotericin 치료 시 나타난다. Ritonavir 복용 환자에서 국소(주사·흡입) 글루코코르티코이드 사용 시 간 CYP3A4 억제로 반감기가 연장되어 의인성 쿠싱증후군 및 HPA 축 억제가 발생할 수 있다.  
@@ -184,7 +193,8 @@ type: 의학원서_요약노트
 > * **면역재구성 염증증후군 (IRIS) (p. 1441)**:  
 > * 기존에 알려진 감염/신생물이 악화되는 **역설적 IRIS(paradoxical IRIS)**와 이전에 진단되지 않았던 질환이 드러나는 **가면해제 IRIS(unmasking IRIS)**로 나뉜다. 환자의 10–30%에서 관찰되며, 특히 CD4+ \<50 cells/µL에서 치료를 시작하여 HIV RNA 수치가 급격히 떨어지는 환자에서 가장 흔하다(cART 시작 후 2주~2년 사이에 발현).
 
-![[Harrison_V1_Ch197_Tab12.png]] - **표 캡션 (Table 197-12)**: 면역재구성 염증증후군(IRIS)의 특징 (Characteristics of Immune Reconstitution Inflammatory Syndrome [IRIS]) (p. 1441) - 항레트로바이러스 치료 시작 후 기존 임상 상태의 역설적 악화 또는 새로운 임상 소견의 갑작스러운 출현(가면해제)이 관찰됨 - 항레트로바이러스 치료 시작 후 수주~수개월에 발생함 - CD4+ T 세포 수 \<50/µL에서 치료를 시작하여 바이러스 부하의 급격한 감소를 경험하는 환자에서 가장 흔함 - 결핵 상황에서 빈번히 관찰됨(특히 항결핵 치료 시작 직후 cART를 시작할 때) - 치명적일 수 있음(Can be fatal)
+![[Harrison_V1_Ch197_Tab12.png]]
+> [그림 11: **표 캡션 (Table 197-12)**: 면역재구성 염증증후군(IRIS)의 특징 (Characteristics of Immune Reconstitution Inflammatory Syndrome [IRIS]) (p. 1441) - 항레트로바이러스 치료 시작 후 기존 임상 상태의 역설적 악화 또는 새로운 임상 소견의 갑작스러운 출현(가면해제)이 관찰됨 - 항레트로바이러스 치료 시작 후 수주~수개월에 발생함 - CD4+ T 세포 수 \<50/µL에서 치료를 시작하여 바이러스 부하의 급격한 감소를 경험하는 환자에서 가장 흔함 - 결핵 상황에서 빈번히 관찰됨(특히 항결핵 치료 시작 직후 cART를 시작할 때) - 치명적일 수 있음(Can be fatal) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 12]
 
 ### **3.8 조혈기계 및 피부 질환 (pp. 1441–1443)**
 
@@ -198,14 +208,16 @@ type: 의학원서_요약노트
 
 ### **3.9 신경계 및 안과 질환, 기타 파종성 감염 및 신생물 질환 (pp. 1443–1451)**
 
-![[Harrison_V1_Ch197_Tab14.png]] - **표 캡션 (Table 197-14)**: HIV 감염 환자의 신경계 질환 (Neurologic Diseases in Patients with HIV Infection) (p. 1443) - **기회감염**: 톡소플라스마증, 크립토코쿠스증, 진행성 다초점 백질뇌병증(PML), 거대세포바이러스(CMV), 매독, 결핵(*M. tuberculosis*), HTLV-1 감염, 아메바증. - **신생물**: 원발성 중추신경계 림프종(Primary CNS lymphoma), 카포시 육종. - **일차성 HIV-1 감염 관련**: 무균성 수막염, HIV 연관 신경인지장애(HAND; HIV 뇌병증/AIDS 치매 복합체 포함), 척수병증(공포성 척수병증[vacuolar myelopathy], 순수 감각성 운동실조, 이상감각/감각이상), 말초신경병증(길랭-바레 증후군[AIDP], 만성 염증성 탈수초성 다발신경병증[CIDP], 다발성 단신경염, 원위부 대칭성 다발신경병증[DSPN]), 근육병증(Myopathy).
+![[Harrison_V1_Ch197_Tab14.png]]
+> [그림 12: **표 캡션 (Table 197-14)**: HIV 감염 환자의 신경계 질환 (Neurologic Diseases in Patients with HIV Infection) (p. 1443) - **기회감염**: 톡소플라스마증, 크립토코쿠스증, 진행성 다초점 백질뇌병증(PML), 거대세포바이러스(CMV), 매독, 결핵(*M. tuberculosis*), HTLV-1 감염, 아메바증. - **신생물**: 원발성 중추신경계 림프종(Primary CNS lymphoma), 카포시 육종. - **일차성 HIV-1 감염 관련**: 무균성 수막염, HIV 연관 신경인지장애(HAND; HIV 뇌병증/AIDS 치매 복합체 포함), 척수병증(공포성 척수병증[vacuolar myelopathy], 순수 감각성 운동실조, 이상감각/감각이상), 말초신경병증(길랭-바레 증후군[AIDP], 만성 염증성 탈수초성 다발신경병증[CIDP], 다발성 단신경염, 원위부 대칭성 다발신경병증[DSPN]), 근육병증(Myopathy). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 14]
 
 > * **HIV 연관 신경인지장애 (HAND) 및 수막염 (pp. 1443–1445)**:  
 > * 억제적 cART 하에서도 약 50%에서 경도~중등도 신경인지장애가 확인된다. apoE E4 대립유전자 보유자는 AIDS 뇌병증 및 말초신경병증 위험이 증가한다. 미치료 환자의 ~90%에서 CSF 이상(세포증가증 50–65%, 바이러스 RNA 검출 ~75%, 단백 상승 35%, 척수강내 항-HIV 항체 합성 90%)이 발견된다.  
 > * **크립토코쿠스 수막염**: AIDS 환자 수막염의 최다 감염성 원인(대다수 *C. neoformans*, 최대 12%는 *C. gattii*; 대개 CD4+ \<100/µL). 치료는 IV amphotericin B 0.7 mg/kg qd(또는 liposomal AmB 4–6 mg/kg qd) + flucytosine 25 mg/kg qid 최소 2주 투여 후, fluconazole 400 mg/d PO 8주, 이후 cART에 의해 CD4+ >200 cells/µL가 6개월간 유지될 때까지 fluconazole 200 mg/d 유지요법을 시행한다.  
 > * **HIV 연관 치매 (HAD / AIDS 치매 복합체)**: 초기 AIDS 정의 질환의 ~3%이며 미치료 AIDS 환자의 ~25%에서 임상적으로 유의한 뇌병증이 발생한다. 실어증·실행증·실인증이 드문 **"피질하 치매(subcortical dementia)"** 양상이며, CSF 내 MCP-1, ${\beta }_{2}$-microglobulin, neopterin, quinolinic acid 상승이 관찰된다. 신경이완제(neuroleptics) 사용 시 추체외로 부작용 감수성이 높다.
 
-![[Harrison_V1_Ch197_Tab15.png]] - **표 캡션 (Table 197-15)**: Frascati 기준에 따른 HAND의 임상 병기 분류 (Clinical Staging of HAND According to Frascati Criteria) *(Adapted from A Antinori et al: Neurology 69:1789, 2007.)* (p. 1444)
+![[Harrison_V1_Ch197_Tab15.png]]
+> [그림 13: **표 캡션 (Table 197-15)**: Frascati 기준에 따른 HAND의 임상 병기 분류 (Clinical Staging of HAND According to Frascati Criteria) *(Adapted from A Antinori et al: Neurology 69:1789, 2007.)* (p. 1444) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 15]
 
 | 병기 (Stage) | 신경인지 상태 (Neurocognitive Status, 최소 5개 영역 평가) | 기능 상태 (Functional Status)   |
 | :---- | :---- | :---- |
@@ -213,8 +225,10 @@ type: 의학원서_요약노트
 | **경도 신경인지장애 (MND)** | 2개 인지 영역에서 평균보다 1 SD 이하 | 일상생활 수행(ADL) 장애 있음 |
 | **HIV 연관 치매 (HAD)** | 2개 인지 영역에서 평균보다 2 SD 이하 | 일상생활 수행(ADL)의 현저한 장애 |
 
-![[Harrison_V1_Ch197_Fig40.png]] - **도해 캡션 (Figure 197-40)**: AIDS 치매 복합체(AIDS dementia complex). 의식 변화와 치매가 있는 47세 남성 AIDS 환자의 측뇌실 수준 조영증강 후 뇌 CT 스캔. 측뇌실·제3뇌실 및 대뇌 고랑이 비정상적으로 두드러져(뇌위축) 있으며 측뇌실 전각 인접 백질에 경도의 저음영이 관찰된다. (p. 1444)  
-![[Harrison_V1_Ch197_Tab16.png]] - **표 캡션 (Table 197-16)**: HIV 감염 환자에서 발작(Seizures)의 원인 *(출처: DM Holtzman et al: Am J Med 87:173, 1989.)* (p. 1445)
+![[Harrison_V1_Ch197_Fig40.png]]
+> [그림 14: **도해 캡션 (Figure 197-40)**: AIDS 치매 복합체(AIDS dementia complex). 의식 변화와 치매가 있는 47세 남성 AIDS 환자의 측뇌실 수준 조영증강 후 뇌 CT 스캔. 측뇌실·제3뇌실 및 대뇌 고랑이 비정상적으로 두드러져(뇌위축) 있으며 측뇌실 전각 인접 백질에 경도의 저음영이 관찰된다. (p. 1444) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 40]
+![[Harrison_V1_Ch197_Tab16.png]]
+> [그림 15: **표 캡션 (Table 197-16)**: HIV 감염 환자에서 발작(Seizures)의 원인 *(출처: DM Holtzman et al: Am J Med 87:173, 1989.)* (p. 1445) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 16]
 
 | 질환 (Disease) | 첫 발작에 대한 전체 기여도 (%) | 해당 질환 환자 중 발작 발생 비율 (%)   |
 | :---- | :---: | ----- |
@@ -224,7 +238,8 @@ type: 의학원서_요약노트
 | **원발성 중추신경계 림프종 (Primary CNS lymphoma)** | 4 | 15–30 (본문은 15–35%) |
 | **진행성 다초점 백질뇌병증 (PML)** | 1 | 20 |
 
-![[Harrison_V1_Ch197_Fig41.png]] - **도해 캡션 (Figure 197-41)**: 중추신경계 톡소플라스마증(Central nervous system toxoplasmosis). 관상면 조영증강 후 T1 강조 MRI 스캔에서 좌측 전두엽에 주변부 조영증강 병변과 편심성 결절 조영증강 영역(화살표, 이른바 **편심성 표적 징후[eccentric target sign]**)이 관찰된다. (p. 1445)
+![[Harrison_V1_Ch197_Fig41.png]]
+> [그림 16: **도해 캡션 (Figure 197-41)**: 중추신경계 톡소플라스마증(Central nervous system toxoplasmosis). 관상면 조영증강 후 T1 강조 MRI 스캔에서 좌측 전두엽에 주변부 조영증강 병변과 편심성 결절 조영증강 영역(화살표, 이른바 **편심성 표적 징후[eccentric target sign]**)이 관찰된다. (p. 1445) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 41]
 
 > * **초점성 신경학적 결손, 척수·말초신경·근육·안과 질환 (pp. 1445–1447)**:  
 > * **뇌 톡소플라스마증 (p. 1445)**: 대개 CD4+ \<200/µL에서 잠복 조직 포낭의 재활성화로 발생하며(혈청 양성자에서 10배 흔함), 발열·두통·초점성 신경학적 결손 및 조영증강 MRI상 다발성 환상 조영증강(ring enhancement, Fig. 197-41)을 보인다. 2~4주간의 경험적 치료(sulfadiazine + pyrimethamine + leucovorin 최소 4~6주)에 실패하거나 *T. gondii* 혈청 음성(톡소플라스마증 가능성 \<10%)인 경우 뇌생검을 고려한다.  
@@ -238,9 +253,12 @@ type: 의학원서_요약노트
 > * **신생물 질환 (Neoplastic Diseases) 및 특발성 CD4+ T 림프구감소증 (pp. 1448–1451)**:  
 > * **카포시 육종 (KS) (pp. 1448–1449)**: HHV-8(KSHV)이 보조인자이며 피부·점막·림프절·위장관(50%)·폐(80%에서 피부 병변 동반, 70%에서 흉수 동반, Fig. 197-43)를 침범한다.
 
-![[Harrison_V1_Ch197_Fig42.png]] - **도해 캡션 (Figure 197-42)**: AIDS 환자 3명에서의 카포시 육종(Kaposi's sarcoma). **(A)** 안와주위 부종과 멍(bruising), **(B)** 고전적인 체간 분포 병변, **(C)** 상지 병변. (p. 1448)  
-![[Harrison_V1_Ch197_Fig43.png]] - **도해 캡션 (Figure 197-43)**: 폐 카포시 육종이 있는 AIDS 환자의 흉부 X선. 심장 경계를 가리는 치밀한 양측 하엽 침윤과 흉수가 특징적이다. (p. 1449)  
-![[Harrison_V1_Ch197_Tab17.png]] - **표 캡션 (Table 197-17)**: 카포시 육종에 대한 NIAID AIDS 임상시험그룹(ACTG) TIS 병기 체계 (p. 1449)
+![[Harrison_V1_Ch197_Fig42.png]]
+> [그림 17: **도해 캡션 (Figure 197-42)**: AIDS 환자 3명에서의 카포시 육종(Kaposi's sarcoma). **(A)** 안와주위 부종과 멍(bruising), **(B)** 고전적인 체간 분포 병변, **(C)** 상지 병변. (p. 1448) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 42]
+![[Harrison_V1_Ch197_Fig43.png]]
+> [그림 18: **도해 캡션 (Figure 197-43)**: 폐 카포시 육종이 있는 AIDS 환자의 흉부 X선. 심장 경계를 가리는 치밀한 양측 하엽 침윤과 흉수가 특징적이다. (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 43]
+![[Harrison_V1_Ch197_Tab17.png]]
+> [그림 19: **표 캡션 (Table 197-17)**: 카포시 육종에 대한 NIAID AIDS 임상시험그룹(ACTG) TIS 병기 체계 (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 17]
 
 | 지표 (Parameter) | 양호 위험군 (Good Risk, Stage 0: 아래 모두 충족) | 불량 위험군 (Poor Risk, Stage 1: 아래 중 하나라도 해당)   |
 | :---- | :---- | :---- |
@@ -248,7 +266,8 @@ type: 의학원서_요약노트
 | **면역계 (Immune system, I)** | CD4+ T 세포 수 \$\\ge 200/\\mu\\text{L}\$ | CD4+ T 세포 수 \<200/µL |
 | **전신 질환 (Systemic illness, S)** | B 증상 없음, Karnofsky 수행상태 $\geq 70$, 기회감염·신경계 질환·림프종·아구창 병력 없음 | B 증상(원인 불명 발열, 야간 발한, >10% 비자발적 체중 감소, >2주 설사) 존재, Karnofsky \<70, 기회감염·신경계 질환·림프종·아구창 병력 존재 |
 
-![[Harrison_V1_Ch197_Tab18.png]] - **표 캡션 (Table 197-18)**: AIDS 연관 카포시 육종의 관리 (Management of AIDS-Associated Kaposi's Sarcoma) (p. 1449) - **기본 원칙**: 경과 관찰 및 항레트로바이러스 치료(cART) 최적화 - **단일 또는 제한된 수의 병변**: 방사선 치료, 병변내 vinblastine, 냉동요법(cryotherapy), (본문 추가: 국소 9-cis-retinoic acid) - **광범위 질환 — 1차 치료**: Interferon $\alpha$(CD4+ >150/µL인 경우; >600/µL에서는 반응률 ~80%, \<150/µL에서는 \<10%), Liposomal daunorubicin - **광범위 질환 — 후속 치료**: Liposomal doxorubicin, Paclitaxel, 저용량 doxorubicin + bleomycin + vinblastine(ABV) 복합 화학요법, 표적 방사선 치료
+![[Harrison_V1_Ch197_Tab18.png]]
+> [그림 20: **표 캡션 (Table 197-18)**: AIDS 연관 카포시 육종의 관리 (Management of AIDS-Associated Kaposi's Sarcoma) (p. 1449) - **기본 원칙**: 경과 관찰 및 항레트로바이러스 치료(cART) 최적화 - **단일 또는 제한된 수의 병변**: 방사선 치료, 병변내 vinblastine, 냉동요법(cryotherapy), (본문 추가: 국소 9-cis-retinoic acid) - **광범위 질환 — 1차 치료**: Interferon $\alpha$(CD4+ >150/µL인 경우; >600/µL에서는 반응률 ~80%, \<150/µL에서는 \<10%), Liposomal daunorubicin - **광범위 질환 — 후속 치료**: Liposomal doxorubicin, Paclitaxel, 저용량 doxorubicin + bleomycin + vinblastine(ABV) 복합 화학요법, 표적 방사선 치료 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 18]
 
 > * **림프종 (Lymphomas) 및 다중심성 캐슬만병, HPV 관련 종양 (pp. 1449–1451)**:  
   * AIDS 환자의 최소 6%에서 림프종이 발생한다(일반 인구 대비 120배). 3대 범주는 **면역모세포 림프종(immunoblastic lymphoma, ~60%, 대다수 DLBCL; 변형으로 KSHV 연관 원발성 삼출액 림프종[PEL] 및 구강 형질세포성 림프종 포함)**, **버킷 림프종(Burkitt's lymphoma, ~20%, 8번 염색체 *c-myc*의 14번 또는 22번 전좌, 일반 인구 대비 >1000배, 약 50%만 EBV 양성)**, **원발성 중추신경계 림프종(primary CNS lymphoma, ~20%, 100% EBV 양성, 진단 시 중앙값 CD4+ ~50/µL, 2년 생존율 29%)**이다.  
@@ -256,10 +275,12 @@ type: 의학원서_요약노트
   * **HPV 연관 이형성증 및 침윤성 자궁경부암/항문암**: 모든 HIV 감염자에서 초기 평가와 6개월 후에 자궁경부 및 직장 Pap 도말검사를 시행하고 둘 다 음성이면 매년 추적한다.  
 > * **특발성 CD4+ T 림프구감소증 (Idiopathic CD4+ T Lymphocytopenia, ICL) (p. 1451)**: HIV-1/2, HTLV-1/2 증거 및 면역결핍 유발 원인 없이 최소 6주 간격 2회 이상 절대 CD4+ T 세포 수 \<300/µL 또는 총 T 세포의 \<20%인 드문 증후군(1992년 인식, 약 15%에서 자연 회복, 고감마글로불린혈증 대신 면역글로불린 정상 또는 감소).
 
-![[Harrison_V1_Ch197_Fig44.png]] - **도해 캡션 (Figure 197-44)**: AIDS 환자의 경구개(hard palate)를 침범한 면역모세포 림프종(Immunoblastic lymphoma). (p. 1450)  
-![[Harrison_V1_Ch197_Fig45.png]] - **도해 캡션 (Figure 197-45)**: 중추신경계 림프종(Central nervous system lymphoma). 의식 변화와 반신마비가 있는 AIDS 환자의 조영증강 후 T1 강조 MRI 스캔. 일부 환상 조영증강을 보이는 다발성 조영증강 병변이 관찰되며, 좌측 실비우스열 병변은 뇌회 및 피질하 조영증강을, 미상핵과 뇌량팽대 병변(화살촉)은 인접 뇌실막 표면의 조영증강을 보인다. (p. 1450)
+![[Harrison_V1_Ch197_Fig44.png]]
+> [그림 21: **도해 캡션 (Figure 197-44)**: AIDS 환자의 경구개(hard palate)를 침범한 면역모세포 림프종(Immunoblastic lymphoma). (p. 1450) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 44]
+![[Harrison_V1_Ch197_Fig45.png]]
+> [그림 22: **도해 캡션 (Figure 197-45)**: 중추신경계 림프종(Central nervous system lymphoma). 의식 변화와 반신마비가 있는 AIDS 환자의 조영증강 후 T1 강조 MRI 스캔. 일부 환상 조영증강을 보이는 다발성 조영증강 병변이 관찰되며, 좌측 실비우스열 병변은 뇌회 및 피질하 조영증강을, 미상핵과 뇌량팽대 병변(화살촉)은 인접 뇌실막 표면의 조영증강을 보인다. (p. 1450) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 45]
 
-## **4. 치료: 환자 관리 원칙 및 항레트로바이러스 치료 (cART) (pp. 1451–1458, 1461)**
+## 4. 치료: 환자 관리 원칙 및 항레트로바이러스 치료 (cART) (pp. 1451–1458, 1461)
 
 ### **4.1 초기 평가 및 항레트로바이러스 약제 분류 (pp. 1452–1458)**
 
@@ -291,8 +312,10 @@ type: 의학원서_요약노트
   * **Dolutegravir**: 초치료 50 mg qd, 치료 경험자 또는 efavirenz/rifampin 병용 시 50 mg bid.  
   * **Bictegravir**: 50 mg bictegravir / 25 mg TAF / 200 mg FTC qd (Biktarvy 복합제로만 사용).
 
-![[Harrison_V1_Ch197_Fig46.png]] - **도해 캡션 (Figure 197-46)**: 항레트로바이러스제의 분자 구조(Molecular structures of antiretroviral agents). NRTIs(Zidovudine, Didanosine, Zalcitabine, Stavudine, Lamivudine, Abacavir, Tenofovir alafenamide, Tenofovir disoproxil fumarate, Emtricitabine), NNRTIs(Nevirapine, Delavirdine, Efavirenz, Rilpivirine, Etravirine), Protease Inhibitors(Saquinavir, Ritonavir, Indinavir, Nelfinavir, Amprenavir, Lopinavir, Atazanavir, Tipranavir, Darunavir), Entry Inhibitors(Maraviroc, Ibalizumab, Enfuvirtide), Integrase Inhibitors(Raltegravir, Elvitegravir, Dolutegravir, Bictegravir). (pp. 1456–1457)  
-![[Harrison_V1_Ch197_Tab22.png]] - **표 캡션 (Table 197-22)**: 항레트로바이러스제의 복합 제형 (Combination Formulations of Antiretroviral Drugs) (*표시는 1일 1회 단일정 요법[STR]) (p. 1458) - **Atripla***: TDF + FTC + efavirenz | Biktarvy***: TAF + FTC + bictegravir |** Cimduo**: TDF + 3TC |** Combivir**: AZT + 3TC |** Complera***: TDF + FTC + rilpivirine |*** ***Descovy**: TAF + FTC | **Dutrebis**: Raltegravir + 3TC | **Epzicom**: Abacavir + 3TC | **Evotaz**: Atazanavir + cobicistat | **Genvoya***: TAF + FTC + elvitegravir + cobicistat | Juluca: Dolutegravir + rilpivirine | Kaletra: Lopinavir + ritonavir | Odefsey***: TAF + FTC + rilpivirine |** Prezcobix**: Darunavir + cobicistat |** Stribild***: TDF + FTC + elvitegravir + cobicistat |*** ***Symfi***: TDF + 3TC + efavirenz(600 mg) | Symfi Lo***: TDF + 3TC + efavirenz(400 mg) |** Triumeq***: Abacavir + 3TC + dolutegravir |*** ***Truvada**: TDF + FTC | **Trizivir**: AZT + 3TC + abacavir.
+![[Harrison_V1_Ch197_Fig46.png]]
+> [그림 23: **도해 캡션 (Figure 197-46)**: 항레트로바이러스제의 분자 구조(Molecular structures of antiretroviral agents). NRTIs(Zidovudine, Didanosine, Zalcitabine, Stavudine, Lamivudine, Abacavir, Tenofovir alafenamide, Tenofovir disoproxil fumarate, Emtricitabine), NNRTIs(Nevirapine, Delavirdine, Efavirenz, Rilpivirine, Etravirine), Protease Inhibitors(Saquinavir, Ritonavir, Indinavir, Nelfinavir, Amprenavir, Lopinavir, Atazanavir, Tipranavir, Darunavir), Entry Inhibitors(Maraviroc, Ibalizumab, Enfuvirtide), Integrase Inhibitors(Raltegravir, Elvitegravir, Dolutegravir, Bictegravir). (pp. 1456–1457) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 46]
+![[Harrison_V1_Ch197_Tab22.png]]
+> [그림 24: **표 캡션 (Table 197-22)**: 항레트로바이러스제의 복합 제형 (Combination Formulations of Antiretroviral Drugs) (*표시는 1일 1회 단일정 요법[STR]) (p. 1458) - **Atripla***: TDF + FTC + efavirenz | Biktarvy***: TAF + FTC + bictegravir |** Cimduo**: TDF + 3TC |** Combivir**: AZT + 3TC |** Complera***: TDF + FTC + rilpivirine |*** ***Descovy**: TAF + FTC | **Dutrebis**: Raltegravir + 3TC | **Epzicom**: Abacavir + 3TC | **Evotaz**: Atazanavir + cobicistat | **Genvoya***: TAF + FTC + elvitegravir + cobicistat | Juluca: Dolutegravir + rilpivirine | Kaletra: Lopinavir + ritonavir | Odefsey***: TAF + FTC + rilpivirine |** Prezcobix**: Darunavir + cobicistat |** Stribild***: TDF + FTC + elvitegravir + cobicistat |*** ***Symfi***: TDF + 3TC + efavirenz(600 mg) | Symfi Lo***: TDF + 3TC + efavirenz(400 mg) |** Triumeq***: Abacavir + 3TC + dolutegravir |*** ***Truvada**: TDF + FTC | **Trizivir**: AZT + 3TC + abacavir. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 22]
 
 ### **4.2 치료 원칙, 초치료 요법, 약제 변경 기준 및 내성 변이 (pp. 1457–1461)**
 
@@ -308,9 +331,10 @@ type: 의학원서_요약노트
   5. Dolutegravir + abacavir + lamivudine (**HLA-B*5701 음성**인 경우에만 해당)  
 > * **항레트로바이러스 치료 변경 적응증 (Table 197-25, p. 1461)**: 치료 시작 후 4주까지 혈장 HIV RNA가 1-log 미만으로 감소한 경우, 동반 감염·예방접종·검사법으로 설명되지 않는 최저점(nadir) 대비 재현성 있는 유의한 상승(3배 이상 또는 >200 copies/mL), 지속적인 CD4+ T 세포 수 감소, 임상적 악화, 약제 부작용(치료 실패 시 최소 2개의 새로운 활성 약제 포함, 독성 때문인 경우 단일 약제 교체 가능).
 
-![[Harrison_V1_Ch197_Fig47.png]] - **도해 캡션 (Figure 197-47)**: 항레트로바이러스제 내성을 부여하는 아미노산 치환(Amino acid substitutions conferring resistance to antiretroviral drugs). 막대 위의 문자는 야생형 바이러스 아미노산, 막대 아래 문자는 내성을 부여하는 치환 아미노산, 숫자는 단백질 내 코돈 위치를 나타낸다(nRTIs [69 삽입 복합체, 151 복합체, 티미딘 유사체 연관 변이(TAMs), K65R, M184V 등], NNRTIs [K103N, Y181C 등], Protease Inhibitors, Entry Inhibitors [Enfuvirtide], Integrase Inhibitors [Q148, N155, R263K 등]). *(Reprinted with permission from the International Antiviral Society-USA. AM Wensing et al: Top Antivir Med 22:642, 2014.)* (pp. 1459–1460)
+![[Harrison_V1_Ch197_Fig47.png]]
+> [그림 25: **도해 캡션 (Figure 197-47)**: 항레트로바이러스제 내성을 부여하는 아미노산 치환(Amino acid substitutions conferring resistance to antiretroviral drugs). 막대 위의 문자는 야생형 바이러스 아미노산, 막대 아래 문자는 내성을 부여하는 치환 아미노산, 숫자는 단백질 내 코돈 위치를 나타낸다(nRTIs [69 삽입 복합체, 151 복합체, 티미딘 유사체 연관 변이(TAMs), K65R, M184V 등], NNRTIs [K103N, Y181C 등], Protease Inhibitors, Entry Inhibitors [Enfuvirtide], Integrase Inhibitors [Q148, N155, R263K 등]). *(Reprinted with permission from the International Antiviral Society-USA. AM Wensing et al: Top Antivir Med 22:642, 2014.)* (pp. 1459–1460) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 47]
 
-## **5. HIV와 보건의료 종사자, 예방 백신 및 HIV 획득 예방 (pp. 1459–1462)**
+## 5. HIV와 보건의료 종사자, 예방 백신 및 HIV 획득 예방 (pp. 1459–1462)
 
 ### **5.1 보건의료 종사자의 직업적 노출 및 노출후 예방 (PEP) (pp. 1459–1462)**
 
@@ -331,5 +355,9 @@ type: 의학원서_요약노트
 
 > * **처리 범위**: 인쇄면 pp.1428–1462  
 > * **원문에 없어서 쓰지 않은 항목(수치·증례·고유명사)**: 원문에 없는 외부 임상시험 수치나 2018년 이후 출시된 약제/가이드라인을 일절 추가하지 않음.  
-> * **확인하지 못한 그림·표**: 없음 (지정된 Figure 16개[Fig32–Fig47] 및 Table 9개[Tab9, Tab10, Tab12, Tab14–Tab18, Tab22] 전원 ![[...]] 임베드 완료, 나머지 인쇄 표[Tab11, Tab13, Tab19, Tab20, Tab21, Tab23–Tab25]도 본문 내 마크다운 표/리스트로 100% 반영 완료).  
 > * **지정 범위 밖 내용이 노트에 섞였는가**: 아니오
+
+## 6. 출처
+
+- 원서: Harrison's Principles of Internal Medicine, 20th ed. (pp. 참조: 본문 각 절) — 도판 캡션은 원서 Figure/Table 캡션을 그대로 옮겼다.
+

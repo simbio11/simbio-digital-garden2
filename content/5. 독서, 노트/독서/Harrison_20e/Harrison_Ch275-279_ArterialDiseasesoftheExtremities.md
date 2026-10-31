@@ -11,7 +11,7 @@ type: 의학원서_요약노트
 
 ※ **범위 경계 안내**: - **시작 경계(p.1923 상단)**: 제275장 사지 동맥 질환(Arterial Diseases of the Extremities)의 말초동맥 질환 예후(Prognosis) 절 문장 중간(cerebrovascular disease.)부터 시작한다. 직전 문맥(p.1922 하단)에서는 PAD의 병리, 간헐적 파행 및 임계 하지 허혈의 임상 양상, 발목상완지수(ABI) 등 비침습적 검사를 다루고 예후 절 첫머리(The natural history of patients with PAD is influenced primarily by the extent of coexisting coronary artery and)에서 p.1923으로 넘어온다. - **종료 경계(p.1956 하단)**: 제281장 천식(Asthma)의 유병률(Prevalence) 절 첫 문단 마지막 문장(Most patients with asthma in affluent countries are atopic, with allergic sensitization to the house dust mite Dermatophagoides pteronyssinus and other environmental allergens, such as animal fur and pollens.)에서 끝나며, 이후 내용은 인쇄면 p.1957로 이어진다. (※ 인쇄면 p.1941은 Part 6과 Part 7 사이의 백지 구분면이다.)
 
-## **1. 개요 및 마스터 요약 (pp.1923–1956)**
+## 1. 개요 및 마스터 요약 (pp.1923–1956)
 
 > * ---
 
@@ -22,7 +22,7 @@ type: 의학원서_요약노트
 > * **제279장 호흡기능 장애 (pp.1944–1950)**: 폐포 표면적(약 $70{m}^{2}$)과 흉강 용적(약 $7L$), 호흡기계 정적 역학(기능적 잔기량 FRC에서 흉벽 외향 탄성과 폐 내향 탄성이 균형을 이루어 흉막압은 약 \$-5\\text{ cmH}*2\\text{O}\$, Figs. 279-1, 279-2) 및 동적 기류제한(베르누이 효과, 정상 기도저항 \$R*{\\text{aw}} \<2\\text{ cmH}*2\\text{O/L/s}$,Figs.279-3,279-4),폐포기방정식($P*{A\\text{O}*2} \= F*{I\\text{O}*2}\\times(P*{\\text{bar}}-P_{\\text{H}*2\\text{O}}) - P*{a\\text{CO}*2}/R\$, $R\approx 0.85$, \$P*{\\text{H}*2\\text{O}} \= 47\\text{ mmHg}$),단락(shunt)과환기/관류($\\dot{V}/\\dot{Q}$)불균형의산소반응차이(Fig.279-5),5대대표질환의폐기능이상패턴(Fig.279-6)및체적변동기록법·확산능($\\text{DL}*{\\text{CO}}$,10초숨참기)·호흡근근력($>\\pm 60\\text{ cmH}_2\\text{O}\$)·동맥혈 산소함량 공식을 다룬다.  
 > * **제280장 호흡기 질환의 진단 술기 및 제281장 천식 도입부 (pp.1950–1956)**: 흉부 X선, 현장 초음파(POC US), 다중검출기 CT(MDCT: 55–80세, 30갑년 이상 흡연력 및 현재 흡연 또는 금연 15년 이내 대상 저선량 MDCT 폐암 선별검사 권고, Figs. 280-1~280-3), 가상 기관지경 및 전자기 유도 기관지경(ENB, Fig. 280-4), FDG-PET/CT, MRI(Fig. 280-5), 객담 유도, 흉수천자, 굴곡성 기관지경(세척, 솔질, 기관지폐포세척[BAL], 경기관지 생검, TBNA, EBUS-TBNA[림프절 2R, 2L, 3, 4R, 4L 및 10, 11번 접근], RP-EBUS, 신기술[AFB, NBI, CFM, OCT]), 내과적 흉강경, 종격동경·흉골연 종격동절개술(Chamberlain 술식, 5·6번 림프절; EUS-FNA는 7·8·9번 후종격동 림프절), 비디오 흉강경 수술(VATS) 및 천식 역학 도입부(전 세계 약 3억 명 이환, 연간 약 25만 명 사망)를 다룬다.
 
-## **2. 제275장 사지 동맥 질환 (Arterial Diseases of the Extremities) — 계속 (pp.1923–1929)**
+## 2. 제275장 사지 동맥 질환 (Arterial Diseases of the Extremities) — 계속 (pp.1923–1929)
 
 ### ---
 
@@ -32,7 +32,8 @@ type: 의학원서_요약노트
 > * 유증상 PAD 환자의 약 **1/3–1/2**은 임상 양상과 심전도상 관상동맥 질환(CAD) 증거가 있고, **절반 이상**은 관상동맥 조영술상 유의한 CAD가 있다. PAD 환자의 **5년 사망률은 15–25%**이며 관상동맥 심장질환 사망 위험이 **2–6배** 증가한다.  
 > * 경증~중등도 파행으로 내원한 비당뇨 환자의 약 **75–80%**는 증상이 안정적으로 유지되나, 나머지에서 악화가 일어나 매년 약 **1–2%**가 임계 하지 허혈(critical limb ischemia)로 진행하며, 임계 하지 허혈 환자의 약 **25–30%는 1년 이내에 절단술(amputation)**을 받는다(Fig. 275-1).
 
-![[Harrison_V2_Ch275_Fig1.png]] - **FIGURE 275-1 캡션 (p.1923)**: 간헐적 파행 환자의 자기공명 혈관조영술(MRA)로, 원위 복부대동맥과 우측 총장골동맥의 협착(A) 및 우측과 좌측 표재대퇴동맥의 협착(B)을 보여준다.
+![[Harrison_V2_Ch275_Fig1.png]]
+> [그림 1: **FIGURE 275-1 캡션 (p.1923)**: 간헐적 파행 환자의 자기공명 혈관조영술(MRA)로, 원위 복부대동맥과 우측 총장골동맥의 협착(A) 및 우측과 좌측 표재대퇴동맥의 협착(B)을 보여준다. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch275 Figure 1]
 
 > * **위험인자 교정 및 항혈전 요법 (p.1923)**:  
 > * 금연(니코틴 패치, 부프로피온, 바레니클린 보조), 고혈압 조절(ACE 억제제·ARB가 심혈관 사건 위험을 줄일 수 있으며, **베타차단제는 파행을 악화시키지 않고** 특히 CAD 동반 환자에서 사용 가능), 고강도 스타틴 치료가 권고된다.  
@@ -54,7 +55,8 @@ type: 의학원서_요약노트
 > * **급성 하지 허혈**: 하지 동맥 색전이 가장 흔히 걸리는 부위는 **대퇴동맥(femoral artery)**이며 이어서 장골동맥, 대동맥, 슬와동맥, 경골비골동맥 순이다. 진단 즉시 정맥내 헤파린 항응고를 시작한다. 카테터 유도 동맥내 혈전용해술(tPA, reteplase, tenecteplase)은 급성 폐쇄가 최근(**\<2주**)일 때 가장 효과적이며, 사지 소실을 막기 위해 **24시간 이내** 혈류 회복이 필요하거나 폐쇄 증상이 **>2주** 지속된 경우에는 외과적 재관류술이 선호된다. 감각 소실, 마비, 동·정맥 도플러 혈류 부재로 사지 생존력이 없으면 절단술을 시행한다.  
 > * **죽종색전증**: 작은 근육·피부 혈관에 박히므로 **원위부 맥박은 대개 촉지**되며, 발가락 허혈·청색증·괴사를 일으키는 **'푸른 발가락 증후군(blue toe syndrome)'**과 망상청피반을 유발한다(Fig. 275-2).
 
-![[Harrison_V2_Ch275_Fig2.png]] - **FIGURE 275-2 캡션 (p.1926)**: 발가락의 청색증성 변색과 임박한 괴사를 유발하는 죽종색전증('푸른 발가락' 증후군, "blue toe" syndrome).
+![[Harrison_V2_Ch275_Fig2.png]]
+> [그림 2: **FIGURE 275-2 캡션 (p.1926)**: 발가락의 청색증성 변색과 임박한 괴사를 유발하는 죽종색전증('푸른 발가락' 증후군, "blue toe" syndrome). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch275 Figure 2]
 
 > * **흉곽출구 압박 증후군, 슬와동맥 포착·동맥류 및 동정맥루 (pp.1926–1927)**:  
 > * **흉곽출구 압박 증후군(Thoracic outlet compression syndrome)**: 경늑골(cervical ribs), 전사각근 이상 등에 의해 쇄골하동맥·쇄골하정맥·완신경총이 압박된다. 정맥 압박에 의한 쇄골하·액와정맥 혈전증은 흔히 노작과 연관되며 **파제트-슈뢰터 증후군(Paget-Schroetter syndrome)**이라 부른다. 유발 검사로 외전 및 외회전 검사($9{0}^{\circ }$ 외전), 사각근 수기, 늑쇄골 수기, 과외전 수기($18{0}^{\circ }$ 거상)를 시행한다.  
@@ -68,10 +70,11 @@ type: 의학원서_요약노트
 > * **홍통증(Erythromelalgia)**: 온열 노출과 하지 하수에 의해 유발되고 냉각·거상으로 완화되는 발(손보다 흔함, 남성에 더 흔함)의 작열통과 홍반으로, 유전성 홍통증에서는 감각·교감신경의 $N{a}_{v}1.7$ 전압개폐 나트륨 채널을 암호화하는 ***SCN9A*** **유전자 변이**가 기술되었고, 이차성의 가장 흔한 원인은 진성 적혈구증가증·본태성 혈소판증가증 같은 골수증식성 질환이다(아스피린이 증상 완화).  
 > * **동상(Frostbite)**: 초기 치료는 재동결 위험이 없는 환경에서 **\$40\\text{–}44^\\circ\\text{C}\$ (\$104\\text{–}111^\\circ\\text{F}\$) 온수조**에 침수시켜 재가온하는 것이며 마사지, 얼음물 적용, 극도의 열은 금기이다.
 
-![[Harrison_V2_Ch275_Tab1.png]] - **Table 275-1 캡션 (p.1927)**: Table 275-1 Classification of Raynaud's Phenomenon (일차성/특발성 및 이차성 레이노 현상의 분류: 교원성 혈관질환, 동맥 폐쇄성 질환, 폐고혈압, 신경학적 질환, 혈액 이상, 외상, 약물 및 독소).  
-![[Harrison_V2_Ch275_Fig3.png]] - **FIGURE 275-3 캡션 (p.1927)**: 온도와 연관된 혈관 질환: (A) 레이노 현상(Raynaud's phenomenon), (B) 말단청색증(acrocyanosis), (C) 망상청피반(livedo reticularis), (D) 동창(pernio), (E) 홍통증(erythromelalgia), (F) 동상(frostbite).
+![[Harrison_V2_Ch275_Tab1.png]]
+> [그림 3: **Table 275-1 캡션 (p.1927)**: Table 275-1 Classification of Raynaud's Phenomenon (일차성/특발성 및 이차성 레이노 현상의 분류: 교원성 혈관질환, 동맥 폐쇄성 질환, 폐고혈압, 신경학적 질환, 혈액 이상, 외상, 약물 및 독소). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch275 Table 1]
+> ⚠️ **이미지 미확보 (2026-10-31)** — 도판 추출본이 세로로 잘려 거의 빈 이미지(패널 가장자리만 남음)
 
-## **3. 제276장 만성 정맥 질환 및 림프부종 (Chronic Venous Disease and Lymphedema) (pp.1929–1934)**
+## 3. 제276장 만성 정맥 질환 및 림프부종 (Chronic Venous Disease and Lymphedema) (pp.1929–1934)
 
 > * ---
 
@@ -88,7 +91,8 @@ type: 의학원서_요약노트
 > * **Brodie-Trendelenburg 검사**: 앙와위에서 다리를 들어 정맥을 비운 후 근위 대퇴부에 지혈대를 감고 기립시켰을 때 **30초 이내**에 정맥류가 차오르면 심부정맥 부전 및 관통정맥 부전에 의한 이차성 정맥류이고, 지혈대 제거 직후 빠르게 차오르면 표재정맥 부전을 동반한 일차성 정맥류이다.  
 > * **Perthes 검사**: 기립하여 정맥류가 채워진 상태에서 대퇴 중간에 지혈대를 감고 **5분간** 걷게 했을 때 지혈대 아래 표재정맥이 허탈되면 심부정맥 개통 및 관통정맥 기능이 정상이고, 보행 시 표재정맥이 더 팽창하면 심부정맥 폐쇄를 시사한다.
 
-![[Harrison_V2_Ch276_Fig1.png]] - **FIGURE 276-1 캡션 (p.1930)**: 내측 복사뼈(medial malleolus) 근처의 활동성 정맥 궤양을 동반한 정맥부전.
+![[Harrison_V2_Ch276_Fig1.png]]
+> [그림 5: **FIGURE 276-1 캡션 (p.1930)**: 내측 복사뼈(medial malleolus) 근처의 활동성 정맥 궤양을 동반한 정맥부전. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch276 Figure 1]
 
 > * **CEAP 분류, 진단 검사 및 치료 (pp.1931–1932)**:  
 > * **CEAP 분류(Table 276-1)**: 임상적(C0 징후 없음, C1 모세혈관확장증/망상정맥, C2 정맥류, C3 피부변화 없는 부종, C4 피부변화[색소침착, 습진, 지방피부경화증, 백색위축증], C5 치유된 정맥 궤양, C6 활동성 정맥 궤양), 병인적(Ec 선천성, Ep 일차성, Es 이차성[혈전후], En 미확인), 해부학적(As 표재, Ap 관통, Ad 심부, An 미확인), 병태생리적(Pr 역류, Po 폐쇄, Pr,o 역류 및 폐쇄, Pn 미확인) 분류를 사용한다.  
@@ -109,9 +113,10 @@ type: 의학원서_요약노트
   * **III기**: 림프울체성 코끼리피부병(lymphostatic elephantiasis)으로 함요가 소실되고 가시세포증(acanthosis), 추가 지방·섬유화 침착, 사마귀양 과증식 등 영양성 피부 변화가 발생한 단계.  
 > * **치료**: 피부 위생, 울혈제거 물리치료(decongestive physiotherapy: 마사지 + 다층 압박붕대 후 단계적 압박스타킹 착용), 간헐적 공기압박 기구, 유방절제술 후 림프부종에서의 지방흡인술을 시행하며, **이뇨제는 혈관내 용적 고갈과 대사 이상을 유발하므로 금기**이다.
 
-![[Harrison_V2_Ch276_Fig2.png]] - **FIGURE 276-2 캡션 (p.1933)**: (A) 하지 종창, 비함요 부종, 네모난 발가락(squaring of the toes)을 특징으로 하는 림프부종. (B) 가시세포증(acanthosis)과 사마귀양 과증식(verrucous overgrowths)이 동반된 나무처럼 딱딱한 다리 모양을 보여주는 진행성 만성 림프부종.
+![[Harrison_V2_Ch276_Fig2.png]]
+> [그림 6: **FIGURE 276-2 캡션 (p.1933)**: (A) 하지 종창, 비함요 부종, 네모난 발가락(squaring of the toes)을 특징으로 하는 림프부종. (B) 가시세포증(acanthosis)과 사마귀양 과증식(verrucous overgrowths)이 동반된 나무처럼 딱딱한 다리 모양을 보여주는 진행성 만성 림프부종. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch276 Figure 2]
 
-## **4. 제277장 폐고혈압 (Pulmonary Hypertension) (pp.1934–1940)**
+## 4. 제277장 폐고혈압 (Pulmonary Hypertension) (pp.1934–1940)
 
 > * ---
 
@@ -123,7 +128,8 @@ type: 의학원서_요약노트
 > * **폐고혈압(PH)**: 폐동맥압의 상승(평균 폐동맥압[**mPAP**] **>22 mmHg** 또는 추정 수축기 PAP **>36 mmHg**)으로 정의된다. 치료하지 않으면 가장 흔한 사망 원인은 비대상성 우심부전이며, 진단까지 최대 **2년**의 지연이 흔하다.  
 > * **병태생물학 (Table 277-1, Fig. 277-1)**: 혈관수축, 혈관 증식, 혈전증, 염증이 PAH 발생의 기저를 이루며 내막 증식·섬유화, 중막 비대, 제자리 혈전증(in situ thrombosis), 얼기형성 폐동맥병증(plexogenic pulmonary arteriopathy)이 관찰된다. 전압조절 칼륨 채널 발현 감소, 골형성단백질 수용체-2(***BMPR2***) 돌연변이(그 외 *ALK1, Endoglin, Smad9, TGF-β1* 등), 조직인자 발현 증가, 세로토닌 수송체 과활성화, 저산소증 유도 $HIF-1\alpha$ 활성화, NFAT 활성화로 인해 평활근세포 세포자멸사가 감소하고 세포자멸사 저항성 내피세포가 출현하여 내강을 폐쇄한다.
 
-![[Harrison_V2_Ch277_Fig1.png]] - **FIGURE 277-1 캡션 (p.1935)**: 좌측 패널은 소근육성 폐동맥의 폐쇄성·증식성 병변인 얼기형성 폐동맥병증(plexogenic pulmonary arteriopathy, 하단 좌측 백색 화살표는 적색 PCNA 염색 증식 세포)을 보여주며, 우측 패널은 근육성 폐동맥의 중막 비대를 보여준다.
+![[Harrison_V2_Ch277_Fig1.png]]
+> [그림 7: **FIGURE 277-1 캡션 (p.1935)**: 좌측 패널은 소근육성 폐동맥의 폐쇄성·증식성 병변인 얼기형성 폐동맥병증(plexogenic pulmonary arteriopathy, 하단 좌측 백색 화살표는 적색 PCNA 염색 증식 세포)을 보여주며, 우측 패널은 근육성 폐동맥의 중막 비대를 보여준다. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch277 Figure 1]
 
 > * **단계적 진단 평가 및 우심도자술 기준 (pp.1936–1937, Figs. 277-2~277-4)**:  
 > * **심초음파**: 기포 대조 심초음파(echocardiogram with bubble study)가 가장 중요한 초기 선별검사이다(Fig. 277-2).  
@@ -133,9 +139,12 @@ type: 의학원서_요약노트
   * **모세혈관후 PH(Postcapillary PH)**: $PCWP\geq 15mmHg$로 감별하며, 경폐 압력차(transpulmonary gradient \= $mPAP-PCWP$)가 **\<12 mmHg**이면 수동성(passive), **>12 mmHg**이면서 PVR이 증가해 있으면 반응성(reactive)으로 세분한다.  
   * **양성 폐혈관확장제 반응**: 흡입 산화질소(NO)나 흡입 에포프로스테놀 투여 시 심박출량(CO) 감소 없이 $mPAP$**가 $\geq 10mmHg$ 감소하여 절대치 $\leq 40mmHg$ 이하**로 떨어지는 것으로 정의되며, 양성 반응자(전체 환자의 **\<15%** 미만)만 장기 칼슘채널차단제(CCB) 치료 대상이 된다.
 
-![[Harrison_V2_Ch277_Fig2.png]] - **FIGURE 277-2 캡션 (p.1936)**: (A) 폐고혈압 환자의 심첨 4방 단면 심초음파로 확장된 우심방·우심실과 좌심 압박을 보여준다. (B) 정상 심초음파 비교.  
-![[Harrison_V2_Ch277_Fig3.png]] - **FIGURE 277-3 캡션 (p.1937)**: 진행성 폐동맥 고혈압에서 흔히 보이는 확장된 폐동맥(흑색 화살표)과 원위 폐혈관계 가지치기 소실(pruning, 백색 화살표)을 보여주는 후전면(좌) 및 측면(우) 흉부 X선 사진.  
-![[Harrison_V2_Ch277_Fig4.png]] - **FIGURE 277-4 캡션 (p.1937)**: 확장된 주폐동맥과 양측 폐의 모자이크 패턴(mosaic pattern)을 보여주는 흉부 CT 스캔.
+![[Harrison_V2_Ch277_Fig2.png]]
+> [그림 8: **FIGURE 277-2 캡션 (p.1936)**: (A) 폐고혈압 환자의 심첨 4방 단면 심초음파로 확장된 우심방·우심실과 좌심 압박을 보여준다. (B) 정상 심초음파 비교. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch277 Figure 2]
+![[Harrison_V2_Ch277_Fig3.png]]
+> [그림 9: **FIGURE 277-3 캡션 (p.1937)**: 진행성 폐동맥 고혈압에서 흔히 보이는 확장된 폐동맥(흑색 화살표)과 원위 폐혈관계 가지치기 소실(pruning, 백색 화살표)을 보여주는 후전면(좌) 및 측면(우) 흉부 X선 사진. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch277 Figure 3]
+![[Harrison_V2_Ch277_Fig4.png]]
+> [그림 10: **FIGURE 277-4 캡션 (p.1937)**: 확장된 주폐동맥과 양측 폐의 모자이크 패턴(mosaic pattern)을 보여주는 흉부 CT 스캔. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch277 Figure 4]
 
 > * **2013년 제5차 세계 폐고혈압 심포지엄(WHO) 5대 임상 분류 (pp.1937–1938)**:  
 > * **제I군 폐동맥 고혈압(PAH)**: 특발성 PAH(IPAH)의 평균 진단 연령은 초기 NIH 등록연구에서 **36세**(60세 초과 9%)였으나 최근 PHC 등록연구에서는 **45세**(70세 초과 8.5%), 최대 코호트인 **REVEAL 연구**에서는 $44.9\pm 0.6$**세**로 고령화되었다. 그 외 HIV 연관 PAH(HIV 병기와 무관), 결합조직질환 연관 PAH(특히 제한성 피부 전신경화증), **문맥폐고혈압(portopulmonary hypertension: 문맥고혈압 환자의 2–10%에서 발생, 폐혈관 비정상 확장에 의한 폐내 단락이 본질인 간폐증후군[hepatopulmonary syndrome]과 구별 필수)**이 포함된다.  
@@ -159,7 +168,7 @@ type: 의학원서_요약노트
 > * **리오시구앗(Riociguat)**: 내인성 NO와 상승작용을 하고 NO 유무와 무관하게 수용성 구아닐산 고리화효소(soluble guanylyl cyclase)를 직접 자극하는 경구제로 PAH와 CTEPH에서 운동능력·혈역학·임상 악화까지의 시간을 개선한다.  
 > * **초기 병용요법**: 프랑스 네트워크의 후향적 연구(19명, 보센탄+실데나필+정주 에포프로스테놀 초기 3제 병용 시 1·2·3년 생존율 100%)에 이어, 신규 진단 PAH 환자에서 **암브리센탄 + 타달라필 초기 병용요법**을 단독요법과 비교한 **AMBITION 시험**에서 초기 병용군이 임상적 악화(사망, 폐이식, PAH 악화 입원 등 복합종결점) 위험을 **50% 감소**시켰다. 치료에도 불구하고 현재 PAH 환자의 중앙 생존기간은 **5–6년**에 불과하다(Table 277-2).
 
-## **5. 제278장 호흡기계 질환 환자에 대한 접근 (Approach to the Patient with Disease of the Respiratory System) (pp.1942–1944)**
+## 5. 제278장 호흡기계 질환 환자에 대한 접근 (Approach to the Patient with Disease of the Respiratory System) (pp.1942–1944)
 
 > * ---
 
@@ -171,9 +180,10 @@ type: 의학원서_요약노트
 > * **진단적 평가 (pp.1943–1944)**:  
 > * 폐활량측정법(spirometry)에서 \$\\text{FEV}*1/\\text{FVC} \<70\\%\$는 폐쇄성 병태생리를 진단하며, 총폐용량(**TLC**)이 예측치의 **\<80%**이면 제한성 병태생리를 정의한다(정상 폐활량측정·정상 폐용량에 \$\\text{DL}*{\\text{CO}}\$만 낮으면 폐혈관 질환을 시사).
 
-![[Harrison_V2_Ch278_Tab1.png]] - **Table 278-1 캡션 (p.1942)**: Table 278-1 Categories of Respiratory Disease (폐쇄성 폐질환, 제한성 병태생리[실질 질환, 신경근 약화, 흉벽/흉막 질환], 폐혈관 질환, 악성종양, 감염성 질환의 예시).
+![[Harrison_V2_Ch278_Tab1.png]]
+> [그림 11: **Table 278-1 캡션 (p.1942)**: Table 278-1 Categories of Respiratory Disease (폐쇄성 폐질환, 제한성 병태생리[실질 질환, 신경근 약화, 흉벽/흉막 질환], 폐혈관 질환, 악성종양, 감염성 질환의 예시). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch278 Table 1]
 
-## **6. 제279장 호흡기능 장애 (Disturbances of Respiratory Function) (pp.1944–1950)**
+## 6. 제279장 호흡기능 장애 (Disturbances of Respiratory Function) (pp.1944–1950)
 
 > * ---
 
@@ -186,16 +196,20 @@ type: 의학원서_요약노트
 > * 폐포 가스와 신체 표면(대기) 압력이 같아지는 수동적 휴식 지점인 **기능적 잔기량(FRC)**에서 흉벽의 외향 탄성 반동과 폐의 내향 탄성 반동이 정확히 균형을 이루며, 이때 흉막압(pleural pressure)은 대기압보다 낮다(통상 $-5cm{H}_{2}O$).  
 > * **폐활량(VC)**은 폐의 경직도 극한인 총폐용량(TLC)과 흉벽 경직도 또는 기도 폐쇄로 결정되는 잔기량(RV) 사이의 차이이다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p1945.png]] - **FIGURE 279-1 캡션 (p.1945)**: 분리된 폐, 분리된 흉벽, 결합된 호흡기계, 흡기근 및 호기근의 압력-용적 곡선(Pressure-volume curves). FRC, 기능적 잔기량; RV, 잔기량; TLC, 총폐용량.  
-![[Harrison_V2_Ch279_Fig2.png]] - **FIGURE 279-2 캡션 (p.1945)**: 느린 폐활량 수기(slow vital capacity maneuver)와 여러 폐용적(일회호흡량, 총폐용량, 폐활량, 호기예비량, 기능적 잔기량, 잔기량)을 보여주는 폐활량기록도(Spirogram).
+![[Harrison's Principles of Internal Medicine, 20th ed._p1945.png]]
+> [그림 12: **FIGURE 279-1 캡션 (p.1945)**: 분리된 폐, 분리된 흉벽, 결합된 호흡기계, 흡기근 및 호기근의 압력-용적 곡선(Pressure-volume curves). FRC, 기능적 잔기량; RV, 잔기량; TLC, 총폐용량. — 출처: Harrison's Principles of Internal Medicine, 20th ed., p.1945 원서 면 이미지]
+![[Harrison_V2_Ch279_Fig2.png]]
+> [그림 13: **FIGURE 279-2 캡션 (p.1945)**: 느린 폐활량 수기(slow vital capacity maneuver)와 여러 폐용적(일회호흡량, 총폐용량, 폐활량, 호기예비량, 기능적 잔기량, 잔기량)을 보여주는 폐활량기록도(Spirogram). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch279 Figure 2]
 
 > * **동적(유량 관련) 역학 및 호흡 일(Work of Breathing) (pp.1945–1947, Figs. 279-3, 279-4)**:  
 > * 조용한 호흡 중 정상 폐 기도 마찰저항(${R}_{aw}$)은 **\<2 cmH2O/L/s**로 매우 낮다.  
 > * 강제 호기 시 말초에서 중심 기도로 갈수록 합산 단면적이 작아져 기류 속도가 빨라지고, **베르누이 효과(Bernoulli effect)**에 의해 대류 가속에 필요한 에너지가 국소 관내압을 낮추어 경벽압(transmural pressure)과 기도 내경을 줄임으로써 **동적 기류제한(dynamic airflow limitation)**이 발생한다(Fig. 279-3).  
 > * 중증 기류폐쇄에서는 호기 시간이 부족해 다음 흡기 시작 시점의 작동 FRC가 정적 FRC보다 높아지는 **동적 폐과팽창(dynamic hyperinflation \= auto-PEEP)**이 발생하여 호흡의 탄성 일을 증가시키고 환자가 (근본 원인은 호기 기류폐쇄임에도) **흡기 곤란**을 느끼게 한다.
 
-![[Harrison_V2_Ch279_Fig3.png]] - **FIGURE 279-3 캡션 (p.1946)**: 내강 면적 대 경벽압(transmural pressure: 기도벽 안쪽에서 바깥쪽으로의 압력 차이)의 관계.  
-![[Harrison's Principles of Internal Medicine, 20th ed._p1946.png]] - **FIGURE 279-4 캡션 (p.1946)**: 기류-용적 고리(Flow-volume loops). (A) 정상, (B) 기류폐쇄, (C) 고정성 중심기도 폐쇄(흉곽입구 상방 또는 하방), (D) 가변성 상기도 폐쇄(흉곽입구 상방), (E) 가변성 하기도 폐쇄(흉곽입구 하방).
+![[Harrison_V2_Ch279_Fig3.png]]
+> [그림 14: **FIGURE 279-3 캡션 (p.1946)**: 내강 면적 대 경벽압(transmural pressure: 기도벽 안쪽에서 바깥쪽으로의 압력 차이)의 관계. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch279 Figure 3]
+![[Harrison's Principles of Internal Medicine, 20th ed._p1946.png]]
+> [그림 15: **FIGURE 279-4 캡션 (p.1946)**: 기류-용적 고리(Flow-volume loops). (A) 정상, (B) 기류폐쇄, (C) 고정성 중심기도 폐쇄(흉곽입구 상방 또는 하방), (D) 가변성 상기도 폐쇄(흉곽입구 상방), (E) 가변성 하기도 폐쇄(흉곽입구 하방). — 출처: Harrison's Principles of Internal Medicine, 20th ed., p.1946 원서 면 이미지]
 
 ### **6.2 환기의 적절성, 가스교환 및 폐기능 측정 (pp.1947–1950)**
 
@@ -206,15 +220,17 @@ type: 의학원서_요약노트
 > * 적혈구 헤모글로빈은 폐포 모세혈관 길이의 **1/3**을 지날 때 이미 완전히 산소 포화되므로 정상 폐의 산소 섭취는 확산 제한이 아닌 **관류 제한(perfusion limited)**이다(고산지대나 최고 강도 운동 시, 또는 간질성 폐질환에서만 확산 제한 발생).  
 > * 비환기 폐의 관류(**단락, shunt**)에 의한 저산소혈증은 헤모글로빈 산소해리곡선의 비선형성 때문에 보충 산소 투여에 불응성(refractory)인 반면, $\dot{V}/\dot{Q}$ **불균형**에 의한 저산소혈증은 보충 산소 투여 시 저환기 폐포의 ${P}_{A{O}_{2}}$도 상승하므로 산소 치료에 반응한다(Fig. 279-5).
 
-![[Harrison_V2_Ch279_Fig5.png]] - **FIGURE 279-5 캡션 (p.1948)**: 단락(shunt)과 환기/관류 불균형(ventilation/perfusion heterogeneity)에서 실내공기(\$F_{I\\text{O}*2}=0.21$)대100%산소($F*{I\\text{O}_2}=1\$) 호흡이 혼합 동맥혈 산소화에 미치는 영향.  
-![[Harrison's Principles of Internal Medicine, 20th ed.*p1948.png]] - **FIGURE 279-6 캡션 (p.1948)**: 흔한 호흡기 질환의 폐기능 이상 비교 표 및 기류-용적 고리 — ① 폐 탄성반동 증가에 의한 제한(폐섬유증: TLC 60%, FRC 60%, RV 60%, FVC 60%, $FE{V}_{1}$ 75%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 60%), ② 흉벽 이상에 의한 제한(중등도 비만: TLC 95%, FRC 65%, RV 100%, FVC 92%, $FE{V}_{1}$ 92%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 95%), ③ 호흡근 약화에 의한 제한(중증근무력증: TLC 75%, FRC 100%, RV 120%, FVC 60%, $FE{V}_{1}$ 60%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 80%), ④ 기도 협소화에 의한 폐쇄(급성 천식: TLC 100%, FRC 104%, RV 120%, FVC 90%, $FE{V}_{1}$ 기관지확장제 전 35%·후 75%, \$R*{\\text{aw}}\$ 2.5, \$\\text{DL}*{\\text{CO}}\$ 120%), ⑤ 탄성반동 감소에 의한 폐쇄(중증 폐기종: TLC 130%, FRC 220%, RV 310%, FVC 60%, $FE{V}_{1}$ 전 35%·후 38%, \$R*{\\text{aw}}\$ 1.5, $D{L}_{CO}$ 40%).
+![[Harrison_V2_Ch279_Fig5.png]]
+> [그림 16: **FIGURE 279-5 캡션 (p.1948)**: 단락(shunt)과 환기/관류 불균형(ventilation/perfusion heterogeneity)에서 실내공기(\$F_{I\\text{O}*2}=0.21$)대100%산소($F*{I\\text{O}_2}=1\$) 호흡이 혼합 동맥혈 산소화에 미치는 영향. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch279 Figure 5]
+![[Harrison's Principles of Internal Medicine, 20th ed.*p1948.png]]
+> [그림 17: **FIGURE 279-6 캡션 (p.1948)**: 흔한 호흡기 질환의 폐기능 이상 비교 표 및 기류-용적 고리 — ① 폐 탄성반동 증가에 의한 제한(폐섬유증: TLC 60%, FRC 60%, RV 60%, FVC 60%, $FE{V}_{1}$ 75%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 60%), ② 흉벽 이상에 의한 제한(중등도 비만: TLC 95%, FRC 65%, RV 100%, FVC 92%, $FE{V}_{1}$ 92%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 95%), ③ 호흡근 약화에 의한 제한(중증근무력증: TLC 75%, FRC 100%, RV 120%, FVC 60%, $FE{V}_{1}$ 60%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 80%), ④ 기도 협소화에 의한 폐쇄(급성 천식: TLC 100%, FRC 104%, RV 120%, FVC 90%, $FE{V}_{1}$ 기관지확장제 전 35%·후 75%, \$R*{\\text{aw}}\$ 2.5, \$\\text{DL}*{\\text{CO}}\$ 120%), ⑤ 탄성반동 감소에 의한 폐쇄(중증 폐기종: TLC 130%, FRC 220%, RV 310%, FVC 60%, $FE{V}_{1}$ 전 35%·후 38%, \$R*{\\text{aw}}\$ 1.5, $D{L}_{CO}$ 40%). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Harrison's Principles of Internal Medicine, 20th ed.*p1948]
 
 > * **폐기능 및 가스교환의 임상적 측정 (pp.1949–1950)**:  
 > * **폐용적**: 불활성 가스 희석법(헬륨·네온; 환기가 불량한 구획 때문에 실제 폐용적을 과소평가함)과 체적변동기록법(body plethysmography: 보일의 법칙 적용)으로 측정한다. 평균적으로 TLC 값은 백인 미국인보다 아프리카계 미국인에서 **약 12%**, 아시아계 미국인에서 **6%** 낮으며, 대부분의 폐기능 지표는 예측치의 **85–115%**가 정상 범위이다.  
 > * **호흡근 근력**: FRC에서 닫힌 셔터에 대고 최대 흡기·호기 시 구강 내 압력이 **>±60 cmH2O**이면 호흡근 근력이 적절하다.  
 > * **확산능(\$\\text{DL}*{\\text{CO}}$)및동맥혈산소함량($\\text{Ca}*{\\text{O}_2}\$)**: 소량의 일산화탄소를 흡입하고 **10초간 숨을 참아(10-s breath hold)** 측정하며 폐섬유증, 폐기종, 폐고혈압, 빈혈에서 감소하고 급성 울혈성 심부전, 천식, 적혈구증가증, 폐출혈에서 증가할 수 있다. \$\$\\text{Ca}*{\\text{O}_2}\\ (\\text{mL/dL}) \= 1.39 \\times [\\text{hemoglobin (g/dL)}] \\times \\%\\text{O}_2\\text{Sat} + 0.003 \\times P*{a\\text{O}_2}\\ (\\text{mmHg})\$\$
 
-## **7. 제280장 호흡기 질환의 진단 술기 (Diagnostic Procedures in Respiratory Disease) 및 제281장 천식 (Asthma) 도입부 (pp.1950–1956)**
+## 7. 제280장 호흡기 질환의 진단 술기 (Diagnostic Procedures in Respiratory Disease) 및 제281장 천식 (Asthma) 도입부 (pp.1950–1956)
 
 > * ---
 
@@ -225,11 +241,16 @@ type: 의학원서_요약노트
 > * **가상 기관지경(Virtual bronchoscopy) 및 전자기 유도 기관지경(ENB)**: MDCT 3D 재구성으로 6–7차 분지 기도까지 가상 기관지경을 구현하며(Fig. 280-4), ENB는 GPS와 유사한 전자기장 위치 추적으로 말초 폐 병변까지 유도한다.  
 > * **FDG-PET/CT 및 MRI**: FDG-PET는 1 cm 크기의 양성·악성 병변을 감별할 수 있으나 대사 활성이 낮은 유암종(carcinoid tumors)이나 세기관지폐포암종, \<1 cm 병변에서는 위음성이, 폐렴·육아종성 질환에서는 위양성이 나타날 수 있다.
 
-![[Harrison_V2_Ch280_Fig1.png]] - **FIGURE 280-1 캡션 (p.1951)**: 폐기종 환자의 흉부 X선(A) 및 CT 스캔(B).  
-![[Harrison_V2_Ch280_Fig2.png]] - **FIGURE 280-2 캡션 (p.1952)**: 우하엽 종괴를 보여주는 흉부 X선(A) 및 CT 스캔(B).  
-![[Harrison_V2_Ch280_Fig3.png]] - **FIGURE 280-3 캡션 (p.1952)**: 문합부 벌어짐(dehiscence)과 동맥류가 발생한 폐이식 환자의 나선형 CT 시상면 재구성(A) 및 디지털 감산 기도 영상(B).  
-![[Harrison_V2_Ch280_Fig4.png]] - **FIGURE 280-4 캡션 (p.1953)**: 기관(trachea)에서 기관분기부(carina)를 내려다본 가상 기관지경 영상.  
-![[Harrison_V2_Ch280_Fig5.png]] - **FIGURE 280-5 캡션 (p.1954)**: 폐이식 후 환자의 혈관계를 디지털 감산 기법으로 보여주는 자기공명 혈관조영술(MRA) 영상.
+![[Harrison_V2_Ch280_Fig1.png]]
+> [그림 18: **FIGURE 280-1 캡션 (p.1951)**: 폐기종 환자의 흉부 X선(A) 및 CT 스캔(B). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch280 Figure 1]
+![[Harrison_V2_Ch280_Fig2.png]]
+> [그림 19: **FIGURE 280-2 캡션 (p.1952)**: 우하엽 종괴를 보여주는 흉부 X선(A) 및 CT 스캔(B). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch280 Figure 2]
+![[Harrison_V2_Ch280_Fig3.png]]
+> [그림 20: **FIGURE 280-3 캡션 (p.1952)**: 문합부 벌어짐(dehiscence)과 동맥류가 발생한 폐이식 환자의 나선형 CT 시상면 재구성(A) 및 디지털 감산 기도 영상(B). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch280 Figure 3]
+![[Harrison_V2_Ch280_Fig4.png]]
+> [그림 21: **FIGURE 280-4 캡션 (p.1953)**: 기관(trachea)에서 기관분기부(carina)를 내려다본 가상 기관지경 영상. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch280 Figure 4]
+![[Harrison_V2_Ch280_Fig5.png]]
+> [그림 22: **FIGURE 280-5 캡션 (p.1954)**: 폐이식 후 환자의 혈관계를 디지털 감산 기법으로 보여주는 자기공명 혈관조영술(MRA) 영상. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch280 Figure 5]
 
 > * **생물학적 검체 채취를 위한 내과적·외과적 술기 (pp.1954–1956)**:  
 > * **혈액, 객담(고장성 식염수 유도 객담 + 면역형광 염색으로 *Pneumocystis jiroveci* 검출; 편평상피세포 존재는 상기도 오염 시사), 경피적 세침흡인, 흉수천자**.  
@@ -248,3 +269,8 @@ type: 의학원서_요약노트
 > * 원문에 없어서 쓰지 않은 항목(수치·증례·고유명사): 없음 (p.1941은 원본 PDF상 Part 6/Part 7 사이 백지 구분면임을 확인함)  
 > * 확인하지 못한 그림·표: 없음 (프롬프트의 모든 FIGURE/TABLE 라벨 및 미라벨 도해 p.1945, p.1946, p.1948 임베드 완료)  
 > * 지정 범위 밖 내용이 노트에 섞였는가: 아니오
+
+## 8. 출처
+
+- 원서: Harrison's Principles of Internal Medicine, 20th ed. (pp. 참조: 본문 각 절) — 도판 캡션은 원서 Figure/Table 캡션을 그대로 옮겼다.
+

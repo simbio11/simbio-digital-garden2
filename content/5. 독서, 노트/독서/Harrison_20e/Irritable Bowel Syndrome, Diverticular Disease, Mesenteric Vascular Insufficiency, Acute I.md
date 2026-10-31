@@ -43,6 +43,7 @@ type: 의학원서_요약노트
 > * 기전: 장벽 기계수용체의 감작, 후근신경절 및 척수 후각의 과흥분성(central sensitization), 비만세포 탈과립(히스타민, 프로테아제 분비)에 의한 장신경 말단 자극 (pp.2276–2277).
 
 ![[Harrison_V2_Ch320_Fig1.png]]
+> [그림 1: Ch320 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch320 Figure 1]
 
 #### **2) 중추신경계 조절 이상 및 감염 후 IBS (CNS Dysregulation & Postinfectious IBS, pp. 2277–2278)**
 
@@ -59,6 +60,7 @@ type: 의학원서_요약노트
 > * **장내 미생물총 변화(Dysbiosis)**: 소장 세균 과증식 및 대장 내 *Bifidobacterium*, *Lactobacillus* 감소와 메탄 생성 고세균(*Methanobrevibacter smithii* — 메탄은 장 통과를 늦추어 IBS-C와 연관됨)의 변화가 보고된다 (pp.2278–2279).
 
 ![[Harrison_V2_Ch320_Fig2.png]]
+> [그림 2: Ch320 Figure 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch320 Figure 2]
 
 ### ---
 
@@ -69,8 +71,10 @@ type: 의학원서_요약노트
 > * **로마 IV 기준을 충족**하고 **경고 징후(Alarm features: 50세 이후 첫 발현, 직장 출혈/혈변, 의도하지 않은 체중 감소, 야간 설사/통증, 빈혈, 발열, 대장암·IBD·셀리악병 가족력, 복부 종괴)**가 없는 환자에서는 불필요한 침습적 검사를 지양하고 최소한의 검사만으로 양성 진단을 내린다 (pp.2279–2280).  
 > * **권장되는 제한적 선별 검사**: 일반혈액검사(CBC), C-반응단백(CRP) 또는 **대변 칼프로텍틴(fecal calprotectin — IBD 배제)**, 그리고 **설사 우세형(IBS-D) 및 혼합형(IBS-M) 환자에서는 반드시 셀리악병 혈청 검사(IgA anti-tTG)**를 시행한다(지속 설사 시 대변 기생충 검사[*Giardia*] 및 40세 이상 또는 불응성 설사 시 현미경적 대장염 배제를 위한 대장내시경 무작위 생검, 담즙산 설사 시험 치료 고려) (pp.2279–2280).
 
-![[Harrison_V2_Ch320_Tab2.png]]  
+![[Harrison_V2_Ch320_Tab2.png]]
+> [그림 3: Ch320 Table 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch320 Table 2]
 ![[Harrison_V2_Ch320_Fig3.png]]
+> [그림 4: Ch320 Figure 3 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch320 Figure 3]
 
 #### ---
 
@@ -92,8 +96,9 @@ type: 의학원서_요약노트
 | **말초 작용 혼합 아편양 수용체 작용제 (IBS-D 전용)** (p.2282) | **Eluxadoline** (75–100 mg bid; $\mu$- 및 $\kappa$-수용체 작용제 + $\delta$-수용체 길항제) | IBS-D의 설사와 복통을 동시에 개선; 단 **오디 괄약근(sphincter of Oddi) 연축 및 급성 췌장염** 위험이 있어 **담낭절제술을 받은 환자, 담도 질환자, 알코올 남용자(하루 $>3$잔), 췌장염 병력자에서는 금기**임 |
 | **장관 분비촉진제 (Secretagogues — IBS-C 전용)** (p.2282) | 1) **Lubiprostone** (8 $\mu$g bid): 장 상피 정단막의 **제2형 염소 채널(ClC-2)** 활성화 2) **Linaclotide** (290 $\mu$g qd, 아침 식전 30분) 및 Plecanatide: 장 상피의 **구아닐산 고리화효소 C (guanylate cyclase-C, GC-C)** 작용제 $\rightarrow$ 세포 내·외 cGMP 증가로 **CFTR**을 통한 $C{l}^{-}$/$HC{O}_{3}^{-}$/수분 분비 촉진 및 구심성 통각 신경 직접 억제 | 중등증~중증 **IBS-C**의 변비와 복통을 모두 호전시킴(주요 부작용: Lubiprostone은 오심·설사, Linaclotide는 설사[소아에서는 탈수 위험으로 금기]) |
 
-![[Harrison_V2_Ch320_Fig4.png]]  
+> ⚠️ **이미지 미확보 (2026-10-31)** — 도판 추출본이 세로 조각만 남아 판독 불가
 ![[Harrison_V2_Ch320_Tab4.png]]
+> [그림 6: Ch320 Table 4 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch320 Table 4]
 
 ## ---
 
@@ -111,9 +116,12 @@ type: 의학원서_요약노트
 > * **위험인자**: 저섬유질 식이, 붉은 육류 과다 섭취, 비만, 신체활동 부족, 흡연, NSAID·스테로이드·아편유사제 복용 (pp.2283–2284).  
 > * **임상 스펙트럼**: 게실 보유자(diverticulosis)의 **약 80%는 평생 무증상**으로 지내며, 약 20%에서 증상성 게실 질환(급성 게실염 4–15% 또는 게실 출혈)이 발생한다 (p.2283).
 
-![[Harrison_V2_Ch321_Fig1.png]]  
-![[Harrison_V2_Ch321_Fig2.png]]  
+![[Harrison_V2_Ch321_Fig1.png]]
+> [그림 7: Ch321 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 1]
+![[Harrison_V2_Ch321_Fig2.png]]
+> [그림 8: Ch321 Figure 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 2]
 ![[Harrison_V2_Ch321_Tab1.png]]
+> [그림 9: Ch321 Table 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Table 1]
 
 #### ---
 
@@ -133,6 +141,7 @@ type: 의학원서_요약노트
 | **Hinchey Stage IV** | 전신 분변성 복막염 (Generalized fecal peritonitis) | **응급 수술(Hartmann's procedure)** (사망률이 매우 높음) |
 
 ![[Harrison_V2_Ch321_Fig3.png]]
+> [그림 10: Ch321 Figure 3 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 3]
 
 #### ---
 
@@ -147,8 +156,10 @@ type: 의학원서_요약노트
 > * 수액·수혈 소생술 후 상부위장관 출혈을 배제(비위관 흡인 또는 EGD)하고, 대장 정결 후 **조기 대장내시경(colonoscopy)**을 시행하여 에피네프린 주입, 양극성 열응고술, 내시경 클립 결찰술로 지혈한다 (pp.2285–2286).  
 > * 내시경으로 병변을 찾지 못하거나 지속되는 활동성 출혈이 있으면 **\$\\text{}^{99\\text{m}}\\text{Tc}\$-표지 적혈구 스캔**(출혈 속도 $0.1mL/min$ 이상 감지)이나 **CT 혈관조영술(CTA)** 후 **초선택적 장간막 혈관조영술 및 코일 색전술(angiographic superselective embolization)**을 시행하며, 이에 실패한 혈역학적 불안정 환자에서만 수술적 분절 대장절제술을 시행한다 (pp.2285–2286).
 
-![[Harrison_V2_Ch321_Tab4.png]]  
+![[Harrison_V2_Ch321_Tab4.png]]
+> [그림 11: Ch321 Table 4 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Table 4]
 ![[Harrison_V2_Ch321_Fig4.png]]
+> [그림 12: Ch321 Figure 4 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 4]
 
 ### ---
 
@@ -178,9 +189,12 @@ type: 의학원서_요약노트
 | **제3도 (Stage III)** | 배변 시 탈출하며 **손으로 밀어 넣어야만 정복(manual reduction)**됨 | **고무밴드 결찰술** 또는 **외과적 치핵절제술(operative hemorrhoidectomy / stapled hemorrhoidopexy)** |
 | **제4도 (Stage IV)** | 탈출된 치핵이 **손으로도 정복되지 않는 비가역적 상태(irreducible)** (감돈·혈전·괴사 위험) | **외과적 치핵절제술(Operative hemorrhoidectomy)** (급성 혈전성 외치핵도 발생 72시간 이내에는 절제술이 통증을 즉시 완화함) |
 
-![[Harrison_V2_Ch321_Fig5.png]]  
-![[Harrison_V2_Ch321_Fig6.png]]  
+![[Harrison_V2_Ch321_Fig5.png]]
+> [그림 13: Ch321 Figure 5 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 5]
+![[Harrison_V2_Ch321_Fig6.png]]
+> [그림 14: Ch321 Figure 6 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 6]
 ![[Harrison_V2_Ch321_Tab5.png]]
+> [그림 15: Ch321 Table 5 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Table 5]
 
 #### ---
 
@@ -195,6 +209,7 @@ type: 의학원서_요약노트
 > * **치료**: 외괄약근 침범이 적은 단순 저위 치루는 **치루절개술(fistulotomy)**로 완치되나, 외괄약근의 상당 부분을 침범하는 고위 복합 치루는 치루절개 시 변실금이 발생하므로 **배액선(seton) 거치**, 직장 점막 전진 피판술(mucosal advancement flap), 피브린 글루/플러그, 또는 LIFT 술식을 시행한다 (p.2289).
 
 ![[Harrison_V2_Ch321_Tab6.png]]
+> [그림 16: Ch321 Table 6 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Table 6]
 
 #### ---
 
@@ -209,6 +224,7 @@ type: 의학원서_요약노트
 > * **만성 치열**: 내괄약근을 이완시켜 혈류를 회복시키는 **화학적 괄약근절개술(국소 0.2–0.4% nitroglycerin 연고, 국소 칼슘채널차단제[2% diltiazem 또는 nifedipine 연고], 또는 보툴리눔 독소 주사)**을 시행하며, 이에 불응하는 경우 가장 확실한 표준 수술인 **내항문괄약근 외측 부분절개술(lateral internal sphincterotomy)**을 시행한다 (pp.2289–2290).
 
 ![[Harrison_V2_Ch321_Fig7.png]]
+> [그림 17: Ch321 Figure 7 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch321 Figure 7]
 
 ## ---
 
@@ -229,6 +245,7 @@ type: 의학원서_요약노트
 > * **직장S상결장 접합부(Rectosigmoid junction — Sudeck's point)**: IMA와 내장골동맥(하직장동맥)의 경계 부위 (p.2291).
 
 ![[Harrison_V2_Ch322_Fig1.png]]
+> [그림 18: Ch322 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch322 Figure 1]
 
 #### ---
 
@@ -242,6 +259,7 @@ type: 의학원서_요약노트
 | **4. 장간막 정맥 혈전증 (Mesenteric Venous Thrombosis, MVT)** | **5–15% (예후가 가장 양호함)** | **과응고 상태(Hypercoagulable states: Factor V Leiden, 프로트롬빈 변이, protein C/S 결핍, antithrombin 결핍, 항인지질항체증후군, 진성 적혈구증가증/필라델피아 음성 골수증식종양[*JAK2* 변이], 경구피임약, 임신, 악성 종양)**, 문맥고혈압(간경변), 복강내 염증(췌장염, 게실염, IBD), 복부 수술/외상 | 아급성으로 수일~수주에 걸쳐 점진적으로 악화되는 복통, 오심, 구토, 미열 - **진단**: **조영증강 복부 CT(문맥기)**에서 상장간막정맥(SMV) 내 혈전 결손 및 장벽 비후 확인(민감도 \$>90\\%\$) - **치료**: 복막염/장괴사가 없으면 수술 없이 **즉각적인 전신 항응고 요법(Heparin $\rightarrow$ Warfarin 또는 DOAC 최소 3–6개월; 유발 인자가 없는 특발성이나 영구적 혈전성향증은 평생 항응고)**만으로 치유됨 |
 
 ![[Harrison_V2_Ch322_Tab1.png]]
+> [그림 19: Ch322 Table 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch322 Table 1]
 
 ### ---
 
@@ -293,9 +311,12 @@ type: 의학원서_요약노트
 > * **단순 복부 X선(와위 및 기립위)**: SBO에서는 중앙부에 배열된 확장된 소장($>3cm$), 윤상주름(valvulae conniventes), **사다리 모양의 공기-액체 층(stepladder air-fluid levels)**, 대장 내 가스 소실이 관찰된다(단, 20–30%에서는 단순 X선이 비특이적이거나 액체로만 가득 차 가스가 안 보이는 "string of pearls" 징후를 보임) (p.2295).  
 > * **복부·골반 CT**: SBO의 진단에 **민감도 80–90%, 특이도 70–90%**를 보이는 가장 우수한 표준 영상 검사로, 확장된 근위부 장과 허탈된 원위부 장 사이의 **이행대(transition zone)**, 폐쇄 원인(유착, 종양, 탈장, 장중첩증, 담석), 그리고 **교액 징후(장벽 조영증강 감소, 장벽 기종[pneumatosis intestinalis], 문맥 내 가스, 장간막 부종 및 혈관 소용돌이 징후[whirl sign], 복수)**를 정확히 보여준다 (pp.2295–2296).
 
-![[Harrison_V2_Ch323_Tab3.png]]  
-![[Harrison_V2_Ch323_Fig1.png]]  
+![[Harrison_V2_Ch323_Tab3.png]]
+> [그림 20: Ch323 Table 3 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch323 Table 3]
+![[Harrison_V2_Ch323_Fig1.png]]
+> [그림 21: Ch323 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch323 Figure 1]
 ![[Harrison_V2_Ch323_Fig2.png]]
+> [그림 22: Ch323 Figure 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch323 Figure 2]
 
 ### ---
 
@@ -341,9 +362,12 @@ type: 의학원서_요약노트
 > * **특수 환자군**:  
 > * **임산부**: **임신 중 가장 흔한 산과 외 응급 수술 질환**이다. 임신 진행에 따라 자궁이 커지면서 맹장과 충수가 상방·외측으로 밀려 올라가므로 임신 중기·후기에는 통증과 압통이 우하복부가 아닌 **우측 옆구리나 우상복부(RUQ)**에 나타난다! 진단이 지연되어 충수가 천공되면 태아 사망률이 비천공 시(3–5%)보다 20% 이상으로 급증하므로 조기 초음파/MRI 평가 및 즉각적인 충수절제술이 필수적이다 (p.2299).
 
-![[Harrison_V2_Ch324_Tab1.png]]  
-![[Harrison_V2_Ch324_Fig1.png]]  
+![[Harrison_V2_Ch324_Tab1.png]]
+> [그림 23: Ch324 Table 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch324 Table 1]
+![[Harrison_V2_Ch324_Fig1.png]]
+> [그림 24: Ch324 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch324 Figure 1]
 ![[Harrison_V2_Ch324_Fig2.png]]
+> [그림 25: Ch324 Figure 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch324 Figure 2]
 
 #### ---
 
@@ -356,8 +380,10 @@ type: 의학원서_요약노트
 > * **비천공 급성 충수염**: 수액 및 광범위 항생제 투여 후 **복강경(또는 개복) 응급 충수절제술(appendectomy)**이 표준 치료이다(일부 엄격히 선별된 단순 충수염에서 항생제 단독 치료가 연구되고 있으나 약 25–30%에서 1년 내 재발함) (p.2300).  
 > * **지연 내원한 국소 천공/종괴(Phlegmon or Abscess)**: 증상 발생 후 5일 이상 경과하여 잘 국소화된 염증성 종괴나 농양으로 내원하고 전신 독성이 없는 경우에는, 즉각 수술 시 회맹부 절제 및 합병증 위험이 높으므로 먼저 **정주 항생제 + 경피적 농양 배액술(보존적 치료)**로 염증을 가라앉힌 뒤 **6–12주 후에 지연 충수절제술(interval appendectomy, 특히 40세 이상에서는 숨어 있는 충수/맹장 종양을 배제하기 위해 대장내시경 및 절제 필요)**을 시행한다 (p.2300).
 
-![[Harrison_V2_Ch324_Fig3.png]]  
+![[Harrison_V2_Ch324_Fig3.png]]
+> [그림 26: Ch324 Figure 3 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch324 Figure 3]
 ![[Harrison_V2_Ch324_Fig4.png]]
+> [그림 27: Ch324 Figure 4 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch324 Figure 4]
 
 ### ---
 
@@ -372,6 +398,7 @@ type: 의학원서_요약노트
 | **지속성 외래 복막투석(CAPD) 관련 복막염** (p.2302) | 투석 카테터를 통한 피부 상재균 유입으로 발생하므로 단일 균주 **그람양성 구균(*Staphylococcus epidermidis*, *Staphylococcus aureus* — 가장 흔함)**이 주원인임. 투석 배액 혼탁 및 투석액 백혈구 \$>100/\\mu\\text{L}\$ (중성구 \$>50\\%\$)로 진단하며, 복강 내(intraperitoneal) 반코마이신 + 3세대 세팔로스포린/아미노글리코사이드 투여로 치료(녹농균이나 진균성 복막염, 불응성 감염 시 카테터 제거) | - |
 
 ![[Harrison_V2_Ch324_Tab5.png]]
+> [그림 28: Ch324 Table 5 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch324 Table 5]
 
 ## ---
 
@@ -427,6 +454,7 @@ type: 의학원서_요약노트
 > * 24시간 식이 회상법, 식품 섭취 빈도 조사, 식사 일기 등을 활용하되, 환자의 자가 보고는 실제 섭취량보다 과소 보고(특히 비만 환자에서 20–30% 과소 보고)되는 경향이 있으므로 체중 변화 및 생화학적 지표와 함께 해석해야 한다 (pp.2307–2308).
 
 ![[Harrison_V2_Ch325_Tab4.png]]
+> [그림 29: Ch325 Table 4 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch325 Table 4]
 
 ## ---
 
@@ -457,3 +485,8 @@ type: 의학원서_요약노트
 >   [x] **페이지 범위 준수**: p.2276부터 p.2308까지의 본문, 표, 그림만 포함하였으며 범위 외 내용은 배제함.  
 > * [x] **필수 그림 및 표 삽입 완료**: [FIGURE] 18개(Ch320_Fig1~Fig4, Ch321_Fig1~Fig7, Ch322_Fig1, Ch323_Fig1~Fig2, Ch324_Fig1~Fig4) 및 [TABLE] 11개(Ch320_Tab2, Ch320_Tab4, Ch321_Tab1, Ch321_Tab4, Ch321_Tab5, Ch321_Tab6, Ch322_Tab1, Ch323_Tab3, Ch324_Tab1, Ch324_Tab5, Ch325_Tab4)를 누락 없이 삽입하고 나머지 표는 마크다운 표로 정리함.  
 > * [x] **원문 충실도 검증**: Rome IV 기준, Hinchey 분류, 장간막 허혈 4대 유형, SBP 진단 기준, DRIs 수식을 원문에 근거하여 정확히 기술함.
+
+## 1. 출처
+
+- 원서: Harrison's Principles of Internal Medicine, 20th ed. (pp. 참조: 본문 각 절) — 도판 캡션은 원서 Figure/Table 캡션을 그대로 옮겼다.
+

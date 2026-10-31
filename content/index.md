@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,939</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">171,272</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+712</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">5,941</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">171,278</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+714</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,424</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="560" data-folders="45" data-tags="192"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 560 · 📁 45 · 🏷️ 192</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1392" data-folders="51" data-tags="678"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1392 · 📁 51 · 🏷️ 678</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2600" data-folders="167" data-tags="1386"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2600 · 📁 167 · 🏷️ 1386</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="449" data-folders="95" data-tags="120"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 449 · 📁 95 · 🏷️ 120</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="451" data-folders="95" data-tags="120"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 451 · 📁 95 · 🏷️ 120</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="739" data-folders="45" data-tags="420"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 739 · 📁 45 · 🏷️ 420</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-10-31|지방 특집 - 지방 11곳 가격·전세가율 지도 + 대구 중구 딥다이브 + W9 재건축 지방 교차검증]]<span class="sc-recent-d">2026-10-31</span>
+- [[1주차_주식·매크로_주간_마감_리뷰|1주차_주식·매크로_주간_마감_리뷰]]<span class="sc-recent-d">2026-10-31</span>
 - [[건강검진 결과지 종합 해석_2026-10-30|건강검진 결과지 종합 해석_2026-10-30]]<span class="sc-recent-d">2026-10-30</span>
 - [[신경염증|신경염증]]<span class="sc-recent-d">2026-10-30</span>
 - [[슈반세포|슈반세포]]<span class="sc-recent-d">2026-10-30</span>
 - [[매화침|매화침]]<span class="sc-recent-d">2026-10-30</span>
 - [[압침|압침]]<span class="sc-recent-d">2026-10-30</span>
 - [[2026-10-30_신경계통증의학_개념학습|2026-10-30_신경계통증의학_개념학습]]<span class="sc-recent-d">2026-10-30</span>
-- [[2026-10-30_신경계통증의학_심층리뷰|신경계통증의학 심층리뷰]]<span class="sc-recent-d">2026-10-30</span>
-- [[부동산 브리핑-2026-10-30|경기 서부·북부 21개 시군 가격 지도 — 김포 딥다이브 + W9 재건축 3축 금요일 종합]]<span class="sc-recent-d">2026-10-30</span>
 
 </div>
 <!-- SC:RECENT:END -->

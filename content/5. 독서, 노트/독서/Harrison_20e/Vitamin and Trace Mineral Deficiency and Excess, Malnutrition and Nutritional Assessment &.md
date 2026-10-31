@@ -19,9 +19,12 @@ type: 의학원서_요약노트
 
 ### **1.1 수용성 비타민 (Water-Soluble Vitamins, Table 326-1 & Fig. 326-1, pp. 2309–2314)**
 
-![[Harrison_V2_Ch326_Tab1.png]]  
-![[Harrison_V2_Ch326_Fig1.png]]  
+![[Harrison_V2_Ch326_Tab1.png]]
+> [그림 1: Ch326 Table 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch326 Table 1]
+![[Harrison_V2_Ch326_Fig1.png]]
+> [그림 2: Ch326 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch326 Figure 1]
 ![[Harrison's Principles of Internal Medicine, 20th ed._p2311.png]]
+> [그림 3: p.2311 원서 면 이미지 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., p.2311 원서 면 이미지]
 
 #### **1) 티아민 (Thiamine, Vitamin ${B}_{1}$, pp. 2309–2310)**
 
@@ -140,6 +143,7 @@ type: 의학원서_요약노트
 **1.3 필수 미량원소 결핍과 과잉 (Trace Minerals, Table 326-2, pp. 2317–2318)**
 
 ![[Harrison_V2_Ch326_Tab2.png]]
+> [그림 4: Ch326 Table 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch326 Table 2]
 
 | 미량원소 | 주요 생리 기능 | 결핍 원인 및 특징적 임상 양상 (Table 326-2 & pp. 2317–2318) | 과잉 / 독성 양상   |
 | :---- | :---- | :---- | :---- |
@@ -263,3 +267,8 @@ type: 의학원서_요약노트
 >   [x] **페이지 범위 준수**: p.2309부터 p.2325까지의 본문, 표, 그림만 포함하였으며 범위 외 내용은 배제함.  
 > * [x] **필수 그림 및 표 삽입 완료**: [FIGURE] 2개(Ch326_Fig1.png 및 p.2311의 Harrison's Principles of Internal Medicine, 20th ed._p2311.png) 및 [TABLE] 2개(Ch326_Tab1.png, Ch326_Tab2.png)를 누락 없이 삽입하고 Tables 327-1, 327-2는 마크다운 표로 정리함.  
 > * [x] **원문 충실도 검증**: 비타민 및 미량원소의 기능·결핍·독성, 소모증과 콰시오르코르 비교, 해리스-베네딕트 공식 및 질소 균형 수식을 원문에 근거하여 정확히 기술함.
+
+## 1. 출처
+
+- 원서: Harrison's Principles of Internal Medicine, 20th ed. (pp. 참조: 본문 각 절) — 도판 캡션은 원서 Figure/Table 캡션을 그대로 옮겼다.
+
