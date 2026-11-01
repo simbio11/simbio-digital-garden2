@@ -141,7 +141,7 @@ aliases:
 ![[Harrison_V1_Ch150_Fig7.png]]
 
 **Table 150-2, p.1121**: `Table 150-2 Chemoprophylaxis for High-Risk Contacts of Patients with Invasive Meningococcal Disease` — 침습성 수막구균 질환 환자의 고위험 밀접 접촉자에 대한 화학예방 요법(리팜핀, 시프로플록사신, 세프트리악손, 아지스로마이신)의 연령별 용량 및 투여 기간.  
-![[Harrison_V1_Ch150_Tab2.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 
 ### 3.2 임균 감염(Gonococcal Infections): 병인(Figure 151-1), 임상 증후군(Figure 151-2), 내성 기전(Figure 151-3) 및 치료(Table 151-1) (p.1121–1128)  
 - **미생물학, 면역 회피 기전(Figure 151-1) 및 임상 양상(Figure 151-2) (p.1121–1125)**:  

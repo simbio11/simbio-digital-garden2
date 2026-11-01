@@ -40,7 +40,7 @@ type: 의학원서_요약노트
 > * 혈장·말초혈액 단핵구(PBMC)·휴지기 기억 CD4+ T 세포에서의 복제 가능 HIV 정량 배양, 순환 ${\beta }_{2}$-microglobulin, 가용성 IL-2 수용체, IgA, 산-불안정 내인성 IFN, TNF-$\alpha$ 수치, CD4+ 또는 CD8+ T 세포 표면의 활성화 표지자(CD38, HLA-DR, PD-1) 유무 등이 연구되었다.  
 > * IL-6, D-dimer, sCD14 같은 비특이적 염증 및/또는 응고 혈청 표지자는 모든 원인에 의한 사망률(all-cause mortality)과 높은 상관관계를 보인다(Table 197-9). 다만 현재 환자 모니터링에서 주요 역할을 하지는 않는다.
 
-![[Harrison_V1_Ch197_Tab9.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 2: **표 캡션 (Table 197-9)**: HIV 감염 환자에서 고감도 CRP(Hs-CRP), IL-6, D-Dimer와 모든 원인에 의한 사망률 간의 연관성 *(출처: LH Kuller et al: PLoS Med 5:e203, 2008.)* (p. 1429) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 9]
 
 | 표지자 (Marker) | 비보정 교차비 (Unadjusted OR, 제4사분위/제1사분위) | 비보정 $P$ | 보정 교차비 (Adjusted OR, 제4사분위/제1사분위) | 보정 $P$   |
@@ -257,7 +257,7 @@ type: 의학원서_요약노트
 > [그림 17: **도해 캡션 (Figure 197-42)**: AIDS 환자 3명에서의 카포시 육종(Kaposi's sarcoma). **(A)** 안와주위 부종과 멍(bruising), **(B)** 고전적인 체간 분포 병변, **(C)** 상지 병변. (p. 1448) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 42]
 ![[Harrison_V1_Ch197_Fig43.png]]
 > [그림 18: **도해 캡션 (Figure 197-43)**: 폐 카포시 육종이 있는 AIDS 환자의 흉부 X선. 심장 경계를 가리는 치밀한 양측 하엽 침윤과 흉수가 특징적이다. (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 43]
-![[Harrison_V1_Ch197_Tab17.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 19: **표 캡션 (Table 197-17)**: 카포시 육종에 대한 NIAID AIDS 임상시험그룹(ACTG) TIS 병기 체계 (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 17]
 
 | 지표 (Parameter) | 양호 위험군 (Good Risk, Stage 0: 아래 모두 충족) | 불량 위험군 (Poor Risk, Stage 1: 아래 중 하나라도 해당)   |

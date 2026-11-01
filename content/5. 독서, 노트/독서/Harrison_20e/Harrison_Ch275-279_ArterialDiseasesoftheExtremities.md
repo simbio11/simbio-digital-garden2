@@ -196,7 +196,7 @@ type: 의학원서_요약노트
 > * 폐포 가스와 신체 표면(대기) 압력이 같아지는 수동적 휴식 지점인 **기능적 잔기량(FRC)**에서 흉벽의 외향 탄성 반동과 폐의 내향 탄성 반동이 정확히 균형을 이루며, 이때 흉막압(pleural pressure)은 대기압보다 낮다(통상 $-5cm{H}_{2}O$).  
 > * **폐활량(VC)**은 폐의 경직도 극한인 총폐용량(TLC)과 흉벽 경직도 또는 기도 폐쇄로 결정되는 잔기량(RV) 사이의 차이이다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p1945.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 12: **FIGURE 279-1 캡션 (p.1945)**: 분리된 폐, 분리된 흉벽, 결합된 호흡기계, 흡기근 및 호기근의 압력-용적 곡선(Pressure-volume curves). FRC, 기능적 잔기량; RV, 잔기량; TLC, 총폐용량. — 출처: Harrison's Principles of Internal Medicine, 20th ed., p.1945 원서 면 이미지]
 ![[Harrison_V2_Ch279_Fig2.png]]
 > [그림 13: **FIGURE 279-2 캡션 (p.1945)**: 느린 폐활량 수기(slow vital capacity maneuver)와 여러 폐용적(일회호흡량, 총폐용량, 폐활량, 호기예비량, 기능적 잔기량, 잔기량)을 보여주는 폐활량기록도(Spirogram). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch279 Figure 2]
@@ -208,7 +208,7 @@ type: 의학원서_요약노트
 
 ![[Harrison_V2_Ch279_Fig3.png]]
 > [그림 14: **FIGURE 279-3 캡션 (p.1946)**: 내강 면적 대 경벽압(transmural pressure: 기도벽 안쪽에서 바깥쪽으로의 압력 차이)의 관계. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch279 Figure 3]
-![[Harrison's Principles of Internal Medicine, 20th ed._p1946.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 15: **FIGURE 279-4 캡션 (p.1946)**: 기류-용적 고리(Flow-volume loops). (A) 정상, (B) 기류폐쇄, (C) 고정성 중심기도 폐쇄(흉곽입구 상방 또는 하방), (D) 가변성 상기도 폐쇄(흉곽입구 상방), (E) 가변성 하기도 폐쇄(흉곽입구 하방). — 출처: Harrison's Principles of Internal Medicine, 20th ed., p.1946 원서 면 이미지]
 
 ### **6.2 환기의 적절성, 가스교환 및 폐기능 측정 (pp.1947–1950)**
@@ -222,7 +222,7 @@ type: 의학원서_요약노트
 
 ![[Harrison_V2_Ch279_Fig5.png]]
 > [그림 16: **FIGURE 279-5 캡션 (p.1948)**: 단락(shunt)과 환기/관류 불균형(ventilation/perfusion heterogeneity)에서 실내공기(\$F_{I\\text{O}*2}=0.21$)대100%산소($F*{I\\text{O}_2}=1\$) 호흡이 혼합 동맥혈 산소화에 미치는 영향. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch279 Figure 5]
-![[Harrison's Principles of Internal Medicine, 20th ed.*p1948.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 17: **FIGURE 279-6 캡션 (p.1948)**: 흔한 호흡기 질환의 폐기능 이상 비교 표 및 기류-용적 고리 — ① 폐 탄성반동 증가에 의한 제한(폐섬유증: TLC 60%, FRC 60%, RV 60%, FVC 60%, $FE{V}_{1}$ 75%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 60%), ② 흉벽 이상에 의한 제한(중등도 비만: TLC 95%, FRC 65%, RV 100%, FVC 92%, $FE{V}_{1}$ 92%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 95%), ③ 호흡근 약화에 의한 제한(중증근무력증: TLC 75%, FRC 100%, RV 120%, FVC 60%, $FE{V}_{1}$ 60%, \$R*{\\text{aw}}\$ 1.0, \$\\text{DL}*{\\text{CO}}\$ 80%), ④ 기도 협소화에 의한 폐쇄(급성 천식: TLC 100%, FRC 104%, RV 120%, FVC 90%, $FE{V}_{1}$ 기관지확장제 전 35%·후 75%, \$R*{\\text{aw}}\$ 2.5, \$\\text{DL}*{\\text{CO}}\$ 120%), ⑤ 탄성반동 감소에 의한 폐쇄(중증 폐기종: TLC 130%, FRC 220%, RV 310%, FVC 60%, $FE{V}_{1}$ 전 35%·후 38%, \$R*{\\text{aw}}\$ 1.5, $D{L}_{CO}$ 40%). — 출처: Harrison's Principles of Internal Medicine, 20th ed., Harrison's Principles of Internal Medicine, 20th ed.*p1948]
 
 > * **폐기능 및 가스교환의 임상적 측정 (pp.1949–1950)**:  

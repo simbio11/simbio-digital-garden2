@@ -23,7 +23,7 @@ type: 의학원서_요약노트
 > [그림 1: Ch326 Table 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch326 Table 1]
 ![[Harrison_V2_Ch326_Fig1.png]]
 > [그림 2: Ch326 Figure 1 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch326 Figure 1]
-![[Harrison's Principles of Internal Medicine, 20th ed._p2311.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 3: p.2311 원서 면 이미지 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., p.2311 원서 면 이미지]
 
 #### **1) 티아민 (Thiamine, Vitamin ${B}_{1}$, pp. 2309–2310)**
@@ -142,7 +142,7 @@ type: 의학원서_요약노트
 
 **1.3 필수 미량원소 결핍과 과잉 (Trace Minerals, Table 326-2, pp. 2317–2318)**
 
-![[Harrison_V2_Ch326_Tab2.png]]
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 4: Ch326 Table 2 도판 — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch326 Table 2]
 
 | 미량원소 | 주요 생리 기능 | 결핍 원인 및 특징적 임상 양상 (Table 326-2 & pp. 2317–2318) | 과잉 / 독성 양상   |

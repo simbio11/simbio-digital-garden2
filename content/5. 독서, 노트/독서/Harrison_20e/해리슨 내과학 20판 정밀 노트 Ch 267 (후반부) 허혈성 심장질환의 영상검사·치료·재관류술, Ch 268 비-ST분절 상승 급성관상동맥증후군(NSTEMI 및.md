@@ -411,8 +411,8 @@ type: 의학원서_요약노트
   * **하벽 경색 동반 방실차단**: 미주신경 긴장도 증가나 adenosine 방출에 의해 발생하므로 대개 일과성이며 예후가 양호하다(우심실 경색 동반 시 심방 수축 소실로 심실 단독 조율에 반응이 나쁘면 방실 순차적 이중챔버 조율 필요).  
   * **전벽 경색 동반 완전 방실차단**: 광범위한 전도계 및 심근 괴사에 기인하므로 병원 내 및 퇴원 후 사망률이 매우 높다. 약물 불응성 서맥($<50회/분$), **Mobitz II형 2도 방실차단, 3도 방실차단, 양측 각차단(예: 우각차단 + 좌전섬유속차단)**에서는 경피적/임시 심박조율기를 거치한다.
 
-![[Harrison_V2_Ch269_Fig5.png]]  
-![[Harrison's Principles of Internal Medicine, 20th ed._p1883.png]]  
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다  
+> ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다  
 *FIGURE 269-5 Algorithm for assessment of need for implantation of a cardioverter-defibrillator. The appropriate management is selected based on measurement of left ventricular ejection fraction, the timing following infarction, and whether revascularization has been performed. (Reproduced from data at www.hrsonline.org.)*
 
 > 1. **기타 합병증: 재발성 흉통, 심막염, 혈전색전증 및 좌심실류 (pp. 1883–1884)**:  
