@@ -40,7 +40,9 @@ type: 의학원서_요약노트
 
 ### **2.2 조혈모세포이식·HIV·방사선·공피증·항인지질·HELLP·골수증식종양 연관 신손상 및 신정맥 혈전증 (pp. 2164–2167)**
 
-![[Harrison_V2_Ch311_Tab1.png]] *Table 311-1 Criteria for Establishing Microangiopathic Kidney Injury Associated with Hematopoietic Stem Cell Transplantation*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison_V2_Ch311_Tab1.png)
+
+> [그림 1: Table 311-1 Criteria for Establishing Microangiopathic Kidney Injury Associated with Hematopoietic Stem Cell Transplantation — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 311-1 (원서 도판)]
 
 > * **조혈모세포이식 연관 TMA (HSCT-TMA, Table 311-1), HIV 연관 TMA 및 방사선 신병증** (pp. 2164–2165):  
 > * **HSCT-TMA (Table 311-1)**: HSCT 후 **~8%**에서(대개 **첫 100일 이내**) 발생하며 3개월 사망률이 **75%**에 달한다(국제작업반[IWG] 기준: 분열적혈구 >4%, 혈소판감소증, LDH 급증, Hb 감소/수혈 요구량 증가, 합토글로빈 감소; BMT CTN 기준: 고배율 시야당 분열적혈구 $\geq 2$개, LDH 상승, 직·간접 쿰스 검사 음성, 신장 및/또는 신경계 기능장애). 대다수가 ADAMTS13 활성도 **>10%**를 보여 혈장교환술 반응률은 **\<25%**에 불과하며, 칼시뉴린 억제제 중단 및 감염/굴모양혈관 폐쇄 증후군 치료(리툭시맙·데피브로티드 고려)를 시행한다.  
@@ -74,8 +76,13 @@ type: 의학원서_요약노트
 
 ### **3.2 급성 신산통의 진단·중재술 및 결석 종류별 맞춤 재발 예방 (pp. 2168–2172)**
 
-![[Harrison_V2_Ch312_Fig2.png]] *FIGURE 312-2 Coronal noncontrast CT image from a patient who presented with left-sided renal colic. An obstructing calculus, present in the distal left ureter at the level of S1, measures 10 mm in maximal dimension.*  
-![[Harrison_V2_Ch312_Fig1.png]] *FIGURE 312-1 Urine sediment from a patient with calcium oxalate stones (left) and a patient with cystine stones (right). Calcium oxalate dihydrate crystals are bipyramidally shaped, and cystine crystals are hexagonal.*
+![[Harrison_V2_Ch312_Fig2.png]]
+
+> [그림 2: FIGURE 312-2 Coronal noncontrast CT image from a patient who presented with left-sided renal colic. An obstructing calculus, present in the distal left ureter at the level of S1, measures 10 mm in maximal dimension. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 312-2 (원서 도판)]
+
+![[Harrison_V2_Ch312_Fig1.png]]
+
+> [그림 3: FIGURE 312-1 Urine sediment from a patient with calcium oxalate stones (left) and a patient with cystine stones (right). Calcium oxalate dihydrate crystals are bipyramidally shaped, and cystine crystals are hexagonal. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 312-1 (원서 도판)]
 
 > * **임상 발현, 요침사 결정 및 영상 진단 (Fig. 312-1, Fig. 312-2)** (pp. 2168–2170):  
 > * 상부 요관 결석은 전방으로, 하부 요관 결석은 동측 고환(남성)이나 음순(여성)으로 방사통을 일으키며, 요관방광접합부(UVJ) 결석은 빈뇨·요절박을 유발한다(**폐쇄성 결석에 동반된 상부 요로감염['압력하의 농, pus under pressure']은 즉각적인 요관 스텐트 또는 경피적 신루술 배액이 필요한 비뇨의학적 응급**임).  

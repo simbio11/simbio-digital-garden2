@@ -32,7 +32,9 @@ type: 의학원서_요약노트
 > * **성별 차이**: 여성은 남성보다 SCD 및 SCA 발생률이 낮으며, 남성에 비해 무맥성 전기활동(PEA)으로 발현하거나 가정 내에서 발생할 가능성이 더 높다. 최근 젊은 여성에서의 SCD 감소 폭은 남성보다 작다.  
 > * **인종 차이**: 미국 흑인은 백인보다 SCD 발생률이 높고, 목격되지 않은 심정지나 PEA로 발견될 가능성이 높으며 생존율이 더 불량하다(저소득 지역의 낮은 소생술 시행률 등 사회경제적 격차가 일부 기여하나 흑인의 높은 SCD 발생률 전체를 설명하지는 못함). 반면 히스패닉계는 심장 위험인자 유병률이 높음에도 SCD 발생률이 낮으며, 아시아인 역시 미국 내 및 전 세계적으로 SCD 발생률이 상대적으로 낮다.
 
-![[Harrison_V2_Ch299_Fig1.png]] *FIGURE 299-1 A. Proportionate causes, substrates, risk factors, and triggers of sudden cardiac death (SCD); and B. variation of causes by age of onset. (Modified from M Hayashi et al: The spectrum of epidemiology underlying sudden cardiac death. Circ Res 116:1887, 2015.)*
+![[Harrison_V2_Ch299_Fig1.png]]
+
+> [그림 1: FIGURE 299-1 A. Proportionate causes, substrates, risk factors, and triggers of sudden cardiac death (SCD); and B. variation of causes by age of onset. (Modified from M Hayashi et al: The spectrum of epidemiology underlying sudden cardiac death. Circ Res 116:1887, 2015.) — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 299-1 (원서 도판)]
 
 > * **위험인자 (Risk Factors, Fig. 299-1)** (p. 2059):  
 > * **기저 심장질환 및 대사 위험인자**: 기저 관상동맥질환(CHD)과 심부전(HF)은 가장 흔한 선행 심장질환으로 SCD 위험을 **4–10배** 높인다. 고혈압, 당뇨병(이미 확립된 CHD 환자에서도 특히 강력한 위험인자), 고콜레스테롤혈증(젊은 연령에서 SCD와 더 강하게 연관되며 콜레스테롤 저하의 SCD 감소 효과는 확립되지 않음), 비만, 흡연(금연은 현성 CHD가 아직 없는 사람에서 특히 위험을 낮춤)이 공통 위험인자이다. 흑인에서는 고혈압과 그에 따른 좌심실 비대(LVH)가 특히 중요한 표지자이다.  
@@ -44,7 +46,9 @@ type: 의학원서_요약노트
 
 ### **2.2 급성 심장사의 원인 질환 및 심장 리듬 (pp. 2060–2061)**
 
-![[Harrison_V2_Ch299_Fig2.png]] *FIGURE 299-2 Changing epidemiology of sudden cardiac death/arrest. A. The proportion of sudden cardiac deaths attributable to coronary artery disease among individuals without a history of heart disease in Finland over time. Postmortem examinations are mandatory in Finland, which has the highest autopsy rate in Western World (J Junttila et al: Circ Arrhythm Electrophysiol 2016). B. Proportion of treated cardiac arrest with ventricular fibrillation as first recorded rhythm in Seattle, Washington, U.S. over time. (Data from L Cobb et al: JAMA 288:3008, 2002, and G Nichol et al: JAMA 300:1423, 2008.) C. Rates of overall survival and survival from shockable and nonshockable rhythms to hospital discharge among 70,027 out-of-hospital cardiac arrests across the United States from 2005 to 2012 (Cardiac Arrest to Enhance Survival Registry). (From P Chan et al: Circulation 1876:1882, 2014.) D. Proportion of myocardial infarction patients with left ventricular ejection fractions \<30-35% in myocardial infarction registries over time.*
+![[Harrison_V2_Ch299_Fig2.png]]
+
+> [그림 2: FIGURE 299-2 Changing epidemiology of sudden cardiac death/arrest. A. The proportion of sudden cardiac deaths attributable to coronary artery disease among individuals without a history of heart disease in Finland over time. Postmortem examinations are mandatory in Finland, which has the highest autopsy rate in Western World (J Junttila et al: Circ Arrhythm Electrophysiol 2016). B. Proportion of treated cardiac arrest with ventricular fibrillation as first recorded rhythm in Seattle, Washington, U.S. over time. (Data from L Cobb et al: JAMA 288:3008, 2002, and G Nichol et al: JAMA 300:1423, 2008.) C. Rates of overall survival and survival from shockable and nonshockable rhythms to hospital discharge among 70,027 out-of-hospital cardiac arrests across the United States from 2005 to 2012 (Cardiac Arrest to Enhance Survival Registry). (From P Chan et al: Circulation 1876:1882, 2014.) D. Proportion of myocardial infarction patients with left ventricular ejection fractions \<30-35% in myocardial infarction registries over time. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 299-2 (원서 도판)]
 
 > * **기저 심장질환 (Underlying Heart Disease, Fig. 299-1, Fig. 299-2A)** (pp. 2060–2061):  
 > * **관상동맥질환(CAD)**: 백인 남성 SCD의 약 **70–75%**를 차지하나 여성과 흑인에서는 **40–50%**에 불과하며 아시아인에서는 **\<40%**로 더 낮다(유럽 일부[핀란드 의무 부검 자료 등, Fig. 299-2A]와 미국에서는 CAD 비율이 감소 추세인 반면 일본 및 아시아 일부에서는 증가 추세).  
@@ -69,7 +73,9 @@ type: 의학원서_요약노트
 
 ### **2.3 심정지의 응급 처치 및 소생 후 급성·장기 관리 (pp. 2062–2065)**
 
-![[Harrison_V2_Ch299_Fig3.png]] *FIGURE 299-3 Algorithm for approach to cardiac arrest due to VT or VF (shockable rhythm). A. Chest compressions with ventilation and defibrillation or cardioversion should be initiated as soon as possible. Defibrillation should be repeated with minimal interruption of chest compressions. Once an intravenous or intraosseous access is established, administration of epinephrine defibrillation and amiodarone and defibrillation are performed. Further therapy can be guided by possible causes as suggested by the initial or recurrent cardiac rhythm as shown. i.v., intravenous; i.o., intraosseous; CPR, cardiopulmonary resuscitation; PCI, percutaneous coronary intervention. B. Algorithm for approach to cardiac arrest due to bradyarrhythmias/asystole and pulseless electrical activity. Chest compressions with ventilation (and intubation) should be initiated as soon as possible, and i.v. access should be obtained. Once an intravenous or intraosseous access is established, administration of epinephrine is performed. At the same time, an investigation for potential reversible causes should be made and any such causes should be treated if present. For bradycardic rhythms, atropine 1 mg IV and external subcutaneous or transvenous pacing are also performed. Defibrillation should be repeated with minimal interruption of chest compressions. Once an intravenous or intraosseous access is established, administration of epinephrine is performed. Further therapy can be guided by possible causes. CPR, cardiopulmonary resuscitation; 1.0., intraosseous; I.V., intravenous.*
+![[Harrison_V2_Ch299_Fig3.png]]
+
+> [그림 3: FIGURE 299-3 Algorithm for approach to cardiac arrest due to VT or VF (shockable rhythm). A. Chest compressions with ventilation and defibrillation or cardioversion should be initiated as soon as possible. Defibrillation should be repeated with minimal interruption of chest compressions. Once an intravenous or intraosseous access is established, administration of epinephrine defibrillation and amiodarone and defibrillation are performed. Further therapy can be guided by possible causes as suggested by the initial or recurrent cardiac rhythm as shown. i.v., intravenous; i.o., intraosseous; CPR, cardiopulmonary resuscitation; PCI, percutaneous coronary intervention. B. Algorithm for approach to cardiac arrest due to bradyarrhythmias/asystole and pulseless electrical activity. Chest compressions with ventilation (and intubation) should be initiated as soon as possible, and i.v. access should be obtained. Once an intravenous or intraosseous access is established, administration of epinephrine is performed. At the same time, an investigation for potential reversible causes should be made and any such causes should be treated if present. For bradycardic rhythms, atropine 1 mg IV and external subcutaneous or transvenous pacing are also performed. Defibrillation should be repeated with minimal interruption of chest compressions. Once an intravenous or intraosseous access is established, administration of epinephrine is performed. Further therapy can be guided by possible causes. CPR, cardiopulmonary resuscitation; 1.0., intraosseous; I.V., intravenous. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 299-3 (원서 도판)]
 
 > * **생존 사슬과 기본 소생술 (Initial Evaluation and Initiation of CPR)** (p. 2062):  
 > * 병원밖 심정지 퇴원 생존율은 2005년 약 **6%**에서 2012년 **10%**로 향상되었다(Fig. 299-2C). 자발순환회복(ROSC) 성공률은 허탈 후 5분이 지나면 급격히 감소하며, EMT 도착 시 리듬이 **VT일 때 가장 좋고(25–30%)**, VF가 그다음이며, **PEA와 무수축은 불량(\<5%)**하다.  
@@ -92,11 +98,15 @@ type: 의학원서_요약노트
 > * **약물 및 재관류 치료**: **베타차단제**는 MI 후, 허혈성/비허혈성 심근병증, LQTS 등 다양한 상황에서 SCD 위험을 낮춘다. **ACE 억제제, 알도스테론 길항제, 안지오텐신 수용체-네프릴리신 억제제(ARNI)** 및 관상동맥우회술(CABG, 동면심근 감소로 수축기능 개선) 또한 구조적 심장질환·심부전 환자에서 SCD를 감소시킨다.  
 > * **일차 예방 ICD 적응증 (Table 299-3)**: MI 발생 **40일 이상** 경과 및 재관류술 **90일 이상** 경과 후 최적 약물치료에도 불구하고 ① **NYHA Class II–III 심부전 + LVEF \$\\le 35\\%\$ (Class I, Level B)**, ② **NYHA Class I + LVEF \$\\le 30\\%\$ (Class I, Level A)**, ③ **MI 후 비지속성 VT + LVEF \$\\le 40\\%\$ + 전기생리학검사(EP study)에서 유도되는 VF 또는 지속성 VT (Class I, Level B)**; 그리고 **비허혈성 확장성 심근병증(DCM)에서 최적 약물치료 중 LVEF \$\\le 35\\%\$ + NYHA Class II–III (Class I, Level B; 60세 미만에서 이득이 더 큼)**이다. LVEF \$\<35\\%\$, 심부전, 좌각차단(LBBB, \$ ext{QRS} >150 ext{ ms}\$)이 동반된 경우 심장재동기화치료(CRT)도 SCD 예방 효과를 제공한다. 또한 고위험 인자를 가진 HCM, ARVC, 심장 사르코이드증, 실신이나 VT 병력이 있는 브루가다 증후군, 베타차단제 복용 중 실신/VT가 발생하는 LQTS 및 CPVT 등에서 ICD가 권고된다(Class IIa).
 
-![[Harrison_V2_Ch299_Tab4.png]] *Table 299-4 Implantable Cardioverter Defibrillator (ICD) Not Indicated*
+![[Harrison_V2_Ch299_Tab4.png]]
+
+> [그림 4: Table 299-4 Implantable Cardioverter Defibrillator (ICD) Not Indicated — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 299-4 (원서 도판)]
 
 > * **ICD 비적응증(금기, Table 299-4)** (p. 2066): ① 수용 가능한 기능 상태로 **최소 1년 이상 생존할 합리적 기대가 없는 환자**, ② 끊이지 않는(incessant) VT/VF 환자, ③ 기기 삽입으로 악화되거나 추적관찰을 방해하는 중대한 정신질환 환자, ④ 심장이식이나 CRT 대상이 아닌 약물 불응성 NYHA Class IV 울혈성 심부전 환자, ⑤ 구조적 심장질환이 없고 유도되는 심실 빈맥성 부정맥이 없는 원인 미상의 실신 환자, ⑥ 구조적 심장질환 없이 외과적 또는 카테터 절제술로 완치 가능한 VT/VF(WPW 동반 심방 부정맥, 우심실/좌심실 유출로 VT, 특발성/섬유속성 VT), ⑦ 구조적 심장질환 없이 완전히 가역적인 장애(전해질 불균형, 약물, 외상)에 의한 심실 빈맥성 부정맥.
 
-![[Harrison_V2_Ch299_Fig4.png]] *FIGURE 299-4 A. Proportion of sudden cardiac deaths that occur in clinical subgroups of the population treated and not treated with ICDs. B. Absolute risk on sudden cardiac death within clinical subgroups in comparison to the threshold of risk where ICDs demonstrated benefit.*
+![[Harrison_V2_Ch299_Fig4.png]]
+
+> [그림 5: FIGURE 299-4 A. Proportion of sudden cardiac deaths that occur in clinical subgroups of the population treated and not treated with ICDs. B. Absolute risk on sudden cardiac death within clinical subgroups in comparison to the threshold of risk where ICDs demonstrated benefit. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 299-4 (원서 도판)]
 
 > * **SCD 예방의 난제: 일반 인구 및 저위험군에서의 발생 (Fig. 299-4)** (pp. 2066–2067):  
 > * 연간 절대 SCD 위험은 심정지 생존자(7.2%/년), MADIT 기준 허혈성 심근병증 LVEF \<30%(6.0%/년), SCD-HEFT 기준 심근병증 LVEF \$\\le 35\\%\$ NYHA II–III(3.0%/년 — ICD 이득 입증 역치)에서 높고, 비허혈성 심근병증 DANISH 임상시험군(1.5%/년), 박출률 보존 심부전(HFpEF, 1.5%/년), MI 후 LVEF >35%(1.0%/년), 다중 심장 위험인자군(0.8%/년), 일반 성인 인구(0.08%/년 \= 10만 명당 50–90명) 순으로 낮아진다(Fig. 299-4B).  
@@ -120,8 +130,13 @@ type: 의학원서_요약노트
 
 ### **3.2 혼수의 해부학과 병태생리: 뇌탈출 증후군 및 대사성·독성 혼수 (pp. 2068–2069)**
 
-![[Harrison_V2_Ch300_Fig1.png]] *FIGURE 300-1 Types of cerebral herniation: (A) uncal; (B) central; (C) transfalcial; and (D) foraminal.*  
-![[Harrison_V2_Ch300_Fig2.png]] *FIGURE 300-2 Coronal (A) and axial (B) magnetic resonance images from a stuporous patient with a left third nerve palsy as a result of a large left-sided subdural hematoma (seen as a gray-white rim). The upper midbrain and lower thalamic regions are compressed and displaced horizontally away from the mass, and there is transtentorial herniation of the medial temporal lobe structures, including the uncus anteriorly. The lateral ventricle opposite to the hematoma has become enlarged as a result of compression of the third ventricle.*
+![[Harrison_V2_Ch300_Fig1.png]]
+
+> [그림 6: FIGURE 300-1 Types of cerebral herniation: (A) uncal; (B) central; (C) transfalcial; and (D) foraminal. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 300-1 (원서 도판)]
+
+![[Harrison_V2_Ch300_Fig2.png]]
+
+> [그림 7: FIGURE 300-2 Coronal (A) and axial (B) magnetic resonance images from a stuporous patient with a left third nerve palsy as a result of a large left-sided subdural hematoma (seen as a gray-white rim). The upper midbrain and lower thalamic regions are compressed and displaced horizontally away from the mass, and there is transtentorial herniation of the medial temporal lobe structures, including the uncus anteriorly. The lateral ventricle opposite to the hematoma has become enlarged as a result of compression of the third ventricle. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 300-2 (원서 도판)]
 
 > * **혼수의 두 가지 해부학적 기전**: ① 양측 대뇌반구의 광범위한 이상, 또는 ② 뇌간에 미만성으로 위치한 시상피질 각성계인 **망상활성계(reticular activating system, RAS)**의 활동 감소(p. 2068).  
 > * **뇌종괴 병변과 뇌탈출 증후군 (Herniation Syndromes, Fig. 300-1, Fig. 300-2)** (pp. 2068–2069):  
@@ -137,7 +152,9 @@ type: 의학원서_요약노트
 
 ### **3.3 혼수 환자의 진찰, 뇌간 반사, 감별진단 및 뇌사 판정 (pp. 2070–2073)**
 
-![[Harrison_V2_Ch300_Fig3.png]] *FIGURE 300-3 Examination of brainstem reflexes in coma. Midbrain and third nerve function are tested by pupillary reaction to light, pontine function by spontaneous and reflex eye movements and corneal responses, and medullary function by respiratory and pharyngeal responses. Reflex conjugate, horizontal eye movements are dependent on the medial longitudinal fasciculus (MLF) interconnecting the sixth and contralateral third nerve nuclei. Head rotation (oculocephalic reflex) or caloric stimulation of the labyrinths (oculovestibular reflex) elicits contraversive eye movements (for details see text).*
+![[Harrison_V2_Ch300_Fig3.png]]
+
+> [그림 8: FIGURE 300-3 Examination of brainstem reflexes in coma. Midbrain and third nerve function are tested by pupillary reaction to light, pontine function by spontaneous and reflex eye movements and corneal responses, and medullary function by respiratory and pharyngeal responses. Reflex conjugate, horizontal eye movements are dependent on the medial longitudinal fasciculus (MLF) interconnecting the sixth and contralateral third nerve nuclei. Head rotation (oculocephalic reflex) or caloric stimulation of the labyrinths (oculovestibular reflex) elicits contraversive eye movements (for details see text). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 300-3 (원서 도판)]
 
 > * **일반 신체진찰 및 신경학적 진찰** (pp. 2070–2071):  
 > * **체온 및 활력징후**: 저체온은 알코올·바르비투르산염·진정제·페노티아진 중독, 저혈당, 말초순환부전, 극심한 갑상샘기능저하증에서 관찰되며, 기저 원인과 무관하게 체온이 **\<31°C (87.8°F)**로 떨어지면 그 자체로 혼수를 유발한다. 안저검사에서 유두부종(ICP 상승), 유리체하 출혈(subhyaloid hemorrhage, SAH), 고혈압성 망막병증을 확인한다.  
@@ -150,7 +167,9 @@ type: 의학원서_요약노트
 > * 비습관성 음주자에서 혈중 에탄올 농도 **43 mmol/L (0.2 g/dL)**는 정신기능 저하를, **>65 mmol/L (0.3 g/dL)**는 혼미를 유발한다(만성 알코올 중독자는 내성으로 **>87 mmol/L [0.4 g/dL]**에서도 각성 유지 가능).  
 > * 뇌파(EEG)에서 전두부 우세 고진폭 서파($\delta$파 또는 삼상파[triphasic waves])는 간부전 등 대사성 혼수를, 광범위한 빠른(\$ eta\$) 파형은 벤조디아제핀 등 진정제를 시사하며, 외부 자극에 반응하지 않는 8–12 Hz의 **알파 혼수(alpha coma)**는 교뇌 또는 미만성 피질 손상에 기인하며 예후가 불량하다.
 
-![[Harrison_V2_Ch300_Tab1.png]] *Table 300-1 Differential Diagnosis of Coma*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison_V2_Ch300_Tab1.png)
+
+> [그림 9: Table 300-1 Differential Diagnosis of Coma — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 300-1 (원서 도판)]
 
 > * **뇌사 (Brain Death) 판정 기준 및 혼수의 응급 치료** (pp. 2072–2073):  
 > * **뇌사의 필수 요소**: 저체온증이나 약물 중독 같은 교란 요인을 배제한 상태에서 ① 모든 외부 자극에 완전히 무반응인 심한 혼수(광범위한 피질 파괴), ② 동공 대광반사 소실, 각막반사 소실, 전정안구반사 소실 및 **완전하고 비가역적인 무호흡(apnea)**으로 입증되는 전체 뇌간 파괴가 확인되어야 한다(요붕증이 흔히 동반되나 수시간~수일 후 나타날 수 있으며, 척수 기능은 보존되므로 심부건반사 소실은 필수 요건이 아님).  
@@ -167,14 +186,21 @@ type: 의학원서_요약노트
 > * **중추신경계(CNS)**: ① 대뇌반구/뇌간·소뇌의 전반적 뇌병증(섬망, 패혈증, 간·신부전, 약물[진통제·진정제·수면제·항고혈압제·\$ ext{H}_2\$ 차단제], 전해질 이상[저나트륨혈증·저혈당], 저혈압/저관류, 저산소증, 수막염, SAH, 베르니케병, 발작 후 상태 또는 비경련성 뇌전증지속상태, 고혈압성 뇌병증, 점액수종) 및 국소 결손(허혈성 뇌졸중, 종양, 농양/경막하축농, 뇌실질 출혈, 경막하/경막외 혈종, 기저동맥 혈전증, 중심교뇌수초용해증), ② 척수 병변(추간판 탈출증, 경막외 혈종/농양, 허혈, 외상, 척수염).  
 > * **말초신경계(PNS)**: ① 말초신경(축삭성: 중환자 다발신경병증, 대사장애, 화학요법제/항레트로바이러스제; 탈수초성: 길랭-바레 증후군, 만성 염증성 탈수초 다발신경병증[CIDP]), ② 신경근접합부(신경근차단제 지속 효과, 아미노글리코시드, 중증근무력증, 람베르트-이튼 증후군, 보툴리눔독소증), ③ 근육(중환자 근육병증[악액질성, 급성 괴사성, 굵은필라멘트], 저/고칼륨혈증, 저인산혈증, 횡문근융해증).
 
-![[Harrison_V2_Ch301_Fig1.png]] *FIGURE 301-1 Pressure autoregulation of cerebral blood flow. In the normal state where autoregulation is intact A, cerebral perfusion is constant over a wide range of systemic blood pressures (BP). This is mediated by dilation and constriction of small cerebral arterioles (round circles). Below the blood pressure threshold for maximal dilation, cerebral blood flow becomes pressure-dependent and decreases whereas above the threshold for maximum constriction cerebral blood flow increases with increasing systemic blood pressure. In severe brain injury, autoregulatory mechanisms may be impaired and cerebral blood flow becomes pressure-dependent throughout (B). At the extremes of BP there may be vascular collapse (very low BP) or forced vasodilation (very high BP).*
+![[Harrison_V2_Ch301_Fig1.png]]
+
+> [그림 10: FIGURE 301-1 Pressure autoregulation of cerebral blood flow. In the normal state where autoregulation is intact A, cerebral perfusion is constant over a wide range of systemic blood pressures (BP). This is mediated by dilation and constriction of small cerebral arterioles (round circles). Below the blood pressure threshold for maximal dilation, cerebral blood flow becomes pressure-dependent and decreases whereas above the threshold for maximum constriction cerebral blood flow increases with increasing systemic blood pressure. In severe brain injury, autoregulatory mechanisms may be impaired and cerebral blood flow becomes pressure-dependent throughout (B). At the extremes of BP there may be vascular collapse (very low BP) or forced vasodilation (very high BP). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-1 (원서 도판)]
 
 > * **뇌관류압(CPP), 뇌혈류 자동조절 및 뇌척수액(CSF) 역학 (Fig. 301-1)** (pp. 2074–2075):  
 > * **혈관성 부종(vasogenic edema)**은 혈액뇌장벽(BBB) 투과성 증가로, **세포독성 부종(cytotoxic edema)**은 허혈 연쇄반응(글루탐산 방출 → 세포내 칼슘·나트륨 유입 → 프로테아제·리파아제 활성화 및 자유라디칼 손상)이나 세포자멸사(apoptosis)에 의한 세포 종창으로 발생한다.  
 > * **뇌관류압**: \$ ext{CPP} \= ext{평균동맥압(MAP)} - ext{두개내압(ICP)}\$. 정상 뇌에서는 전신 혈압의 넓은 범위(MAP 약 50–150 mmHg)에 걸쳐 세동맥 확장·수축을 통해 일정한 뇌혈류(CBF)를 유지하지만, 중증 뇌손상에서는 자동조절이 손상되어 CBF가 전 구간에서 혈압 의존적(pressure-dependent)이 된다(Fig. 301-1B). 또한 CBF는 고탄산혈증·산증 시 증가하고 저탄산혈증·알칼리증 시 감소한다. 성인 두개강 내 CSF 용적은 **~150 mL**, 뇌혈액량도 **~150 mL**이다.
 
-![[Harrison_V2_Ch301_Fig2.png]] *FIGURE 301-2 Intracranial pressure (ICP) and brain tissue oxygen monitoring. A ventriculostomy allows for drainage of cerebrospinal fluid to treat elevated ICP. Fiberoptic ICP and brain tissue oxygen monitors are usually secured using a screw-like skull bolt. Cerebral blood flow and microdialysis probes (not shown) may be placed in a manner similar to the brain tissue oxygen probe.*  
-![[Harrison_V2_Ch301_Tab2.png]] *Table 301-2 Stepwise Approach to Treatment of Elevated Intracranial Pressure (ICP)*
+![[Harrison_V2_Ch301_Fig2.png]]
+
+> [그림 11: FIGURE 301-2 Intracranial pressure (ICP) and brain tissue oxygen monitoring. A ventriculostomy allows for drainage of cerebrospinal fluid to treat elevated ICP. Fiberoptic ICP and brain tissue oxygen monitors are usually secured using a screw-like skull bolt. Cerebral blood flow and microdialysis probes (not shown) may be placed in a manner similar to the brain tissue oxygen probe. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-2 (원서 도판)]
+
+![[Harrison_V2_Ch301_Tab2.png]]
+
+> [그림 12: Table 301-2 Stepwise Approach to Treatment of Elevated Intracranial Pressure (ICP) — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 301-2 (원서 도판)]
 
 > * **ICP 감시 적응증 및 ICP 상승의 단계적 치료 (Fig. 301-2, Table 301-2)** (pp. 2076–2077):  
 > * **ICP 감시 대상**: 중증 외상성 뇌손상(**GCS $\leq 8$**), 천막상부 허혈성/출혈성 뇌졸중에 의한 큰 조직 변위, SAH·뇌실내 출혈·후두개와 뇌졸중에 의한 수두증, 그리고 전격성 간부전(fulminant hepatic failure). CSF 배액 치료가 가능한 **뇌실창냄술(ventriculostomy)**이 선호되나 미만성 뇌부종으로 뇌실이 작거나 응고장애가 있는 경우에는 뇌실질 내(parenchymal) ICP 감시 장치가 적합하다(Fig. 301-2).  
@@ -184,8 +210,13 @@ type: 의학원서_요약노트
 
 ### **4.2 중환자실 주요 중추신경계 급성 뇌병증 (pp. 2077–2081)**
 
-![[Harrison_V2_Ch301_Fig3.png]] *FIGURE 301-3 Electroencephalography (EEG) after cardiac arrest. A burst-suppression pattern is seen in a comatose patient with severe hypoxic-ischemic encephalopathy after cardiac arrest. In this patient, each burst on EEG was associated with a whole-body jerking movement leading to the clinical and electrophysiological diagnosis of myoclonic status epilepticus.*  
-![[Harrison_V2_Ch301_Fig4.png]] *FIGURE 301-4 Cortical laminar necrosis in hypoxic-ischemic encephalopathy. T1-weighted postcontrast magnetic resonance imaging shows cortical enhancement in a watershed distribution consistent with laminar necrosis.*
+![[Harrison_V2_Ch301_Fig3.png]]
+
+> [그림 13: FIGURE 301-3 Electroencephalography (EEG) after cardiac arrest. A burst-suppression pattern is seen in a comatose patient with severe hypoxic-ischemic encephalopathy after cardiac arrest. In this patient, each burst on EEG was associated with a whole-body jerking movement leading to the clinical and electrophysiological diagnosis of myoclonic status epilepticus. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-3 (원서 도판)]
+
+![[Harrison_V2_Ch301_Fig4.png]]
+
+> [그림 14: FIGURE 301-4 Cortical laminar necrosis in hypoxic-ischemic encephalopathy. T1-weighted postcontrast magnetic resonance imaging shows cortical enhancement in a watershed distribution consistent with laminar necrosis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-4 (원서 도판)]
 
 > * **저산소-허혈 뇌병증 (Hypoxic-Ischemic Encephalopathy, Fig. 301-3, Fig. 301-4)** (pp. 2077–2078):  
 > * 순환정지 시 수초 내에 의식을 잃으며 **3–5분** 이내에 순환이 회복되면 완전 회복이 가능하나 3–5분을 초과하면 영구적 뇌손상이 흔히 남는다(순수 저산소증에는 뇌가 더 잘 견뎌서 혈압이 정상으로 유지되고 서서히 발생하면 \$ ext{PaO}_2\\ 20 ext{ mmHg}\$ [2.7 kPa]까지도 견딜 수 있음). 일산화탄소 및 시안화물 중독은 호흡사슬을 직접 손상시키는 **조직독성 저산소증(histotoxic hypoxia)**을 일으키며 수개월에 걸쳐 무운동·경직(떨림 없음)과 기저핵 손상을 특징으로 하는 지연성 파킨슨 증후군을 유발할 수 있다.  
@@ -196,10 +227,21 @@ type: 의학원서_요약노트
 > * **ICU 섬망 및 대사성 뇌병증**: 기계환기 환자의 진정 시 벤조디아제핀(로라제팜, 미다졸람) 대신 중추성 \$ lpha_2\$ 작용제인 **덱스메데토미딘(dexmedetomidine)**을 사용하면 섬망을 줄이고 기계환기 기간을 단축할 수 있다(심한 초조 시 할로페리돌 0.5–1 mg 저용량 사용 가능).  
 > * **패혈증 연관 뇌병증 (Sepsis-Associated Encephalopathy)**: 패혈증 및 다발성 장기부전 환자의 과반수에서 발생하며 TNF, IL-1, IL-2, IL-6 등 염증성 사이토카인이 관여한다. 국소 징후 없는 미만성 뇌기능장애(착란, 과다반사, 파악/주둥이 반사 같은 전두엽 유리 징후, 간대성근경련, 자세고정불능증)로 나타나며 혼수를 동반할 경우 사망률이 **50%**에 육박한다(사망 환자에서 혈청 **S-100\$ eta\$** 상승 및 신경세포 자멸사 관찰).
 
-![[Harrison_V2_Ch301_Fig5.png]] *FIGURE 301-5 Osmotic demyelination syndrome. Axial T2-weighted magnetic resonance scan through the pons reveals a symmetric area of abnormal high signal intensity within the basis pontis (arrows).*  
-![[Harrison_V2_Ch301_Fig6.png]] *FIGURE 301-6 Wernicke's disease. Coronal T1-weighted postcontrast magnetic resonance imaging reveals abnormal enhancement of the mammillary bodies (arrows), typical of acute Wernicke's encephalopathy.*  
-![[Harrison_V2_Ch301_Tab3.png]] *Table 301-3 Common Etiologies of Posterior Reversible Encephalopathy Syndrome*  
-![[Harrison_V2_Ch301_Fig7.png]] *FIGURE 301-7 Axial fluid-attenuated inversion recovery (FLAIR) magnetic resonance imaging (MRI) of the brain in a patient taking cyclosporine after liver transplantation, who presented with seizures, headache, and cortical blindness. Increased signal is seen bilaterally in the occipital lobes predominantly involving the white matter, consistent with a hyperperfusion state secondary to calcineurin- inhibitor exposure.*
+![[Harrison_V2_Ch301_Fig5.png]]
+
+> [그림 15: FIGURE 301-5 Osmotic demyelination syndrome. Axial T2-weighted magnetic resonance scan through the pons reveals a symmetric area of abnormal high signal intensity within the basis pontis (arrows). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-5 (원서 도판)]
+
+![[Harrison_V2_Ch301_Fig6.png]]
+
+> [그림 16: FIGURE 301-6 Wernicke's disease. Coronal T1-weighted postcontrast magnetic resonance imaging reveals abnormal enhancement of the mammillary bodies (arrows), typical of acute Wernicke's encephalopathy. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-6 (원서 도판)]
+
+![[Harrison_V2_Ch301_Tab3.png]]
+
+> [그림 17: Table 301-3 Common Etiologies of Posterior Reversible Encephalopathy Syndrome — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 301-3 (원서 도판)]
+
+![[Harrison_V2_Ch301_Fig7.png]]
+
+> [그림 18: FIGURE 301-7 Axial fluid-attenuated inversion recovery (FLAIR) magnetic resonance imaging (MRI) of the brain in a patient taking cyclosporine after liver transplantation, who presented with seizures, headache, and cortical blindness. Increased signal is seen bilaterally in the occipital lobes predominantly involving the white matter, consistent with a hyperperfusion state secondary to calcineurin- inhibitor exposure. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 301-7 (원서 도판)]
 
 > * **삼투성 탈수초 증후군, 베르니케병, 과관류 장애(PRES) 및 고형장기 이식 후 뇌손상 (Fig. 301-5, Fig. 301-6, Fig. 301-7, Table 301-3)** (pp. 2079–2081):  
 > * **삼투성 탈수초 증후군 (Osmotic Demyelination Syndrome, 구 중심교뇌수초용해증, Fig. 301-5)**: 중증 저나트륨혈증의 급격한 교정 수일 후 교뇌 기저부(basis pontis)의 비염증성 탈수초화로 인해 사지마비와 가성구마비로 발현한다. 예방을 위해 중증 저나트륨혈증은 **24시간 이내 $\leq 10extmmol/L$ ($10extmEq/L$), 48시간 이내 $20extmmol/L$ ($20extmEq/L$)** 이하로 완만하게 교정해야 한다.  
@@ -228,12 +270,19 @@ type: 의학원서_요약노트
 > * 낭상 동맥류의 **약 85%는 전방 순환**(주로 윌리스 환)에 발생하며 **약 20%**는 다발성(양측 대칭 부위 호발)이다. 파열 위험은 직경 **>7 mm**, 기저동맥 첨부(top of the basilar artery), 후교통동맥(PComA) 기시부에서 더 높다.  
 > * 파열 순간 급격한 ICP 상승으로 환자의 **약 절반**에서 일시적 의식소실이 발생하며(10%는 수일간 혼수 지속), **~45%**에서는 노작과 연관된 갑작스러운 극심한 두통("내 인생 최악의 두통")이 첫 증상이다. 본격 파열에 앞선 소량 누출인 **전초 출혈(sentinel bleed)**이나 미파열 동맥류 확장에 의한 국소 압박 징후(예: **후교통동맥-내경동맥 접합부 동맥류에 의한 동공 산대 동반 제3뇌신경 마비**, 해면정맥동 내 동맥류에 의한 제6뇌신경 마비, 상공막 내경동맥/전대뇌동맥 동맥류에 의한 시야 결손)를 놓치지 말아야 한다.
 
-![[Harrison_V2_Ch302_Tab1.png]] *Table 302-1 Grading Scales for Subarachnoid Hemorrhage*
+![[Harrison_V2_Ch302_Tab1.png]]
+
+> [그림 19: Table 302-1 Grading Scales for Subarachnoid Hemorrhage — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 302-1 (원서 도판)]
 
 ### **5.2 지연성 신경학적 결손, 영상·검사실 진단 및 치료 (pp. 2084–2087)**
 
-![[Harrison_V2_Ch302_Fig1.png]] *FIGURE 302-1 Subarachnoid hemorrhage. A. Computed tomography (CT) angiography revealing an aneurysm of the left superior cerebellar artery. B. Noncontrast CT scan at the level of the third ventricle revealing subarachnoid blood (bright) in the left sylvian fissure and within the left lateral ventricle. C. Conventional anteroposterior x-ray angiogram of the right vertebral and basilar artery showing the large aneurysm. D. Conventional angiogram following coil embolization of the aneurysm, whereby the aneurysm body is filled with platinum coils delivered through a microcatheter navigated from the femoral artery into the aneurysm neck.*  
-![[Harrison_V2_Ch302_Fig2.png]] *FIGURE 302-2 Vasospasm of the right middle cerebral artery. A. Catheter angiography demonstrates significant narrowing of the right middle cerebral artery (MCA). B. Because of symptomatic delayed cerebral ischemia, soft-balloon angioplasty was used to dilate the proximal portion of the main MCA stem.*
+![[Harrison_V2_Ch302_Fig1.png]]
+
+> [그림 20: FIGURE 302-1 Subarachnoid hemorrhage. A. Computed tomography (CT) angiography revealing an aneurysm of the left superior cerebellar artery. B. Noncontrast CT scan at the level of the third ventricle revealing subarachnoid blood (bright) in the left sylvian fissure and within the left lateral ventricle. C. Conventional anteroposterior x-ray angiogram of the right vertebral and basilar artery showing the large aneurysm. D. Conventional angiogram following coil embolization of the aneurysm, whereby the aneurysm body is filled with platinum coils delivered through a microcatheter navigated from the femoral artery into the aneurysm neck. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 302-1 (원서 도판)]
+
+![[Harrison_V2_Ch302_Fig2.png]]
+
+> [그림 21: FIGURE 302-2 Vasospasm of the right middle cerebral artery. A. Catheter angiography demonstrates significant narrowing of the right middle cerebral artery (MCA). B. Because of symptomatic delayed cerebral ischemia, soft-balloon angioplasty was used to dilate the proximal portion of the main MCA stem. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 302-2 (원서 도판)]
 
 > * **지연성 신경학적 결손(Delayed Neurologic Deficits)의 4대 원인** (pp. 2084–2085):  
 > * **재파열(Rerupture)**: 미치료 동맥류의 첫 달 재파열률은 **~30%**(첫 7일 내 정점)이며 사망률 **50%**를 보인다. 조기 동맥류 폐색으로 예방한다.  
@@ -250,7 +299,9 @@ type: 의학원서_요약노트
 
 ### **5.3 Chapter 303 도입부: 신장의 발생유전학과 사구체·네프론 구조 (p. 2088)**
 
-![[Harrison_V2_Ch303_Fig1.png]] *FIGURE 303-1 Genes controlling renal nephrogenesis. A growing number of genes have been identified at various stages of glomerulotubular development in the mammalian kidney. The genes listed have been tested in various genetically modified mice, and their location corresponds to the classical stages of kidney development postulated by Saxen in 1987.*
+![[Harrison_V2_Ch303_Fig1.png]]
+
+> [그림 22: FIGURE 303-1 Genes controlling renal nephrogenesis. A growing number of genes have been identified at various stages of glomerulotubular development in the mammalian kidney. The genes listed have been tested in various genetically modified mice, and their location corresponds to the classical stages of kidney development postulated by Saxen in 1987. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 303-1 (원서 도판)]
 
 > * **신장 발생(Nephrogenesis)과 사구체 여과장벽 (Fig. 303-1)** (p. 2088):  
 > * 성숙한 신장은 약 **30가지**의 분화된 세포 유형으로 구성되며, 중간중배엽(intermediate mesoderm)에서 후신모체(metanephric blastema)와 두 개의 요관싹(ureteric buds)의 상호작용 및 순차적 유전자 발현(전세뇨관 응집: *Pax2, Lhx1, Eya1, Six1, Wt1*; 요관싹 유도·응축: *Gdnf/Ret, Wnt4, Emx2, Fgf8, Itga8/Itgb1, Fgfr2, Hoxa11/Hoxd11, Foxc1, Slit2/Robo2*; 콤마·S자체 및 모세혈관 고리: *VEGF-A/Kdr, Foxd1, Tcf21, Foxc2, Lmx1b, Itga3/Itgb1, Pdgfb/Pdgfbr, Cxcr4/Cxcl12, Notch2*; 성숙 사구체: *Nphs1, Nck1/Nck2, Cd36, CD2AP, Neph1, Nphs2, Lamb2*)에 의해 발생한다.  

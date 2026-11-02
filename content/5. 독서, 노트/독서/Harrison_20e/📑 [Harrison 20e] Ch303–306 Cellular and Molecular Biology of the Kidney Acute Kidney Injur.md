@@ -24,7 +24,9 @@ type: 의학원서_요약노트
 
 ### **2.1 사구체 여과의 결정인자 및 자동조절 기전 (p. 2089)**
 
-![[Harrison_V2_Ch303_Fig2.png]] *FIGURE 303-2 Renal microcirculation and the renin-angiotensin system. A. Diagram illustrating relationships of the nephron with glomerular and peritubular capillaries. B. Expanded view of the glomerulus with its juxtaglomerular apparatus including the macula densa and adjacent afferent arteriole. C. Proteolytic processing steps in the generation of angiotensins.*
+![[Harrison_V2_Ch303_Fig2.png]]
+
+> [그림 1: FIGURE 303-2 Renal microcirculation and the renin-angiotensin system. A. Diagram illustrating relationships of the nephron with glomerular and peritubular capillaries. B. Expanded view of the glomerulus with its juxtaglomerular apparatus including the macula densa and adjacent afferent arteriole. C. Proteolytic processing steps in the generation of angiotensins. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 303-2 (원서 도판)]
 
 > * **신장 미세순환과 여과분율(Filtration Fraction)** (p. 2089):  
 > * 신혈류량은 심박출량의 **~20% (1000 mL/min)**를 차지하며, 수입세동맥 → 사구체 모세혈관 → 수출세동맥 → 세뇨관주위 모세혈관(피질) 또는 직행혈관(vasa recta, 수질)의 직렬 이중 모세혈관망을 이룬다(Fig. 303-2A). 신혈장류량의 **약 20%**가 보우만주머니로 여과되며(\$ ext{여과분율} \= ext{GFR} / ext{신혈장류량}\$), 사구체 모세혈관을 따라 여과되지 않은 혈장 단백질 농도가 상승하여 교질삼투압이 정수압 경사를 상쇄하면 수출세동맥에 이르기 전에 여과 추진력이 0으로 떨어진다.  
@@ -35,9 +37,17 @@ type: 의학원서_요약노트
 
 ### **2.2 세뇨관 상피 수송의 원리와 유전성 세뇨관 수송 장애 (pp. 2090–2093)**
 
-![[Harrison_V2_Ch303_Fig3.png]] *FIGURE 303-3 Transport activities of the major nephron segments. Representative cells from five major tubular segments are illustrated with the lumen side (apical membrane) facing left and interstitial side (basolateral membrane) facing right. A. Proximal tubular cells. B. Typical cell in the thick ascending limb of the loop of Henle. C. Distal convoluted tubular cell. D. Overview of entire nephron. E. Cortical collecting duct cells. F. Typical cell in the inner medullary collecting duct.*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2091.png]] *FIGURE 303-3 (Continued) — B. Thick ascending limb of the loop of Henle; C. Distal convoluted tubule.*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2092.png]] *FIGURE 303-3 (Continued) — D. Overview of entire nephron; E. Cortical collecting duct; F. Inner medullary collecting duct.*
+![[Harrison_V2_Ch303_Fig3.png]]
+
+> [그림 2: FIGURE 303-3 Transport activities of the major nephron segments. Representative cells from five major tubular segments are illustrated with the lumen side (apical membrane) facing left and interstitial side (basolateral membrane) facing right. A. Proximal tubular cells. B. Typical cell in the thick ascending limb of the loop of Henle. C. Distal convoluted tubular cell. D. Overview of entire nephron. E. Cortical collecting duct cells. F. Typical cell in the inner medullary collecting duct. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 303-3 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2091.png)
+
+> [그림 3: FIGURE 303-3 (Continued) — B. Thick ascending limb of the loop of Henle; C. Distal convoluted tubule. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 303-3 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2092.png)
+
+> [그림 4: FIGURE 303-3 (Continued) — D. Overview of entire nephron; E. Cortical collecting duct; F. Inner medullary collecting duct. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 303-3 (원서 도판)]
 
 > * **세포경유 수송(Cellular transport)과 세포옆 수송(Paracellular transport)** (pp. 2090–2093):  
 > * 근위세뇨관은 투과성이 높은 밀착연접(leaky epithelia, 저저항 상피)을 가져 대량 액체 재흡수에 적합하며, 원위 네프론(집합관 등)은 조밀한 밀착연접(tight epithelia, 고저항 상피)을 가져 정밀한 호르몬 조절에 적합하다.  
@@ -85,7 +95,9 @@ type: 의학원서_요약노트
 > * **피질 집합관 사이세포(Intercalated cells)**: **A형 사이세포**는 정단막 \$ ext{H}^+\$-ATPase와 기저외측막 \$ ext{Cl}^-/ ext{HCO}_3^-\$ 교환체로 산을 분비하고 중탄산염을 재흡수하며, **B형 사이세포**는 정단막 \$ ext{Cl}^-/ ext{HCO}_3^-\$ 교환체와 기저외측막 \$ ext{H}^+\$-ATPase로 중탄산염을 분비한다(산혈증 시 세포외 단백질 **hensin**의 매개로 B형이 A형으로 전환 적응함).  
 > * **내수질 집합관(Inner medullary collecting duct)**: 심방이뇨펩티드(ANP, 기저외측 수용체)와 신장이뇨펩티드(**urodilatin**, 정단막 수용체)가 구아닐산 고리화효소(cGMP)를 자극하여 정단막 \$ ext{Na}^+\$ 채널을 억제하고 나트륨뇨배설을 유도한다. 또한 요소를 수질 간질로 재흡수하여 고장성 수질 유지를 돕는다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2097.png]] *FIGURE 303-4 Determinants of sodium and water balance. A. Plasma Na+ concentration is a surrogate marker for plasma tonicity, the volume behavior of cells in a solution. B. Extracellular blood volume and pressure are an integrated function of total body Na+, total body H2O, vascular tone, heart rate, and stroke volume.*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2097.png)
+
+> [그림 5: FIGURE 303-4 Determinants of sodium and water balance. A. Plasma Na+ concentration is a surrogate marker for plasma tonicity, the volume behavior of cells in a solution. B. Extracellular blood volume and pressure are an integrated function of total body Na+, total body H2O, vascular tone, heart rate, and stroke volume. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 303-4 (원서 도판)]
 
 > * **수분 및 나트륨 균형의 호르몬 조절과 알도스테론 탈출 (Fig. 303-4)** (pp. 2096–2097):  
 > * 정상 혈장 긴장도($\sim 280extmosmol/L$, \$ ext{혈장 Na}^+ \\propto ( ext{총 체내 Na}^+ + ext{총 체내 K}^+) / ext{총 체수분}\$)는 종말판 혈관기관(organum vasculosum of the lamina terminalis)에 연결된 기계감수성 **TRPV** 신경세포의 삼투수용과 갈증·바소프레신 분비로 조절된다.  
@@ -97,8 +109,13 @@ type: 의학원서_요약노트
 
 ### **3.1 AKI의 역학 및 신전성 질소혈증 (pp. 2098–2100)**
 
-![[Harrison_V2_Ch304_Fig1.png]] *FIGURE 304-1 Classification of the major causes of acute kidney injury. ACE-I, angiotensin-converting enzyme inhibitor-I; ARB, angiotensin receptor blocker; NSAID, nonsteroidal anti-inflammatory drug.*  
-![[Harrison_V2_Ch304_Fig2.png]] *FIGURE 304-2 Intrarenal mechanisms for autoregulation of the glomerular filtration rate (GFR) under decreased perfusion pressure and reduction of the GFR by drugs. A. Normal conditions and a normal GFR. B. Reduced perfusion pressure within the autoregulatory range. C. Reduced perfusion pressure with an NSAID. D. Reduced perfusion pressure with an ACE-I or ARB.*
+![[Harrison_V2_Ch304_Fig1.png]]
+
+> [그림 6: FIGURE 304-1 Classification of the major causes of acute kidney injury. ACE-I, angiotensin-converting enzyme inhibitor-I; ARB, angiotensin receptor blocker; NSAID, nonsteroidal anti-inflammatory drug. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 304-1 (원서 도판)]
+
+![[Harrison_V2_Ch304_Fig2.png]]
+
+> [그림 7: FIGURE 304-2 Intrarenal mechanisms for autoregulation of the glomerular filtration rate (GFR) under decreased perfusion pressure and reduction of the GFR by drugs. A. Normal conditions and a normal GFR. B. Reduced perfusion pressure within the autoregulatory range. C. Reduced perfusion pressure with an NSAID. D. Reduced perfusion pressure with an ACE-I or ARB. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 304-2 (원서 도판)]
 
 > * **역학 (Epidemiology)** (p. 2098):  
 > * 급성기 병원 입원의 **5–7%**, 중환자실(ICU) 입실의 **최대 30%**에서 발생하며(ICU 내 사망률 **>50%**), 미국 내 연간 발생률은 **10만 명당 500명**으로 뇌졸중보다 높다. 개발도상국에서는 독사·거미·애벌레·벌 독(envenomation), 말라리아·렙토스피라증, 지진에 의한 압좌손상·횡문근융해증이 지역 특이적 원인이 된다.  
@@ -108,8 +125,13 @@ type: 의학원서_요약노트
 
 ### **3.2 내인성(신성) AKI 및 신후성 AKI의 병태생리 (pp. 2100–2103)**
 
-![[Harrison_V2_Ch304_Fig3.png]] *FIGURE 304-3 Major causes of intrinsic acute kidney injury. ATN, acute tubular necrosis; DIC, disseminated intravascular coagulation; HTN, hypertension; PCN, penicillin; PPI, proton pump inhibitors; TTP/HUS, thrombotic thrombocytopenic purpura/hemolytic-uremic syndrome; TINU, tubulointerstitial nephritis-uveitis.*  
-![[Harrison_V2_Ch304_Fig4.png]] *FIGURE 304-4 Interacting microvascular and tubular events contributing to the pathophysiology of ischemic acute kidney injury. PGE2, prostaglandin E2.*
+![[Harrison_V2_Ch304_Fig3.png]]
+
+> [그림 8: FIGURE 304-3 Major causes of intrinsic acute kidney injury. ATN, acute tubular necrosis; DIC, disseminated intravascular coagulation; HTN, hypertension; PCN, penicillin; PPI, proton pump inhibitors; TTP/HUS, thrombotic thrombocytopenic purpura/hemolytic-uremic syndrome; TINU, tubulointerstitial nephritis-uveitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 304-3 (원서 도판)]
+
+![[Harrison_V2_Ch304_Fig4.png]]
+
+> [그림 9: FIGURE 304-4 Interacting microvascular and tubular events contributing to the pathophysiology of ischemic acute kidney injury. PGE2, prostaglandin E2. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 304-4 (원서 도판)]
 
 > * **패혈증 연관 AKI 및 허혈 연관 AKI (Fig. 304-3, Fig. 304-4)** (pp. 2100–2102):  
 > * **패혈증 연관 AKI**: 중증 패혈증의 **>50%**에서 합병된다. 초기 수출세동맥 과확장, 이후 교감신경·RAAS·바소프레신·엔도텔린 활성화에 의한 신혈관 수축, 내피 손상·백혈구 유착·미세혈전·활성산소종·미토콘드리아 기능장애가 복합적으로 작용한다.  
@@ -120,14 +142,21 @@ type: 의학원서_요약노트
 > * **항생제 및 항암제**: **아미노글리코시드**는 치료 과정의 **10–30%**에서 비핍뇨성 AKI(소변량 >400 mL/d)와 **저마그네슘혈증**을 유발한다(치료 5–7일 후 발현). **암포테리신 B**는 세뇨관 막 콜레스테롤에 결합해 구멍을 내어 다뇨, 저마그네슘혈증, 저칼슘혈증, 비음이온차 대사성 산증을 유발한다. **아시클로비르**(고용량 $500ext{mg/m}^{2}$ IV 볼루스 시 세뇨관 내 결정 침전), 포스카르넷, 펜타미딘, 테노포비르, 시도포비르, 반코마이신, 그리고 **시스플라틴**(근위세뇨관 괴사·자멸사), **이포스파미드**(출혈성 방광염 및 제2형 RTA [판코니 증후군]), **베바시주맙·미토마이신 C·젬시타빈**(혈전성 미세혈관병증[TMA])이 주요 원인이다.  
 > * **외인성 독소 및 내인성 독소**: 에틸렌글리콜(옥살산 대사), 디에틸렌글리콜(2-hydroxyethoxyacetic acid [HEAA] 대사), 멜라민, 아리스톨로크산(중국 한약재 및 발칸 신병증)이 외인성 독소이다. 내인성 독소로는 횡문근융해증의 **미오글로빈**과 용혈의 **헤모글로빈**(산성뇨에서 Tamm-Horsfall 단백질[uromodulin]과 결합해 원위 네프론 원주 형성), 종양용해증후군의 **요산**(혈청 요산 흔히 **>15 mg/dL**), 다발성 골수종의 **단클론 경쇄**가 있다.
 
-![[Harrison_V2_Ch304_Fig5.png]] *FIGURE 304-5 Anatomic sites and causes of obstruction leading to postrenal acute kidney injury.*
+![[Harrison_V2_Ch304_Fig5.png]]
+
+> [그림 10: FIGURE 304-5 Anatomic sites and causes of obstruction leading to postrenal acute kidney injury. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 304-5 (원서 도판)]
 
 > * **신후성 AKI (Postrenal AKI, Fig. 304-5)** (p. 2103): 정상 두 신장을 가진 환자에서 큰 폭의 SCr 상승이 나타나려면 **양측성 폐쇄**(방광경부 폐쇄[전립샘비대증, 전립샘암, 신경인성 방광, 항콜린제], 막힌 폴리카테터, 양측 요관 폐쇄)가 있거나 단일 기능신/기저 CKD에서의 편측 폐쇄여야 한다.
 
 ### **3.3 AKI의 진단적 평가, 요침사, 생체표지자, 합병증 및 치료 (pp. 2103–2110)**
 
-![[Harrison_V2_Ch304_Tab1.png]] *Table 304-1 Major Causes, Clinical Features, and Diagnostic Studies for Prerenal and Intrinsic Acute Kidney Injury*  
-![[Harrison_V2_Ch304_Fig6.png]] *FIGURE 304-6 Interpretation of urinary sediment findings in acute kidney injury (AKI).*
+![[Harrison_V2_Ch304_Tab1.png]]
+
+> [그림 11: Table 304-1 Major Causes, Clinical Features, and Diagnostic Studies for Prerenal and Intrinsic Acute Kidney Injury — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 304-1 (원서 도판)]
+
+![[Harrison_V2_Ch304_Fig6.png]]
+
+> [그림 12: FIGURE 304-6 Interpretation of urinary sediment findings in acute kidney injury (AKI). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 304-6 (원서 도판)]
 
 > * **AKI의 진단 기준 및 검사실·요침사 감별 (Table 304-1, Fig. 304-6)** (pp. 2103–2107):  
 > * **현행 AKI 진단 기준 (p. 2103)**: ① **48시간 이내 기저치 대비 SCr $\geq 0.3extmg/dL$ 상승**, ② **1주일 이내 기저치 대비 SCr \$\\ge 50\\%\$ 상승**, 또는 ③ **6시간 이상 소변량 $<0.5extmL/kg/h$ 감소**.  
@@ -144,10 +173,21 @@ type: 의학원서_요약노트
 
 ### **4.1 CKD의 병태생리, 유전적 요인(APOL1), GFR 추정식 및 KDIGO 병기 (pp. 2110–2112)**
 
-![[Harrison_V2_Ch305_Fig1.png]] *FIGURE 305-1 Kidney Disease Improving Global Outcome (KDIGO) classification of chronic kidney disease (CKD). Gradation of color from green to red corresponds to increasing risk and progression of CKD.*  
-![[Harrison_V2_Ch305_Fig2.png]] *FIGURE 305-2 Left: Schema of the normal glomerular architecture. Right: Secondary glomerular changes associated with a reduction in nephron number, including enlargement of capillary lumens and focal adhesions, which are thought to occur consequent to compensatory hyperfiltration and hypertrophy in the remaining nephrons.*  
-![[Harrison_V2_Ch305_Fig3.png]] *FIGURE 305-3 Left: Low-power photomicrograph of a normal kidney showing normal glomeruli and healthy tubulointerstitium without fibrosis. Right: Low-power photomicrograph of chronic kidney disease with sclerosis of many glomeruli and severe tubulointerstitial fibrosis (Masson trichrome, 40x magnification).*  
-![[Harrison_V2_Ch305_Tab1.png]] *Table 305-1 Recommended Equations for Estimation of Glomerular Filtration Rate (GFR) Using Serum Creatinine Concentration (SCr), Age, Sex, Race, and Body Weight*
+![[Harrison_V2_Ch305_Fig1.png]]
+
+> [그림 13: FIGURE 305-1 Kidney Disease Improving Global Outcome (KDIGO) classification of chronic kidney disease (CKD). Gradation of color from green to red corresponds to increasing risk and progression of CKD. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 305-1 (원서 도판)]
+
+![[Harrison_V2_Ch305_Fig2.png]]
+
+> [그림 14: FIGURE 305-2 Left: Schema of the normal glomerular architecture. Right: Secondary glomerular changes associated with a reduction in nephron number, including enlargement of capillary lumens and focal adhesions, which are thought to occur consequent to compensatory hyperfiltration and hypertrophy in the remaining nephrons. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 305-2 (원서 도판)]
+
+![[Harrison_V2_Ch305_Fig3.png]]
+
+> [그림 15: FIGURE 305-3 Left: Low-power photomicrograph of a normal kidney showing normal glomeruli and healthy tubulointerstitium without fibrosis. Right: Low-power photomicrograph of chronic kidney disease with sclerosis of many glomeruli and severe tubulointerstitial fibrosis (Masson trichrome, 40x magnification). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 305-3 (원서 도판)]
+
+![[Harrison_V2_Ch305_Tab1.png]]
+
+> [그림 16: Table 305-1 Recommended Equations for Estimation of Glomerular Filtration Rate (GFR) Using Serum Creatinine Concentration (SCr), Age, Sex, Race, and Body Weight — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 305-1 (원서 도판)]
 
 > * **과여과 적응 부전과 *APOL1* 유전자 변이 (Fig. 305-1, Fig. 305-2, Fig. 305-3, Table 305-1, Table 305-2)** (pp. 2110–2112):  
 > * 네프론 수 감소에 따른 레닌-안지오텐신계(RAS) 매개 보상성 사구체 과여과·비대는 결국 족세포 손상과 국소 유착·경화를 초래한다. 서아프리카 기원의 ***APOL1*** **대립유전자 변이**(열대 병원체에 대한 진화적 방어 적응에서 유래)는 아프리카계 및 히스패닉계 미국인에서 비당뇨성 CKD(특히 국소분절사구체경화증[FSGS])가 수배 더 흔한 현상을 설명한다.  
@@ -160,8 +200,13 @@ type: 의학원서_요약노트
 > * **수분·전해질·산염기 장애** (pp. 2113–2114):  
 > * CKD 3–5기에서는 티아지드 이뇨제의 효과가 제한적이므로 고리 이뇨제(필요시 메톨라존 병용)를 사용한다. 당뇨병성 신병증이나 세뇨관간질 질환·폐쇄성 요로병증에서는 초기(1–3기)부터 저레닌성 저알도스테론증에 의한 고칼륨혈증 및 고염소혈증성(비음이온차) 대사성 산증이 흔하며, CKD가 진행하면 일일 산 배설량이 **30–40 mmol**로 제한되어 음이온차 대사성 산증이 겹친다. 혈청 중탄산염이 **\<20–23 mmol/L**로 감소하면 단백질 이화작용 억제와 CKD 진행 지연을 위해 경구 **중탄산나트륨** 보충이 권고된다.
 
-![[Harrison_V2_Ch305_Fig4.png]] *FIGURE 305-4 Tumoral calcinosis. This patient was on hemodialysis for many years and was nonadherent to dietary phosphorus restriction or the use of phosphate binders. He was chronically severely hyperphosphatemic. He developed an enlarging painful mass on his arm that was extensively calcified.*  
-![[Harrison_V2_Ch305_Fig5.png]] *FIGURE 305-5 Calciphylaxis. This peritoneal dialysis patient was on chronic warfarin therapy for atrial fibrillation. She noticed a small painful nodule on the abdomen that was followed by progressive skin necrosis and ulceration of the anterior abdominal wall. She was treated with hyperbaric oxygen, intravenous thiosulfate, and discontinuation of warfarin, with slow resolution of the ulceration.*
+![[Harrison_V2_Ch305_Fig4.png]]
+
+> [그림 17: FIGURE 305-4 Tumoral calcinosis. This patient was on hemodialysis for many years and was nonadherent to dietary phosphorus restriction or the use of phosphate binders. He was chronically severely hyperphosphatemic. He developed an enlarging painful mass on his arm that was extensively calcified. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 305-4 (원서 도판)]
+
+![[Harrison_V2_Ch305_Fig5.png]]
+
+> [그림 18: FIGURE 305-5 Calciphylaxis. This peritoneal dialysis patient was on chronic warfarin therapy for atrial fibrillation. She noticed a small painful nodule on the abdomen that was followed by progressive skin necrosis and ulceration of the anterior abdominal wall. She was treated with hyperbaric oxygen, intravenous thiosulfate, and discontinuation of warfarin, with slow resolution of the ulceration. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 305-5 (원서 도판)]
 
 > * **칼슘·인 대사 장애 및 골미네랄 질환 (Fig. 305-4, Fig. 305-5)** (pp. 2113–2115):  
 > * GFR이 **\<60 mL/min**으로 감소하면 인 저류와 함께 뼈세포(osteocyte)에서 분비되는 **FGF-23**(신장 인 배설 촉진, PTH 자극, 칼시트리올 합성 억제; 좌심실 비대 및 사망의 독립적 위험인자)이 조기에 상승하고 이차성 부갑상샘기능항진증(**낭성섬유성골염[osteitis fibrosa cystica]** 및 갈색종[brown tumor])을 일으킨다.  
@@ -169,7 +214,9 @@ type: 의학원서_요약노트
 > * **석회화방어증 (Calciphylaxis, Fig. 305-5)**: 그물울혈반(livedo reticularis)으로 시작하여 하지·대퇴·복부·유방의 허혈성 피부 괴사 및 궤양으로 진행하는 치명적 합병증이다. **와파린(warfarin)**은 혈관 석회화를 억제하는 비타민 K 의존성 **기질 GLA 단백질(matrix GLA protein)**의 재생을 감소시켜 석회화방어증을 유발하므로 즉시 중단하고 다른 항응고제로 대체하며 고압산소치료와 정주 티오황산나트륨(thiosulfate)을 시행한다.  
 > * **치료**: 저인산 식이, 식사와 함께 복용하는 인 결합제(칼슘아세테이트, 탄산칼슘; 고칼슘혈증·혈관석회화 회피 시 비칼슘 중합체인 **세벨라머[sevelamer], 란타넘[lanthanum]**), 활성 비타민 D 유사체(칼시트리올, 파리칼시톨), 칼슘감지수용체 작용제(**시나칼세트[cinacalcet]**)를 사용하여 목표 PTH를 **150–300 pg/mL**로 유지한다(KDOQI 지침).
 
-![[Harrison_V2_Ch305_Fig6.png]] *FIGURE 305-6 U.S. Renal Data System showing increased likelihood of dying rather than starting dialysis or reaching stage 5 chronic kidney disease (CKD).*
+![[Harrison_V2_Ch305_Fig6.png]]
+
+> [그림 19: FIGURE 305-6 U.S. Renal Data System showing increased likelihood of dying rather than starting dialysis or reaching stage 5 chronic kidney disease (CKD). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 305-6 (원서 도판)]
 
 > * **심혈관 이상, 심막염, 혈액학적·신경근육·내분비·피부 이상 (Fig. 305-6, Table 305-3)** (pp. 2115–2118):  
 > * **심혈관 질환 (Fig. 305-6)**: CKD 환자는 투석이나 5기 도달 전에 심혈관 질환으로 사망할 가능성이 더 높으며, 투석 환자에서는 영양실조-염증 상태로 인해 저혈압·저체질량지수·저지질혈증이 오히려 불량한 예후와 연관되는 **역인과관계(reverse causation)**가 관찰된다. 알부민-모세혈관 투과성 증가에 의한 저압성 요독성 폐부종("박쥐 날개[bat wing]" 침윤)과 **요독성 심막염**(PR분절 하강 및 미만성 ST분절 상승; **즉각적인 무헤파린[heparin-free] 혈액투석의 절대 적응증**)은 투석으로 치료한다.  
@@ -190,7 +237,9 @@ type: 의학원서_요약노트
 
 ### **5.1 말기신부전(ESRD) 역학과 혈액투석(Hemodialysis)의 원리·처방·합병증 (pp. 2121–2124)**
 
-![[Harrison_V2_Ch306_Fig1.png]] *FIGURE 306-1 Schema for hemodialysis.*
+![[Harrison_V2_Ch306_Fig1.png]]
+
+> [그림 20: FIGURE 306-1 Schema for hemodialysis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 306-1 (원서 도판)]
 
 > * **ESRD의 역학 및 투석 시작 기준** (pp. 2121–2122):  
 > * 미국 내 치료받는 ESRD 환자는 **~675,000명**이며 연간 발생률은 백만 명당 **370예**(흑인 **875예** vs 백인 **285예**)이다. 원인은 **당뇨병(약 45%)**, **고혈압(약 30%)**, 사구체신염, 다낭신, 폐쇄성 요로병증 순이며, 투석 환자의 5년 생존율은 **~40%**(사망 원인: 심혈관 질환 **~40%**, 감염 **~10%**)이다.  
@@ -213,7 +262,9 @@ type: 의학원서_요약노트
 > * **복막투석 복막염**: 복막액 백혈구 $>100/ext{mm}^{3}$ **및 다형핵 호중구 \$\\ge 50\\%\$**로 정의된다. 가장 흔한 원인균은 피부 유래 **그람양성 구균(*Staphylococcus* 등)**이며 복강내 또는 경구 항생제로 치료하나, **친수성 그람음성 간균(*Pseudomonas* 등)이나 효모균(진균)**에 의한 복막염은 항균제만으로 불충분하여 **카테터 제거**가 필수적이다.  
 > * **ESRD 심혈관 지질강하 임상시험**: 혈액투석 환자 대상 스타틴 단독 임상시험(**4D 연구, AURORA 연구**)에서는 LDL 콜레스테롤 감소에도 불구하고 사망이나 심혈관 사건 감소가 없었으나, 투석 및 비투석 CKD 환자를 포함한 **SHARP 임상시험**에서는 **심바스타틴-에제티미브(simvastatin-ezetimibe)** 병용 치료가 주요 심혈관 사건 또는 심혈관 사망을 **17%** 감소시켰다.
 
-![[Harrison_V2_Ch307_Tab1.png]] *Table 307-1 Definition of a Non-Heart-Beating Donor (Donation After Cardiac Death [DCD])*
+![[Harrison_V2_Ch307_Tab1.png]]
+
+> [그림 21: Table 307-1 Definition of a Non-Heart-Beating Donor (Donation After Cardiac Death [DCD]) — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 307-1 (원서 도판)]
 
 > * **Chapter 307 도입부: 신장이식의 현황, 생존율 및 장기 배분 체계 (Table 307-1)** (p. 2125):  
 > * 현재 미국 내 기능하는 이식신을 보유한 환자는 **>180,000명**이며, 1년 이식신 생존율은 **뇌사 기증자(deceased-donor) 92%, 생체 기증자(living-donor) 97%**이고 평균 반감기(${t}_{1/2}$) 기대 수명은 **생체 기증 이식신 약 14년, 뇌사 기증 이식신 약 10년**이다(이식 후 첫해 사망률은 18–34세 2%, 35–49세 3%, 50–60세 이상 6.8%).  

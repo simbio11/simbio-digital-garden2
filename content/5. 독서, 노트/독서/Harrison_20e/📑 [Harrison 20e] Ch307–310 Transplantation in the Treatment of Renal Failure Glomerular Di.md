@@ -38,7 +38,9 @@ type: 의학원서_요약노트
 > * **전감작 (Presensitization) 및 교차시험** (p. 2126):  
 > * 수혜자 혈청과 기증자 **T 림프구**(모든 유핵세포에 발현되는 class I [HLA-A, B] 항원만 발현하고 class II는 발현하지 않음)의 세포독성 교차시험 양성은 기형성 항-HLA class I 항체에 의한 **초급성 거부반응(hyperacute rejection)**을 예측하므로 ABO 부적합과 함께 유일한 면역학적 절대 금기이다(기증자 **B 림프구**는 class I과 class II [HLA-DR, DQ]를 모두 발현하므로 항-class II 항체 검출 표적으로 사용되며, 보체 결합 기증자 특이 HLA 항체는 항체매개 거부반응 및 불량한 장기 예후와 강하게 상관됨). 감작 원인은 수혈, 과거 이식, 임신, 예방접종/감염이며, 이식 전 **혈장교환술과 혼합 면역글로불린(IVIG)**을 이용한 탈감작(desensitization)이 초급성 거부반응 위험을 줄인다.
 
-![[Harrison_V2_Ch307_Fig1.png]] *FIGURE 307-1 Recognition pathways for major histocompatibility complex (MHC) antigens. Graft rejection is initiated by CD4 helper T lymphocytes (TH) having antigen receptors that bind to specific complexes of peptides and MHC class II molecules on antigen-presenting cells (APC).*
+![[Harrison_V2_Ch307_Fig1.png]]
+
+> [그림 1: FIGURE 307-1 Recognition pathways for major histocompatibility complex (MHC) antigens. Graft rejection is initiated by CD4 helper T lymphocytes (TH) having antigen receptors that bind to specific complexes of peptides and MHC class II molecules on antigen-presenting cells (APC). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 307-1 (원서 도판)]
 
 > * **거부반응의 면역학 (Immunology of Rejection, Fig. 307-1)** (pp. 2126–2127):  
 > * **직접 경로(Direct pathway)**: 기증자 동종 항원제시세포(APC)의 온전한 class II MHC를 수혜자 \$ ext{CD4}^+\\ ext{T}*{ ext{H}}\$ 세포가 인식하고 class I MHC를 \$ ext{CD8}^+\$ 세포독성 T세포(\$ ext{T}*{ ext{C}}\$)가 직접 인식한다.  
@@ -61,8 +63,13 @@ type: 의학원서_요약노트
 | **시롤리무스 / 에버로리무스 (Sirolimus / Everolimus)** | 마크로라이드 (에버로리무스가 생체이용률 더 우수) | FKBP-12와 결합 후 IL-2 수용체 증식 경로의 **p70 S6 키나아제(mTOR)** 차단 | 고지질혈증, 혈소판감소증 |
 | **벨라타셉트 (Belatacept)** | 융합 단백질, 월 1회 정주 (**BENEFIT 임상시험** 7년 추적에서 CsA 대비 환자·이식신 생존율 우월) | APC의 **CD80 및 CD86**에 결합하여 T세포 CD28 결합 및 활성화 차단 | **이식후 림프증식성 질환 (PTLD)** |
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2129.png]] *FIGURE 307-2 A typical algorithm for early posttransplant care of a kidney recipient.*  
-![[Harrison_V2_Ch307_Tab4.png]] *Table 307-4 The Most Common Opportunistic Infections in Renal Transplant Recipients*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2129.png)
+
+> [그림 2: FIGURE 307-2 A typical algorithm for early posttransplant care of a kidney recipient. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 307-2 (원서 도판)]
+
+![[Harrison_V2_Ch307_Tab4.png]]
+
+> [그림 3: Table 307-4 The Most Common Opportunistic Infections in Renal Transplant Recipients — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 307-4 (원서 도판)]
 
 > * **거부반응의 진단·치료 및 이식 후 감염·악성종양·심혈관 합병증 (Fig. 307-2, Table 307-4)** (pp. 2128–2130):  
 > * **급성 세포성 거부반응 vs CNI 신독성 vs 항체매개 거부반응**: 첫 거부반응은 정주 **메틸프레드니솔론 500–1000 mg/d \$ imes\$ 3일**로 치료하며 불응 시 ATG(또는 항-CD3 단클론 항체 OKT3)를 투여한다. 생검에서 내피 손상과 보체 성분 **C4d 침착** 및 혈중 기증자 특이 항체가 확인되면 **항체매개 거부반응**으로 진단하며 혈장교환술, IVIG, 리툭시맙(항-CD20), 보르테조밉(형질세포 표적), 에쿨리주맙(보체 억제)을 시행한다. 케토코나졸·에리스로마이신·딜티아젬·베라파밀은 P450 대사를 억제해 CNI 농도를 높이고, 페니토인·카르바마제핀은 대사를 촉진해 CNI 농도를 낮춘다.  
@@ -78,9 +85,17 @@ type: 의학원서_요약노트
 
 ### **3.1 사구체 구조, 손상 기전, 세뇨관간질 진행 및 임상 증후군 분류 (pp. 2131–2136)**
 
-![[Harrison_V2_Ch308_Fig1.png]] *FIGURE 308-1 Glomerular architecture. A. The glomerular capillaries form from a branching network of renal arteries, arterioles, leading to an afferent arteriole, glomerular capillary bed (tuft), and a draining efferent arteriole. B. Scanning electron micrograph of podocytes. C. Scanning electron micrograph of the fenestrated endothelia. D. The various normal regions of the glomerulus on light microscopy.*  
-![[Harrison_V2_Ch308_Fig2.png]] *FIGURE 308-2 The glomerulus is injured by a variety of mechanisms. A. Preformed immune deposits can precipitate from the circulation and collect along the glomerular basement membrane (GBM) in the subendothelial space or can form in situ along the subepithelial space. B. Immunofluorescent staining of glomeruli. C–D. Mechanisms of glomerular injury and amplification mediators.*  
-![[Harrison_V2_Ch308_Tab1.png]] *Table 308-1 Urine Assays for Albuminuria/Proteinuria*
+![[Harrison_V2_Ch308_Fig1.png]]
+
+> [그림 4: FIGURE 308-1 Glomerular architecture. A. The glomerular capillaries form from a branching network of renal arteries, arterioles, leading to an afferent arteriole, glomerular capillary bed (tuft), and a draining efferent arteriole. B. Scanning electron micrograph of podocytes. C. Scanning electron micrograph of the fenestrated endothelia. D. The various normal regions of the glomerulus on light microscopy. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 308-1 (원서 도판)]
+
+![[Harrison_V2_Ch308_Fig2.png]]
+
+> [그림 5: FIGURE 308-2 The glomerulus is injured by a variety of mechanisms. A. Preformed immune deposits can precipitate from the circulation and collect along the glomerular basement membrane (GBM) in the subendothelial space or can form in situ along the subepithelial space. B. Immunofluorescent staining of glomeruli. C–D. Mechanisms of glomerular injury and amplification mediators. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 308-2 (원서 도판)]
+
+![[Harrison_V2_Ch308_Tab1.png]]
+
+> [그림 6: Table 308-1 Urine Assays for Albuminuria/Proteinuria — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 308-1 (원서 도판)]
 
 > * **사구체 여과장벽과 단백뇨 기준 (Fig. 308-1, Fig. 308-2, Table 308-1)** (pp. 2131–2134):  
 > * 두 신장에는 약 **180만 개**의 사구체 모세혈관 총(tuft)이 있으며 하루 **120–180 L**의 혈장 수분을 여과한다. 혈청 알부민은 물리적 반경이 **3.6 nm**로 GBM 및 세극막 구멍 반경(**4 nm**)보다 작지만 음전하 반발력에 의해 대부분 배제되고 소량 여과된 알부민은 근위세뇨관의 **megalin 및 cubilin 수용체**에 의해 재흡수되어 정상인은 하루 평균 **8–10 mg**의 알부민(전체 요단백 **\<150 mg/24 h**의 20–60%)만 배설한다(미세알부민뇨: **30–300 mg/24 h** 또는 알부민/크레아티닌 비 **30–300 mg/g**; 현성 단백뇨: **>300 mg/24 h**, Table 308-1).  
@@ -89,7 +104,9 @@ type: 의학원서_요약노트
 
 ### **3.2 급성 신염증후군 (Acute Nephritic Syndromes) (pp. 2136–2141)**
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2136.png]] *Glomerular schematic 1 — Post-streptococcal glomerulonephritis (Subepithelial humps, mesangial and subendothelial deposits).*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2136.png)
+
+> [그림 7: Glomerular schematic 1 — Post-streptococcal glomerulonephritis (Subepithelial humps, mesangial and subendothelial deposits). — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
 
 > * **사슬알균 감염후 사구체신염 (Poststreptococcal Glomerulonephritis, Glomerular Schematic 1)** (p. 2136):  
 > * 농가진(M형 47, 49, 55, 2, 60, 57) 후 **2–6주**, 인두염(M형 1, 2, 4, 3, 25, 49, 12) 후 **1–3주**에 발생한다. 병원성 후보 항원은 플라스민에 친화성을 갖고 대체 보체 경로를 활성화하는 양이온 시스테인 프로테아제 **SPEB**(상피하 **'hump'** 내부에서 검출됨)와 **NAPlr**(신염 연관 플라스민 수용체)이다.  
@@ -97,7 +114,9 @@ type: 의학원서_요약노트
 > * **아급성 세균성 심내막염 (SBE) 및 세균 감염 연관 사구체신염** (pp. 2136–2137):  
 > * 신장 피막하 출혈로 육안상 **"벼룩에 물린 듯한(flea-bitten)"** 모양을 보이며, 4–6주 항생제로 감염을 박멸하면 신기능 회복 예후가 좋다.
 
-![[Harrison_V2_Ch308_Tab3.png]] *Table 308-3 Classification for Lupus Nephritis (ISN/RPS 2004)*
+![[Harrison_V2_Ch308_Tab3.png]]
+
+> [그림 8: Table 308-3 Classification for Lupus Nephritis (ISN/RPS 2004) — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 308-3 (원서 도판)]
 
 > * **루푸스 신염 (Lupus Nephritis, Table 308-3)** (pp. 2137–2138):  
 > * SLE 진단 시 30–50%, 전체 경과 중 성인의 60%·소아의 80%에서 발생하며 보체 고정 **항-dsDNA 항체**와 저보체혈증(70–90%)이 신질환 활성도와 상관된다.  
@@ -106,7 +125,9 @@ type: 의학원서_요약노트
 > * 제4형 콜라겐 \$ lpha 345 ext{NC1}\$ 육량체 내 **\$ lpha 3\$ NC1 도메인**의 4차 구조 에피토프에 대한 자가항체 질환("conformeropathy")이다. 20대 후반 젊은 남성(주로 흡연자에서 폐출혈·객혈로 폭발적 발현)과 60–70대 남녀에서 호발한다.  
 > * 신생검상 **선형(linear) IgG 면역형광 침착**을 보이며, 혈청 검사 시 반드시 \$ lpha 3\$ NC1 도메인만을 표적으로 해야 한다(\$ lpha 1\$ NC1 항체는 부종양 증후군에서 나타남). 환자의 **10–15%**는 항-MPO ANCA가 동반된다. 신생검상 **>50% 반월체와 진행성 섬유화**, 혈청 크레아티닌 **>5–6 mg/dL**, 핍뇨, 급성 투석 필요 시 신장 예후가 불량하나, 폐출혈은 **혈장교환술(첫 2주간 8–10회) + 경구 프레드니손 + 시클로포스파미드**에 잘 반응하여 구명 효과가 있다(신장이식은 항체가 검출되지 않고 6개월 경과 후 시행).
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2139.png]] *Glomerular schematic 2 — IgA Nephropathy (Mesangial deposits plus more mesangial cells).*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2139.png)
+
+> [그림 9: Glomerular schematic 2 — IgA Nephropathy (Mesangial deposits plus more mesangial cells). — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
 
 > * **IgA 신병증 (IgA Nephropathy, Berger병, Glomerular Schematic 2)** (pp. 2138–2139):  
 > * 전 세계적으로 가장 흔한 사구체신염 중 하나(아시아·태평양 연안 30%, 남유럽 20%, 북유럽·북미는 낮음; 10–20대 남성 호발)로, 중합체 **IgA1 힌지 부위의 O-당화 이상(갈락토오스 결핍 IgA1)**으로 노출된 N-아세틸-갈락토사민에 대한 IgG/IgA1 자가항체 면역복합체가 메산지움에 침착되어 발생한다.  
@@ -114,8 +135,13 @@ type: 의학원서_요약노트
 > * **ANCA 소혈관 혈관염 (ANCA Small-Vessel Vasculitis)** (p. 2139):  
 > * **다발혈관염 동반 육아종증(GPA, 구 베게너 — 주로 항-PR3 양성; 규사[silica] 노출 및 \$ lpha_1\$-항트립신 결핍자에서 호발, 부비동염·폐공동·재발 흔함)**, **현미경적 다발혈관염(MPA — 주로 항-MPO 양성, 육아종 없음)**, **척-스트라우스 증후군(호산구증가증·천식·알레르기 비염)** 및 신장 국한 혈관염이 포함되며 신생검상 면역침착이 거의 없는 **빈면역(pauci-immune) 괴사성·반월체 사구체신염**을 보인다. 유도 치료는 **글루코코르티코이드 + 시클로포스파미드 또는 리툭시맙**(RPGN이나 폐출혈 동반 시 혈장교환술 추가)이며, 관해 후 최대 1년간 시클로포스파미드나 아자티오프린·메토트렉세이트·리툭시맙으로 유지한다.
 
-![[Harrison_V2_Ch308_Tab4.png]] *Table 308-4 Membranoproliferative Glomerulonephritis: Immunoglobulin-Mediated and C3 Glomerulopathy*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2140.png]] *Glomerular schematic 3 — Membranoproliferative Glomerulonephritis Type I (Subendothelial deposits, mesangial interposition).*
+![[Harrison_V2_Ch308_Tab4.png]]
+
+> [그림 10: Table 308-4 Membranoproliferative Glomerulonephritis: Immunoglobulin-Mediated and C3 Glomerulopathy — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 308-4 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2140.png)
+
+> [그림 11: Glomerular schematic 3 — Membranoproliferative Glomerulonephritis Type I (Subendothelial deposits, mesangial interposition). — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
 
 > * **\$ ext{C}_3\$ 사구체병증 및 막증식성 사구체신염 (MPGN, Table 308-4, Glomerular Schematic 3)** (pp. 2139–2140):  
 > * **\$ ext{C}_3\$ 사구체병증(\$ ext{C}_3\$ Glomerulopathies)**: 면역글로불린 침착 없이 대체 보체 경로 이상(\$ ext{C}_3\$ 신염인자[nephritic factor], 인자 H/CFHR 유전자 돌연변이)으로 \$ ext{C}_3\$만 우세하게 침착되는 질환군으로, GBM 내 리본 모양 고밀도 침착을 보이는 **고밀도침착병(Dense Deposit Disease, DDD — 구 MPGN II형; 소아·젊은 성인 호발, 부분 지방이영양증 및 망막 드루젠[Drusen] 동반 가능, 50%가 ESRD 진행)**과 **\$ ext{C}_3\$ 사구체신염(\$ ext{C}_3 ext{GN}\$)**을 포함한다(\$ ext{C}_5\$ 단클론 항체 **에쿨리주맙[eculizumab]**이 유망).  
@@ -123,11 +149,25 @@ type: 의학원서_요약노트
 
 ### **3.3 신증후군, 침착 질환, 기저막 증후군, 사구체-혈관 및 감염 연관 증후군 (pp. 2141–2150)**
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2141.png]] *Glomerular schematic 4 — Minimal Change Disease.*  
-![[Harrison_V2_Ch308_Tab5.png]] *Table 308-5 Focal Segmental Glomerulosclerosis*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2142.png]] *Glomerular schematic 5 — Focal Sclerosing Glomerulonephritis.*  
-![[Harrison_V2_Ch308_Tab6.png]] *Table 308-6 Membranous Glomerulonephritis*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2143.png]] *Glomerular schematic 6 — Membranous Glomerulonephritis (Subepithelial deposits, foot process fusion).*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2141.png)
+
+> [그림 12: Glomerular schematic 4 — Minimal Change Disease. — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
+
+![[Harrison_V2_Ch308_Tab5.png]]
+
+> [그림 13: Table 308-5 Focal Segmental Glomerulosclerosis — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 308-5 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2142.png)
+
+> [그림 14: Glomerular schematic 5 — Focal Sclerosing Glomerulonephritis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
+
+![[Harrison_V2_Ch308_Tab6.png]]
+
+> [그림 15: Table 308-6 Membranous Glomerulonephritis — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 308-6 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2143.png)
+
+> [그림 16: Glomerular schematic 6 — Membranous Glomerulonephritis (Subepithelial deposits, foot process fusion). — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
 
 > * **미세변화병 (Minimal Change Disease, MCD, Glomerular Schematic 4)** (p. 2141):  
 > * 소아 신증후군의 **70–90%**, 성인 신증후군의 **10–15%**를 차지하며 호지킨병, 알레르기, NSAID 사용(간질성 신염 동반 흔함)과 연관될 수 있다. 광학·면역형광현미경은 정상이나 전자현미경상 **족세포 족돌기 소실(effacement)**을 보인다.  
@@ -148,7 +188,9 @@ type: 의학원서_요약노트
 > * **원섬유성-면역촉각성 사구체병증(Fibrillary-immunotactoid glomerulopathy)**: 콩고레드 음성인 비분지 무작위 배열 원섬유(원섬유성 **12–24 nm**, 면역촉각성 **>30 nm**)가 침착되는 드문 질환(\<1% 생검)이다.  
 > * **파브리병(Fabry's disease)**: X-연관 리소좀 **\$ lpha\$-갈락토시다아제 A** 결핍으로 globotriaosylceramide가 축적되며(소아기 남성에서 사지말단감각이상, 혈관각화종, 무한증 발현; 평균 사망 연령 ~50세), 소변 편광현미경상 **말타 십자(Maltese cross)** 지방구와 전자현미경상 층판상 **얼룩말 소체(zebra bodies)**가 관찰된다. 재조합 \$ lpha\$-갈락토시다아제 A 효소대체요법과 RAS 억제제로 치료한다.
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2146.png]] *Glomerular schematic 7 — Rapidly Progressive Glomerulonephritis.*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2146.png)
+
+> [그림 17: Glomerular schematic 7 — Rapidly Progressive Glomerulonephritis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. (원서 도판)]
 
 > * **기저막 증후군, 사구체-혈관 증후군 및 감염 연관 증후군 (Glomerular Schematic 7)** (pp. 2145–2150):  
 > * **알포트 증후군(Alport's syndrome)**: 배아기 \$ lpha 1. lpha 1. lpha 2( ext{IV})\$ 콜라겐이 신장·폐·고환·달팽이관·눈에서 \$ lpha 3. lpha 4. lpha 5( ext{IV})\$ 네트워크로 전환되는 과정의 유전적 결함으로, **약 85%는 X-연관 *COL4A5*(Xq22-24) 돌연변이**, **15%는 상염색체 열성 *COL4A3/COL4A4*(2q35-37) 돌연변이**이다. 혈뇨, **감각신경성 난청**, **원추수정체(anterior lenticonus)** 및 점-반점(dot and fleck) 망막병증이 특징이며 전자현미경상 GBM이 얇아졌다가 다층화·분열되는 **분열 기저막(split basement membrane)**을 보인다.  
@@ -163,9 +205,17 @@ type: 의학원서_요약노트
 
 ### **4.1 상염색체 우성 및 열성 다낭신 (ADPKD & ARPKD) (pp. 2149–2153)**
 
-![[Harrison_V2_Ch309_Tab1.png]] *Table 309-1 Inherited Diseases Commonly Associated with a Cystic Phenotype*  
-![[Harrison_V2_Ch309_Fig1.png]] *FIGURE 309-1 Scheme of the primary cilium and cystic kidney disease proteins.*  
-![[Harrison_V2_Ch309_Fig2.png]] *FIGURE 309-2 Photograph showing a kidney from a patient with autosomal dominant polycystic kidney disease.*
+![[Harrison_V2_Ch309_Tab1.png]]
+
+> [그림 18: Table 309-1 Inherited Diseases Commonly Associated with a Cystic Phenotype — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 309-1 (원서 도판)]
+
+![[Harrison_V2_Ch309_Fig1.png]]
+
+> [그림 19: FIGURE 309-1 Scheme of the primary cilium and cystic kidney disease proteins. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 309-1 (원서 도판)]
+
+![[Harrison_V2_Ch309_Fig2.png]]
+
+> [그림 20: FIGURE 309-2 Photograph showing a kidney from a patient with autosomal dominant polycystic kidney disease. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 309-2 (원서 도판)]
 
 > * **상염색체 우성 다낭신 (ADPKD, Table 309-1, Fig. 309-1, Fig. 309-2)** (pp. 2149–2153):  
 > * 전 세계 **1,200만 명**(유병률 **1:1000 ~ 1:400**)이 이환된 가장 흔한 치명적 단일유전자 질환이다. 일차 섬모(primary cilium, "9+0" 미세소관 구조, kinesin-2 유입·dynein 유출, Fig. 309-1)에 위치하는 기계/화학감수성 복합체인 **polycystin-1 (*PKD1, 16p13, 46개 엑손, 4300 아미노산 — ADPKD의 ~85%)과 polycystin-2 (PKD2, 4q21-q23, 15개 엑손, 968 아미노산 TRP 칼슘 채널 — ADPKD의 ~15%, 임상 경과가 더 경미하고 늦게 발병)*, 또는 최근 밝혀진*** GANAB***(glucosidase II\$ lpha\$ 소단위 — 다낭성 간질환 동반 경증 신질환) 돌연변이로 발생한다. 체세포 "2차 타격(second hit)"(및 신손상 등 "3차 타격")에 의해 세뇨관의 5% 미만에서 낭종이 기원하나, 섬모 칼슘 신호 이상으로*** ***세포내 cAMP가 증가**하여 PKA 매개 세포 증식과 CFTR/AQP를 통한 내강 액체 분비가 촉진된다.  
@@ -196,10 +246,21 @@ type: 의학원서_요약노트
 
 ### **5.1 급성 간질성 신염 (AIN) 및 결정 침착·골수종 원주 신병증 (pp. 2156–2160)**
 
-![[Harrison_V2_Ch310_Tab1.png]] *Table 310-1 Classification of the Causes of Tubulointerstitial Diseases of the Kidney*  
-![[Harrison_V2_Ch310_Fig1.png]] *FIGURE 310-1 Algorithm for the treatment of allergic and other immune-mediated acute interstitial nephritis (AIN).*  
-![[Harrison_V2_Ch310_Fig2.png]] *FIGURE 310-2 Acute interstitial nephritis (AIN) in a patient who presented with acute iritis, low-grade fever, erythrocyte sedimentation rate of 103, pyuria and cellular casts on urinalysis, and a newly elevated serum creatinine of 2.4 mg/dL.*  
-![[Harrison_V2_Ch310_Fig3.png]] *FIGURE 310-3 Histologic appearance of myeloma cast nephropathy. A hematoxylin-eosin-stained kidney biopsy shows many atrophic tubules filled with eosinophilic casts (consisting of Bence-Jones protein), which are surrounded by giant cell reactions.*
+![[Harrison_V2_Ch310_Tab1.png]]
+
+> [그림 21: Table 310-1 Classification of the Causes of Tubulointerstitial Diseases of the Kidney — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 310-1 (원서 도판)]
+
+![[Harrison_V2_Ch310_Fig1.png]]
+
+> [그림 22: FIGURE 310-1 Algorithm for the treatment of allergic and other immune-mediated acute interstitial nephritis (AIN). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 310-1 (원서 도판)]
+
+![[Harrison_V2_Ch310_Fig2.png]]
+
+> [그림 23: FIGURE 310-2 Acute interstitial nephritis (AIN) in a patient who presented with acute iritis, low-grade fever, erythrocyte sedimentation rate of 103, pyuria and cellular casts on urinalysis, and a newly elevated serum creatinine of 2.4 mg/dL. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 310-2 (원서 도판)]
+
+![[Harrison_V2_Ch310_Fig3.png]]
+
+> [그림 24: FIGURE 310-3 Histologic appearance of myeloma cast nephropathy. A hematoxylin-eosin-stained kidney biopsy shows many atrophic tubules filled with eosinophilic casts (consisting of Bence-Jones protein), which are surrounded by giant cell reactions. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 310-3 (원서 도판)]
 
 > * **알레르기성 및 면역매개 급성 간질성 신염 (AIN, Table 310-1, Table 310-2, Fig. 310-1, Fig. 310-2)** (pp. 2156–2159):  
 > * **약물 유발 알레르기성 AIN**: 설명되지 않는 급성 신부전 생검의 ~15%를 차지한다. 메티실린 등 \$ eta\$-락탐 항생제 투여 7–10일 후 발열·발진·말초혈액 호산구증가증·핍뇨성 신부전이 나타나는 고전적 양상보다 무증상 SCr 상승이 더 흔하다. **NSAID 유발 AIN**은 발열·발진·호산구증가증이 드문 대신 **심한 단백뇨(신증후군 동반)**가 흔하며, **양성자펌프억제제(PPI)**는 잠행성 AIN 및 CKD의 중요한 원인이다. **소변 호산구(urinary eosinophils) 검사는 민감도와 특이도가 모두 낮아 권고되지 않는다**. 원인 약물을 중단하고 1주 내 호전이 없거나 급격히 진행할 때 글루코코르티코이드를 투여한다(Fig. 310-1).  
@@ -210,9 +271,17 @@ type: 의학원서_요약노트
 
 ### **5.2 만성 세뇨관간질 신질환 (CIN) 및 대사성 장애 (pp. 2160–2163)**
 
-![[Harrison_V2_Ch310_Fig4.png]] *FIGURE 310-4 Radiographs of vesicoureteral reflux (VUR) and reflux nephropathy. A. Voiding cystourethrogram in a 7-month-old baby with bilateral high-grade VUR. B. Abdominal CT scan showing severe scarring. C. Sonogram of the right kidney.*  
-![[Harrison_V2_Ch310_Tab3.png]] *Table 310-3 Major Causes of Papillary Necrosis*  
-![[Harrison_V2_Ch310_Fig5.png]] *FIGURE 310-5 Radiologic appearance of analgesic nephropathy. A noncontrast computed tomography scan shows an atrophic left kidney with papillary calcifications in a garland pattern.*
+![[Harrison_V2_Ch310_Fig4.png]]
+
+> [그림 25: FIGURE 310-4 Radiographs of vesicoureteral reflux (VUR) and reflux nephropathy. A. Voiding cystourethrogram in a 7-month-old baby with bilateral high-grade VUR. B. Abdominal CT scan showing severe scarring. C. Sonogram of the right kidney. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 310-4 (원서 도판)]
+
+![[Harrison_V2_Ch310_Tab3.png]]
+
+> [그림 26: Table 310-3 Major Causes of Papillary Necrosis — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 310-3 (원서 도판)]
+
+![[Harrison_V2_Ch310_Fig5.png]]
+
+> [그림 27: FIGURE 310-5 Radiologic appearance of analgesic nephropathy. A noncontrast computed tomography scan shows an atrophic left kidney with papillary calcifications in a garland pattern. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 310-5 (원서 도판)]
 
 > * **방광요관역류(VUR)와 역류성 신병증, 유두괴사 및 진통제 신병증 (Fig. 310-4, Table 310-3, Fig. 310-5)** (pp. 2160–2161):  
 > * **역류성 신병증 (Fig. 310-4)**: 소아기 VUR과 반복성 요로감염으로 반점형 피질 반흔, 비대칭 위축신, 이차성 FSGS가 발생한다. 소아기 고등급 역류에서는 외과적 요관 재이식술이 적응증이 되나 반흔이 이미 형성된 청소년·성인에서는 수술이 효과가 없으며 **ACE 억제제/ARB**로 사구체 고혈압과 단백뇨를 조절한다.  

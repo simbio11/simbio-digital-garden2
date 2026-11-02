@@ -48,14 +48,17 @@ aliases:
   - **임상 양상 및 합병증(Figure 160-2, Figure 160-3)**: 잠복기 3–21일(평균 10–14일) 후 지속적 고열(`38.8–40.5°C`), 두통, 오한, 복통, 설사 또는 변비, 상대적 서맥(맥박-체온 해리), 비장종대, 백혈구감소증이 나타나며 환자의 **~30%에서 발병 1주 말경 체간·가슴에 압박 시 창백해지는 2–4 mm 연어색 반점구진인 장미진("rose spots", Figure 160-2)**이 출현한다. 치료하지 않을 경우 **발병 3–4주째에 Peyer 판 괴사로 인한 위장관 출혈 및 회장 말단 천공(Figure 160-3)**이 1–10%에서 합병되며, 환자의 **1–4%는 담낭(특히 담석이나 만성 주혈흡충증 동반 시)에 균을 보유하여 1년 이상 대변·소변으로 균을 배출하는 만성 무증상 보균자("Typhoid Mary")**가 된다.  
   - **진단 및 치료**: 혈액배양(40–80% 양성)과 **골수 흡인 배양(민감도 `80–95%`로 최고 — 선행 항생제 투여 후에도 양성 유지)**으로 확진한다(Widal 혈청검사는 위양성·위음성이 많아 비권장). 아시아 지역에서 플루오로퀴놀론(시프로플록사신) 감수성 저하(날리딕스산 내성) 균주가 흔하므로 경험적 치료는 **세프트리악손(`2 g/일 IV × 10–14일`) 또는 아지스로마이신(`1 g PO` 제1일 후 `500 mg/일 × 5–7일` 또는 `1 g/일 × 5일`)**을 사용하고(완전 감수성 균주는 시프로플록사신 `500 mg PO bid × 5–7일` 가능, Table 160-1), 섬망·혼수·쇼크를 동반한 중증 장티푸스에서는 **고용량 덱사메타손(초기 `3 mg/kg IV` 후 48시간 동안 `1 mg/kg q6h`) 병용이 사망률을 급격히 감소**시킨다(만성 보균자는 시프로플록사신 4주 투여 및 필요시 담낭절제술).
 
-**Figure 160-1, p.1175**: `Annual incidence of typhoid fever per 100,000 population.` — 전 세계 지역별 인구 10만 명당 장티푸스 연간 발생률 지도(고발생 지역 `>100/10만`: 중남부 아시아 및 동남아시아).  
 ![[Harrison_V1_Ch160_Fig1.png]]
 
-**Figure 160-2, p.1175**: `"Rose spots," the rash of enteric fever due to Salmonella Typhi or Salmonella Paratyphi.` — *Salmonella* Typhi 또는 Paratyphi에 의한 장티푸스 환자의 피부에 나타난 연어색 반점구진 발진인 장미진("rose spots").  
+> [그림 1: Figure 160-1, p.1175: `Annual incidence of typhoid fever per 100,000 population.` — 전 세계 지역별 인구 10만 명당 장티푸스 연간 발생률 지도(고발생 지역 `>100/10만`: 중남부 아시아 및 동남아시아). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 160-1, p.1175 (원서 도판)]
+
 ![[Harrison_V1_Ch160_Fig2.png]]
 
-**Figure 160-3, p.1176**: `Typical ileal perforation associated with Salmonella Typhi infection.` — *Salmonella* Typhi 감염 환자의 수술 소견에서 확인된 전형적인 회장 말단 천공.  
+> [그림 2: Figure 160-2, p.1175: `"Rose spots," the rash of enteric fever due to Salmonella Typhi or Salmonella Paratyphi.` — *Salmonella* Typhi 또는 Paratyphi에 의한 장티푸스 환자의 피부에 나타난 연어색 반점구진 발진인 장미진("rose spots"). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 160-2, p.1175 (원서 도판)]
+
 ![[Harrison_V1_Ch160_Fig3.png]]
+
+> [그림 3: Figure 160-3, p.1176: `Typical ileal perforation associated with Salmonella Typhi infection.` — *Salmonella* Typhi 감염 환자의 수술 소견에서 확인된 전형적인 회장 말단 천공. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 160-3, p.1176 (원서 도판)]
 
 - **비장티푸스 살모넬라증 (Nontyphoidal Salmonellosis, NTS: *S. Enteritidis*, *S. Typhimurium* 등) (p.1177–1179, Table 160-2)**:  
   - 오염된 달걀, 가금류, 육류, 우유, 신선 농산물 및 **애완 파충류(거북이, 이구아나, 뱀)·양서류** 접촉으로 전파된다.  
@@ -72,8 +75,9 @@ aliases:
   - 고열, 경련성 복통, 뒤무직(tenesmus) 및 소량의 **점액성·화농성·혈성 설사(이질)**를 일으키며 소아 경련, 직장 탈출, 독성 거대결장, 그리고 **HLA-B27 양성자에서 반응성 관절염**을 합병한다.  
   - **치료**: 수액 보충과 함께 증상 기간 및 균 배출을 단축하기 위해 **시프로플록사신(`500 mg PO bid × 3일`), 아지스로마이신, 또는 세프트리악손**을 투여하며 **장운동 억제제(로페라미드 등)는 독성 거대결장을 유발하므로 금기**다.
 
-**Figure 161-1, p.1181**: `Invasive strategy of Shigella flexneri. IL, interleukin; NF-KB, nuclear factor KB; NLR, NOD-like receptor; PMN, polymorphonuclear leukocyte.` — *Shigella flexneri*가 M세포를 통해 장상피 장벽을 통과한 뒤 대식세포 파이롭토시스를 유도하고 액틴 중합 추진력으로 인접 대장 상피세포로 확산되며 호중구 침윤과 점막 파괴를 일으키는 침습 기전 모식도.  
 ![[Harrison_V1_Ch161_Fig1.png]]
+
+> [그림 4: Figure 161-1, p.1181: `Invasive strategy of Shigella flexneri. IL, interleukin; NF-KB, nuclear factor KB; NLR, NOD-like receptor; PMN, polymorphonuclear leukocyte.` — *Shigella flexneri*가 M세포를 통해 장상피 장벽을 통과한 뒤 대식세포 파이롭토시스를 유도하고 액틴 중합 추진력으로 인접 대장 상피세포로 확산되며 호중구 침윤과 점막 파괴를 일으키는 침습 기전 모식도. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 161-1, p.1181 (원서 도판)]
 
 - **캄필로박터 감염 (*Campylobacter jejuni*, *Campylobacter fetus*) (p.1183–1186)**:  
   - ***Campylobacter jejuni***: 덜 익힌 가금류(닭고기), 비살균 우유 섭취로 감염되며 선진국 급성 세균성 설사의 최다 원인 중 하나다. 발열, 심한 복통(급성 충수염과 오인되어 불필요한 수술을 받기 쉬움) 및 염증성·혈성 설사를 일으킨다. 후기 비화농성 합병증으로 감염 1–3주 후 발생하는 **길랭-바레 증후군(Guillain-Barré syndrome, GBS — 전체 GBS의 20–40%가 *C. jejuni* 선행 감염에 기인하며 세균 지질올리고당[LOS]과 말초신경 강글리오시드 **$G{M}_{1}$** 간의 분자 모방이 기전; 특히 혈청형 O:19에서 위험이 높음)**과 반응성 관절염이 중요하다. 항생제 치료가 필요한 경우 플루오로퀴놀론 내성이 흔하므로 **아지스로마이신(`500 mg PO qd × 3일`) 또는 에리스로마이신**이 1차 선택제다.  
@@ -86,17 +90,21 @@ aliases:
   - **임상 양상**: 잠복기 24–48시간 후 **발열이나 복통(뒤무직) 없이** 갑작스럽게 비린내가 나는 회백색의 **쌀뜨물 모양 대변("rice-water stool", Figure 163-2)**을 시간당 최대 1 L 이상 배설하여 수시간 내에 저혈량성 쇼크, 대사성 산증, 저칼륨혈증, 급성 세뇨관 괴사로 사망할 수 있다.  
   - **치료의 핵심(Table 163-3, Table 163-4)**: 치료의 99%는 **즉각적이고 공격적인 수액·전해질 보충**이다! 소장 상피의 **포도당-나트륨 공동수송체(SGLT1)**는 콜레라 독소에 의해 전혀 손상되지 않고 온전하므로 **WHO 저삼투압 경구수액보충염(ORS: 삼투압 `245 mOsm/L`, $N{a}^{+}75mEq/L$, 포도당 `75 mmol/L`)**으로 수분을 흡수시키고, 중증 탈수(체중의 `>10%` 소실) 환자는 **젖산 링거액(Ringer's lactate, Table 163-3)**으로 첫 3–4시간 내에 `100 mL/kg`를 정맥 소생한다. 보조적 항생제(**독시사이클린 `300 mg PO` 단회 또는 아지스로마이신 `1 g PO` 단회**, Table 163-4)는 설사량과 이환 기간을 절반으로 줄여준다.
 
-**Figure 163-1, p.1187**: `World distribution of cholera in 2013-2015. WHO, World Health Organization.` — 2013–2015년 전 세계 콜레라 발생 및 보고 현황 지도.  
 ![[Harrison_V1_Ch163_Fig1.png]]
 
-**Figure 163-2, p.1188**: `Rice-water cholera stool. Note floating mucus and gray watery appearance.` — 점액 조각이 떠다니는 회백색 수양성 양상의 전형적인 쌀뜨물 모양 콜레라 대변("rice-water stool").  
+> [그림 5: Figure 163-1, p.1187: `World distribution of cholera in 2013-2015. WHO, World Health Organization.` — 2013–2015년 전 세계 콜레라 발생 및 보고 현황 지도. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 163-1, p.1187 (원서 도판)]
+
 ![[Harrison_V1_Ch163_Fig2.png]]
 
-**Table 163-3, p.1190**: `Table 163-3 Electrolyte Composition of Cholera Stools and of Solutions Chiefly Employed for Fluid and Electrolyte Replacement in Cholera` — 성인·소아 콜레라 대변의 전해질($N{a}^{+},{K}^{+},C{l}^{-},HC{O}_{3}^{-}$) 조성과 보충 수액(WHO 저삼투압 경구수액[ORS], 젖산 링거액, 생리식염수)의 조성 비교표.  
-![[Harrison_V1_Ch163_Tab3.png]]
+> [그림 6: Figure 163-2, p.1188: `Rice-water cholera stool. Note floating mucus and gray watery appearance.` — 점액 조각이 떠다니는 회백색 수양성 양상의 전형적인 쌀뜨물 모양 콜레라 대변("rice-water stool"). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 163-2, p.1188 (원서 도판)]
 
-**Table 163-4, p.1190**: `Table 163-4 Assessment of Dehydration and Fluid Deficit in Cholera and Fluid Administration Regimens` — 콜레라 환자의 탈수 정도(무탈수 `\<5%`, 중등도 탈수 `5–10%`, 중증 탈수 `>10%`) 평가 기준 및 경구·정맥 수액 투여 프로토콜.  
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison_V1_Ch163_Tab3.png)
+
+> [그림 7: Table 163-3, p.1190: `Table 163-3 Electrolyte Composition of Cholera Stools and of Solutions Chiefly Employed for Fluid and Electrolyte Replacement in Cholera` — 성인·소아 콜레라 대변의 전해질($N{a}^{+},{K}^{+},C{l}^{-},HC{O}_{3}^{-}$) 조성과 보충 수액(WHO 저삼투압 경구수액[ORS], 젖산 링거액, 생리식염수)의 조성 비교표. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 163-3, p.1190 (원서 도판)]
+
 ![[Harrison_V1_Ch163_Tab4.png]]
+
+> [그림 8: Table 163-4, p.1190: `Table 163-4 Assessment of Dehydration and Fluid Deficit in Cholera and Fluid Administration Regimens` — 콜레라 환자의 탈수 정도(무탈수 `\<5%`, 중등도 탈수 `5–10%`, 중증 탈수 `>10%`) 평가 기준 및 경구·정맥 수액 투여 프로토콜. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 163-4, p.1190 (원서 도판)]
 
 - **비콜레라 비브리오 감염 (p.1190–1191)**:  
   - **장염비브리오 (*Vibrio parahaemolyticus*)**: 덜 익힌 해산물·어패류 섭취 후 자기한정적 수양성 설사·복통 유발.  
@@ -112,22 +120,26 @@ aliases:
   - **임상 양상**: 파상열(undulant fever), 심한 야간 발한(특유의 젖은 곰팡이 냄새), 체중 감소와 함께 **골관절 침범(천장관절염, 요추 척추염 — 가장 흔한 국소 합병증)**, 부고환고환염, 신경브루셀라증, 심내막염(사망의 주원인), 간비장종대를 일으킨다.  
   - **진단 및 치료(Table 164-1)**: 혈액·골수 배양 및 혈청 응집검사(표준 시험관 응집역가 $\geq 1:160$)로 진단한다. 단일 약제 요법은 재발률이 높으므로 반드시 병합요법을 시행하며, 성인 무합병증 브루셀라증의 **표준 1차 치료는 독시사이클린(`100 mg PO bid × 6주`) + 스트렙토마이신(`0.75–1 g IM qd × 2–3주`) 또는 젠타마이신(`5 mg/kg IV/IM qd × 7–10일`)**이고, WHO 대안 요법은 **독시사이클린(`100 mg PO bid × 6주`) + 리팜핀(`600–900 mg PO qd × 6주`)**이다(Table 164-1).
 
-**Table 164-1, p.1195**: `Table 164-1 Treatment of Brucellosis in Adults` — 성인 브루셀라증(단순 감염 및 척추염·신경브루셀라증·심내막염 등 복합 국소 감염, 임산부)의 표준 병합 항생제 요법과 투여 기간표.  
 ![[Harrison_V1_Ch164_Tab1.png]]
+
+> [그림 9: Table 164-1, p.1195: `Table 164-1 Treatment of Brucellosis in Adults` — 성인 브루셀라증(단순 감염 및 척추염·신경브루셀라증·심내막염 등 복합 국소 감염, 임산부)의 표준 병합 항생제 요법과 투여 기간표. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 164-1, p.1195 (원서 도판)]
 
 - **야토병 (Tularemia — *Francisella tularensis*) (p.1196–1199, Figure 165-1, Figure 165-2, Table 165-1)**:  
   - 단 10개 미만의 균 흡입이나 접종만으로도 감염되는 극도의 감염력을 가진 작은 다형성 그람음성 구형간균(1급 생물테러 병원체)으로, 미국 중남부(아칸소, 미주리, 오클라호마 등, Figure 165-1, Figure 165-2)에서 **감염된 야생 토끼·설치류 박피/접촉**이나 **진드기(개진드기, 론스타진드기)·사슴파리(deerfly) 교상**, 오염된 물·먼지 흡입(잔디 깎기 등)으로 전파된다.  
   - **6대 임상 아형**: 1) **궤양선형(Ulceroglandular, 전체의 75–85% 최다)**: 교상·접촉 부위에 통증성 홍반 구진이 궤양(검은 기저부 천공성 궤양)으로 변하고 배액 림프절이 심하게 붓고 화농됨, 2) **선형(Glandular)**: 피부 궤양 없이 림프절종대만 발생, 3) **안구선형(Oculoglandular)**: 결막 접종으로 화농성 결막염 및 귀앞 림프절종대, 4) **인두형(Oropharyngeal)**: 오염 육류·물 섭취, 5) **폐형(Pneumonic)**: 가장 치명적인 형태로 잔디 깎기·농작업·실험실·생물테러 흡입이나 혈행성 파종으로 발생, 6) **장티푸스형(Typhoidal)**: 국소 병변이나 림프절종대 없이 발열·패혈증 발현.  
   - **진단 및 치료(Table 165-1)**: 실험실 배양 시 감염 위험이 매우 높으므로 주로 혈청 응집검사($\geq 1:160$ 또는 4배 이상 상승) 및 PCR로 진단한다. **중증 야토병의 1차 선택제는 아미노글리코시드인 스트렙토마이신(`1 g IM bid`) 또는 젠타마이신(`5 mg/kg IV/IM qd`) 7–10일 요법**이며, 경증~중등증 및 대량 노출 후 예방에는 **독시사이클린(`100 mg PO bid × 14–21일`) 또는 시프로플록사신(`500 mg PO bid × 10–14일`)**을 사용한다(모든 $\beta$-락탐 항생제에는 내성, Table 165-1).
 
-**Figure 165-1, p.1196**: `Yearly reported tularemia cases in the United States, 1950-2015.` — 1950–2015년 미국의 연도별 야토병(tularemia) 보고 환자 수 추이.  
 ![[Harrison_V1_Ch165_Fig1.png]]
 
-**Figure 165-2, p.1197**: `Map displaying reported U.S. tularemia cases in 2000-2015.` — 2000–2015년 미국 내 야토병 보고 환자의 카운티별 지리적 분포 지도(중남부 주 집중).  
+> [그림 10: Figure 165-1, p.1196: `Yearly reported tularemia cases in the United States, 1950-2015.` — 1950–2015년 미국의 연도별 야토병(tularemia) 보고 환자 수 추이. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 165-1, p.1196 (원서 도판)]
+
 ![[Harrison_V1_Ch165_Fig2.png]]
 
-**Table 165-1, p.1199**: `Table 165-1 Treatment of Tularemia` — 성인 및 소아 야토병의 1차 정주/근주 치료제(스트렙토마이신, 젠타마이신) 및 대안 약제(독시사이클린, 시프로플록사신)의 용량과 투여 기간표.  
+> [그림 11: Figure 165-2, p.1197: `Map displaying reported U.S. tularemia cases in 2000-2015.` — 2000–2015년 미국 내 야토병 보고 환자의 카운티별 지리적 분포 지도(중남부 주 집중). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 165-2, p.1197 (원서 도판)]
+
 ![[Harrison_V1_Ch165_Tab1.png]]
+
+> [그림 12: Table 165-1, p.1199: `Table 165-1 Treatment of Tularemia` — 성인 및 소아 야토병의 1차 정주/근주 치료제(스트렙토마이신, 젠타마이신) 및 대안 약제(독시사이클린, 시프로플록사신)의 용량과 투여 기간표. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 165-1, p.1199 (원서 도판)]
 
 ### 3.2 페스트(Plague: Figure 166-1 ~ 166-4) 및 기타 예르시니아 감염(*Y. enterocolitica, Y. pseudotuberculosis*) (p.1200–1208)  
 - **페스트 (Plague — *Yersinia pestis*) (p.1200–1207, Figure 166-1 ~ 166-4)**:  
@@ -138,17 +150,21 @@ aliases:
     3. **폐페스트 (Pneumonic plague, Figure 166-3)**: 혈행성 파종(이차성)이나 환자·감염 고양이의 호흡기 비말 또는 생물테러 에어로졸 흡입(일차성, 잠복기 **1–4일**)으로 발생하며, 급격한 고열, 흉통, 호흡곤란, **다량의 혈성·수양성 객담(객혈)**과 양측 폐 경화를 일으켜 **발병 18–24시간 이내에 항생제를 투여하지 않으면 거의 100% 사망**한다(폐페스트 의심 환자는 항생제 치료 후 48시간이 지날 때까지 반드시 **비말 격리[droplet precautions]** 시행!).  
   - **진단(Figure 166-4) 및 치료**: 가래톳 흡인물·혈액·객담 배양, F1 피막 항원 검사, PCR로 진단한다(Figure 166-4). **1차 선택 항생제는 스트렙토마이신(`1 g IM q12h`) 또는 젠타마이신(`5 mg/kg IV/IM q24h`) 10일 요법**이며, 대안(및 노출 후 7일 화학예방)으로 **독시사이클린(`100 mg PO/IV bid`), 레보플록사신, 시프로플록사신**(수막염 동반 시 클로람페니콜)을 사용한다(Table 166-1).
 
-**Figure 166-1, p.1201**: `Approximate global distribution of Yersinia pestis.` — 전 세계 페스트(*Yersinia pestis*) 자연 유행 병소 분포 지도 및 2000–2015년 미국 서부 주의 인간 페스트 발생 분포(삽입도).  
 ![[Harrison_V1_Ch166_Fig1.png]]
 
-**Figure 166-2, p.1202**: `Plague patient in the southwestern United States with a left axillary bubo and an unusual plague ulcer and eschar at the site of a flea bite on the left shoulder.` — 미국 남서부의 선페스트 환자에서 관찰되는 좌측 액와 가래톳(bubo)과 좌측 어깨 벼룩 교상 부위의 궤양 및 가피.  
+> [그림 13: Figure 166-1, p.1201: `Approximate global distribution of Yersinia pestis.` — 전 세계 페스트(*Yersinia pestis*) 자연 유행 병소 분포 지도 및 2000–2015년 미국 서부 주의 인간 페스트 발생 분포(삽입도). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 166-1, p.1201 (원서 도판)]
+
 ![[Harrison_V1_Ch166_Fig2.png]]
 
-**Figure 166-3, p.1203**: `Sequential chest radiographs of a patient with primary pneumonic plague on days 2 (left) and 3 (right) after onset of symptoms.` — 일차성 폐페스트 환자에서 증상 발생 제2일(좌측: 좌하엽 국소 침윤)과 제3일(우측: 양측 폐 전체로 급격히 진행한 경화)의 연속 흉부 X선 사진.  
+> [그림 14: Figure 166-2, p.1202: `Plague patient in the southwestern United States with a left axillary bubo and an unusual plague ulcer and eschar at the site of a flea bite on the left shoulder.` — 미국 남서부의 선페스트 환자에서 관찰되는 좌측 액와 가래톳(bubo)과 좌측 어깨 벼룩 교상 부위의 궤양 및 가피. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 166-2, p.1202 (원서 도판)]
+
 ![[Harrison_V1_Ch166_Fig3.png]]
 
-**Figure 166-4, p.1205**: `Left: Algorithm for tests to be Performed on plague Suspects when a bipolar-staining Gram-negative rod is Observed` — 의심 검체에서 양극성 염색 그람음성간균이 관찰될 때 F1 항원·PCR·박테리오파지 용해 검사를 통한 *Yersinia pestis* 실험실 확진 알고리즘(좌측) 및 미국 서부 다람쥐 벼룩 숙주 분포(우측).  
+> [그림 15: Figure 166-3, p.1203: `Sequential chest radiographs of a patient with primary pneumonic plague on days 2 (left) and 3 (right) after onset of symptoms.` — 일차성 폐페스트 환자에서 증상 발생 제2일(좌측: 좌하엽 국소 침윤)과 제3일(우측: 양측 폐 전체로 급격히 진행한 경화)의 연속 흉부 X선 사진. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 166-3, p.1203 (원서 도판)]
+
 ![[Harrison_V1_Ch166_Fig4.png]]
+
+> [그림 16: Figure 166-4, p.1205: `Left: Algorithm for tests to be Performed on plague Suspects when a bipolar-staining Gram-negative rod is Observed` — 의심 검체에서 양극성 염색 그람음성간균이 관찰될 때 F1 항원·PCR·박테리오파지 용해 검사를 통한 *Yersinia pestis* 실험실 확진 알고리즘(좌측) 및 미국 서부 다람쥐 벼룩 숙주 분포(우측). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 166-4, p.1205 (원서 도판)]
 
 - **예르시니아증 (*Yersinia enterocolitica* 및 *Yersinia pseudotuberculosis*) (p.1207–1208, `p.1209`로 이어짐)**:  
   - 덜 익힌 돼지고기(곱창[chitterlings] 등), 오염된 물·우유 섭취로 감염되며, 소아·청소년에서 발열, 설사 및 우하복부 통증을 일으키는 **말단 회장염 및 장간막 림프절염(가성충수염[pseudoappendicitis] 증후군 — 급성 충수염과 구별이 불가능하여 개복술 시 충수는 정상이고 장간막 림프절만 비대된 것이 확인됨)**이 특징이다.  

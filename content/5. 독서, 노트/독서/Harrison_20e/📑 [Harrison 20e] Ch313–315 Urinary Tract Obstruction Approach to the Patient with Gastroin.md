@@ -36,7 +36,9 @@ type: 의학원서_요약노트
 
 ### **2.2 요로폐쇄의 진단 알고리즘, 치료, 예후 및 폐쇄 후 이뇨 (pp. 2173–2175)**
 
-![[Harrison_V2_Ch313_Fig1.png]] *FIGURE 313-1 Diagnostic approach for urinary tract obstruction in unexplained renal failure. CT, computed tomography.*
+![[Harrison_V2_Ch313_Fig1.png]]
+
+> [그림 1: FIGURE 313-1 Diagnostic approach for urinary tract obstruction in unexplained renal failure. CT, computed tomography. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 313-1 (원서 도판)]
 
 > * **진단적 접근 알고리즘 (Fig. 313-1)** (p. 2174):  
 > * 설명되지 않는 신부전 환자에서는 먼저 **방광 카테터**를 삽입한다(이뇨가 발생하면 방광경부 하부 폐쇄로 진단하고 비뇨의학적 평가를 시행).  
@@ -59,7 +61,9 @@ type: 의학원서_요약노트
 
 ### **3.2 주요 위장관 증상의 감별진단, 평가 도구 및 치료 원칙 (pp. 2177–2181)**
 
-![[Harrison_V2_Ch314_Tab1.png]] *Table 314-1 Common Causes of Common Gastrointestinal (GI) Symptoms*
+![[Harrison_V2_Ch314_Tab1.png]]
+
+> [그림 2: Table 314-1 Common Causes of Common Gastrointestinal (GI) Symptoms — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 314-1 (원서 도판)]
 
 > * **주요 증상 및 병력·신체진찰 (Table 314-1)** (pp. 2177–2179):  
 > * **가슴쓰림(Heartburn)**: 인구의 **40%**가 간헐적으로 경험한다.  
@@ -87,33 +91,113 @@ type: 의학원서_요약노트
 
 ### **4.1 내시경 시술의 종류와 도해 아틀라스 (pp. 2181–2192)**
 
-![[Harrison_V2_Ch315_Fig1.png]] *FIGURE 315-1 Gastrointestinal endoscope. Shown here is a conventional colonoscope with control knobs for tip deflection, push buttons for suction and air insufflation (single arrows), and a working channel for passage of accessories (double arrows).*  
-![[Harrison_V2_Ch315_Fig2.png]] *FIGURE 315-2 Normal upper endoscopic examination. A. Esophagus. B. Gastroesophageal junction. C. Gastric fundus. D. Gastric body. E. Gastric antrum. F. Pylorus. G. Duodenal bulb. H. Second portion of the duodenum.*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2183.png]] *FIGURE 315-2 (Continued) — Normal upper endoscopic examination (C–H).*  
-![[Harrison_V2_Ch315_Fig3.png]] *FIGURE 315-3 Duodenal ulcers. A. Ulcer with a clean base. B. Ulcer with a visible vessel (arrow) in a patient with recent hemorrhage.*  
-![[Harrison_V2_Ch315_Fig4.png]] *FIGURE 315-4 Gastric ulcers. A. Benign gastric ulcer. B. Malignant gastric ulcer involving greater curvature of stomach.*  
-![[Harrison_V2_Ch315_Fig5.png]] *FIGURE 315-5 Barrett's esophagus. A. Pink tongues of Barrett's mucosa extending proximally from the gastroesophageal junction. B. Barrett's esophagus with a suspicious nodule (arrow). C. Histologic finding of intramucosal adenocarcinoma. D. Barrett's esophagus with locally advanced adenocarcinoma.*  
-![[Harrison_V2_Ch315_Fig6.png]] *FIGURE 315-6 Colonoscopic view of terminal ileum. A. Normal-appearing terminal ileum (TI). B. View of normal villi of TI enhanced by examination under water immersion.*  
-![[Harrison_V2_Ch315_Fig7.png]] *FIGURE 315-7 Normal colonoscopic examination. A. Cecum with view of appendiceal orifice. B. Ileocecal valve. C. Normal-appearing colon. D. Rectum (retroflexed view).*  
-![[Harrison_V2_Ch315_Fig8.png]] *FIGURE 315-8 Causes of colitis. A. Chronic ulcerative colitis with diffuse ulcerations and exudates. B. Severe Crohn's colitis with deep ulcers. C. Pseudomembranous colitis with yellow, adherent pseudomembranes. D. Ischemic colitis with patchy mucosal edema, subepithelial hemorrhage, and cyanosis.*  
-![[Harrison_V2_Ch315_Fig9.png]] *FIGURE 315-9 Colonic polyps. A. Pedunculated polyp on a stalk. B. Sessile polyp.*  
-![[Harrison_V2_Ch315_Fig10.png]] *FIGURE 315-10 Ulcerated colon adenocarcinoma narrowing the colonic lumen.*  
-![[Harrison_V2_Ch315_Fig11.png]] *FIGURE 315-11 Flat serrated polyp in the cecum. A. Appearance under conventional white-light imaging. B. Narrow band imaging. C. Submucosal lifting with methylene blue injection prior to resection.*  
-![[Harrison_V2_Ch315_Fig12.png]] *FIGURE 315-12 Capsule endoscopy image of jejunal vascular ectasia.*  
-![[Harrison_V2_Ch315_Fig13.png]] *FIGURE 315-13 Radiograph of a double-balloon enteroscope in the small intestine.*  
-![[Harrison_V2_Ch315_Fig14.png]] *FIGURE 315-14 Nonsteroidal anti-inflammatory drug (NSAID)-induced proximal ileal stricture diagnosed by double-balloon endoscopy.*  
-![[Harrison_V2_Ch315_Fig15.png]] *FIGURE 315-15 Endoscopic retrograde cholangiopancreatography (ERCP) for bile duct stones with cholangitis.*  
-![[Harrison_V2_Ch315_Fig16.png]] *FIGURE 315-16 Endoscopic sphincterotomy.*  
-![[Harrison_V2_Ch315_Fig17.png]] *FIGURE 315-17 Endoscopic diagnosis, staging, and palliation of hilar cholangiocarcinoma.*  
-![[Harrison_V2_Ch315_Fig18.png]] *FIGURE 315-18 Bile leak (arrow) from a duct of Luschka after laparoscopic cholecystectomy.*  
-![[Harrison_V2_Ch315_Fig19.png]] *FIGURE 315-19 Local staging of gastrointestinal cancers with endoscopic ultrasound. A. T1 gastric cancer. B. T2 esophageal cancer. C. T3 esophageal cancer.*  
-![[Harrison_V2_Ch315_Fig20.png]] *FIGURE 315-20 Endoscopic ultrasound (EUS)-guided fine-needle aspiration (FNA).*  
-![[Harrison_V2_Ch315_Fig21.png]] *FIGURE 315-21 Peroral endoscopic myotomy (POEM) for achalasia.*  
-![[Harrison_V2_Ch315_Fig22.png]] *FIGURE 315-22 Peroral endoscopic tumorectomy (POET).*  
-![[Harrison_V2_Ch315_Fig23.png]] *FIGURE 315-23 Endoscopic full-thickness resection (EFTR) of a gastrointestinal stromal tumor.*  
-![[Harrison_V2_Ch315_Fig24.png]] *FIGURE 315-24 Endoscopic submucosal dissection (ESD).*  
-![[Harrison_V2_Ch315_Fig25.png]] *FIGURE 315-25 Closure of large defect using an endoscopic suturing device.*  
-![[Harrison_V2_Ch315_Fig26.png]] *FIGURE 315-26 Prevention of stent migration using endoscopic sutures.*
+![[Harrison_V2_Ch315_Fig1.png]]
+
+> [그림 3: FIGURE 315-1 Gastrointestinal endoscope. Shown here is a conventional colonoscope with control knobs for tip deflection, push buttons for suction and air insufflation (single arrows), and a working channel for passage of accessories (double arrows). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-1 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig2.png]]
+
+> [그림 4: FIGURE 315-2 Normal upper endoscopic examination. A. Esophagus. B. Gastroesophageal junction. C. Gastric fundus. D. Gastric body. E. Gastric antrum. F. Pylorus. G. Duodenal bulb. H. Second portion of the duodenum. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-2 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2183.png)
+
+> [그림 5: FIGURE 315-2 (Continued) — Normal upper endoscopic examination (C–H). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-2 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig3.png]]
+
+> [그림 6: FIGURE 315-3 Duodenal ulcers. A. Ulcer with a clean base. B. Ulcer with a visible vessel (arrow) in a patient with recent hemorrhage. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-3 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig4.png]]
+
+> [그림 7: FIGURE 315-4 Gastric ulcers. A. Benign gastric ulcer. B. Malignant gastric ulcer involving greater curvature of stomach. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-4 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig5.png]]
+
+> [그림 8: FIGURE 315-5 Barrett's esophagus. A. Pink tongues of Barrett's mucosa extending proximally from the gastroesophageal junction. B. Barrett's esophagus with a suspicious nodule (arrow). C. Histologic finding of intramucosal adenocarcinoma. D. Barrett's esophagus with locally advanced adenocarcinoma. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-5 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig6.png]]
+
+> [그림 9: FIGURE 315-6 Colonoscopic view of terminal ileum. A. Normal-appearing terminal ileum (TI). B. View of normal villi of TI enhanced by examination under water immersion. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-6 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig7.png]]
+
+> [그림 10: FIGURE 315-7 Normal colonoscopic examination. A. Cecum with view of appendiceal orifice. B. Ileocecal valve. C. Normal-appearing colon. D. Rectum (retroflexed view). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-7 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig8.png]]
+
+> [그림 11: FIGURE 315-8 Causes of colitis. A. Chronic ulcerative colitis with diffuse ulcerations and exudates. B. Severe Crohn's colitis with deep ulcers. C. Pseudomembranous colitis with yellow, adherent pseudomembranes. D. Ischemic colitis with patchy mucosal edema, subepithelial hemorrhage, and cyanosis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-8 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig9.png]]
+
+> [그림 12: FIGURE 315-9 Colonic polyps. A. Pedunculated polyp on a stalk. B. Sessile polyp. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-9 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig10.png]]
+
+> [그림 13: FIGURE 315-10 Ulcerated colon adenocarcinoma narrowing the colonic lumen. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-10 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig11.png]]
+
+> [그림 14: FIGURE 315-11 Flat serrated polyp in the cecum. A. Appearance under conventional white-light imaging. B. Narrow band imaging. C. Submucosal lifting with methylene blue injection prior to resection. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-11 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig12.png]]
+
+> [그림 15: FIGURE 315-12 Capsule endoscopy image of jejunal vascular ectasia. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-12 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig13.png]]
+
+> [그림 16: FIGURE 315-13 Radiograph of a double-balloon enteroscope in the small intestine. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-13 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig14.png]]
+
+> [그림 17: FIGURE 315-14 Nonsteroidal anti-inflammatory drug (NSAID)-induced proximal ileal stricture diagnosed by double-balloon endoscopy. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-14 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig15.png]]
+
+> [그림 18: FIGURE 315-15 Endoscopic retrograde cholangiopancreatography (ERCP) for bile duct stones with cholangitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-15 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig16.png]]
+
+> [그림 19: FIGURE 315-16 Endoscopic sphincterotomy. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-16 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig17.png]]
+
+> [그림 20: FIGURE 315-17 Endoscopic diagnosis, staging, and palliation of hilar cholangiocarcinoma. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-17 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig18.png]]
+
+> [그림 21: FIGURE 315-18 Bile leak (arrow) from a duct of Luschka after laparoscopic cholecystectomy. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-18 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig19.png]]
+
+> [그림 22: FIGURE 315-19 Local staging of gastrointestinal cancers with endoscopic ultrasound. A. T1 gastric cancer. B. T2 esophageal cancer. C. T3 esophageal cancer. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-19 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig20.png]]
+
+> [그림 23: FIGURE 315-20 Endoscopic ultrasound (EUS)-guided fine-needle aspiration (FNA). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-20 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig21.png]]
+
+> [그림 24: FIGURE 315-21 Peroral endoscopic myotomy (POEM) for achalasia. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-21 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig22.png]]
+
+> [그림 25: FIGURE 315-22 Peroral endoscopic tumorectomy (POET). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-22 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig23.png]]
+
+> [그림 26: FIGURE 315-23 Endoscopic full-thickness resection (EFTR) of a gastrointestinal stromal tumor. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-23 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig24.png]]
+
+> [그림 27: FIGURE 315-24 Endoscopic submucosal dissection (ESD). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-24 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig25.png]]
+
+> [그림 28: FIGURE 315-25 Closure of large defect using an endoscopic suturing device. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-25 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig26.png]]
+
+> [그림 29: FIGURE 315-26 Prevention of stent migration using endoscopic sutures. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-26 (원서 도판)]
 
 > * **각 내시경 시술의 핵심 특징 (Figs. 315-1 ~ 315-26)** (pp. 2181–2192):  
 > * **상부위장관 내시경(EGD)**: 위궤양(Fig. 315-4)과 바렛 식도(Fig. 315-5) 같은 편평 병변 검출에서 상부위장관 조영술보다 우월하며, 직경 **5 mm** 초세경 내시경을 사용하면 비진정 경구/경비 내시경 순응도를 높일 수 있다.  
@@ -123,8 +207,13 @@ type: 의학원서_요약노트
 
 ### **4.2 내시경의 위험도, 예방적 항생제 및 항혈전제 관리 (pp. 2188–2195)**
 
-![[Harrison_V2_Ch315_Tab2.png]] *Table 315-2 Management of Antithrombotic Drugs Prior to Endoscopic Procedures*  
-![[Harrison_V2_Ch315_Fig27.png]] *FIGURE 315-27 Bleeding from percutaneous endoscopic gastrostomy (PEG) tube placement.*
+![[Harrison_V2_Ch315_Tab2.png]]
+
+> [그림 30: Table 315-2 Management of Antithrombotic Drugs Prior to Endoscopic Procedures — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 315-2 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig27.png]]
+
+> [그림 31: FIGURE 315-27 Bleeding from percutaneous endoscopic gastrostomy (PEG) tube placement. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-27 (원서 도판)]
 
 > * **내시경 합병증 빈도** (pp. 2188–2190):  
 > * 진단적 상부내시경·구불결장경·대장내시경(및 세침흡인 없는 진단적 EUS)의 출혈·천공 위험은 **\<1:1000 시술**이나, 용종절제술·EMR·ESD·지혈술·협착 확장술 같은 치료 내시경에서는 **0.5–5%**이다.  
@@ -139,32 +228,90 @@ type: 의학원서_요약노트
 
 ### **4.3 응급 내시경: 급성 위장관 출혈, 위장관 폐쇄·가성폐쇄 및 급성 담도 폐쇄 (pp. 2193–2201)**
 
-![[Harrison_V2_Ch315_Fig28.png]] *FIGURE 315-28 Stigmata of hemorrhage in peptic ulcers. A. Clean base. B. Flat pigmented spots. C. Dense adherent clot. D. Pigmented protuberance/visible vessel. E. Active spurting.*  
-![[Harrison_V2_Ch315_Fig29.png]] *FIGURE 315-29 Epinephrine injection into a duodenal ulcer with visible vessel (arrow) and adherent clot.*  
-![[Harrison_V2_Ch315_Fig30.png]] *FIGURE 315-30 Treated duodenal ulcer by contact coagulation with a thermal probe.*  
-![[Harrison_V2_Ch315_Fig31.png]] *FIGURE 315-31 Ulcer hemostasis using through-the-scope clips.*  
-![[Harrison_V2_Ch315_Fig32.png]] *FIGURE 315-32 Endoscopic hemostasis of ulcer bleeding with placement of an over-the-scope clip.*  
-![[Harrison_V2_Ch315_Fig33.png]] *FIGURE 315-33 Esophageal varices.*  
-![[Harrison_V2_Ch315_Fig34.png]] *FIGURE 315-34 Endoscopic band ligation of esophageal varices.*  
-![[Harrison_V2_Ch315_Fig35.png]] *FIGURE 315-35 Gastric varices.*  
-![[Harrison_V2_Ch315_Fig36.png]] *FIGURE 315-36 Dieulafoy's lesion.*  
-![[Harrison_V2_Ch315_Fig37.png]] *FIGURE 315-37 Mallory-Weiss tear at the gastroesophageal junction.*  
-![[Harrison_V2_Ch315_Fig38.png]] *FIGURE 315-38 Gastrointestinal vascular ectasias. A. Gastric antral vascular ectasia ("watermelon stomach"). B. Cecal vascular ectasias. C. Radiation-induced vascular ectasias of the rectum.*  
-![[Harrison_V2_Ch315_Fig39.png]] *FIGURE 315-39 Colonic diverticula.*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2199.png]] *FIGURE 315-40 Diverticular hemorrhage. A. Actively bleeding sigmoid diverticulum. B. Hemostasis achieved using endoscopic clips.*
+![[Harrison_V2_Ch315_Fig28.png]]
+
+> [그림 32: FIGURE 315-28 Stigmata of hemorrhage in peptic ulcers. A. Clean base. B. Flat pigmented spots. C. Dense adherent clot. D. Pigmented protuberance/visible vessel. E. Active spurting. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-28 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig29.png]]
+
+> [그림 33: FIGURE 315-29 Epinephrine injection into a duodenal ulcer with visible vessel (arrow) and adherent clot. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-29 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig30.png]]
+
+> [그림 34: FIGURE 315-30 Treated duodenal ulcer by contact coagulation with a thermal probe. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-30 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig31.png]]
+
+> [그림 35: FIGURE 315-31 Ulcer hemostasis using through-the-scope clips. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-31 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig32.png]]
+
+> [그림 36: FIGURE 315-32 Endoscopic hemostasis of ulcer bleeding with placement of an over-the-scope clip. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-32 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig33.png]]
+
+> [그림 37: FIGURE 315-33 Esophageal varices. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-33 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig34.png]]
+
+> [그림 38: FIGURE 315-34 Endoscopic band ligation of esophageal varices. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-34 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig35.png]]
+
+> [그림 39: FIGURE 315-35 Gastric varices. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-35 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig36.png]]
+
+> [그림 40: FIGURE 315-36 Dieulafoy's lesion. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-36 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig37.png]]
+
+> [그림 41: FIGURE 315-37 Mallory-Weiss tear at the gastroesophageal junction. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-37 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig38.png]]
+
+> [그림 42: FIGURE 315-38 Gastrointestinal vascular ectasias. A. Gastric antral vascular ectasia ("watermelon stomach"). B. Cecal vascular ectasias. C. Radiation-induced vascular ectasias of the rectum. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-38 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig39.png]]
+
+> [그림 43: FIGURE 315-39 Colonic diverticula. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-39 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2199.png)
+
+> [그림 44: FIGURE 315-40 Diverticular hemorrhage. A. Actively bleeding sigmoid diverticulum. B. Hemostasis achieved using endoscopic clips. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-40 (원서 도판)]
 
 > * **급성 위장관 출혈의 평가 및 원인별 내시경 지혈술 (Figs. 315-28 ~ 315-40)** (pp. 2193–2198):  
 > * 흑색변(melena)의 **>90%**는 트라이츠 인대(ligament of Treitz) 상부 출혈이며, 혈변(hematochezia)의 **~85%**는 결장 출혈이다(단, 대량 상부 출혈은 선홍색 혈변으로 발현할 수 있음). 상부내시경 **30–90분 전 에리스로마이신(3–4 mg/kg 또는 250 mg IV)** 단회 투여는 위 배출을 촉진해 시야를 개선한다.  
 > * **소화성 궤양 출혈 병변별 재출혈률(Forrest 기준에 상응, Fig. 315-28)**: ① 깨끗한 기저부(clean base): **3–5%**(젊고 건강한 환자는 당일 퇴원 가능), ② 편평 색소 반점(flat pigmented spot): **10%**, ③ 부착 혈괴(adherent clot): **20%**, ④ 노출 혈관(visible vessel / sentinel clot): **40%**, ⑤ 활동성 분출 출혈(active spurting): **90%**. 고위험 병변(노출 혈관·활동성 출혈)은 에피네프린 주입, 접촉 열탐침 응고(coaptive coagulation), 클립(TTS/OTSC) 및 PPI 투여로 재출혈률을 **5–10%**로 낮춘다(Figs. 315-29 ~ 315-32).  
 > * **정맥류, Dieulafoy 병변, Mallory-Weiss 열창, 혈관확장증, 게실 출혈**: 식도정맥류는 **내시경 정맥류 결찰술(EVL, 최대 90% 급성 지혈; 장기 단독 재출혈 예방률은 ~50%이므로 문맥압 강하 약물과 병용)**이 1차 치료이며, 큰 위저부 정맥류(Fig. 315-35)는 EVL/경화요법 시 재출혈률이 높으므로 **시아노아크릴레이트(cyanoacrylate, 'glue') 주입술**이 최선이다. 근위부 위 소만부에 호발하는 점막하 대구경 세동맥인 **Dieulafoy 병변(Fig. 315-36)**과 위식도접합부의 **Mallory-Weiss 열창(Fig. 315-37 — 소화성 궤양과 달리 비출혈성 감시 혈괴만 있는 경우는 재출혈이 드물어 내시경 치료 불필요)**, 아르곤 플라즈마 응고술(APC)에 반응하는 **혈관확장증(수박위[GAVE] 등, Fig. 315-38)**, 그리고 **대장 게실 출혈(Fig. 315-39, Fig. 315-40)**을 진단·치료한다.
 
-![[Harrison_V2_Ch315_Fig41.png]] *FIGURE 315-41 Esophageal food (meat) impaction.*  
-![[Harrison_V2_Ch315_Fig42.png]] *FIGURE 315-42 Impacted nail in the esophagus.*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2200.png]] *FIGURE 315-43 Gastric outlet obstruction due to pyloric stenosis.*  
-![[Harrison_V2_Ch315_Fig44.png]] *FIGURE 315-44 Sigmoid volvulus with the characteristic radiologic appearance of a "bent inner tube."*  
-![[Harrison_V2_Ch315_Fig45.png]] *FIGURE 315-45 Acute colonic pseudoobstruction.*  
-![[Harrison_V2_Ch315_Fig46.png]] *FIGURE 315-46 Obstructing colonic carcinoma.*  
-![[Harrison_V2_Ch315_Fig47.png]] *FIGURE 315-47 Methods of bile duct imaging. A. EUS. B. MRCP. C. Helical CT.*
+![[Harrison_V2_Ch315_Fig41.png]]
+
+> [그림 45: FIGURE 315-41 Esophageal food (meat) impaction. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-41 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig42.png]]
+
+> [그림 46: FIGURE 315-42 Impacted nail in the esophagus. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-42 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2200.png)
+
+> [그림 47: FIGURE 315-43 Gastric outlet obstruction due to pyloric stenosis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-43 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig44.png]]
+
+> [그림 48: FIGURE 315-44 Sigmoid volvulus with the characteristic radiologic appearance of a "bent inner tube." — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-44 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig45.png]]
+
+> [그림 49: FIGURE 315-45 Acute colonic pseudoobstruction. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-45 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig46.png]]
+
+> [그림 50: FIGURE 315-46 Obstructing colonic carcinoma. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-46 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig47.png]]
+
+> [그림 51: FIGURE 315-47 Methods of bile duct imaging. A. EUS. B. MRCP. C. Helical CT. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-47 (원서 도판)]
 
 > * **위장관 폐쇄·가성폐쇄 및 급성 담도 폐쇄 (Figs. 315-41 ~ 315-47)** (pp. 2198–2201):  
 > * **급성 식도 이물/음식물 매복 (Figs. 315-41, 315-42)**: 내시경적 응급이다(탄산음료, 설하 니페디핀/질산염, 정주 글루카곤이 일시적 도움이 될 수 있으나 대부분 협착·고리가 동반되어 내시경 제거 필요; 바륨 조영술은 내시경 시야를 방해하므로 금기).  
@@ -174,21 +321,65 @@ type: 의학원서_요약노트
 
 ### **4.4 선택적 내시경 적응증, 대장암 선별검사 및 개방접근 내시경 (pp. 2201–2208)**
 
-![[Harrison's Principles of Internal Medicine, 20th ed._p2202.png]] *FIGURE 315-48 Causes of esophagitis. A. Severe reflux esophagitis. B. Cytomegalovirus esophagitis. C. Herpes simplex virus esophagitis. D. Candida esophagitis.*  
-![[Harrison_V2_Ch315_Fig49.png]] *FIGURE 315-49 Peptic esophageal stricture associated with esophagitis.*  
-![[Harrison_V2_Ch315_Fig50.png]] *FIGURE 315-50 Schatzki's ring at the gastroesophageal junction.*  
-![[Harrison_V2_Ch315_Fig51.png]] *FIGURE 315-51 Eosinophilic esophagitis with multiple circular rings of the esophagus creating a corrugated appearance, and an impacted grape at the narrowed esophagogastric junction.*  
-![[Harrison_V2_Ch315_Fig52.png]] *FIGURE 315-52 Endoscopic management of peptic stricture.*  
-![[Harrison_V2_Ch315_Fig53.png]] *FIGURE 315-53 Endoscopic management of an esophagogastric anastomotic stricture.*  
-![[Harrison_V2_Ch315_Fig54.png]] *FIGURE 315-54 Palliation of malignant dysphagia.*  
-![[Harrison's Principles of Internal Medicine, 20th ed._p2205.png]] *FIGURE 315-55 Biliary and duodenal self-expanding metal stents (SEMS) for obstruction caused by pancreatic cancer.*  
-![[Harrison_V2_Ch315_Fig56.png]] *FIGURE 315-56 Scalloped duodenal folds in a patient with celiac sprue.*  
-![[Harrison_V2_Ch315_Fig57.png]] *FIGURE 315-57 Capsule endoscopy images of a mildly scalloped jejunal fold (left) and an ileal tumor (right) in a patient with celiac sprue.*  
-![[Harrison_V2_Ch315_Fig58.png]] *FIGURE 315-58 A. Mid-jejunal vascular ectasia identified by double-balloon endoscopy. B. Ablation of vascular ectasia with argon plasma coagulation.*  
-![[Harrison_V2_Ch315_Fig59.png]] *FIGURE 315-59 Numerous colon polyps in a patient with familial adenomatous polyposis syndrome.*  
-![[Harrison_V2_Ch315_Fig60.png]] *FIGURE 315-60 Virtual colonoscopy image of a colon polyp (arrow).*  
-![[Harrison_V2_Ch315_Fig61.png]] *FIGURE 315-61 Crohn's ileitis.*  
-![[Harrison_V2_Ch315_Fig62.png]] *FIGURE 315-62 Internal hemorrhoids with bleeding (arrow) as seen on a retroflexed view of the rectum.*
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2202.png)
+
+> [그림 52: FIGURE 315-48 Causes of esophagitis. A. Severe reflux esophagitis. B. Cytomegalovirus esophagitis. C. Herpes simplex virus esophagitis. D. Candida esophagitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-48 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig49.png]]
+
+> [그림 53: FIGURE 315-49 Peptic esophageal stricture associated with esophagitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-49 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig50.png]]
+
+> [그림 54: FIGURE 315-50 Schatzki's ring at the gastroesophageal junction. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-50 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig51.png]]
+
+> [그림 55: FIGURE 315-51 Eosinophilic esophagitis with multiple circular rings of the esophagus creating a corrugated appearance, and an impacted grape at the narrowed esophagogastric junction. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-51 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig52.png]]
+
+> [그림 56: FIGURE 315-52 Endoscopic management of peptic stricture. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-52 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig53.png]]
+
+> [그림 57: FIGURE 315-53 Endoscopic management of an esophagogastric anastomotic stricture. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-53 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig54.png]]
+
+> [그림 58: FIGURE 315-54 Palliation of malignant dysphagia. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-54 (원서 도판)]
+
+> ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2205.png)
+
+> [그림 59: FIGURE 315-55 Biliary and duodenal self-expanding metal stents (SEMS) for obstruction caused by pancreatic cancer. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-55 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig56.png]]
+
+> [그림 60: FIGURE 315-56 Scalloped duodenal folds in a patient with celiac sprue. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-56 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig57.png]]
+
+> [그림 61: FIGURE 315-57 Capsule endoscopy images of a mildly scalloped jejunal fold (left) and an ileal tumor (right) in a patient with celiac sprue. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-57 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig58.png]]
+
+> [그림 62: FIGURE 315-58 A. Mid-jejunal vascular ectasia identified by double-balloon endoscopy. B. Ablation of vascular ectasia with argon plasma coagulation. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-58 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig59.png]]
+
+> [그림 63: FIGURE 315-59 Numerous colon polyps in a patient with familial adenomatous polyposis syndrome. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-59 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig60.png]]
+
+> [그림 64: FIGURE 315-60 Virtual colonoscopy image of a colon polyp (arrow). — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-60 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig61.png]]
+
+> [그림 65: FIGURE 315-61 Crohn's ileitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-61 (원서 도판)]
+
+![[Harrison_V2_Ch315_Fig62.png]]
+
+> [그림 66: FIGURE 315-62 Internal hemorrhoids with bleeding (arrow) as seen on a retroflexed view of the rectum. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-62 (원서 도판)]
 
 > * **소화불량증, GERD/바렛 식도, 삼킴곤란, 비만 내시경 치료 및 빈혈 평가 (Figs. 315-48 ~ 315-58)** (pp. 2201–2204):  
 > * **GERD 및 바렛 식도**: GERD 진단에 가장 민감한 검사는 **24시간 보행성 pH 감시**이며, **10년 이상** 만성 GERD 환자는 \<1년 환자에 비해 바렛 식도 위험이 **6배** 높으므로 선별 EGD를 고려한다. 바렛 점막의 고도 이형성이나 점막내 암종은 EMR/ESD 및 **고주파 절제술(RFA)** 또는 광역동치료(PDT)로 치료한다.  
