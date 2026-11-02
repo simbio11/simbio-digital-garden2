@@ -18,8 +18,6 @@ type: 의학원서_요약노트
 > * **비생식세포 고환 종양**: 50세 이상 남성에서 가장 흔한 고환 종양인 **고환 림프종**, 성삭 기질 종양(**Leydig 세포 종양, Sertoli 세포 종양**), 고환초막 중피종, 부고환주위 육종 및 전립선암·흑색종의 고환 전이를 감별한다.  
 > * **장기 생존자 후기 합병증**: 시스플라틴 기반 화학요법 후 고혈압, 고지혈증, 대사증후군, 심혈관 사건 및 이차성 고형암 위험이 증가하며, 고용량 누적 **에토포시드(etoposide)** 투여 환자에서는 치료 종료 **2–3년 후 염색체 11q23 전좌와 연관된 치료 관련 급성 골수성 백혈병(AML)이 1–2%에서 발생**한다.
 
-## ---
-
 **1. 제85장 부인과 악성종양: 난소암, 자궁경부암, 자궁내막암, 임신성 융모질환 (Chapter 85: Gynecologic Malignancies) (p.637–643)**
 
 ### **1.1 난소암(Ovarian Cancer): 나팔관 기원설, *BRCA1/2*, 병기·생존율(Table 85-1) 및 치료(Figure 85-1) (p.637–640)**
@@ -50,8 +48,6 @@ type: 의학원서_요약노트
 > * **임신성 융모성 종양 (Gestational Trophoblastic Neoplasia: 완전[46,XX 부계 유래, 15–20% 침윤성]·부분[삼배체] 포상기태 및 융모막암종) (p.642–643)**:  
 > * 흡입 소파술 후 혈청 $베타$**-hCG**를 추적하며, 저위험 질환은 **메토트렉세이트 또는 악티노마이신 D 단일요법**으로, 고위험 전이성 질환은 **EMA-CO (에토포시드, 메토트렉세이트, 악티노마이신 D, 시클로포스파미드, 빈크리스틴)** 다제 화학요법으로 거의 **100% 완치**된다.
 
-## ---
-
 **2. 제86장 신경계의 원발성 및 전이성 종양 (Chapter 86: Primary and Metastatic Tumors of the Nervous System) (p.643–653)**
 
 ### **2.1 뇌종양의 임상 관리와 원발성 악성 뇌종양: 신경교종, 원발성 CNS 림프종, 수모세포종 (Figure 86-1 ~ 86-4) (p.643–648)**
@@ -59,10 +55,10 @@ type: 의학원서_요약노트
 > * **임상 증상(Table 86-1), 대증 치료 및 유전성 증후군(Table 86-2) (p.643–645)**:  
 > * 종양 주위 혈관성 뇌부종에는 혈액-뇌 장벽을 안정화하고 무기질코르티코이드 작용이 적은 **덱사메타손(dexamethasone 12–16 mg/일)**을 투여한다. 발작이 있었던 환자에서는 간 효소를 유도하지 않는 항경련제(**레베티라세탐, 토피라메이트, 라모트리진, 발프로산, 라코사미드**)를 투여하되, **발작 병력이 없는 뇌종양 환자에서 예방적 항경련제 투여는 효과가 없으므로 권장되지 않는다**.  
 > * **미만성 신경교종(Diffuse Gliomas: 성상세포종, 교모세포종, 희소돌기아교세포종)의 2016 WHO 분자 분류와 치료 (p.644–647, Figure 86-1 ~ 86-3)**:  
-> * **저등급(WHO II등급) 및 역형성(III등급) 성상세포종 (Figure 86-1)**: 대다수가 ***IDH*** **변이**(2-하이드록시글루타르산 생성 → CpG 섬 과메틸화 유도, 야생형보다 예후가 훨씬 양호함)와 *TP53*, *ATRX* 변이를 가진다. 최대 안전 절제술 후 고위험 II등급(40세 초과 또는 불완전 절제) 및 III등급에서는 **방사선 치료 + 보조 화학요법(PCV [프로카르바진, 로무스틴(CCNU), 빈크리스틴] 또는 테모졸로미드)**이 방사선 단독보다 생존기간을 현저히 연장한다.  
-> * **교모세포종 (Glioblastoma, WHO IV등급, Figure 86-2, Figure 86-3)**: 성인에서 가장 흔하고 치명적인 원발성 악성 뇌종양(연간 ~10,000명)으로, 90% 이상이 고령에서 새로 발생하는 일차성 교모세포종(***IDH*** **야생형**, *EGFR* 증폭, *PTEN* 소실, *CDKN2A* 결실)이다. 조영증강 MRI상 중심부 괴사를 둘러싼 고리 모양 조영증강(ring-enhancing mass, Figure 86-2)을 보인다.  
+> * **저등급(WHO II등급) 및 역형성(III등급) 성상세포종 (Figure 86-1)**: 대다수가 **IDH** **변이**(2-하이드록시글루타르산 생성 → CpG 섬 과메틸화 유도, 야생형보다 예후가 훨씬 양호함)와 *TP53*, *ATRX* 변이를 가진다. 최대 안전 절제술 후 고위험 II등급(40세 초과 또는 불완전 절제) 및 III등급에서는 **방사선 치료 + 보조 화학요법(PCV [프로카르바진, 로무스틴(CCNU), 빈크리스틴] 또는 테모졸로미드)**이 방사선 단독보다 생존기간을 현저히 연장한다.  
+> * **교모세포종 (Glioblastoma, WHO IV등급, Figure 86-2, Figure 86-3)**: 성인에서 가장 흔하고 치명적인 원발성 악성 뇌종양(연간 ~10,000명)으로, 90% 이상이 고령에서 새로 발생하는 일차성 교모세포종(**IDH** **야생형**, *EGFR* 증폭, *PTEN* 소실, *CDKN2A* 결실)이다. 조영증강 MRI상 중심부 괴사를 둘러싼 고리 모양 조영증강(ring-enhancing mass, Figure 86-2)을 보인다.  
   * **표준 치료**: 최대 안전 외과적 절제술 후 **국소 방사선 치료(60 Gy / 30분할) + 동시 일일 테모졸로미드(75 mg/m²/일) 투여에 이은 보조 테모졸로미드(150–200 mg/m² 매 28일 중 5일간, 6–12주기)** 및 교번 전기장 치료(**종양치료장[교번 전기장]**)가 중앙 생존기간을 15–21개월로 연장하며, 종양 내 DNA 복구 효소인 ${O}^{6}$**-메틸구아닌-DNA 메틸전이효소(*MGMT*) 프로모터가 메틸화(침묵)된 환자**에서 테모졸로미드 치료 성적이 훨씬 우수하다. 재발 시에는 항VEGF 항체 **베바시주맙(bevacizumab, Figure 86-3)**이 뇌부종과 방사선 괴사를 줄이고 무진행생존기간을 연장한다.  
-> * **희소돌기아교세포종 (Oligodendroglioma, WHO II등급 및 역형성 III등급)**: ***IDH*** **변이와 염색체 1p/19q 공동결실(codeletion)**로 정의되며 신경교종 중 화학요법과 방사선에 가장 민감하다(**방사선 치료 + PCV 화학요법** 병합 시 II등급은 중앙 생존 >15년, III등급은 >10년 달성).  
+> * **희소돌기아교세포종 (Oligodendroglioma, WHO II등급 및 역형성 III등급)**: **IDH** **변이와 염색체 1p/19q 공동결실(codeletion)**로 정의되며 신경교종 중 화학요법과 방사선에 가장 민감하다(**방사선 치료 + PCV 화학요법** 병합 시 II등급은 중앙 생존 >15년, III등급은 >10년 달성).  
 > * **상의세포종(Ependymoma: 소아 제4뇌실[점액유두상 아형은 성인 요천추 사상체] 호발, 외과적 완전 절제 및 국소 방사선 치료)**, 모양세포성 성상세포종(pilocytic astrocytoma, WHO I등급, 소아 소뇌 호발, *BRAF* 융합/변이, 수술로 완치).
 
 **Figure 86-1, p.645**: Fluid-attenuated inversion recovery (FLAIR) MRI of a left frontal low-grade astrocytoma. This lesion did not enhance. — 조영증강되지 않는 좌측 전두엽 저등급 성상세포종의 FLAIR MRI 영상. ![[Harrison_V1_Ch86_Fig1.png]]  
@@ -78,7 +74,7 @@ type: 의학원서_요약노트
 ### **2.2 양성 두개내 종양(수막종, 신경초종: Figure 86-5, 86-6)과 뇌·연수막·경막외 전이 및 치료 신경독성 (Figure 86-7 ~ 86-9, Table 86-4) (p.648–653)**
 
 > * **수막종(Meningioma, Figure 86-5) 및 전정신경초종(Vestibular Schwannoma, Figure 86-6) (p.648–649)**:  
-> * **수막종**: 가장 흔한 원발성 뇌종양(전체의 ~32%, 여성 우세, 프로게스테론 수용체 발현, 염색체 22q의 ***NF2*** **[merlin] 변이**)으로 경막 꼬리(dural tail)를 동반한 균일 조영증강 축외 종괴를 형성하며(Figure 86-5), 무증상 소형 종양은 경과 관찰하고 유증상 종양은 수술 또는 정위방사선수술(SRS)로 치료한다.  
+> * **수막종**: 가장 흔한 원발성 뇌종양(전체의 ~32%, 여성 우세, 프로게스테론 수용체 발현, 염색체 22q의 **NF2** **[merlin] 변이**)으로 경막 꼬리(dural tail)를 동반한 균일 조영증강 축외 종괴를 형성하며(Figure 86-5), 무증상 소형 종양은 경과 관찰하고 유증상 종양은 수술 또는 정위방사선수술(SRS)로 치료한다.  
 > * **전정신경초종(청신경종, Figure 86-6)**: 제8뇌신경 전정 분지에서 기원하여 진행성 일측 감각신경성 난청을 일으키며, **양측성 전정신경초종은 염색체 22q12 *NF2* 유전자 변이에 의한 제2형 신경섬유종증(NF2)의 진단적 특징**이다(NF2 연관 신경초종에서 베바시주맙이 종양 크기 감소와 청력 개선 유도).
 
 **Figure 86-5, p.648**: Postgadolinium T1 MRI demonstrating multiple meningiomas along the falx and left parietal cortex. — 대뇌낫(falx)과 좌측 두정엽 피질을 따라 발생한 다발성 수막종의 가돌리늄 조영증강 T1 MRI. ![[Harrison_V1_Ch86_Fig5.png]]  
@@ -94,8 +90,6 @@ type: 의학원서_요약노트
 **Figure 86-8, p.651**: Postgadolinium MRI images of extensive leptomeningeal metastases from breast cancer. Nodules along the dorsal surface of the spinal cord (A) and cauda equina (B) are seen. — 유방암 환자에서 척수 등쪽 표면(A)과 마미(cauda equina, B)를 따라 다발성 조영증강 결절을 보이는 광범위한 연수막 전이 MRI. ![[Harrison_V1_Ch86_Fig8.png]]  
 **Figure 86-9, p.652**: Postgadolinium T1 MRI showing circumferential epidural tumor around the thoracic spinal cord from esophageal cancer. — 식도암 환자에서 흉수를 둘러싸며 압박하는 환상 경막외 전이 종양의 가돌리늄 T1 MRI. ![[Harrison_V1_Ch86_Fig9.png]]  
 **Table 86-4, p.653**: Table 86-4 Neurologic Signs Caused by Agents Commonly Used in Patients with Cancer — 암 환자에 흔히 사용되는 항암제에 의한 신경학적 독성(급성 뇌병증, 만성 뇌병증/치매, 시력 상실, 소뇌 실조, 경련, 척수병증, 말초신경병증) 원인 약물 분류표. ![[Harrison_V1_Ch86_Tab4.png]]
-
-## ---
 
 **3. 제87장 연부조직 및 골 육종과 골전이 (Chapter 87: Soft Tissue and Bone Sarcomas and Bone Metastases) (p.653–657)**
 
@@ -115,8 +109,6 @@ type: 의학원서_요약노트
 > * **골전이(Bone Metastases) (p.657)**: 전립선암·유방암·폐암(골전이의 80% 차지) 및 신세포암·갑상선암·다발골수종에서 흔하며, 골용해성·골형성성 병변에 대해 파골세포 억제제(**파미드로네이트, 졸레드론산, 데노수맙**), 국소 방사선 치료, 내고정술, 방사성의약품(스트론튬-89, 사마륨-153, 라듐-223)으로 치료한다.
 
 **Table 87-2, p.656**: Table 87-2 Staging System for Bone Sarcomas — 골 육종의 원발 종양 크기(T1 ≤8 cm, T2 >8 cm, T3 불연속 골 병변), 조직학적 등급(G1–G4) 및 전이(M1a 폐 전이, M1b 기타 원격 전이)에 따른 병기 체계. ![[Harrison_V1_Ch87_Tab2.png]]
-
-## ---
 
 **4. 제88장 원발부위 불명암 (Chapter 88: Carcinoma of Unknown Primary, CUP) (p.657–662)**
 
@@ -138,8 +130,6 @@ type: 의학원서_요약노트
 
 **Figure 88-2, p.660**: Treatment algorithm for adenocarcinoma and poorly differentiated adenocarcinoma of unknown primary (CUP). — 원발부위 불명 선암 및 저분화 선암 환자의 임상 발현 부위(간 전이, 여성 액와 림프절, 여성 복막 암종증, 남성 조골성 골전이, 단일 전이 병소, 파종성 전이)에 따른 맞춤 치료 알고리즘. ![[Harrison_V1_Ch88_Fig2.png]]  
 **Figure 88-3, p.661**: Treatment algorithm for squamous cell carcinoma of unknown primary (CUP). — 원발부위 불명 편평세포암 환자의 침범 부위(상·중부 경부 림프절, 하부 경부/쇄골상부 림프절, 서혜부 림프절, 기타 부위)에 따른 진단 및 근치적 치료 알고리즘. ![[Harrison_V1_Ch88_Fig3.png]]
-
-## ---
 
 **5. 제89장 내분비 및 혈액학적 부종양 증후군 (Chapter 89: Paraneoplastic Syndromes: Endocrinologic/Hematologic) (p.662–667)**
 

@@ -425,7 +425,7 @@ graph TD
 - **원주종 (Cylindroma)**:
   - 두피와 안면에 호발하는 매끈한 고무 같은 결절. 다발성으로 발생하여 두피 전체를 모자처럼 뒤덮으면 **터번 종양 (Turban tumor)**이라 칭함.
   - 조직학: 진피 내에 상피 세포 섬들이 마치 **퍼즐 조각(Jigsaw puzzle)**이나 모자이크처럼 맞물려 있으며, 주변부를 두꺼운 호산성 초자양 기저막대(Hyaline basement membrane)가 둘러싸고 있음.
-- **브룩-스피글러 증후군 (Brooke-Spiegler Syndrome)**: 상염색체 우성. 종양억제유전자 ***CYLD*** 돌연변이로 다발성 원주종, 나선선종, 모낭상피종(Trichoepithelioma)이 동반 발생함.
+- **브룩-스피글러 증후군 (Brooke-Spiegler Syndrome)**: 상염색체 우성. 종양억제유전자 **CYLD** 돌연변이로 다발성 원주종, 나선선종, 모낭상피종(Trichoepithelioma)이 동반 발생함.
 
 ---
 
@@ -463,8 +463,8 @@ graph TD
 
 #### 2) 흑자증 동반 유전 증후군 감별
 
-- **포이츠-제거스 증후군 (Peutz-Jeghers Syndrome)**: 상염색체 우성, ***STK11/LKB1*** 종양억제유전자 돌연변이. **입술(Vermilion border), 구강 점막, 손발가락의 다발성 흑자** + 위장관 과오종성 폴립(장중첩증 유발) + 소화기암/유방암/부인과암 위험 급증.
-- **레오파드 증후군 (LEOPARD / Noonan with Multiple Lentigines)**: ***PTPN11*** 돌연변이. **L**entigines, **E**CG 이상, **O**cular hypertelorism, **P**ulmonary stenosis, **A**bnormal genitalia, **R**etardation of growth, **D**eafness (난청).
+- **포이츠-제거스 증후군 (Peutz-Jeghers Syndrome)**: 상염색체 우성, **STK11/LKB1** 종양억제유전자 돌연변이. **입술(Vermilion border), 구강 점막, 손발가락의 다발성 흑자** + 위장관 과오종성 폴립(장중첩증 유발) + 소화기암/유방암/부인과암 위험 급증.
+- **레오파드 증후군 (LEOPARD / Noonan with Multiple Lentigines)**: **PTPN11** 돌연변이. **L**entigines, **E**CG 이상, **O**cular hypertelorism, **P**ulmonary stenosis, **A**bnormal genitalia, **R**etardation of growth, **D**eafness (난청).
 
 ---
 
@@ -489,7 +489,7 @@ graph TD
 
 #### 1) 블라슈코 선(Lines of Blaschko)을 따르는 과오종
 
-- **발생 기전**: 배아 발달 초기 표피 각질형성세포의 ***FGFR3*** 또는 ***PIK3CA*** 유전자 체세포 돌연변이에 의한 **모자이시즘 (Somatic mosaicism)**.
+- **발생 기전**: 배아 발달 초기 표피 각질형성세포의 **FGFR3** 또는 **PIK3CA** 유전자 체세포 돌연변이에 의한 **모자이시즘 (Somatic mosaicism)**.
 - **임상 양상**: 출생 시 또는 유아기에 나타나며, 체간이나 사지에서 배아 세포 이동 경로인 **블라슈코 선(Lines of Blaschko)**을 따라 선상(Linear)으로 배열하는 과각화성, 우췌상(사마귀 모양 Verrucous) 갈색 구진 및 판.
 - **병리조직학**: 악성 세포 없이 기저층 상부의 현저한 **과각화증(Hyperkeratosis)**, **극세포증(Acanthosis)**, **유두종증(Papillomatosis)**.
 - **표피 모반 증후군 (Epidermal Nevus Syndrome)**: 광범위한 표피 모반 환자에서 동측 중추신경계 이상(지적장애, 뇌전증), 골격계 기형, 안과적 이상이 동반될 수 있어 전신 평가 필수.
@@ -507,7 +507,7 @@ graph TD
   - 중심부의 변형된 모낭 누두부에서 주변 진피 기질로 뻗어 나가는 **가느다란 상피 세포 삭(Anastomosing epithelial cords)**.
   - 상피 삭을 감싸는 **풍부한 점액성 섬유성 간질(Fibrous stroma)** 증식.
 - **Birt-Hogg-Dube (BHD) 증후군**:
-  - 상염색체 우성 유전, 17번 염색체의 폴리쿨린(Folliculin, ***FLCN***) 유전자 돌연변이.
+  - 상염색체 우성 유전, 17번 염색체의 폴리쿨린(Folliculin, **FLCN**) 유전자 돌연변이.
   - **3대 임상 징후**:
     1. 다발성 모낭섬유종, 모반모종(Trichodiscoma), 연성섬유종.
     2. 폐포(Lung cysts) 및 **재발성 자발성 기흉 (Spontaneous pneumothorax)**.
@@ -648,7 +648,7 @@ graph TD
   - 핵 모양: 끝이 뭉툭한 **시가 모양 핵 (Cigar-shaped / Blunt-ended nuclei)**.
   - Masson trichrome 염색 시 붉은색(근육), Desmin/SMA 면역염색 양성.
 - **유전성 평활근종증 및 신세포암 증후군 (HLRCC / Reed Syndrome)**:
-  - 상염색체 우성, 푸마레이트 수화효소(Fumarate hydratase, ***FH***) 유전자 변이.
+  - 상염색체 우성, 푸마레이트 수화효소(Fumarate hydratase, **FH**) 유전자 변이.
   - **다발성 피부 평활근종 + 조기 다발성 자궁 근종 + 공격적인 제2형 유두상 신세포암 (Type 2 Papillary RCC)** 동반.
   - 다발성 피부 평활근종 환자 발견 시 반드시 환자 본인 및 가계도 전체에 대해 유전자 검사 및 신장 MRI 선별 검사를 시행해야 함.
 

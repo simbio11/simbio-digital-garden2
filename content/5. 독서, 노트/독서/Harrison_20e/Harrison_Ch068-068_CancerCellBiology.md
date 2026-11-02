@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch68-68: Cancer Cell Biology" aliases: - "해리슨 20판 Ch68" - "Cancer Cell Biology" tags: - Harrison20e - InternalMedicine - Part4 - Ch68 - Oncology - CancerBiology - SignalTransduction - Epigenetics - TumorMetabolism - Angiogenesis - Metastasis - TumorImmunology source_pdf: "https\://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk" source_pages: "pp. 461–479" created: "2026-10-22"
 
-# ---
-
 **📑 [Harrison 20e] Ch68: Cancer Cell Biology**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [해리슨 내과학 1권-1.pdf](https://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk) (분할 PDF: Harrison20e_V1_0329-0479.pdf, pp. 461–479) - **범위 경계 안내**: 본 범위(pp. 461–479)에는 **Ch 68** *Cancer Cell Biology*의 전체 핵심 본문(악성 세포의 표현형 특성, 세포주기 검문점과 p53/pRB, 성장인자 신호전달과 표적 항암제, DNA 복구 결함과 합성 치사[PARP 억제제], 암 후성유전학, 세포자멸사·자가포식 제어, 침윤과 전이 생물학, 암 줄기세포, 종양 대사 재프로그래밍[Warburg 효과], 종양 혈관신생 및 혈관 정상화, 종양-숙주 면역억제 상호작용)이 수록되어 있으며 문장 말미가 p.480으로 이어진다.
@@ -35,8 +33,6 @@ title: "Ch68-68: Cancer Cell Biology" aliases: - "해리슨 20판 Ch68" - "Cance
 
 **Figure 68-1, p.462**: Induction of p53 by the DNA damage and oncogene checkpoints. In response to noxious stimuli, p53 and mdm2 are phosphorylated — DNA 손상(ATM/ATR, CHK1/2) 및 암유전자 활성화($p1{4}^{ARF}$)에 의한 MDM2 억제와 p53 안정화, 그리고 하류 세포주기 정지($p21$), DNA 복구 및 세포자멸사 유도 기전. ![[Harrison_V1_Ch68_Fig1.png]]
 
-## ---
-
 **2. 암세포의 신호전달 표적 치료, 합성 치사(PARP 억제제) 및 후성유전학 (pp. 463–469) (p.463–469)**
 
 ### **2.1 수용체 타이로신 키나제(RTK) 및 세포내 신호전달 표적 항암 요법 (Figure 68-2) (p.463–466)**
@@ -54,15 +50,13 @@ title: "Ch68-68: Cancer Cell Biology" aliases: - "해리슨 20판 Ch68" - "Cance
 
 > * **합성 치사(Synthetic Lethality)와 PARP 억제제 (p.466–467, Figure 68-3)**:  
 > * 두 유전자/경로 중 어느 하나만 기능을 잃었을 때에는 세포가 생존할 수 있으나 두 경로가 동시에 차단되면 세포가 사멸하는 현상을 **합성 치사(Synthetic lethality)**라 한다.  
-> * 단일가닥 DNA 절단(SSB)의 염기절제복구(BER)에 필수적인 **PARP** 를 억제제(**올라파립[olaparib], 루카파립[rucaparib]**)로 차단하면 DNA 복제 과정에서 이중가닥 절단(DSB)이 생성된다. 정상 세포는 **BRCA1/BRCA2** 매개 상동재조합(Homologous recombination)으로 이를 복구하여 생존하는 반면, ***BRCA1*** **또는 *BRCA2*가 결손된 유방암·난소암 세포**는 상동재조합이 불가능하여 치명적인 염색체 불안정성과 세포사멸에 빠진다(Figure 68-3).  
+> * 단일가닥 DNA 절단(SSB)의 염기절제복구(BER)에 필수적인 **PARP** 를 억제제(**올라파립[olaparib], 루카파립[rucaparib]**)로 차단하면 DNA 복제 과정에서 이중가닥 절단(DSB)이 생성된다. 정상 세포는 **BRCA1/BRCA2** 매개 상동재조합(Homologous recombination)으로 이를 복구하여 생존하는 반면, **BRCA1** **또는 *BRCA2*가 결손된 유방암·난소암 세포**는 상동재조합이 불가능하여 치명적인 염색체 불안정성과 세포사멸에 빠진다(Figure 68-3).  
 > * **암 후성유전학(Epigenetic Regulation)과 DNMT·HDAC 억제제 (p.467–469, Figure 68-4)**:  
 > * 암세포에서는 DNA 메틸전달효소(**DNMT**)에 의한 종양억제유전자 프로모터 CpG 섬의 과메틸화와 히스톤 탈아세틸화효소(**HDAC**)에 의한 히스톤 꼬리 탈아세틸화가 일어나 염색질이 응축(이질염색질화)되고 종양억제유전자 전사가 침묵된다(Figure 68-4).  
 > * 이를 역전시키기 위해 DNA 메틸화 억제제인 **5-아자시티딘, 5-aza-2'-deoxycytidine (데시타빈)**이 골수이형성증후군(MDS)과 백혈병에, HDAC 억제제인 **보리노스타트(vorinostat), 로미뎁신(romidepsin), 벨리노스타트(belinostat), 파노비노스타트(panobinostat)**가 피부·말초 T세포 림프종 및 다발골수종에 사용된다.
 
 **Figure 68-3, p.467**: Synthetic lethality. Genes are said to have a synthetic lethal relationship when mutation of either gene alone is tolerated, but — 정상 세포(*BRCA1* 정상)와 종양 세포(*BRCA1* 돌연변이)에서 PARP 억제제 투여 시 종양 세포만 선택적으로 사멸하는 합성 치사(Synthetic lethality) 기전. ![[Harrison_V1_Ch68_Fig3.png]]  
 **Figure 68-4, p.468**: Epigenetic regulation of gene expression in cancer cells. Tumor-suppressor genes are often epigenetically silenced in cancer — 암세포에서 DNMT에 의한 CpG 섬 메틸화 및 HDAC에 의한 히스톤 탈아세틸화로 응축된 염색질을 DNMT 억제제(5-aza-2'-deoxycytidine)와 HDAC 억제제(vorinostat)로 재활성화하는 후성유전 치료 모식도. ![[Harrison_V1_Ch68_Fig4.png]]
-
-## ---
 
 **3. 세포자멸사·침윤·전이·암 줄기세포 및 종양 대사·혈관신생·면역학 (pp. 469–479) (p.469–479)**
 

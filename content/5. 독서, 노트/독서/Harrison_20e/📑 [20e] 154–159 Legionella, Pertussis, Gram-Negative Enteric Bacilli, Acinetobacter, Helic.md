@@ -46,6 +46,8 @@ aliases:
 ## 1. 제154장 레지오넬라 감염 (Chapter 154: *Legionella* Infections) (p.1137–1141)
 
 ### 1.1 수계 전파 역학, 폐포 대식세포 내 증식, 임상 단서(Table 154-1, Figure 154-1, 154-2) 및 진단·치료 (p.1137–1141)  
+
+![[Harrison_V1_Ch154_Tab1.png]]
 - **미생물학, 수계 전파 및 병태생리 (p.1137–1138)**:  
   - 호기성 그람음성간균인 ***Legionella pneumophila*(인체 질환의 80–90% 차지, 특히 혈청군 1 [serogroup 1]이 80% 이상)**는 담수 환경의 자유생활 아메바 내부 및 인공 급수 시스템(병원·호텔 온수 배관, 냉각탑, 가습기, 월풀 욕조)의 생물막에서 증식하며, 에어로졸 흡입이나 미세흡인(microaspiration)으로 전파된다(**사람 간 직접 전파는 일어나지 않음**; *Legionella longbeachae*는 호주·뉴질랜드에서 화분용 배양토[potting soil] 노출로 전파됨).  
   - 섬모 운동을 마비시켜 흡연자·만성 폐질환자·세포매개 면역저하자(글루코코르티코이드, 항-TNF-$\alpha$ 투여, 장기이식)의 폐포에 도달한 뒤, 폐포 대식세포의 식포(phagosome) 내에 들어가 리소좀 융합을 차단하고 세포 내에서 증식한다.  
@@ -103,7 +105,7 @@ aliases:
 - **고전적 대 고독성 *Klebsiella pneumoniae*(hvKP: Figure 156-1) 및 기타 장내세균 (p.1152–1157)**:  
   - **고전적 *K. pneumoniae*(cKP)**: 알코올중독자·당뇨병 환자의 지역사회 폐렴(우상엽 팽륭 균열 및 건포도 젤리 객담["currant-jelly sputum"])과 카바페넴아제(**KPC, NDM, OXA-48**)를 보유한 다제내성 원내감염을 일으킨다.  
   - **고독성 *K. pneumoniae*(hvKP, Figure 156-1)**: 아시아·태평양 지역에서 시작되어 전 세계로 퍼진 과점액성(hypermucoviscous, 배지 집락을 루프로 당길 때 `>5 mm` 끈 형성[string test 양성], 피막형 K1/K2) 변이주로, **기저질환이 없는 건강한 젊은 성인에서도 지역사회획득 화농성 간농양과 안구내염·수막염·뇌농양·폐농양·괴사성 근막염 등 치명적인 전이성 감염**을 일으킨다(Figure 156-1).  
-  - ***Proteus mirabilis***: 한천배지 유주 현상(swarming motility)과 강력한 **요소분해효소(urease)** 생성으로 소변을 알칼리화시켜 암모늄-마그네슘-인산염(**스투루바이트[struvite] / 녹각석[staghorn calculi]**) 결석을 형성한다(인돌 음성인 *P. mirabilis*는 암피실린·세팔로스포린에 감수성).  
+  - **Proteus mirabilis**: 한천배지 유주 현상(swarming motility)과 강력한 **요소분해효소(urease)** 생성으로 소변을 알칼리화시켜 암모늄-마그네슘-인산염(**스투루바이트[struvite] / 녹각석[staghorn calculi]**) 결석을 형성한다(인돌 음성인 *P. mirabilis*는 암피실린·세팔로스포린에 감수성).  
   - ***Enterobacter*, *Serratia marcescens*(적색 색소 prodigiosin 생성), *Citrobacter freundii*, *Morganella morganii*, *Providencia***: 3세대 세팔로스포린 치료 도중 염색체성 **유도성 AmpC $\beta$-락탐아제** 탈억제 돌연변이가 선택되어 치료 실패를 일으킬 수 있으므로 중증 감염에서는 3세대 세팔로스포린을 피하고 **세페핌(cefepime), 카바페넴, 또는 플루오로퀴놀론**으로 치료한다(콜리스틴에 내인성 내성을 가지는 균주: ***Proteus, Providencia, Morganella, Serratia***).
 
 ![[Harrison_V1_Ch156_Fig1.png]]
@@ -131,7 +133,7 @@ aliases:
 
 > [그림 10: Figure 158-1, p.1163: `Schematic of the relationships between colonization with Helicobacter pylori and diseases of the upper gastrointestinal tract.` — *Helicobacter pylori* 집락화와 상부 위장관 질환(전정부 우세 위염 $\rightarrow$ 위산 과다 $\rightarrow$ 십이지장 궤양 대 체부 우세 위축성 범위염 $\rightarrow$ 위산 저하·장상피화생 $\rightarrow$ 위궤양·위암, 및 위 MALT 림프종)의 병태생리적 관계 모식도. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 158-1, p.1163 (원서 도판)]
 - **진단 검사 및 제균 치료 요법 (p.1164–1166, Figure 158-2, Table 158-2)**:  
-  - **진단 및 완치 확인**: 내시경 조직검사(신속 요소분해효소 검사, 조직학, 배양)와 비침습적 검사인 **요소호기검사(\$^{13}\\text{C}/^{14}\\text{C}\$-UBT)**, **대변 항원 검사**, 혈청 항체 검사가 있다. 혈청 항체는 제균 후에도 수년간 양성이므로 **제균 치료 성공 여부 판정(치료 종료 후 최소 4주 뒤 시행)에는 반드시 요소호기검사(UBT)나 대변 항원 검사를 사용**해야 하며, 위음성을 막기 위해 검사 전 **최소 2주간 프로톤펌프억제제(PPI)를, 최소 4주간 항생제와 비스무트를 중단**해야 한다(Figure 158-2).  
+  - **진단 및 완치 확인**: 내시경 조직검사(신속 요소분해효소 검사, 조직학, 배양)와 비침습적 검사인 **요소호기검사($^{13}\text{C}/^{14}\text{C}$-UBT)**, **대변 항원 검사**, 혈청 항체 검사가 있다. 혈청 항체는 제균 후에도 수년간 양성이므로 **제균 치료 성공 여부 판정(치료 종료 후 최소 4주 뒤 시행)에는 반드시 요소호기검사(UBT)나 대변 항원 검사를 사용**해야 하며, 위음성을 막기 위해 검사 전 **최소 2주간 프로톤펌프억제제(PPI)를, 최소 4주간 항생제와 비스무트를 중단**해야 한다(Figure 158-2).  
   - **제균 치료 요법(Table 158-2)**: 클라리스로마이신 내성이 `\<15%`인 지역에서는 **PPI + 클라리스로마이신(`500 mg bid`) + 아목시실린(`1 g bid` 또는 메트로니다졸 `500 mg bid`) 14일 3제 요법**을 쓸 수 있으나, 내성 증가로 인해 많은 지역에서 **비스무트 포함 4제 요법(PPI + 비스무트 + 테트라사이클린 + 메트로니다졸 10–14일)**이나 **동시 4제 요법(PPI + 아목시실린 + 클라리스로마이신 + 메트로니다졸 10–14일)**이 1차 또는 구제 요법으로 선호된다(Table 158-2).
 
 ![[Harrison_V1_Ch158_Fig2.png]]
@@ -141,6 +143,8 @@ aliases:
 
 > [그림 12: Table 158-2, p.1165: `Table 158-2 Treatment Regimens for Helicobacter pylori Infection` — *Helicobacter pylori* 제균을 위한 표준 3제 요법, 비스무트 4제 요법, 동시/순차 요법 및 레보플록사신·리파부틴 기반 구제 요법의 약물 조합과 용량·기간표. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Table 158-2, p.1165 (원서 도판)]
 ### 4.2 녹농균(*Pseudomonas aeruginosa*: Figure 159-1, Table 159-1), *Burkholderia cepacia/pseudomallei*(유비저) 및 *Stenotrophomonas maltophilia* (p.1166–1172)  
+
+![[Harrison_V1_Ch159_Tab1.png]]
 - **녹농균 (*Pseudomonas aeruginosa*)의 발병 기전, 임상 증후군(Figure 159-1) 및 치료(Table 159-1) (p.1166–1170)**:  
   - 제III형 분비계 독소(ExoU, ExoS, ExoT, ExoY)와 단백질 합성을 차단하는 **외독소 A (EF-2 ADP-리보실화)** 및 알긴산 점액 생물막을 생성한다.  
   - **주요 임상 증후군**: 인공호흡기 관련 폐렴(VAP), **낭성섬유증(CF) 및 기관지확장증 환자의 만성 호흡기 감염(점액형[mucoid] 균주)**, 호중구감소증 환자의 균혈증 및 특징적인 검은 괴사 피부 병변인 **괴저성 농창(ecthyma gangrenosum, Figure 159-1)**, 고령 당뇨병 환자의 **악성(괴사성) 외이도염**, 콘택트렌즈 사용자의 각막염, 온수 욕조 모낭염, 운동화를 신고 못에 찔린 후 발생하는 발바닥 골수염, 중증 화상 창상 패혈증.  
@@ -155,7 +159,7 @@ aliases:
 - ***Burkholderia cepacia* complex, 유비저(*Burkholderia pseudomallei*, Melioidosis) 및 *Stenotrophomonas maltophilia* (p.1170–1172, Table 159-1)**:  
   1. ***Burkholderia cepacia* complex**: **낭성섬유증(CF)** 및 **만성육아종질환(CGD)** 환자에서 급격한 호흡부전과 균혈증을 일으키는 치명적인 **"세파시아 증후군(cepacia syndrome)"**을 유발하며 아미노글리코시드와 폴리믹신에 내인성 내성을 보인다(**TMP-SMX, 메로페넴, 세프타지딤**으로 치료).  
   2. **유비저 (Melioidosis — *Burkholderia pseudomallei*)**: **동남아시아(태국 등)와 호주 북부**의 토양·지표수에 상재하는 그람음성간균(양극성 염색으로 안전핀["safety-pin"] 외양, 생물테러 가능 병원체)으로, 당뇨병·만성 신질환·알코올중독자에서 피부 접종·흡입으로 감염되어 급성 전격성 패혈증, 폐결핵과 구별하기 어려운 만성 상엽 공동성 폐렴, 다발성 내장 농양(간, 비장, 전립선), 또는 수십 년 잠복 후 재활성화를 일으킨다(아미노글리코시드와 폴리믹신에 내성). 치료는 **최소 2주간의 집중 정주 요법(세프타지딤 `2 g IV q6–8h` 또는 메로페넴 `1 g IV q8h`)에 이어 재발 방지를 위한 최소 3–6개월간의 경구 박멸 요법(TMP-SMX)**으로 구성된다(Table 159-1; 마비저[glanders] 원인균인 *Burkholderia mallei*도 동일하게 치료).  
-  3. ***Stenotrophomonas maltophilia***: 광범위 항생제(특히 카바페넴) 투여 중환자에서 중심정맥관 균혈증과 원내 폐렴을 일으키는 기회감염균이다. 염색체성 L1 메탈로-$\beta$-락탐아제와 L2 세린-$\beta$-락탐아제를 보유하여 **모든 카바페넴을 포함한 대부분의 $\beta$-락탐과 아미노글리코시드에 내인성 내성**을 가지므로, **1차 선택 치료제는 고용량 트리메토프림-설파메톡사졸(TMP-SMX, TMP 기준 `15 mg/kg/일` IV/PO)**이다(대안은 레보플록사신, 티카르실린/클라불란산, 티게사이클린, Table 159-1).
+  3. **Stenotrophomonas maltophilia**: 광범위 항생제(특히 카바페넴) 투여 중환자에서 중심정맥관 균혈증과 원내 폐렴을 일으키는 기회감염균이다. 염색체성 L1 메탈로-$\beta$-락탐아제와 L2 세린-$\beta$-락탐아제를 보유하여 **모든 카바페넴을 포함한 대부분의 $\beta$-락탐과 아미노글리코시드에 내인성 내성**을 가지므로, **1차 선택 치료제는 고용량 트리메토프림-설파메톡사졸(TMP-SMX, TMP 기준 `15 mg/kg/일` IV/PO)**이다(대안은 레보플록사신, 티카르실린/클라불란산, 티게사이클린, Table 159-1).
 
 이어짐: pp.1173–
 

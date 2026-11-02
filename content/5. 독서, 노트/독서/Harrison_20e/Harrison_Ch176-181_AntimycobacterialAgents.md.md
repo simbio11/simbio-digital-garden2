@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponematoses, Leptospirosis, Relapsing Fever, and Lyme Borreliosis" aliases: - "해리슨 20판 Ch176-181" - "Antimycobacterial Agents" - "Syphilis" - "Endemic Treponematoses" - "Leptospirosis" - "Relapsing Fever" - "Lyme Borreliosis" tags: - Harrison20e - InternalMedicine - Part5 - Ch176-181 - InfectiousDiseases - AntimycobacterialAgents - Syphilis - Treponema - Leptospirosis - RelapsingFever - LymeDisease source_pdf: "https\://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a" source_pages: "pp. 1270–1302" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 175(후반)–181: Antimycobacterial Agents, Syphilis, Endemic Treponematoses, Leptospirosis, Relapsing Fever, and Lyme Borreliosis**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_1239-1392.pdf](https://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a) (pp. 1270–1302, 해리슨 내과학 1권-3.pdf) - **범위 경계 안내**: p. 1270 상단에는 직전 범위(pp. 1266–1269)에서 이어지는 **Ch 175** *Nontuberculous Mycobacterial Infections*(비결핵 항산균 감염)의 결말부(*M. kansasii*·신속발육 항산균[*M. abscessus*]·*M. marinum* 치료, 예후 및 국제적 고려사항)가 수록되어 있으며, 이어서 **Ch 176** *Antimycobacterial Agents* (pp. 1270–1279), **Ch 177** *Syphilis* (pp. 1279–1286), **Ch 178** *Endemic Treponematoses* (pp. 1286–1289), **Ch 179** *Leptospirosis* (pp. 1290–1295), **Ch 180** *Relapsing Fever* (pp. 1295–1298), 그리고 **Ch 181** *Lyme Borreliosis*의 전반부(pp. 1298–1302, 원인균·역학·병인·임상 양상·진단·감별진단 및 치료 알고리즘까지; 고도 방실차단·만성 라임병·노출 후 예방·예후는 p. 1303으로 이어짐)가 순서대로 수록되어 있다.
@@ -23,16 +21,16 @@ title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponema
 
 ### **1.1 균종별 비결핵 항산균(NTM) 치료 및 예후 (p.1270)**
 
-> 1. ***Mycobacterium kansasii*** **폐질환 치료** (p. 1270):  
+> 1. **Mycobacterium kansasii** **폐질환 치료** (p. 1270):  
 > 2. 여러 면에서 결핵(tuberculosis)과 유사하며, **이소니아지드(isoniazid, 300 mg/d) + 리팜핀(rifampin, 600 mg/d) + 에탐부톨(ethambutol, 15 mg/kg/d)** 병합요법으로 효과적으로 치료된다.  
 > 3. 그 외 *M. kansasii*에 매우 높은 활성을 보이는 약제로는 클라리스로마이신(clarithromycin), 플루오로퀴놀론(fluoroquinolones), 아미노글리코사이드(aminoglycosides)가 있으며, 배양 음전이 최소 1년 이상 유지될 때까지 치료를 지속해야 한다(대부분 쉽게 완치됨).  
 > 4. 특히 종격동(mediastinum)에 발생하는 거대하고 심한 괴사성 *M. kansasii* 림프절병증은 **GATA2 결핍증(GATA2 deficiency)**과 강하게 연관된다.  
 > 5. **신속발육 항산균(Rapidly Growing Mycobacteria) 치료** (p. 1270):  
 > 6. **폐외 질환(Extrapulmonary disease)**: 정상 면역 숙주에서는 주로 수술·주사·외상 등 접종(inoculation)이나 카테터 감염에 의해 발생하며, 원인 병소 제거와 함께 시험관내 감수성에 근거한 **마크로라이드 + 타 약제 1종** 병합으로 대개 성공적으로 치료된다.  
-> 7. ***M. abscessus*** **폐질환**: 완치가 극도로 어렵다. 반복적인 치료 과정이 균 부하와 증상을 줄이는 데 도움이 되며, 통상 **마크로라이드**와 정주 약제(**아미카신[amikacin], 카바페넴[carbapenem], 세폭시틴[cefoxitin], 또는 티게사이클린[tigecycline]**)를 병합한다. 기타 경구 약제(감수성 및 내약성에 따라 사용)로 플루오로퀴놀론, 독시사이클린(doxycycline), 리네졸리드(linezolid)가 있다.  
+> 7. **M. abscessus** **폐질환**: 완치가 극도로 어렵다. 반복적인 치료 과정이 균 부하와 증상을 줄이는 데 도움이 되며, 통상 **마크로라이드**와 정주 약제(**아미카신[amikacin], 카바페넴[carbapenem], 세폭시틴[cefoxitin], 또는 티게사이클린[tigecycline]**)를 병합한다. 기타 경구 약제(감수성 및 내약성에 따라 사용)로 플루오로퀴놀론, 독시사이클린(doxycycline), 리네졸리드(linezolid)가 있다.  
 > 8. 리네졸리드나 에탐부톨처럼 신경독성(neurotoxicity)이 있는 약제를 장기 투여할 때는 주의가 필요하며 예방적 피리독신(pyridoxine) 투여가 제안된다.  
-> 9. ***Mycobacterium marinum*** **및 기타 NTM 치료** (p. 1270):  
-> 10. ***M. marinum***: 진단되면 항생제 반응이 매우 우수하며, **마크로라이드, 에탐부톨, 리파마이신(rifamycin)** 중 임의의 병합요법으로 비교적 쉽게 완치된다. 국소 연부조직 질환은 임상적 소실 후 1~2개월간 치료를 유지하며, 힘줄·뼈 침범 시 더 장기간 치료한다(기타 유효 약제: 설폰아마이드, TMP-SMX, 독시사이클린, 미노사이클린).  
+> 9. **Mycobacterium marinum** **및 기타 NTM 치료** (p. 1270):  
+> 10. **M. marinum**: 진단되면 항생제 반응이 매우 우수하며, **마크로라이드, 에탐부톨, 리파마이신(rifamycin)** 중 임의의 병합요법으로 비교적 쉽게 완치된다. 국소 연부조직 질환은 임상적 소실 후 1~2개월간 치료를 유지하며, 힘줄·뼈 침범 시 더 장기간 치료한다(기타 유효 약제: 설폰아마이드, TMP-SMX, 독시사이클린, 미노사이클린).  
 > 11. **기타 NTM**: 치료법이 덜 확립되어 있으나 마크로라이드와 아미노글리코사이드가 대개 효과적이다.  
 > 12. **예후(Prognosis) 및 국제적 고려사항(Global Considerations)** (p. 1270):  
 > 13. 예후는 기저 질환(예: IFN-$\gamma$/IL-12 경로 결손, 낭성 섬유증)과 밀접하게 연관되며, 중증 기저 면역결핍에서는 조혈모세포 이식(HSCT)이 권고된다.  
@@ -56,14 +54,14 @@ title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponema
 
 > 1. **활동성 결핵(Active TB)의 표준 치료 및 약제 내성별 접근** (pp. 1271–1272):  
 > 2. **초기 집중치료기(Intensive phase, 2개월)**: **HRZE** (이소니아지드[H], 리팜핀[R], 피라진아마이드[Z], 에탐부톨[E]) 4제 투여.  
-> 3. **유지치료기(Continuation phase, 4개월)**: **HR** 2제 투여(총 6개월). 단, 흉부 영상에서 공동(cavitation)이 있으면서 2개월 시점 객담 배양이 양성이거나(지연된 배양 음전), 초기 2개월 피라진아마이드를 완수하지 못했거나, HIV 감염인이면서 항레트로바이러스 치료(ART)를 받지 않는 경우에는 유지치료기를 7개월(총 9개월)로 연장한다(Table 176-2).  
+> 3. **유지치료기(Continuation phase, 4개월)**: **HR** 2제 투여(총 6개월). 단, 흉부 영상에서 공동(cavitation)이 있으면서 2개월 시점 객담 배양이 양성이거나(지연된 배양 음전), 초기 2개월 피라진아마이드를 완수하지 못했거나, HIV 감염인이면서 항레트로바이러스 치료(ART)를 받지 않는 경우에는 유지치료기를 7개월(총 9개월)로 연장한다(Table 176-2). ![[Harrison_V1_Ch176_Tab2.png]]  
 > 4. **배양 음성 결핵(Culture-negative TB)**: HRZE 2개월 후 HR 2개월(총 4개월; 단, HIV 감염인은 유지기 4개월로 연장).  
 > 5. **폐외 결핵(Extrapulmonary TB)**: 표준 6개월 요법(HRZE 2개월 + HR 4~7개월)이 대개 충분하나, **결핵성 수막염(TB meningitis)**은 유지기를 10개월(총 12개월)로 연장하고 글루코코르티코이드(glucocorticoids)를 병용하며, 골·관절 결핵은 일부 전문가들이 유지기 7개월(총 9개월)을 권고한다(Table 176-2).  
 > 6. **약제 내성별 요법(Table 176-2)**:  
    * **H(이소니아지드) 단독 내성**: **QRZE**(또는 드물게 RZES) 6개월 (Q: 레보플록사신 또는 목시플록사신).  
    * **R(리팜핀) 단독 내성**: **HZEQ + 주사제(IA)/S** 2개월 후 **HEQ(±S)** 10~16개월.  
    * **HR 다제내성(MDR-TB)**: **ZEQ + 주사제(IA) ± 대체 2차 약제** 18~24개월 (최소 5제 이상 병합).  
-> 7. **치료 중 부작용 모니터링 및 관리(Table 176-3)** (p. 1272):  
+> 7. **치료 중 부작용 모니터링 및 관리(Table 176-3)** (p. 1272): ![[Harrison_V1_Ch176_Tab3.png]]  
 > 8. 모든 결핵 치료 환자는 월 1회 임상적 모니터링과 활동성 결핵 환자에서 음전 확인 시까지 월 1회 객담 배양을 시행한다.  
 > 9. **간독성(Hepatotoxicity) 중단 기준**: 간염 증상(오심, 구토, 복통, 황달, 원인 불명 피로)이 있으면서 **ALT $>3\times ULN$**이거나, 무증상이더라도 **ALT $>5\times ULN$** 또는 총 빌리루빈이 황달 수준(통상 $>2\times ULN$)에 도달하면 H, R, Z 등 간독성 약제를 즉시 중단한다. 간효소 정상화 후 R과 H를 순차적으로 재투여(rechallenge)할 수 있으며, 재발이 없으면 Z는 많은 경우 재개하지 않는다.  
 > 10. **다제내성 결핵(MDR-TB)·광범위 약제내성 결핵(XDR-TB) 및 방글라데시 요법(Bangladesh Regimen)** (pp. 1272–1273):  
@@ -199,7 +197,7 @@ title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponema
 
 ### **4.1 4대 트레포네마 질환 비교 및 역학·임상 양상 (pp.1286–1289)**
 
-> 1. **4대 트레포네마 질환 비교(Table 178-1)** (p. 1287):
+> 1. **4대 트레포네마 질환 비교(Table 178-1)** (p. 1287): ![[Harrison_V1_Ch178_Tab1.png]]  
 
 | 특성 (Feature) | 성매개 매독 (Venereal Syphilis) | 요스 (Yaws) | 풍토병성 매독 (Endemic Syphilis / Bejel) | 핀타 (Pinta)   |
 | :---- | :---- | :---- | :---- | :---- |
@@ -249,7 +247,7 @@ title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponema
 > 2. 잠복기는 통상 1–2주(범위 1–30일)이며 고전적으로 **급성 렙토스피라혈증기(3–10일, 혈액·CSF에서 균 분리 및 PCR 양성)**와 **면역기(항체 출현 및 소변 배양 양성)**의 이상성(biphasic) 경과를 보인다.  
 > 3. **경증 렙토스피라증**: 갑작스러운 발열, 오한, 전두부/안와후방 두통, 오심·구토, **결막 충혈(conjunctival suffusion — 삼출물 없는 발적)**, 그리고 특히 **종아리(calves)·등·복부의 심한 근육통**이 특징이며 7–10일 내 자연 호전된다.  
 > 4. **중증 렙토스피라증(Weil 증후군 및 중증 폐출혈)**: 치명률 1–50%(사망 위험인자: 연령 >40세, 의식 변화, 급성 신부전, 호흡부전, 저혈압, 부정맥). 고전적 **Weil 증후군(Weil's syndrome)**은 **출혈, 황달(환자의 5–10%, 오렌지빛 피부 변색), 급성 신손상(비핍뇨성 저칼륨혈증·저나트륨혈증·요중 마그네슘 소실 또는 핍뇨성 ATN)**의 3징을 보인다. 황달 유무와 무관하게 발생하는 **중증 폐출혈**이 주요 사망 원인이며, 만기 합병증으로 자가면역 연관 포도막염(uveitis)과 수년간 지속되는 피로·우울 증상이 나타날 수 있다.  
-> 5. **진단 및 치료(Table 179-1)** (pp. 1293–1295):  
+> 5. **진단 및 치료(Table 179-1)** (pp. 1293–1295): ![[Harrison_V1_Ch179_Tab1.png]]  
 > 6. **확진**: 균 배양, 발병 첫 5일 이내 **실시간 PCR**, 또는 **현미경적 응집검사(Microscopic Agglutination Test, MAT)**에서 급성·회복기 혈청 간 **4배 이상 역가 상승**(또는 임상적 의심 시 단일 역가 1:200–1:800 이상).  
 > 7. **항생제 치료 및 화학예방(Table 179-1, 치료 기간 모두 7일)**:  
    * **경증**: **Doxycycline** (100 mg PO bid), **Azithromycin** (500 mg PO qd), **Amoxicillin** (500 mg PO tid), 또는 **Ampicillin** (500 mg PO tid).  
@@ -260,11 +258,11 @@ title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponema
 
 ### **6.1 원인균, 역학, 병인 및 임상 양상 (pp.1295–1296)**
 
-> 1. **원인균 및 역학(Table 180-1)** (pp. 1295–1296):  
+> 1. **원인균 및 역학(Table 180-1)** (pp. 1295–1296): ![[Harrison_V1_Ch180_Tab1.png]]  
 > 2. *Borrelia* 속 나선균(길이 10–20 \\mu\\text{m}, 직경 0.2–0.3 \\mu\\text{m}, 유전체 크기는 대장균의 1/4)에 의해 발생하며 표면 지질단백질의 **항원 변이(antigenic variation)**에 의해 발열과 무열기가 반복된다.  
-> 3. **이매개 재귀열(Louse-Borne Relapsing Fever, LBRF)**: ***Borrelia recurrentis***가 원인균이며 인간이 유일한 보유숙주이다. 몸이(*Pediculus humanus corporis*)에 물릴 때가 아니라 **이의 배설물을 가려운 부위·결막·상처에 문지를 때** 전파된다. 현재 에티오피아 및 인근 동북아프리카와 난민 캠프에서 유행한다.  
-> 4. **진드기매개 재귀열(Tick-Borne Relapsing Fever, TBRF)**: 주로 ***Ornithodoros*** **속 물렁진드기(soft ticks, Figure 180-1)**의 침을 통해 전파된다(수면 중 30분 이내로 짧게 흡혈하며 경란전파[transovarial transmission]가 가능함). 북미에서는 산악 서부의 ***B. hermsii***(O. hermsi)와 남서·중남부(동굴 등)의 ***B. turicatae***(O. turicata)가 주원인이며, 사하라 이남 아프리카의 ***B. duttonii***(O. moubata)는 인간이 주 보유숙주이다.  
-> 5. ***Borrelia miyamotoi***: 재귀열군에 속하나 라임병을 매개하는 **참진드기(hard ticks, *Ixodes* 속)**에 의해 전파되며 흡혈 직후부터 빠르게 전파된다.
+> 3. **이매개 재귀열(Louse-Borne Relapsing Fever, LBRF)**: **Borrelia recurrentis**가 원인균이며 인간이 유일한 보유숙주이다. 몸이(*Pediculus humanus corporis*)에 물릴 때가 아니라 **이의 배설물을 가려운 부위·결막·상처에 문지를 때** 전파된다. 현재 에티오피아 및 인근 동북아프리카와 난민 캠프에서 유행한다.  
+> 4. **진드기매개 재귀열(Tick-Borne Relapsing Fever, TBRF)**: 주로 **Ornithodoros** **속 물렁진드기(soft ticks, Figure 180-1)**의 침을 통해 전파된다(수면 중 30분 이내로 짧게 흡혈하며 경란전파[transovarial transmission]가 가능함). 북미에서는 산악 서부의 **B. hermsii**(O. hermsi)와 남서·중남부(동굴 등)의 **B. turicatae**(O. turicata)가 주원인이며, 사하라 이남 아프리카의 **B. duttonii**(O. moubata)는 인간이 주 보유숙주이다.  
+> 5. **Borrelia miyamotoi**: 재귀열군에 속하나 라임병을 매개하는 **참진드기(hard ticks, *Ixodes* 속)**에 의해 전파되며 흡혈 직후부터 빠르게 전파된다.
 
 **Figure 180-1, p.1296**: Ornithodoros turicata soft ticks of different ages. — 다양한 성장 단계의 *Ornithodoros turicata* 물렁진드기. ![[Harrison_V1_Ch180_Fig1.png]]
 
@@ -292,7 +290,7 @@ title: "Ch175(Part 2)-181: Antimycobacterial Agents, Syphilis, Endemic Treponema
 ### **7.1 원인균, 역학 및 병인 (pp.1298–1300)**
 
 > 1. **원인균(*Borreliella [Borrelia] burgdorferi* sensu lato)** (p. 1298):  
-> 2. 인간 라임병은 주로 3종의 병원성 유전종(genospecies)에 의해 발생한다: 북미의 유일한 원인이자 유럽에도 존재하는 ***Borreliella burgdorferi*** **sensu stricto**(이하 *B. burgdorferi*; 최근 미국 중서부 북부에서 좀 더 심한 급성 증상·고도 균혈증을 일으키는 신종 ***B. mayonii***가 추가 발견됨), 그리고 유럽과 아시아의 주원인인 ***B. afzelii***(피부 친화성, 만성 위축성 선단피부염 유발)와 ***B. garinii***(신경 친화성, 보렐리아 뇌척수염 유발).  
+> 2. 인간 라임병은 주로 3종의 병원성 유전종(genospecies)에 의해 발생한다: 북미의 유일한 원인이자 유럽에도 존재하는 **Borreliella burgdorferi** **sensu stricto**(이하 *B. burgdorferi*; 최근 미국 중서부 북부에서 좀 더 심한 급성 증상·고도 균혈증을 일으키는 신종 **B. mayonii**가 추가 발견됨), 그리고 유럽과 아시아의 주원인인 **B. afzelii**(피부 친화성, 만성 위축성 선단피부염 유발)와 **B. garinii**(신경 친화성, 보렐리아 뇌척수염 유발).  
 > 3. 유전체(~1.5 Mb)는 950-kb 선형 염색체와 17–21개의 선형·환상 플라스미드로 구성되며, 아미노산·지방산·뉴클레오타이드 합성 효소와 철(iron) 요구 효소가 결여되어 있다.  
 > 4. **매개체 및 역학** (pp. 1298–1299):  
 > 5. **참진드기(*Ixodes ricinus* 복합체)**가 매개한다: 미국 북동부·중서부(**Ixodes scapularis**, 유충·약충의 주 숙주는 흰발생쥐[*Peromyscus leucopus*], 성충의 주 숙주는 흰꼬리사슴; *Babesia microti* 및 *Anaplasma phagocytophilum*도 동시 매개), 미국 서부(I. pacificus), 유럽(I. ricinus), 아시아(I. persulcatus).  

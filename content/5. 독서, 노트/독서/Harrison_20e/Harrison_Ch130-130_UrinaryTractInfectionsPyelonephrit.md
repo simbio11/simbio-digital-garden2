@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch130-132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Sexually Transmitted Infections, and Encephalitis" aliases: - "해리슨 20판 Ch130-132" - "Urinary Tract Infections, Pyelonephritis, and Prostatitis" - "Sexually Transmitted Infections: Overview and Clinical Approach" - "Encephalitis" tags: - Harrison20e - InternalMedicine - Part5 - Ch130-132 - InfectiousDiseases - UTI - Pyelonephritis - Prostatitis - STI - PID - Encephalitis - PML source_pdf: "https\://drive.google.com/open?id=1hYWvp_AA0Bs9wx51lcUIPFb3OnxQpcf9" source_pages: "pp. 968–997" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 130–132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Sexually Transmitted Infections, and Encephalitis**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_0939-1108.pdf](https://drive.google.com/open?id=1hYWvp_AA0Bs9wx51lcUIPFb3OnxQpcf9) (pp. 968–997, 해리슨 내과학 1권-2.pdf) - **범위 경계 안내**: p.968 상단에는 직전 범위에서 이어지는 **Ch 129** *Clostridium difficile Infection*의 마지막 부분(다발성 재발 및 중증 전격성 CDI 치료, 예후, 손씻기·차아염소산 환경 소독 예방)이 인쇄되어 있으며, 이어서 **Ch 130** *Urinary Tract Infections, Pyelonephritis, and Prostatitis* (pp. 968–976), **Ch 131** *Sexually Transmitted Infections: Overview and Clinical Approach* (pp. 976–991), **Ch 132** *Encephalitis* (pp. 991–997, 진행성 풍진 범뇌염의 마지막 문단이 p.998 상단으로 이어짐)가 수록되어 있다.
@@ -23,8 +21,6 @@ title: "Ch130-132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Se
 
 > * **전격성 CDI**: 장마비(ileus)나 독성 거대결장 때문에 설사가 오히려 멈추고 급성 복증·패혈증·백혈구 급증(≥20,000/µL)으로 발현할 수 있다. **경구(또는 비위관) 반코마이신(500 mg q6h) + 반코마이신 정체 관장 + 정맥 메트로니다졸(500 mg q8h) 병합요법**을 시행하며, 내과적 치료에 반응하지 않으면 **혈청 젖산(lactate) 수치가 5 mmol/L에 도달하기 전에 결장절제술(colectomy — 또는 대안으로 복강경 회장루 형성 및 폴리에틸렌 글리콜 세척·반코마이신 주입술)**을 시행해야 생명을 구할 수 있다.  
 > * **감염관리**: 알코올 손소독제는 *C. difficile* 아포를 죽이지 못하므로 유행 시 **비누와 물로 손씻기**, 장갑 착용, 전자 체온계 사용 중단 및 **차아염소산(표백제) 병실 소독**과 클린다마이신·세팔로스포린·플루오로퀴놀론 사용 제한이 필수적이다.
-
-## ---
 
 **1. 제130장 요로감염, 신우신염 및 전립선염 (Chapter 130: Urinary Tract Infections, Pyelonephritis, and Prostatitis) (p.968–976)**
 
@@ -42,15 +38,13 @@ title: "Ch130-132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Se
 **Figure 130-2, p.971**: Emphysematous pyelonephritis. Infection of the right kidney of a diabetic man by Escherichia coli, a gas-forming, facult — 당뇨병 남성에서 가스 생성 대장균(*Escherichia coli*) 감염으로 우측 신실질 파괴(화살표)와 후복막강 내 가스 확산(화살촉)이 발생한 기종성 신우신염의 복부 CT. ![[Harrison_V1_Ch130_Fig2.png]]  
 **Figure 130-3, p.971**: Xanthogranulomatous pyelonephritis. A. This photograph shows extensive destruction of renal parenchyma due to long-stand — 녹각석(staghorn calculus, 화살표)에 의한 장기 폐쇄와 화농성 염증으로 광범위한 신실질 파괴와 신장 종괴 양상을 보이는 황색육아종성 신우신염의 육안 병리 표본(A) 및 방사선 사진(B). ![[Harrison_V1_Ch130_Fig3.png]]
 
-> * **임상 증후군별 표준 치료 (p.973–976, Table 130-1)**:  
+> * **임상 증후군별 표준 치료 (p.973–976, Table 130-1)**: ![[Harrison_V1_Ch130_Tab1.png]]  
   1. **무증상 세균뇨(ASB)**: 오직 **임산부**(신우신염 및 조산·저체중아 예방을 위해 선별 및 치료 필수)와 **점막 출혈이 예상되는 침습적 비뇨기과 시술(예: 경요도 전립선절제술)을 앞둔 환자**(및 호중구감소증·신장이식 직후)에서만 치료한다.  
   2. **여성의 급성 단순 방광염(Table 130-1)**: 1차 선택제는 **1) 니트로푸란토인(nitrofurantoin 100 mg PO bid × 5일 — 조직 농도가 낮아 신우신염에는 사용 불가!)**, **2) TMP-SMX (160/800 mg DS 1정 PO bid × 3일 — 지역 내 대장균 내성률이 \<20%일 때만 사용)**, **3) 포스포마이신(fosfomycin 3 g PO 단회 투여)**이다(플루오로퀴놀론은 내성 억제와 부작용 방지를 위해 단순 방광염의 1차 약물로 쓰지 않고 아목시실린-클라불란산 등과 함께 2차 대안으로 아껴 둠).  
   3. **급성 단순 신우신염**: 외래 치료는 **시프로플록사신(500 mg PO bid × 7일, 필요시 첫 용량 400 mg IV) 또는 레보플록사신(750 mg PO qd × 5일)**이 1차 선택제이며(감수성이 확인된 경우에만 TMP-SMX DS 1정 bid 14일 사용), 입원 치료는 정맥 플루오로퀴놀론, 세프트리악손(1 g IV q24h), 피페라실린/타조박탐, 에르타페넴, 또는 아미노글리코시드를 투여한다.  
   4. **임산부 UTI**: **니트로푸란토인, 암피실린, 세팔로스포린**이 안전하다(설폰아미드는 임신 1삼분기[최기형성 우려] 및 분만 직전[핵황달 위험]에 피하고, 플루오로퀴놀론은 태아 연골 발육 억제로 임신 중 금기).  
   5. **남성 UTI 및 전립선염**: 전립선 조직으로 잘 침투하는 **플루오로퀴놀론 또는 TMP-SMX**로 급성 전립선염은 **2–4주**, 만성 세균성 전립선염은 **4–6주(재발 시 12주)** 치료한다.  
   6. **칸디다뇨증(Candiduria)**: 무증상 카테터 환자는 카테터 제거만으로 1/3 이상 소실되며, 유증상 방광염·신우신염·호중구감소증·비뇨기 시술 전 환자에서는 소변으로 고농도 배설되는 **경구 플루코나졸(200–400 mg/일 × 7–14일)**이 1차 선택제다(보리코나졸·포사코나졸이나 에키노칸딘은 소변 배설이 극미하여 요로감염에 부적합함).
-
-## ---
 
 **2. 제131장 성매개감염: 개요 및 임상적 접근 (Chapter 131: Sexually Transmitted Infections) (p.976–991)**
 
@@ -62,13 +56,13 @@ title: "Ch130-132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Se
 > * **급성 부고환염**: 35세 미만 성활동 남성은 *C. trachomatis*와 *N. gonorrhoeae*가 주원인(세프트리악손 250 mg IM 단회 + 독시사이클린 100 mg PO bid × 10일)이고, 35세 초과 남성이나 항문 성교 삽입 남성은 장내세균(레보플록사신 10일)이 주원인이다.
 
 **Table 131-4, p.979**: Table 131-4 Management of Urethral Discharge in Men — 남성 요도 분비물(요도염)의 주요 원인균, 초기 평가, 환자·파트너의 초기 경험적 치료(세프트리악손 250 mg IM + 아지스로마이신 1 g PO) 및 재발·지속성 요도염(*T. vaginalis*, 내성 *M. genitalium*) 관리 요약표. ![[Harrison_V1_Ch131_Tab4.png]]  
-**Figure 131-1, p.980**: Proportion of Neisseria gonorrhoeae isolates with elevated minimal inhibitory concentrations (MICs) of ceftriaxone — 2006–2015년 미국에서 세프트리악손(\$ ext{MIC} \\ge 0.125\\ \\mu ext{g/mL}$)및세픽심($ ext{MIC} \\ge 0.25\\ \\mu ext{g/mL}\$)에 대한 최소억제농도가 상승한 임균(*Neisseria gonorrhoeae*) 분리주 비율 추이. ![[Harrison_V1_Ch131_Fig1.png]]
+**Figure 131-1, p.980**: Proportion of Neisseria gonorrhoeae isolates with elevated minimal inhibitory concentrations (MICs) of ceftriaxone — 2006–2015년 미국에서 세프트리악손($\text{MIC} \ge 0.125\ \mu\text{g/mL}$)및세픽심($\text{MIC} \ge 0.25\ \mu\text{g/mL}$)에 대한 최소억제농도가 상승한 임균(*Neisseria gonorrhoeae*) 분리주 비율 추이. ![[Harrison_V1_Ch131_Fig1.png]]
 
 > * **외음부질 감염(세균성 질증, 트리코모나스 질염, 외음부질 칸디다증: Figure 131-2, 131-3), 점액화농성 자궁경부염(Figure 131-4) 및 골반염(PID) (p.981–987)**:  
-> * **세균성 질증(Bacterial Vaginosis, BV, Figure 131-2, Figure 131-3)**: 과산화수소를 생성하는 정상 유산균(*Lactobacillus*)이 소실되고 ***Gardnerella vaginalis*****, *Mycoplasma hominis*, *Mobiluncus*, *Prevotella*, BV 연관 세균(BVAB-1~3)** 등 혐기성균이 과증식한 상태다. **Amsel 4대 진단 기준**: 1) 균일한 백색 질 분비물, 2) **질액 \$ ext{pH} >4.5\$**, 3) 10% KOH 점적 시 생선 비린내(아민 악취 양성), 4) 생리식염수 습식 도말에서 세균이 다수 부착되어 세포 경계가 흐려진 질 상피세포(**단서세포[clue cells] \$\\ge 20\\%\$, Figure 131-3**). 치료는 **경구 메트로니다졸(500 mg PO bid × 7일), 메트로니다졸 0.75% 질 겔(5일), 또는 2% 클린다마이신 크림(7일)**이다(남성 파트너 치료는 재발을 줄이지 못함).  
-> * **트리코모나스 질염(*T. vaginalis*)**: 다량의 황색 화농성 악취 분비물, 외음부 가려움, 자궁경부 점상출혈("딸기 자궁경부"), \$ ext{pH} \\ge 5.0\$, 습식 도말상 운동성 편모 원충 및 다수의 호중구, NAAT 양성으로 진단하며 **환자와 남성 파트너 모두 메트로니다졸 또는 티니다졸(2 g PO 단회; 재발 시 500 mg bid × 7일)**로 치료한다.  
-> * **외음부질 칸디다증(*Candida albicans*)**: 심한 외음부 소양증, 흰 비지 모양 분비물, **정상 질 \$ ext{pH} (\<4.5)\$**, 10% KOH 도말상 가성균사로 진단하며 국소 아졸제나 **경구 플루코나졸(150 mg 단회)**로 치료한다.  
-> * **점액화농성 자궁경부염(MPC, Figure 131-4) 및 골반염(Pelvic Inflammatory Disease, PID, Table 131-6)**: *C. trachomatis*, *N. gonorrhoeae*, *M. genitalium* 및 혐기성균이 원인이다(PID 우상복부 간주위염 합병 시 **Fitz-Hugh–Curtis 증후군**). 외래 PID 표준 치료는 **세프트리악손(250 mg IM 단회) + 독시사이클린(100 mg PO bid × 14일) ± 메트로니다졸(500 mg PO bid × 14일)**이다.
+> * **세균성 질증(Bacterial Vaginosis, BV, Figure 131-2, Figure 131-3)**: 과산화수소를 생성하는 정상 유산균(*Lactobacillus*)이 소실되고 **Gardnerella vaginalis****, *Mycoplasma hominis*, *Mobiluncus*, *Prevotella*, BV 연관 세균(BVAB-1~3)** 등 혐기성균이 과증식한 상태다. **Amsel 4대 진단 기준**: 1) 균일한 백색 질 분비물, 2) **질액 $\text{pH} >4.5$**, 3) 10% KOH 점적 시 생선 비린내(아민 악취 양성), 4) 생리식염수 습식 도말에서 세균이 다수 부착되어 세포 경계가 흐려진 질 상피세포(**단서세포[clue cells] $\ge 20\%$, Figure 131-3**). 치료는 **경구 메트로니다졸(500 mg PO bid × 7일), 메트로니다졸 0.75% 질 겔(5일), 또는 2% 클린다마이신 크림(7일)**이다(남성 파트너 치료는 재발을 줄이지 못함).  
+> * **트리코모나스 질염(*T. vaginalis*)**: 다량의 황색 화농성 악취 분비물, 외음부 가려움, 자궁경부 점상출혈("딸기 자궁경부"), $\text{pH} \ge 5.0$, 습식 도말상 운동성 편모 원충 및 다수의 호중구, NAAT 양성으로 진단하며 **환자와 남성 파트너 모두 메트로니다졸 또는 티니다졸(2 g PO 단회; 재발 시 500 mg bid × 7일)**로 치료한다.  
+> * **외음부질 칸디다증(*Candida albicans*)**: 심한 외음부 소양증, 흰 비지 모양 분비물, **정상 질 $\text{pH} (<4.5)$**, 10% KOH 도말상 가성균사로 진단하며 국소 아졸제나 **경구 플루코나졸(150 mg 단회)**로 치료한다.  
+> * **점액화농성 자궁경부염(MPC, Figure 131-4) 및 골반염(Pelvic Inflammatory Disease, PID, Table 131-6)**: *C. trachomatis*, *N. gonorrhoeae*, *M. genitalium* 및 혐기성균이 원인이다(PID 우상복부 간주위염 합병 시 **Fitz-Hugh–Curtis 증후군**). 외래 PID 표준 치료는 **세프트리악손(250 mg IM 단회) + 독시사이클린(100 mg PO bid × 14일) ± 메트로니다졸(500 mg PO bid × 14일)**이다. ![[Harrison_V1_Ch131_Tab6.png]]  
 
 **Figure 131-2, p.982**: Broad-range polymerase chain reaction amplification of 165 rDNA in vaginal fluid from a woman with bacterial vaginosis ( — 세균성 질증(BV) 여성의 질액에서 형광제자리부합법(FISH)으로 확인된 BV 연관 세균(BVAB-1[녹색 휘어진 간균], BVAB-2[적색]). ![[Harrison_V1_Ch131_Fig2.png]]  
 **Figure 131-3, p.983**: Wet mount of vaginal fluid showing typical clue cells from a woman with bacterial vaginosis. Note the obscured epithelia — 세균성 질증 여성의 질액 습식 도말에서 수많은 세균이 부착되어 상피세포 가장자리가 흐려지고 과립상 외양을 띠는 전형적인 단서세포(clue cells). ![[Harrison_V1_Ch131_Fig3.png]]  
@@ -77,10 +71,10 @@ title: "Ch130-132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Se
 ### **2.2 생식기 궤양 질환의 감별(Figure 131-5 ~ 131-7, Table 131-7), 직장염 및 성매개감염 관리(Figure 131-8) (p.987–991)**
 
 > * **생식기·항문주위 궤양의 5대 감염 원인 감별 (p.987–990, Figure 131-5 ~ 131-7, Table 131-7)**:  
-> * **음부포진 (Genital herpes — HSV-2, HSV-1, Figure 131-6)**: 전 세계적으로 **생식기 궤양의 가장 흔한 원인**이다. 다발성 통증성 소수포 \$ o\$ 얕은 궤양과 양측 압통성 서혜부 림프절종대를 보이며 아시클로비르, 발라시클로비르, 팜시클로비르로 치료한다.  
+> * **음부포진 (Genital herpes — HSV-2, HSV-1, Figure 131-6)**: 전 세계적으로 **생식기 궤양의 가장 흔한 원인**이다. 다발성 통증성 소수포 $ o$ 얕은 궤양과 양측 압통성 서혜부 림프절종대를 보이며 아시클로비르, 발라시클로비르, 팜시클로비르로 치료한다.  
 > * **1기 매독 (Primary syphilis — *Treponema pallidum*)**: **단일성, 무통성, 경결된(indurated) 깨끗한 바닥의 궤양(경성하감, chancre)**과 양측 무통성 고무양 림프절종대를 보이며 **벤자틴 페니실린 G(240만 단위 IM 단회)**로 치료한다.  
 > * **연성하감 (Chancroid — *Haemophilus ducreyi*, Figure 131-5)**: **다발성, 심한 통증성, 부드럽고 잠식된 경계와 화농성 바닥을 가진 천공성 궤양**과 화농성 파동성 서혜부 림프절염(가래톳, bubo)을 보이며 **아지스로마이신(1 g PO 단회) 또는 세프트리악손(250 mg IM 단회)**으로 치료한다.  
-> * **성병성 림프육아종 (LGV — *Chlamydia trachomatis* 혈청형 \$ ext{L}_1, ext{L}_2, ext{L}_3\$, Figure 131-7)**: 일과성 무통성 소궤양 후 서혜인대(Poupart 인대)를 사이에 두고 서혜부 및 대퇴부 림프절이 나뉘어 종대되는 **"고랑 징후(sign of the groove, Figure 131-7)"** 또는 남성 간 성접촉자(MSM)의 중증 출혈성 직장결장염을 일으키며 **독시사이클린(100 mg PO bid × 21일)**으로 치료한다.  
+> * **성병성 림프육아종 (LGV — *Chlamydia trachomatis* 혈청형 $\text{L}_1,\text{L}_2,\text{L}_3$, Figure 131-7)**: 일과성 무통성 소궤양 후 서혜인대(Poupart 인대)를 사이에 두고 서혜부 및 대퇴부 림프절이 나뉘어 종대되는 **"고랑 징후(sign of the groove, Figure 131-7)"** 또는 남성 간 성접촉자(MSM)의 중증 출혈성 직장결장염을 일으키며 **독시사이클린(100 mg PO bid × 21일)**으로 치료한다.  
 > * **서혜부 육아종 (Donovanosis — *Klebsiella granulomatis*)**: 림프절종대 없이 쉽게 출혈하는 무통성 붉은 육아조직 궤양과 단핵구 내 **Donovan 소체**를 보이며 아지스로마이신 또는 독시사이클린을 3주 이상 투여한다(성매개감염 예방·통제 모델은 Figure 131-8 참조).
 
 **Figure 131-5, p.987**: Chancroid: multiple, painful, punched-out ulcers with undermined borders on the labia occurring after autoinoculation. g — 자가접종 후 음순에 발생한 잠식성 경계의 다발성 통증성 천공 궤양을 보이는 연성하감(chancroid). ![[Harrison_V1_Ch131_Fig5.png]]  
@@ -89,13 +83,11 @@ title: "Ch130-132: Urinary Tract Infections, Pyelonephritis, and Prostatitis, Se
 **Table 131-7, p.988**: Table 131-7 Clinical Features of Genital Ulcers — 5대 생식기 궤양 질환(매독 경성하감, 음부포진, 연성하감, 성병성 림프육아종, 서혜부 육아종)의 잠복기, 초기 병변, 개수, 직경, 경계, 깊이, 기저부, 분비물, 압통, 경결 및 서혜부 림프절종대 비교표. ![[Harrison_V1_Ch131_Tab7.png]]  
 **Figure 131-8, p.990**: Critical control points for preventive and clinical interventions against sexually transmitted diseases (STDs). (Adapted — 성매개감염(STD)의 전파 역학과 예방·임상 개입의 핵심 통제 지점 모식도. ![[Harrison_V1_Ch131_Fig8.png]]
 
-## ---
-
 **3. 제132장 뇌염 (Chapter 132: Encephalitis) (p.991–997)**
 
 ### **3.1 급성 바이러스 뇌염의 원인·진단(Figure 132-1)·치료 및 만성 뇌염(PML, SSPE) (p.991–997)**
 
-> * **정의, 원인 바이러스(Table 132-1) 및 뇌척수액·PCR·MRI 진단(Figure 132-1, Table 132-2) (p.991–995)**:  
+> * **정의, 원인 바이러스(Table 132-1) 및 뇌척수액·PCR·MRI 진단(Figure 132-1, Table 132-2) (p.991–995)**: ![[Harrison_V1_Ch132_Tab1.png]] ![[Harrison_V1_Ch132_Tab2.png]]  
 > * 수막염과 달리 뇌염은 **뇌실질 침범에 의한 의식 변화(기면, 혼돈, 인격 변화), 발작, 국소 신경학적 결손(실어증, 편마비, 운동장애, 뇌신경 마비)**이 동반된다. 면역정상 성인의 산발성 치명적 뇌염 중 가장 흔하고 중요한 치료 가능 원인은 **제1형 단순포진바이러스(HSV-1)**이며, 유행성 원인은 아르보바이러스(**웨스트나일 바이러스[WNV]**, 세인트루이스·일본·동부말·서부말·라크로스 뇌염 바이러스)와 엔테로바이러스이다.  
 > * **진단(Table 132-2, Figure 132-1)**: 뇌척수액은 림프구 우세 세포증가(>95%), 정상 포도당, 경도 단백 상승을 보인다. **HSV 뇌염의 1차 확진은 뇌척수액 HSV PCR (민감도 ~96%, 특이도 ~99%)**이다(단, 증상 발생 **첫 72시간 이내**에는 위음성이 나올 수 있으므로 임상적 의심이 높으면 아시클로비르를 유지하며 1–3일 후 재검해야 함). 뇌 FLAIR/확산강조 MRI에서 **내측 측두엽·전두엽 안와면·섬엽·대상회의 비대칭 고신호(환자의 ~90%, Figure 132-1)**와 뇌파의 측두엽 주기성 예파 복합체가 HSV 뇌염의 특징이다. 반면 **WNV 뇌염**은 **뇌척수액 WNV 특이 IgM 검출**이 PCR보다 더 민감한 표준 진단법이며 MRI상 **시상·기저핵·뇌간** 침범(진전, 파킨슨증, 소아마비 유사 급성 이완성 마비 동반)이 특징이다.
 

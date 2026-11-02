@@ -15,8 +15,6 @@ type: 의학원서_요약노트
 
 ## **1. 골반과 넙다리 후반부(5종) 및 종아리와 발(19종) 통증유발점, 추천교재·감별진단 찾아보기 (PDF pp.461–475 / 인쇄면 pp.450–464)**
 
-### ---
-
 **1.1 골반과 넙다리 후반부 및 종아리와 발 통증유발점 도해 (PDF pp.461–474 / 인쇄면 pp.450–463)**
 
 ![[근육뼈대계통_p0461.png]] - **두덩근(Pectineus) & 넙다리근막긴장근(Tensor Fasciae Latae) 통증유발점 도해 (PDF p.461 / 인쇄면 p.450)**  
@@ -61,8 +59,6 @@ type: 의학원서_요약노트
 > * Simons, Travell, & Simons, *Myofascial Pain and Dysfunction: The Trigger Point Manual*, Vol. 1 (2nd ed., 1999) & Vol. 2 (1992).
 
 ## **2. 부록: 얼굴 표정근육의 부착부위 및 전신 협동근 총괄 일람표 (PDF pp.476–480 / 인쇄면 pp.465–469)**
-
-### ---
 
 **2.1 얼굴 표정근육의 부착부위 (Attachments of the Muscles of Facial Expression) (PDF p.476 / 인쇄면 p.465)**
 

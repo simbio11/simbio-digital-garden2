@@ -29,20 +29,18 @@ type: 의학원서_요약노트
 
 **Figure 35-1, p.233**: Approach to the management of hemoptysis. CBC, complete blood count; CT, computed tomography; CXR, chest x-ray. — 객혈 환자에서 상기도/위장관 출혈 배제 후 대량 객혈 여부 및 폐암 위험인자(연령 >40세, 흡연력) 유무에 따른 흉부 CT·기관지경·기관지동맥 색전술 관리 알고리즘. ![[Harrison_V1_Ch35_Fig1.png]]
 
-## ---
-
 **2. 제36장 저산소증과 청색증 (Chapter 36, pp. 234–237) 및 제37장 부종 (p.237–240)**
 
 ### **2.1 저산소증(Hypoxia)의 4대 기전과 중심성 vs 말초성 청색증 (p.234–237)**
 
-> * **세포의 저산소 적응과 HIF-1\$ lpha\$ (p.234)**: 저산소 상태에서 **저산소유도인자-1\$ lpha\$ (HIF-1\$ lpha\$)**가 분해를 면하고 핵 내로 이동하여 해당과정 효소, 혈관내피성장인자(VEGF), 그리고 신장의 **에리스로포이에틴(EPO)** 유전자 전사를 활성화하여 적혈구증가증을 유도한다.  
-> * **저산소증의 4대 분류 및 폐포-동맥 산소분압차 (\$ ext{P}_{ ext{A-a}} ext{O}_2\$) (pp.234–236)**:  
-> * **호흡기성 저산소증 (Respiratory hypoxia, 동맥혈 산소분압 \$ ext{PaO}_2\$ 감소)**:  
-  * 흡입 산소분압(\$ ext{PiO}_2\$) 저하(고산지대) 또는 **폐포 저환기(Alveolar hypoventilation, \$ ext{PaCO}_2\$ 상승)**: **\$ ext{P}_{ ext{A-a}} ext{O}_2\$가 정상**이며 100% 산소 투여 시 완전히 교정된다.  
-  * **환기-관류 불균형($\dot{V}/\dot{Q}$ mismatch — 가장 흔한 원인: 천식, COPD, 폐렴, 폐색전증)** 및 확산 장애: **\$ ext{P}_{ ext{A-a}} ext{O}_2\$가 증가**하며 100% 산소 투여로 저산소혈증이 교정된다.  
-  * **우-좌 단락(Right-to-left shunt — 선천성 청색증 심질환, 폐동정맥기형, 중증 무기폐/ARDS)**: **\$ ext{P}_{ ext{A-a}} ext{O}_2\$가 증가**하며 **100% \$ ext{O}_2\$를 흡입해도 \$ ext{PaO}_2\$가 교정되지 않는다**.  
-> * **빈혈성 저산소증 (Anemic hypoxia)**: \$ ext{PaO}_2$는정상이나혈색소감소또는일산화탄소(CO)중독·메트헤모글로빈혈증으로동맥혈산소함량($ ext{CaO}_2\$) 및 조직 산소 유리가 감소한다.  
-> * **순환성(허혈성) 저산소증 (Circulatory/Stagnant hypoxia)**: 심부전이나 쇼크로 조직 관류량이 감소하여 정맥혈 산소분압(\$ ext{PvO}*2$)이떨어지고동-정맥산소분압차($ ext{C}*{ ext{a-v}} ext{O}_2\$)가 증가한다.  
+> * **세포의 저산소 적응과 HIF-1$ lpha$ (p.234)**: 저산소 상태에서 **저산소유도인자-1$ lpha$ (HIF-1$ lpha$)**가 분해를 면하고 핵 내로 이동하여 해당과정 효소, 혈관내피성장인자(VEGF), 그리고 신장의 **에리스로포이에틴(EPO)** 유전자 전사를 활성화하여 적혈구증가증을 유도한다.  
+> * **저산소증의 4대 분류 및 폐포-동맥 산소분압차 ($\text{P}_{\text{A-a}}\text{O}_2$) (pp.234–236)**:  
+> * **호흡기성 저산소증 (Respiratory hypoxia, 동맥혈 산소분압 $\text{PaO}_2$ 감소)**:  
+  * 흡입 산소분압($\text{PiO}_2$) 저하(고산지대) 또는 **폐포 저환기(Alveolar hypoventilation, $\text{PaCO}_2$ 상승)**: **$\text{P}_{\text{A-a}}\text{O}_2$가 정상**이며 100% 산소 투여 시 완전히 교정된다.  
+  * **환기-관류 불균형($\dot{V}/\dot{Q}$ mismatch — 가장 흔한 원인: 천식, COPD, 폐렴, 폐색전증)** 및 확산 장애: **$\text{P}_{\text{A-a}}\text{O}_2$가 증가**하며 100% 산소 투여로 저산소혈증이 교정된다.  
+  * **우-좌 단락(Right-to-left shunt — 선천성 청색증 심질환, 폐동정맥기형, 중증 무기폐/ARDS)**: **$\text{P}_{\text{A-a}}\text{O}_2$가 증가**하며 **100% $\text{O}_2$를 흡입해도 $\text{PaO}_2$가 교정되지 않는다**.  
+> * **빈혈성 저산소증 (Anemic hypoxia)**: $\text{PaO}_2$는정상이나혈색소감소또는일산화탄소(CO)중독·메트헤모글로빈혈증으로동맥혈산소함량($\text{CaO}_2$) 및 조직 산소 유리가 감소한다.  
+> * **순환성(허혈성) 저산소증 (Circulatory/Stagnant hypoxia)**: 심부전이나 쇼크로 조직 관류량이 감소하여 정맥혈 산소분압($\text{PvO}*2$)이떨어지고동-정맥산소분압차($\text{C}*{\text{a-v}}\text{O}_2$)가 증가한다.  
 > * **세포독성 저산소증 (Histotoxic hypoxia)**: **시안화물(Cyanide) 중독**에서 미토콘드리아 시토크롬 산화효소가 억제되어 산소 전달이 정상임에도 세포가 산소를 이용하지 못해 정맥혈 산소분압이 높고 정맥혈이 선홍색을 띤다.  
 > * **청색증(Cyanosis) (pp.236–237)**: 모세혈관 내 **환원 혈색소(Deoxyhemoglobin) 평균 농도가 $>40extg/L$ ($>4extg/dL$)**를 초과할 때(또는 메트헤모글로빈 $>1.5extg/dL$, 설프헤모글로빈 $>0.5extg/dL$) 피부와 점막이 푸르게 보이는 현상이다(따라서 중증 빈혈 환자에서는 청색증이 잘 나타나지 않고, 다혈구증 환자에서는 쉽게 나타남). **중심성 청색증**은 동맥혈 산소포화도 저하로 구강 점막·혀와 사지 모두에 나타나며 곤봉지(Clubbing)를 흔히 동반하는 반면, **말초성 청색증**은 한랭 노출·쇼크·말초혈관 수축에 의해 사지 말단에만 국한되고 구강 점막은 보존된다.
 
@@ -55,8 +53,6 @@ type: 의학원서_요약노트
 **Figure 37-1, p.238**: Clinical conditions in which a decrease in cardiac output (A) and systemic vascular resistance (B) cause arterial underfilling and resulting neurohumoral activation and renal sodium and water retention... — 심박출량 감소(심부전, A) 및 전신 혈관저항 감소(간경변증, 패혈증, 임신 등, B)가 동맥 저충만(Arterial underfilling)을 통해 RAAS·교감신경·AVP 활성화를 유도하고 신장의 나트륨·수분 저류 및 부종을 초래하는 병태생리 모식도. ![[Harrison_V1_Ch37_Fig1.png]]  
 **Table 37-1, p.239**: Table 37-1 Principal Causes of Generalized Edema: History, Physical Examination, and Laboratory Findings — 전신 부종의 3대 주요 원인인 심장(우심부전/양심부전), 간(간경변증), 신장(신증후군/신부전) 질환의 병력·신체검진·검사실 소견 감별표. ![[Harrison_V1_Ch37_Tab1.png]]  
 **Table 37-2 [라벨: Harrison_V1_Ch3_Tab7.png], p.240**: Table 37-2 Drugs Associated with Edema Formation — 부종 유발 약물(NSAIDs, 항고혈압제[디하이드로피리딘 칼슘통로차단제, 미녹시딜, 하이드랄라진, 클로니딘], 스테로이드 호르몬[글루코코르티코이드, 에스트로겐/프로게스틴, 테스토스테론], 치아졸리딘디온[Pioglitazone], 면역치료제 등). ![[Harrison_V1_Ch3_Tab7.png]]
-
-## ---
 
 **3. 제38장 심잡음(Heart Murmurs) 및 제39장 두근거림(Palpitations) (p.240–249)**
 
@@ -91,8 +87,6 @@ type: 의학원서_요약노트
 
 > * 두근거림의 원인은 심장성(**43%**: 조기심방·심실수축, 발작성 상심실성 빈맥[PSVT — 목에서 규칙적이고 빠른 개구리 박동 양상과 다뇨증 동반 가능], 심방세동, 심실빈맥, 판막 역류 등), 정신과적(공황장애/불안 — **31%**), 기타(**10%**), 원인불명(**16%**)이며, 대사성/약물성(갑상선기능항진증, 저혈당, 갈색세포종, 교감신경흥분제/카페인/코카인/에탄올)이다. 12유도 심전도 후 증상 빈도에 따라 24~48시간 Holter 모니터, 2~4주 이벤트 레코더, 또는 이식형 루프 레코더(ILR)로 부정맥을 포착한다.
 
-## ---
-
 **4. 제40장 연하곤란 (Chapter 40, pp. 249–253) 및 제41장 오심·구토·소화불량 (p.253–259)**
 
 ### **4.1 구인두 연하곤란 vs 식도 연하곤란의 생리와 감별 알고리즘 (Figure 40-1) (p.249–253)**
@@ -108,16 +102,14 @@ type: 의학원서_요약노트
 ### **4.2 오심·구토(Nausea and Vomiting) 및 소화불량(Indigestion) (Table 41-1, Table 41-2) (p.253–259)**
 
 > * **구토의 신경약리학적 기전과 치료제 (pp.253–256, Table 41-1, Table 41-2)**:  
-> * 연수의 구토 중추(Vomiting center / NTS)는 1) 제4뇌실 바닥의 화학수용체 방아쇠영역(Area postrema: 도파민 \$ ext{D}_2\$, 세로토닌 $5ext{-HT}_{3}$, 뉴로키닌 \$ ext{NK}_1\$ 수용체 풍부), 2) 위장관 미주신경 구심섬유($5ext{-HT}_{3}$ 수용체), 3) 전정계(히스타민 \$ ext{H}_1\$, 무스카린 \$ ext{M}_1\$ 수용체), 4) 대뇌 피질/변연계로부터 입력을 받는다.  
-> * 원인 분류(Table 41-1) 및 약물 치료(Table 41-2): 위무력증(Gastroparesis: 당뇨병성, 수술후, 특발성)에서는 위배출 촉진제인 **Metoclopramide**(\$ ext{D}_2\$ 길항 및 $5ext{-HT}_{4}$ 작용; 지연성 운동이상증 주의), **Erythromycin**(모틸린 수용체 작용제), Domperidone을 사용하고, 수술 후 구토는 수술의 **25%**에서, 주기성 구토 증후군(cyclic vomiting syndrome)은 원인불명 오심·구토의 **3–14%**에서, 임신 1삼분기 오심은 임산부의 **70%**에서 발생하며, 위무력증 진단을 위한 비방사성 \$^{13}\\text{C}\$ 위배출 호기검사가 **2015년 FDA 승인**되었다. 항암 화학요법 유발 구토에서는 $5ext{-HT}_{3}$ **길항제(Ondansetron, Palonosetron) + \$ ext{NK}_1\$ 길항제(Aprepitant, Fosaprepitant) + Dexamethasone** 병합요법을 사용한다.  
+> * 연수의 구토 중추(Vomiting center / NTS)는 1) 제4뇌실 바닥의 화학수용체 방아쇠영역(Area postrema: 도파민 $\text{D}_2$, 세로토닌 $5ext{-HT}_{3}$, 뉴로키닌 $\text{NK}_1$ 수용체 풍부), 2) 위장관 미주신경 구심섬유($5ext{-HT}_{3}$ 수용체), 3) 전정계(히스타민 $\text{H}_1$, 무스카린 $\text{M}_1$ 수용체), 4) 대뇌 피질/변연계로부터 입력을 받는다.  
+> * 원인 분류(Table 41-1) 및 약물 치료(Table 41-2): 위무력증(Gastroparesis: 당뇨병성, 수술후, 특발성)에서는 위배출 촉진제인 **Metoclopramide**($\text{D}_2$ 길항 및 $5ext{-HT}_{4}$ 작용; 지연성 운동이상증 주의), **Erythromycin**(모틸린 수용체 작용제), Domperidone을 사용하고, 수술 후 구토는 수술의 **25%**에서, 주기성 구토 증후군(cyclic vomiting syndrome)은 원인불명 오심·구토의 **3–14%**에서, 임신 1삼분기 오심은 임산부의 **70%**에서 발생하며, 위무력증 진단을 위한 비방사성 $^{13}\text{C}$ 위배출 호기검사가 **2015년 FDA 승인**되었다. 항암 화학요법 유발 구토에서는 $5ext{-HT}_{3}$ **길항제(Ondansetron, Palonosetron) + $\text{NK}_1$ 길항제(Aprepitant, Fosaprepitant) + Dexamethasone** 병합요법을 사용한다.  
 > * **소화불량(Dyspepsia)과 위식도역류질환(GERD)의 접근 (pp.256–259)**:  
 > * 주간 속쓰림·역류는 인구의 **18–28%**에서 보고되고(속쓰림 환자의 **10%**는 기능성 속쓰림), 소화불량은 인구의 거의 **25%**가 연 6회 이상 겪으며 내원 환자의 **>70%**는 내시경에서 기질적 병변이 없는 내시경에서 기질적 병변이 없는 **기능성 소화불량(Functional dyspepsia: 식후 포만감 증후군 또는 상복부 통증 증후군)**이며, 나머지는 GERD, 소화성 궤양, 위암, 약물(NSAIDs)에 기인한다.  
-> * **경고 증상(Alarm features: 55~60세 이상 신규 발병, 설명되지 않는 체중 감소, 위장관 출혈/철결핍 빈혈, 진행성 연하곤란/연하통, 지속적 구토, 상복부 종괴)**이 있으면 즉시 **상부위장관 내시경(EGD)**을 시행하고, 경고 증상이 없는 젊은 환자에서는 비침습적 ***H. pylori*** **검사 후 제균 치료("Test and treat")** 또는 양성자펌프억제제(PPI) 4주 경험적 투여(*H. pylori* 유병률 \<10% 지역)를 시행한다(미조사 소화불량 내시경 시 미란성 식도염 **13%**, 소화성 궤양 **8%**, 위·식도 악성종양 **0.3%** 발견).
+> * **경고 증상(Alarm features: 55~60세 이상 신규 발병, 설명되지 않는 체중 감소, 위장관 출혈/철결핍 빈혈, 진행성 연하곤란/연하통, 지속적 구토, 상복부 종괴)**이 있으면 즉시 **상부위장관 내시경(EGD)**을 시행하고, 경고 증상이 없는 젊은 환자에서는 비침습적 **H. pylori** **검사 후 제균 치료("Test and treat")** 또는 양성자펌프억제제(PPI) 4주 경험적 투여(*H. pylori* 유병률 \<10% 지역)를 시행한다(미조사 소화불량 내시경 시 미란성 식도염 **13%**, 소화성 궤양 **8%**, 위·식도 악성종양 **0.3%** 발견).
 
 **Table 41-1, p.254**: Table 41-1 Causes of Nausea and Vomiting — 복강내 원인(기계적 폐쇄, 장관 감염, 염증성 질환, 위무력증/가성 장폐색), 복강외 원인(심폐질환, 미로 질환, 두개내압 상승, 정신과적, 수술후), 약물·대사·내분비 원인(항암제, 아편유사제, 요독증, DKA, 부신부전, 임신, 대마초 과다구토증후군) 분류표. ![[Harrison_V1_Ch41_Tab1.png]]  
-**Table 41-2, p.255**: Table 41-2 Treatment of Nausea and Vomiting — 항구토제(항히스타민제, 항콜린제, 페노티아진, 도파민 길항제, $5ext{-HT}_{3}$ 길항제, \$ ext{NK}_1\$ 길항제, 트리사이클릭, 카나비노이드), 위장관 운동촉진제(Metoclopramide, Erythromycin, Domperidone) 및 특수 상황 치료제 정리표. ![[Harrison_V1_Ch41_Tab2.png]]
-
-## ---
+**Table 41-2, p.255**: Table 41-2 Treatment of Nausea and Vomiting — 항구토제(항히스타민제, 항콜린제, 페노티아진, 도파민 길항제, $5ext{-HT}_{3}$ 길항제, $\text{NK}_1$ 길항제, 트리사이클릭, 카나비노이드), 위장관 운동촉진제(Metoclopramide, Erythromycin, Domperidone) 및 특수 상황 치료제 정리표. ![[Harrison_V1_Ch41_Tab2.png]]
 
 **5. 제42장 설사와 변비 (Chapter 42: Diarrhea and Constipation, pp. 259–269) (p.259–269)**
 
@@ -138,7 +130,7 @@ type: 의학원서_요약노트
 **Figure 42-2, p.262**: Algorithm for the management of acute diarrhea. — 급성 설사 환자의 중증도·염증 징후 유무에 따른 수액 보충, 대변 검사 및 경험적 항생제/대증 치료 알고리즘. ![[Harrison_V1_Ch42_Fig2.png]]
 
 > 1. **만성 설사 (Chronic Diarrhea, >4주)의 6대 기전과 감별 (pp.263–267, Table 42-4, Figure 42-3)**:  
-> 2. **삼투성 설사(Osmotic diarrhea)**: 유당불내증(Lactase 결핍), 마그네슘 하제, 흡수 불량 탄수화물(솔비톨, FODMAPs)에 의해 발생하며, **금식 시 설사가 멈추고** 대변 삼투압차(\$ ext{Stool osmotic gap} \= 290 - 2 imes [ ext{Stool Na}^+ + ext{K}^+] > 50 ext{ mosmol/kg}\$)가 커진다.  
+> 2. **삼투성 설사(Osmotic diarrhea)**: 유당불내증(Lactase 결핍), 마그네슘 하제, 흡수 불량 탄수화물(솔비톨, FODMAPs)에 의해 발생하며, **금식 시 설사가 멈추고** 대변 삼투압차($\text{Stool osmotic gap} \= 290 - 2 imes [\text{Stool Na}^+ +\text{K}^+] > 50\text{ mosmol/kg}$)가 커진다.  
 > 3. **분비성 설사(Secretory diarrhea)**: 금식해도 지속되는 대량 수양성 설사로 대변 삼투압차가 정상($<50extmosmol/kg$)이다. 자극성 하제 남용, 담즙산 설사(회장 절제 후), 호르몬 분비 종양(VIPoma, 카르시노이드 증후군, 가스트린종[Zollinger-Ellison], 갑상선 수질암), 현미경적 대장염(Microscopic colitis: 림프구성/교원성 대장염 — 육안 내시경은 정상이나 조직생검으로 진단, Budesonide로 치료)이 원인이다.  
 > 4. **지방변(Steatorrhea / Malabsorption)**: 72시간 대변 지방 정량 $>7extg/d$ (정상 $<7extg/d$)로, 췌장 외분비 부전(만성 췌장염), 담즙산 결핍, 소장 점막 질환(셀리악병[Celiac disease: IgA anti-tTG 항체 및 십이지장 생검], Whipple 병, 열대성 스프루)에 의해 발생한다.  
 > 5. **염증성 설사(Inflammatory)**: 궤양성 대장염, 크론병, 방사선 장염(대변 칼프로텍틴/락토페린 상승).  

@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thrombotic Disorders, Enlargement of Lymph Nodes and Spleen, and Principles of Clinical Pharmacology" aliases: - "해리슨 20판 Ch60-63" - "Disorders of Granulocytes and Monocytes" - "Bleeding and Thrombotic Disorders" - "Enlargement of Lymph Nodes and Spleen" - "Principles of Clinical Pharmacology" tags: - Harrison20e - InternalMedicine - Part2 - Part3 - Ch60-63 - Hematology - Coagulation - Lymphadenopathy - Splenomegaly - ClinicalPharmacology source_pdf: "https\://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk" source_pages: "pp. 394–428" created: "2026-10-22"
 
-# ---
-
 **📑 [Harrison 20e] Ch60–63: Disorders of Granulocytes and Monocytes, Bleeding and Thrombotic Disorders, Enlargement of Lymph Nodes and Spleen, and Principles of Clinical Pharmacology**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [해리슨 내과학 1권-1.pdf](https://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk) (분할 PDF: Harrison20e_V1_0329-0479.pdf, pp. 394–428) - **범위 경계 안내**: p.394 상단에는 **Ch 59** *Anemia and Polycythemia*의 마지막 문단(다혈구증의 진단 마무리)이 인쇄되어 있으며, 이어서 **Ch 60** Disorders of Granulocytes and Monocytes (p.394–404), **Ch 61** Bleeding and Thrombotic Disorders (p.404–411), **Ch 62** Enlargement of Lymph Nodes and Spleen (p.411–417, p.418은 백지), 그리고 Part 3 *Pharmacology*의 **Ch 63** Principles of Clinical Pharmacology (p.419–428, p.429로 이어짐)가 수록되어 있다.
@@ -21,9 +19,7 @@ title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thromboti
 
 ### **0.1 에리스로포이에틴(EPO) 정상 또는 상승 다혈구증의 감별 (p.394)**
 
-> * 적혈구 질량(RBC mass) 증가가 확인된 진성 다혈구증 환자에서 혈청 에리스로포이에틴(EPO) 수치가 상승되어 있거나 부적절하게 정상인 경우, 동맥혈 산소포화도(\$\\text{SaO}*2 \<92\\%$)저하에의한생리적이차성다혈구증(만성폐질환,우-좌심장단락,고산지대거주,수면무호흡증),흡연자에의한일산화탄소헤모글로빈상승,산소친화도가비정상적으로높은고친화성혈색소병증($\\text{O}_2\$-헤모글로빈 해리곡선의 \$P*{50}\$ 감소), 또는 EPO를 자율적으로 분비하는 종양(신세포암, 간세포암, 소뇌 혈관모세포종, 자궁 평활근종, 갈색세포종) 및 신동맥 협착·신낭종을 감별한다.
-
-## ---
+> * 적혈구 질량(RBC mass) 증가가 확인된 진성 다혈구증 환자에서 혈청 에리스로포이에틴(EPO) 수치가 상승되어 있거나 부적절하게 정상인 경우, 동맥혈 산소포화도($\text{SaO}*2 <92\%$)저하에의한생리적이차성다혈구증(만성폐질환,우-좌심장단락,고산지대거주,수면무호흡증),흡연자에의한일산화탄소헤모글로빈상승,산소친화도가비정상적으로높은고친화성혈색소병증($\text{O}_2$-헤모글로빈 해리곡선의 $P*{50}$ 감소), 또는 EPO를 자율적으로 분비하는 종양(신세포암, 간세포암, 소뇌 혈관모세포종, 자궁 평활근종, 갈색세포종) 및 신동맥 협착·신낭종을 감별한다.
 
 **1. 제60장 과립구와 단핵구 질환 (Chapter 60: Disorders of Granulocytes and Monocytes) (p.394–404)**
 
@@ -33,10 +29,10 @@ title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thromboti
 > * 다능성 조혈모세포는 G-CSF, GM-CSF, 인터루킨 3 등의 자극을 받아 골수아구(Myeloblast) → 전골수구(Promyelocyte: 미엘로퍼옥시다제[MPO], 가수분해효소, 엘라스타제, 카텝신 G, 디펜신 등을 함유한 일차/아주르친화 과립[primary azurophilic granules] 생성) → 골수구(Myelocyte: 락토페린, 비타민 ${B}_{12}$ 결합 단백질, 콜라게나제 등을 함유한 이차/특이 과립[secondary specific granules] 생성) → 후골수구(Metamyelocyte) → 띠호중구(Band) → 분엽호중구(Segmented neutrophil)로 성숙한다(Figures 60-1, 60-2, 60-4).  
 > * 중증 감염이나 염증 시에는 골수 방출이 가속화되어 말초혈액에 띠호중구가 증가(좌방 이동)하고 세포질 내 조면소포체 잔여물인 창백한 청색의 **Döhle 소체(Döhle bodies)**와 독성 과립(toxic granulations), 세포질 공포가 관찰된다(Figure 60-3).  
 > * 반면 상염색체 우성 양성 유전 질환인 **Pelger-Huët 이상(Pelger-Huët anomaly)**에서는 대부분의 과립구 핵이 안경 모양(spectacle-like / 안경 모양)의 2엽(bilobed)으로만 분엽되며 기능은 정상이다(골수이형성증후군이나 급성 감염·약물에 의한 후천적 가성 Pelger-Huët 이상과 감별해야 함, Figure 60-5).  
-> * **호산구(Eosinophil)**는 주황색-적색의 큰 굴절성 과립(주염기성 단백질[MBP], 호산구 양이온 단백질, 호산구 퍼옥시다제 함유)과 2엽 핵을 가지며 기생충 방어와 알레르기 반응에 관여하고, **호염기구(Basophil)**는 핵을 가리는 짙은 청흑색 과립(히스타민, 헤파린 함유)과 고친화성 IgE 수용체(\$\\text{Fc}\\epsilon\\text{RI}\$)를 발현한다(Figure 60-6).  
+> * **호산구(Eosinophil)**는 주황색-적색의 큰 굴절성 과립(주염기성 단백질[MBP], 호산구 양이온 단백질, 호산구 퍼옥시다제 함유)과 2엽 핵을 가지며 기생충 방어와 알레르기 반응에 관여하고, **호염기구(Basophil)**는 핵을 가리는 짙은 청흑색 과립(히스타민, 헤파린 함유)과 고친화성 IgE 수용체($\text{Fc}\epsilon\text{RI}$)를 발현한다(Figure 60-6).  
 > * **호중구의 분포 역학, 폐모세혈관 통과 및 내피 부착·살균 기전 (p.396–397, Figures 60-7, 60-8)**:  
 > * 골수 내 성숙 호중구 저장 풀(marrow reserve pool)은 말초혈액 순환 백혈구 수의 약 10배에 달하며, 말초혈액으로 나온 호중구는 순환 풀(circulating pool)과 혈관벽에 느슨하게 붙어 있는 변연 풀(marginating pool)에 절반씩 분포하다가 반감기 **6–7시간** 만에 조직으로 이동한다(Figure 60-7).  
-> * 특히 폐모세혈관 직경(약 \$5\\ \\mu\\text{m}\$)은 호중구 직경(약 \$7–8\\ \\mu\\text{m}\$)보다 작으므로 호중구가 폐모세혈관을 통과하려면 세포 변형성(deformability)이 필수적이며, 세균 내독소나 C5a 보체 활성화로 호중구가 경직(rigidity)되면 폐모세혈관에 억류되어 급성 폐손상(ARDS)을 유발할 수 있다(Figure 60-8).  
+> * 특히 폐모세혈관 직경(약 $5\ \mu\text{m}$)은 호중구 직경(약 $7–8\ \mu\text{m}$)보다 작으므로 호중구가 폐모세혈관을 통과하려면 세포 변형성(deformability)이 필수적이며, 세균 내독소나 C5a 보체 활성화로 호중구가 경직(rigidity)되면 폐모세혈관에 억류되어 급성 폐손상(ARDS)을 유발할 수 있다(Figure 60-8).  
 > * 염증 부위에서는 백혈구·내피세포의 **셀렉틴(L-, E-, P-selectin)**이 시알릴 루이스 X($CD15s$)와 결합하여 구르기(rolling)를 매개하고, 이어서 백혈구 ${\beta }_{2}$ **인테그린(CD11a/CD18, CD11b/CD18, CD11c/CD18)**이 내피세포 ICAM-1/2와 결합하여 단단한 부착 및 혈관외 유출(diapedesis)을 수행한다. 식작용 후에는 막 결합 시토크롬 ${b}_{558}$(91-kDa 및 22-kDa 소단위)과 세포질 단백질들(40, 47, 67 kDa)로 구성된 **NADPH 산화효소**가 활성화되어 초과산화물(${O}_{2}^{-}$)과 과산화수소(${H}_{2}{O}_{2}$), 차아염소산($차아염소산$)을 생성해 미생물을 살균한다.
 
 **Figure 60-1, p.394**: Schematic events in neutrophil production, recruitment, and inflammation. The four cardinal signs of inflammation — 호중구의 골수 생성, 혈관 내 이동, 염증 부위로의 유주 및 염증의 4대 징후(발적, 종창, 열감, 통증) 발생 기전 모식도. ![[Harrison_V1_Ch60_Fig1.png]]  
@@ -50,9 +46,9 @@ title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thromboti
 
 ### **1.2 호중구감소증, 호중구증가증(Table 60-2), 유전성 식세포 기능 장애 및 단핵구·호산구 질환 (Figures 60-9, 60-10) (p.397–404)**
 
-> * **호중구감소증 (Neutropenia, 성인 \$\\text{ANC} \<1,500/\\mu\\text{L}\$; 일부 흑인·중동인에서는 정상적으로 1,000–1,200/\\mu\\text{L}까지 낮을 수 있음) (p.397–399)**:  
-> * \$\\text{ANC} \<1,000/\\mu\\text{L}\$부터 감염 위험이 증가하며 **\$\<500/\\mu\\text{L}\$**에서 현저히 높아지고 **\$\<200/\\mu\\text{L}\$**에서는 염증 반응 자체가 소실된다.  
-> * **유전성 원인**: 생후 첫해 중증 호중구감소증을 보이는 상염색체 열성 **Kostmann 증후군(항세포자멸사 유전자 *HAX-1 변이), 약 21일 주기로 호중구감소증과 발열·구강 궤양이 반복되는 상염색체 우성 주기성 호중구감소증(호중구 엘라스타제 유전자 ELANE 변이)*, 연골-모발 저형성증(***RMRP ***변이), 췌장 외분비 부전과 골수부전을 동반하는*** ***Shwachman-Diamond 증후군(***SBDS* **변이)**, 성숙 호중구가 골수에 억류되는 골수보류증(myelokathexis)을 보이는 **WHIM 증후군(케모카인 수용체** *CXCR4* **변이)**, 무과립구증과 선천성 림프구감소증을 동반하는 **세망 이형성증(reticular dysgenesis —** *AK2* **변이)**.  
+> * **호중구감소증 (Neutropenia, 성인 $\text{ANC} <1,500/\mu\text{L}$; 일부 흑인·중동인에서는 정상적으로 1,000–1,200/\\mu\\text{L}까지 낮을 수 있음) (p.397–399)**:  
+> * $\text{ANC} <1,000/\mu\text{L}$부터 감염 위험이 증가하며 **$<500/\mu\text{L}$**에서 현저히 높아지고 **$<200/\mu\text{L}$**에서는 염증 반응 자체가 소실된다.  
+> * **유전성 원인**: 생후 첫해 중증 호중구감소증을 보이는 상염색체 열성 **Kostmann 증후군(항세포자멸사 유전자 *HAX-1 변이), 약 21일 주기로 호중구감소증과 발열·구강 궤양이 반복되는 상염색체 우성 주기성 호중구감소증(호중구 엘라스타제 유전자 ELANE 변이)*, 연골-모발 저형성증(**RMRP **변이), 췌장 외분비 부전과 골수부전을 동반하는** **Shwachman-Diamond 증후군(***SBDS* **변이)**, 성숙 호중구가 골수에 억류되는 골수보류증(myelokathexis)을 보이는 **WHIM 증후군(케모카인 수용체** *CXCR4* **변이)**, 무과립구증과 선천성 림프구감소증을 동반하는 **세망 이형성증(reticular dysgenesis —** *AK2* **변이)**.  
 > * **후천성 원인**: 약물 유발성(가장 흔함: 항암화학요법제, 항생제, 항갑상선제, 항경련제, 클로자핀 등), 바이러스 감염(HIV, EBV, CMV), 자가면역성(**Felty 증후군[류마티스 관절염 + 비장종대 + 호중구감소증]**), 비타민 ${B}_{12}$·엽산 결핍.  
 > * **호중구증가증 (Neutrophilia, Table 60-2) (p.399–400)**:  
 > * 골수 생성 증가(감염, 염증, 악성종양, 골수증식종양, G-CSF, 리튬), 골수 저장 풀 방출 증가(급성 감염, 스트레스, **글루코코르티코이드**), 혈관벽 변연화 감소(**운동, 에피네프린[아드레날린], 글루코코르티코이드**, ${\beta }_{2}$ 인테그린 결손인 백혈구 부착 결핍증[LAD])에 의해 발생한다(Table 60-2).
@@ -60,17 +56,15 @@ title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thromboti
 **Table 60-2, p.399**: Table 60-2 Causes of Neutrophilia — 호중구 생성 증가, 골수 방출 증가, 혈관벽 변연화 감소 및 기타 기전에 따른 호중구증가증의 원인 분류표. ![[Harrison_V1_Ch60_Tab2.png]]
 
 > * **유전성 호중구·단핵구 기능 장애 및 선천 면역 결함 (p.400–404, Figures 60-9, 60-10)**:  
-> * **백혈구 부착 결핍증 (LAD)**: **LAD 1형**(${\beta }_{2}$ 인테그린 공통 사슬 **CD18** 변이 — 제대 탈락 지연, 농[pus] 형성 없는 중증 피부·치주 감염, 지속적인 현저한 호중구증가증), **LAD 2형**(GDP-푸코스 수송체 ***SLC35C1*** 변이 — 셀렉틴 리간드 CD15s 결핍으로 구르기 장애 및 Bombay 혈액형), **LAD 3형**(인테그린 활성화 단백질 ***FERMT3*** 변이 — 백혈구 부착 장애 + 중증 혈소판 출혈 경향).  
-> * **Chédiak-Higashi 증후군 (CHS, Figure 60-9)**: 리소좀 이동 조절 유전자(***CHS1*** **/ *LYST***)의 상염색체 열성 변이로 아주르친화 과립과 특이 과립이 비정상적으로 융합되어 과립구 세포질 내 거대 과립(huge cytoplasmic granules)**이 관찰되며(Figure 60-9), 눈피부 백색증, 신경병증, 재발성 화농성 감염 및 가속기(림프조직구 증식증)를 보인다.  
+> * **백혈구 부착 결핍증 (LAD)**: **LAD 1형**(${\beta }_{2}$ 인테그린 공통 사슬 **CD18** 변이 — 제대 탈락 지연, 농[pus] 형성 없는 중증 피부·치주 감염, 지속적인 현저한 호중구증가증), **LAD 2형**(GDP-푸코스 수송체 **SLC35C1** 변이 — 셀렉틴 리간드 CD15s 결핍으로 구르기 장애 및 Bombay 혈액형), **LAD 3형**(인테그린 활성화 단백질 **FERMT3** 변이 — 백혈구 부착 장애 + 중증 혈소판 출혈 경향).  
+> * **Chédiak-Higashi 증후군 (CHS, Figure 60-9)**: 리소좀 이동 조절 유전자(**CHS1** **/ *LYST***)의 상염색체 열성 변이로 아주르친화 과립과 특이 과립이 비정상적으로 융합되어 과립구 세포질 내 거대 과립(huge cytoplasmic granules)**이 관찰되며(Figure 60-9), 눈피부 백색증, 신경병증, 재발성 화농성 감염 및 가속기(림프조직구 증식증)를 보인다.  
 > * **만성 육아종 질환 (Chronic Granulomatous Disease, CGD)**: **NADPH 산화효소** 소단위 변이(약 70%는 X-연관 91-kDa 시토크롬 ${b}_{558}$ 소단위 변이, 30%는 상염색체 열성 47-kDa, 22-kDa, 67-kDa 소단위 변이)로 초과산화물과 ${H}_{2}{O}_{2}$를 생성하지 못한다. **카탈라제 양성(Catalase-positive) 세균 및 진균(*Staphylococcus aureus*, *Burkholderia cepacia* complex, *Aspergillus* 종, *Nocardia*, *Salmonella*, 장내세균 등 장내세균)**에 의한 재발성 화농성 감염과 폐쇄성 육아종이 발생하며, 유세포분석 **디히드로로다민(DHR) 산화 검사**(또는 NBT 검사)로 진단하고 예방적 **트리메토프림-설파메톡사졸 + 이트라코나졸** 및 **인터페론-$\gamma$ (IFN-$\gamma$, 중증 감염 70% 감소)**로 치료한다.  
-> * **고면역글로불린 E-재발성 감염 증후군 (Job 증후군)**: 상염색체 우성 ***STAT3*** **변이**(안면 이상, 유치 탈락 지연, 골절, 폐기류[pneumatoceles], 포도상구균 냉농양) 및 상염색체 열성 ***DOCK8*** **변이**(중증 피부 바이러스 감염, 중추신경계 혈관염, 알레르기, 암 위험 증가).  
-> * **단핵구-대식세포 및 IFN-$\gamma$/IL-12 경로 결함 (Figure 60-10)**: 세포내 병원체(마이코박테리아[비결핵성 마이코박테리아, BCG], *Salmonella*, 히스토플라스마 등) 제어를 매개하는 대식세포(IL-12 분비)와 T/NK세포(IFN-$\gamma$ 분비) 회로의 수용체·신호전달 유전자(**IFN-$\gamma$ 수용체 1/2, IL-12, IL-12 수용체 $\beta 1$, STAT1, NEMO, IRF8, ISG15**) 변이 및 단핵구·B세포·NK세포·수지상세포 결핍과 골수이형성증/백혈병 진행을 일으키는 전사인자 ***GATA2*** **변이**를 감별한다(Figure 60-10).  
-> * **발열성 호중구감소증 환자의 관리 요약 (p.403–404)**: \$\\text{ANC} \<500/\\mu\\text{L}\$ 환자에서 단일 구강 체온 \$>38.3^\\circ\\text{C}\$ (\$101^\\circ\\text{F}\$) 또는 1시간 이상 지속되는 \$>38.0^\\circ\\text{C}\$ (\$100.4^\\circ\\text{F}\$) 발열 시 즉시 혈액배양 후 경험적 광범위 정맥 항균제를 투여하며, 4–7일간 광범위 항생제 투여 후에도 발열이 지속되면 경험적 항진균제 치료를 추가한다.
+> * **고면역글로불린 E-재발성 감염 증후군 (Job 증후군)**: 상염색체 우성 **STAT3** **변이**(안면 이상, 유치 탈락 지연, 골절, 폐기류[pneumatoceles], 포도상구균 냉농양) 및 상염색체 열성 **DOCK8** **변이**(중증 피부 바이러스 감염, 중추신경계 혈관염, 알레르기, 암 위험 증가).  
+> * **단핵구-대식세포 및 IFN-$\gamma$/IL-12 경로 결함 (Figure 60-10)**: 세포내 병원체(마이코박테리아[비결핵성 마이코박테리아, BCG], *Salmonella*, 히스토플라스마 등) 제어를 매개하는 대식세포(IL-12 분비)와 T/NK세포(IFN-$\gamma$ 분비) 회로의 수용체·신호전달 유전자(**IFN-$\gamma$ 수용체 1/2, IL-12, IL-12 수용체 $\beta 1$, STAT1, NEMO, IRF8, ISG15**) 변이 및 단핵구·B세포·NK세포·수지상세포 결핍과 골수이형성증/백혈병 진행을 일으키는 전사인자 **GATA2** **변이**를 감별한다(Figure 60-10).  
+> * **발열성 호중구감소증 환자의 관리 요약 (p.403–404)**: $\text{ANC} <500/\mu\text{L}$ 환자에서 단일 구강 체온 $>38.3^\circ\text{C}$ ($101^\circ\text{F}$) 또는 1시간 이상 지속되는 $>38.0^\circ\text{C}$ ($100.4^\circ\text{F}$) 발열 시 즉시 혈액배양 후 경험적 광범위 정맥 항균제를 투여하며, 4–7일간 광범위 항생제 투여 후에도 발열이 지속되면 경험적 항진균제 치료를 추가한다.
 
 **Figure 60-9, p.401**: Chédiak-Higashi syndrome. The granulocytes contain huge cytoplasmic granules formed from aggregation and fusion of azurophilic and specific granules. — Chédiak-Higashi 증후군 환자의 과립구 내에 아주르친화 과립과 특이 과립이 비정상적으로 응집·융합되어 형성된 거대 세포질 과립. ![[Harrison_V1_Ch60_Fig9.png]]  
 **Figure 60-10, p.402**: Lymphocyte-macrophage interactions underlying resistance to mycobacteria — 마이코박테리아 및 살모넬라 등 세포내 병원체 저항성을 매개하는 단핵구/대식세포(IL-12 분비, IFN-$\gamma$R1/R2–STAT1 신호전달)와 T/NK 림프구(IL-12R$\beta 1/\beta 2$–STAT 및 IFN-$\gamma$ 분비) 간의 상호작용 모식도. ![[Harrison_V1_Ch60_Fig10.png]]
-
-## ---
 
 **2. 제61장 출혈 및 혈전 질환 (Chapter 61: Bleeding and Thrombotic Disorders) (p.404–411)**
 
@@ -107,8 +101,6 @@ title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thromboti
 **Figure 61-6, p.409**: Coagulation factor activity tested in the activated partial thromboplastin time (aPTT) in red and prothrombin time (PT) in blue. — 활성화 부분트롬보플라스틴시간(aPTT: 내인계 XII, XI, IX, VIII 및 공통 경로)과 프로트롬빈시간(PT: 외인계 VII 및 공통 경로 X, V, II, 피브리노겐)이 평가하는 응고인자 범위 모식도. ![[Harrison_V1_Ch61_Fig6.png]]  
 **Table 61-4, p.409**: Table 61-4 Hemostatic Disorders and Coagulation Test Abnormalities — PT 단독 연장, aPTT 단독 연장, PT·aPTT 동시 연장, 그리고 PT·aPTT가 모두 정상인 지혈 장애의 감별진단표. ![[Harrison_V1_Ch61_Tab4.png]]
 
-## ---
-
 **3. 제62장 림프절 및 비장 비대 (Chapter 62: Enlargement of Lymph Nodes and Spleen) (p.411–417)**
 
 ### **3.1 림프절종대(Lymphadenopathy)의 역학, 원인 질환(Table 62-1) 및 생검 적응증 (p.411–413)**
@@ -132,8 +124,6 @@ title: "Ch60-63: Disorders of Granulocytes and Monocytes, Bleeding and Thromboti
 > * **비장절제술 후 전격성 패혈증(OPSS) 예방 (p.416–417)**: 비장절제 환자(말초혈액 도말에 Howell-Jolly 소체 출현)는 피막 보유 세균(**폐렴구균[*S. pneumoniae*], *H. influenzae* b형, 수막구균[*N. meningitidis*]**) 및 개 교상 후 그람음성균, 바베시아증에 의한 치명적 패혈증 위험이 평생 높으므로, **선택적 비장절제술 2주 전**에 폐렴구균·수막구균·*H. influenzae* b형 백신을 접종해야 한다.
 
 **Figure 62-1, p.413**: Schematic spleen structure. The spleen comprises many units of red and white pulp centered around small branches of the splenic artery, called central arteries. — 중심동맥을 둘러싼 백색속질(세동맥주위 림프초, 여포, 변연대)과 적색속질(정맥동 및 비장색)의 해부학적 구조와 혈류 경로 모식도. ![[Harrison_V1_Ch62_Fig1.png]]
-
-## ---
 
 **4. 제63장 임상약리학의 원리 (Chapter 63: Principles of Clinical Pharmacology, pp. 419–428) (p.419–428)**
 

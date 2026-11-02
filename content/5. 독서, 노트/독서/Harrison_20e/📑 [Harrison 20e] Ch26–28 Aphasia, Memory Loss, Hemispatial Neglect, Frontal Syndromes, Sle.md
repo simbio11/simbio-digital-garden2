@@ -55,8 +55,6 @@ type: 의학원서_요약노트
 
 **Figure 26-4, p.164**: Four focal dementia syndromes and their most likely neuropathologic correlates. AD, Alzheimer's disease; bvFTD, behavioral variant frontotemporal dementia; CBD, corticobasal degeneration; DLB, dementia with Lewy bodies; FTLD, frontotemporal lobar degeneration; PCA, posterior cortical atrophy; PPA, primary progressive aphasia; PSP, progressive supranuclear palsy. — 4대 초점성 치매 증후군(행동변이형[bvFTD], 시공간형[PCA], 실어증형[PPA], 기억상실형[Amnestic])의 침범 뇌 영역(외측면·내측면)과 기저 신경병리(AD, FTLD-TDP, FTLD-tau, DLB, CBD, PSP) 상관관계. ![[Harrison_V1_Ch26_Fig4.png]]
 
-## ---
-
 **2. 제27장 수면장애 (Chapter 27: Sleep Disorders, pp. 166–176) (p.166–176)**
 
 ### **2.1 수면-각성 주기의 신경생물학과 수면 구조 (Figure 27-1, Figure 27-2) (p.166–169)**
@@ -71,7 +69,7 @@ type: 의학원서_요약노트
 > * **각성 촉진계(Arousal system)**: 뇌간의 모노아민성(청반핵 노르에피네프린, 솔기핵 세로토닌, 결절유두체핵[TMN] 히스타민, 복측피개영역 도파민), 콜린성, 글루탐산성 뉴런이 시상과 대뇌 피질을 활성화하며, 외측 시상하부의 **오렉신(Orexin / Hypocretin) 뉴런**이 각성계를 안정화한다(기면증에서는 오렉신 뉴런이 소실됨).  
 > * **수면 촉진계(Sleep-promoting system)**: 시상하부 복외측 시각교차전핵(VLPO)의 **GABA 및 갈라닌(Galanin) 뉴런**이 각성 핵들을 억제한다(Figure 27-2).
 
-**Figure 27-2, p.168**: Relationship of drugs for insomnia with wake-sleep systems. The arousal system in the brain (green) includes monoaminergic, glutamatergic, and cholinergic neurons in the brainstem... Orexin neurons (blue) in the hypothalamus, which are lost in narcolepsy, reinforce and stabilize arousal... The sleep-promoting system (red) consists of GABAergic neurons in the preoptic area... — 각성계(녹색), 오렉신 안정화계(청색), 수면 촉진 GABA계(적색)의 상호작용과 불면증 약물(오렉신 수용체 길항제 Suvorexant, 히스타민 H1 길항제 Doxepin, \$ ext{GABA}_ ext{A}\$ 수용체 작용제 Zolpidem/Zaleplon/Eszopiclone/Benzodiazepines)의 작용 기전. ![[Harrison_V1_Ch27_Fig2.png]]
+**Figure 27-2, p.168**: Relationship of drugs for insomnia with wake-sleep systems. The arousal system in the brain (green) includes monoaminergic, glutamatergic, and cholinergic neurons in the brainstem... Orexin neurons (blue) in the hypothalamus, which are lost in narcolepsy, reinforce and stabilize arousal... The sleep-promoting system (red) consists of GABAergic neurons in the preoptic area... — 각성계(녹색), 오렉신 안정화계(청색), 수면 촉진 GABA계(적색)의 상호작용과 불면증 약물(오렉신 수용체 길항제 Suvorexant, 히스타민 H1 길항제 Doxepin, $\text{GABA}_\text{A}$ 수용체 작용제 Zolpidem/Zaleplon/Eszopiclone/Benzodiazepines)의 작용 기전. ![[Harrison_V1_Ch27_Fig2.png]]
 
 ### **2.2 불면증 (Insomnia), 과다주간졸음증 및 기면증 (Narcolepsy) (p.169–174)**
 
@@ -90,10 +88,8 @@ type: 의학원서_요약노트
 
 ### **2.3 하지불안증후군(RLS), 사건수면(Parasomnias) 및 일주기 리듬 수면장애 (p.174–176)**
 
-> * **하지불안증후군 (Restless Legs Syndrome, RLS) (p.174)**: 휴식/비활동 시 다리 깊은 곳에 움직이고 싶은 강한 충동과 불쾌감이 발생하고, 저녁·밤에 악화되며, 움직이면 일시적으로 완화되는 감각운동 질환이다(80%에서 수면 중 주기성 사지운동[PLMS] 동반). **저장철 결핍(혈청 Ferritin $<50ext–75extng/mL$)**, 임신, 요독증, 말초신경병증을 먼저 확인하여 철분을 보충하고, 도파민 작용제(**Pramipexole, Ropinirole, Rotigotine**) 또는 \$ lpha_2\\delta\$ 리간드(**Gabapentin, Pregabalin**)로 치료한다.  
-> * **REM 수면행동장애 (REM Sleep Behavior Disorder, RBD) (p.175)**: 뇌간 무긴장 회로의 변성으로 인해 REM 수면 중 정상적인 골격근 무긴장(Atonia)이 소실되어 꿈 내용을 실제로 행동으로 옮기며 주먹질·발길질을 하는 사건수면이다. 환자의 유병률은 70세 초과 성인의 약 2%(남성이 2배 흔함)이며 발병 12년 이내에 환자의 절반(50%)에서 **파킨슨병, 다계통위축증(MSA), 루이소체치매 등 알파-시누클레인병증(\$ lpha\$-synucleinopathy)**이 발생하며, 저용량 **Clonazepam (0.5–2.0 mg hs)** 또는 멜라토닌으로 치료한다.
-
-## ---
+> * **하지불안증후군 (Restless Legs Syndrome, RLS) (p.174)**: 휴식/비활동 시 다리 깊은 곳에 움직이고 싶은 강한 충동과 불쾌감이 발생하고, 저녁·밤에 악화되며, 움직이면 일시적으로 완화되는 감각운동 질환이다(80%에서 수면 중 주기성 사지운동[PLMS] 동반). **저장철 결핍(혈청 Ferritin $<50ext–75extng/mL$)**, 임신, 요독증, 말초신경병증을 먼저 확인하여 철분을 보충하고, 도파민 작용제(**Pramipexole, Ropinirole, Rotigotine**) 또는 $ lpha_2\delta$ 리간드(**Gabapentin, Pregabalin**)로 치료한다.  
+> * **REM 수면행동장애 (REM Sleep Behavior Disorder, RBD) (p.175)**: 뇌간 무긴장 회로의 변성으로 인해 REM 수면 중 정상적인 골격근 무긴장(Atonia)이 소실되어 꿈 내용을 실제로 행동으로 옮기며 주먹질·발길질을 하는 사건수면이다. 환자의 유병률은 70세 초과 성인의 약 2%(남성이 2배 흔함)이며 발병 12년 이내에 환자의 절반(50%)에서 **파킨슨병, 다계통위축증(MSA), 루이소체치매 등 알파-시누클레인병증($ lpha$-synucleinopathy)**이 발생하며, 저용량 **Clonazepam (0.5–2.0 mg hs)** 또는 멜라토닌으로 치료한다.
 
 **3. 제28장 안과 질환 (Chapter 28: Disorders of the Eye, pp. 177–193) (p.177–193)**
 

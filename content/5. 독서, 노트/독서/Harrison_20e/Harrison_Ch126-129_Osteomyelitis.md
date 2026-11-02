@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch126-129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute Infectious Diarrheal Diseases, and Clostridium difficile Infection" aliases: - "해리슨 20판 Ch126-129" - "Osteomyelitis" - "Intraabdominal Infections and Abscesses" - "Acute Infectious Diarrheal Diseases and Bacterial Food Poisoning" - "Clostridium difficile Infection" tags: - Harrison20e - InternalMedicine - Part5 - Ch126-129 - InfectiousDiseases - Osteomyelitis - Peritonitis - IntraabdominalAbscess - Diarrhea - ClostridiumDifficile source_pdf: "https\://drive.google.com/open?id=1hYWvp_AA0Bs9wx51lcUIPFb3OnxQpcf9" source_pages: "pp. 944–967" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 126–129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute Infectious Diarrheal Diseases, and Clostridium difficile Infection**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_0939-1108.pdf](https://drive.google.com/open?id=1hYWvp_AA0Bs9wx51lcUIPFb3OnxQpcf9) (pp. 944–967, 해리슨 내과학 1권-2.pdf) - **범위 경계 안내**: p.944 상단에는 직전 범위에서 이어지는 **Ch 125** *Infectious Arthritis*의 마지막 부분(인공관절 감염의 진단·치료 및 예방)이 인쇄되어 있으며, 이어서 **Ch 126** *Osteomyelitis* (pp. 944–952), **Ch 127** *Intraabdominal Infections and Abscesses* (pp. 952–959), **Ch 128** *Acute Infectious Diarrheal Diseases and Bacterial Food Poisoning* (pp. 959–964), **Ch 129** *Clostridium difficile Infection, Including Pseudomembranous Colitis* (pp. 964–967, 중증 전격성 CDI 치료 및 예방 말미가 p.968로 이어짐)가 수록되어 있다.
@@ -24,11 +22,12 @@ title: "Ch126-129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute
 > * **임상 양상 및 진단**: 인공관절 치환술 후 수개월~수년 뒤에 발생하는 감염은 혈행성 전파나 수술 중 접종된 저독성 균주(응고효소음성 포도상구균[CoNS], 디프테리아 유사균 등)에 기인하며 만성 관절 통증이나 방사선 사진상 인공관절 해리(loosening), 적혈구침강속도(ESR) 및 C-반응단백(CRP) 상승으로 나타난다(반면 황색포도상구균[*S. aureus*], 화농성 연쇄상구균, 장내세균 감염은 발열·통증·국소 염증을 동반한 급성 경과를 보임). 확진은 **관절 천자액의 호중구 우세 백혈구 증가와 배양**으로 이루어진다.  
 > * **치료 및 예방**: 성공적인 치료를 위해서는 대개 **인공관절 제거 및 2단계 재치환술(중간에 항생제 시멘트 스페이서 삽입 및 6주 정맥 항생제 투여)**이 필요하나, 증상 발생 수주 이내의 급성 발병 감염이고 삽입물이 안정적이며 연쇄상구균이나 메티실린 감수성 포도상구균에 의한 경우에는 **외과적 변연절제술 + 인공관절 유지 + 리팜핀(rifampin, 생물막 내 포도상구균 살균) 포함 장기 항생제 병합요법**으로 치유될 수 있다(수술 전 비강 *S. aureus* 보균 선별·탈집락화와 수술 30–60분 전 예방적 세파졸린 투여가 감염률을 낮춤).
 
-## ---
-
 **1. 제126장 골수염 (Chapter 126: Osteomyelitis) (p.944–952)**
 
 ### **1.1 분류(Cierny-Mader 체계) 및 척추 골수염(Vertebral Osteomyelitis: 표 126-1, 126-2, Figure 126-1) (p.944–948)**
+
+![[Harrison_V1_Ch126_Tab1.png]]
+![[Harrison_V1_Ch126_Tab2.png]]
 
 > * **병인에 따른 3대 분류와 급성 대 만성 골수염 (p.944–945)**:  
 > * 골수염은 1) **혈행성 전파(성인에서는 척추 골수염이 가장 흔함; 일차 감염 병소는 요로, 피부·연부조직, 혈관 카테터, 심내막염 순이나 약 절반에서만 발견됨)**, 2) **외상·수술 후 인접 부위 전파(흉골 절개, 개방 골절 정복, 인공관절 삽입)**, 3) **혈관부전이나 말초신경병증(특히 당뇨병성 족부 증후군)에 따른 이차 감염**으로 발생한다(Cierny-Mader 분류는 해부학적 부위와 숙주 동반질환·국소 혈류에 따라 층화함).  
@@ -61,8 +60,6 @@ title: "Ch126-129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute
 **Figure 126-4, p.950**: Sternal osteomyelitis caused by Staphylococcus epidermidis 5 weeks after sternotomy for aortocoronary bypass in a 72-yea — 관상동맥우회술을 위한 흉골절개술 5주 후 표피포도상구균(*Staphylococcus epidermidis*)에 의해 발생한 72세 남성의 흉골 골수염. ![[Harrison_V1_Ch126_Fig4.png]]  
 **Figure 126-5, p.951**: Neuropathic joint disease (Charcot foot) complicated by chronic foot osteomyelitis in a 78-year-old woman with diabetes — 중증 신경병증을 동반한 78세 당뇨병 여성에서 만성 족부 골수염이 합병된 신경병성 관절질환(Charcot 족부). ![[Harrison_V1_Ch126_Fig5.png]]
 
-## ---
-
 **2. 제127장 복강내 감염 및 농양 (Chapter 127: Intraabdominal Infections and Abscesses) (p.952–959)**
 
 ### **2.1 일차성(자발성)·이차성·지속성 외래 복막투석(CAPD) 복막염 (Figure 127-1, 127-2) (p.952–955)**
@@ -81,8 +78,8 @@ title: "Ch126-129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute
 
 ### **2.2 복강내 농양(*B. fragilis* 병인: Figure 127-3) 및 내장 농양(간·비장·신장주위·장요근 농양: Figure 127-4) (p.955–959)**
 
-> * ***Bacteroides fragilis*****의 농양 형성 기전과 경피적 배액 알고리즘(Figure 127-3) (p.955–956)**:  
-> * *B. fragilis*는 정상 대장 혐기성 세균의 0.5%에 불과하나 복강내 농양과 혐기성 균혈증에서 가장 흔히 분리되는데, 이는 세균 표면의 양쪽성 이온 다당류 복합체(**zwitterionic capsular polysaccharide A**)가 복강 대식세포의 종양괴사인자 $\alpha$ 및 세포간 부착분자 1(intercellular adhesion molecule 1)과 \$ ext{CD4}^+\$ T세포를 자극해 백혈구를 국소화시켜 농양을 형성하기 때문이다. 치료는 항생제와 함께 **CT/초음파 유도하 경피적 카테터 배액술(Figure 127-3)**로 감염원을 제거하는 것이며, 적절한 감염원 조절이 이루어진 경우 항생제 투여 기간은 **4–5일**로 단축할 수 있다.  
+> * **Bacteroides fragilis****의 농양 형성 기전과 경피적 배액 알고리즘(Figure 127-3) (p.955–956)**:  
+> * *B. fragilis*는 정상 대장 혐기성 세균의 0.5%에 불과하나 복강내 농양과 혐기성 균혈증에서 가장 흔히 분리되는데, 이는 세균 표면의 양쪽성 이온 다당류 복합체(**zwitterionic capsular polysaccharide A**)가 복강 대식세포의 종양괴사인자 $\alpha$ 및 세포간 부착분자 1(intercellular adhesion molecule 1)과 $\text{CD4}^+$ T세포를 자극해 백혈구를 국소화시켜 농양을 형성하기 때문이다. 치료는 항생제와 함께 **CT/초음파 유도하 경피적 카테터 배액술(Figure 127-3)**로 감염원을 제거하는 것이며, 적절한 감염원 조절이 이루어진 경우 항생제 투여 기간은 **4–5일**로 단축할 수 있다.  
 > * **내장 농양: 간농양(Figure 127-4), 비장농양, 신장·신장주위 농양, 장요근 농양 (p.956–959)**:  
 > * **간농양(Liver abscess — 전체 내장 농양의 48%, Figure 127-4)**: 과거에는 충수염 파급이 흔했으나 현재는 **담도계 질환(가장 흔함: 그람음성 장내세균, 장알균)**이 주원인이다. 동남아시아에서 시작해 전 세계로 확산된 지역사회획득 **고점액성(hypermucoviscous) *Klebsiella pneumoniae* 간농양 증후군**은 균혈증과 안구내염·수막염 등 전이성 감염을 일으킨다. 간농양 환자의 절반에서는 우상복부 징후나 황달이 없어 노인 불명열로 발현하며 가장 신뢰할 수 있는 단일 검사실 소견은 **혈청 알칼리인산분해효소(ALP) 상승(70%)**이다(아메바성 간농양은 혈청 항체 검사가 >95% 양성). 경피적 배액술 + 광범위 항생제로 치료한다.  
 > * **비장농양(Splenic abscess)**: **감염성 심내막염**에 의한 혈행성 파종(연쇄상구균, *S. aureus*; 겸상적혈구빈혈에서는 *Salmonella*)이 가장 흔하며, 사망률이 높아 다발성·다방성 농양은 **비장절제술 + 항생제**가 표준 치료다(단일 소형 \<3 cm 농양은 경피적 배액 가능).  
@@ -91,15 +88,13 @@ title: "Ch126-129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute
 **Figure 127-3, p.956**: Algorithm for the management of patients with intraabdominal abscesses by percutaneous drainage. Antimicrobial therapy s — 복강내 농양 환자의 경피적 배액술 및 동시 항균제 치료 관리 알고리즘(배액 후 24–48시간 내 해열 여부 평가). ![[Harrison_V1_Ch127_Fig3.png]]  
 **Figure 127-4, p.957**: Multilocular liver abscess on CT scan. Multiple or multilocular abscesses are more common than solitary abscesses. (Repr — 복부 CT에서 확인된 다방성(multilocular) 간농양. ![[Harrison_V1_Ch127_Fig4.png]]
 
-## ---
-
 **3. 제128장 급성 감염성 설사 및 세균성 식중독 (p.959–964) 및 제129장 *Clostridium difficile* 감염 (p.964–967)**
 
 ### **3.1 감염성 설사의 발병 기전, 임상 알고리즘(Figure 128-1), 세균성 식중독 및 여행자 설사 치료(Table 128-5) (p.959–964)**
 
-> * **감염량(Inoculum size), 장독소·세포독소·침습 기전 및 숙주 방어 (p.959–961, Table 128-1)**:  
-> * ***Shigella*****, 장출혈성 대장균(enterohemorrhagic E. coli), *Giardia lamblia*, *Entamoeba*는 불과 10–100개의 세균이나 포낭**만 섭취해도 감염되어 사람 간 직접 전파가 흔한 반면, *Vibrio cholerae*는 $1{0}^{5}–1{0}^{8}$개(위산 저하 시 $1{0}^{3}$개)가 필요하다.  
-> * **장독소(수양성 설사, 분변 백혈구/락토페린 음성)**: 콜레라 독소(CT)와 장독소성 대장균(ETEC)의 이열성 독소(LT)는 \$ ext{G}_ ext{s}\\alpha\$를 ADP-리보실화하여 **아데닐산 고리화효소–cAMP**를 활성화하고, ETEC 내열성 독소(ST)는 **구아닐산 고리화효소–환상 GMP(cyclic GMP)**를 활성화하여 은와 세포의 \$ ext{Cl}^-\$ 분비 증가 및 융모 세포의 \$ ext{Na}^+\$ 흡수 억제를 일으킨다. **세균성 식중독**: 잠복기 **1–6시간**(구토 우세: *S. aureus* 장독소[햄, 가금류, 감자/달걀 샐러드, 마요네즈, 크림 패스트리], *Bacillus cereus* 구토형 독소[볶음밥]) 대 잠복기 **8–16시간**(복통·설사 우세: *Clostridium perfringens* A형 장독소[육류, 가금류, 그레이비], *B. cereus* 설사형 독소), 그리고 히스타민 어류 중독(**스콤브로이드**: 참치·고등어·삼치 섭취 수분~1시간 내 안면 홍조·설사, 항히스타민제로 치료), 시구아테라, 마비성 패류 중독.  
+> * **감염량(Inoculum size), 장독소·세포독소·침습 기전 및 숙주 방어 (p.959–961, Table 128-1)**: ![[Harrison_V1_Ch128_Tab1.png]]  
+> * **Shigella****, 장출혈성 대장균(enterohemorrhagic E. coli), *Giardia lamblia*, *Entamoeba*는 불과 10–100개의 세균이나 포낭**만 섭취해도 감염되어 사람 간 직접 전파가 흔한 반면, *Vibrio cholerae*는 $1{0}^{5}–1{0}^{8}$개(위산 저하 시 $1{0}^{3}$개)가 필요하다.  
+> * **장독소(수양성 설사, 분변 백혈구/락토페린 음성)**: 콜레라 독소(CT)와 장독소성 대장균(ETEC)의 이열성 독소(LT)는 $\text{G}_\text{s}\alpha$를 ADP-리보실화하여 **아데닐산 고리화효소–cAMP**를 활성화하고, ETEC 내열성 독소(ST)는 **구아닐산 고리화효소–환상 GMP(cyclic GMP)**를 활성화하여 은와 세포의 $\text{Cl}^-$ 분비 증가 및 융모 세포의 $\text{Na}^+$ 흡수 억제를 일으킨다. **세균성 식중독**: 잠복기 **1–6시간**(구토 우세: *S. aureus* 장독소[햄, 가금류, 감자/달걀 샐러드, 마요네즈, 크림 패스트리], *Bacillus cereus* 구토형 독소[볶음밥]) 대 잠복기 **8–16시간**(복통·설사 우세: *Clostridium perfringens* A형 장독소[육류, 가금류, 그레이비], *B. cereus* 설사형 독소), 그리고 히스타민 어류 중독(**스콤브로이드**: 참치·고등어·삼치 섭취 수분~1시간 내 안면 홍조·설사, 항히스타민제로 치료), 시구아테라, 마비성 패류 중독.  
 > * **세포독소 및 침습(이질/염증성 설사, 분변 다형핵백혈구 및 락토페린 상승)**: *Shigella dysenteriae* 1형의 시가 독소 및 장출혈성 대장균(**O157:H7** 등)의 시가 유사 독소(Stx1, Stx2)는 리보솜 RNA를 절단해 단백질 합성을 차단하고 **용혈성 요독증후군(HUS)**을 유발한다.  
 > * **임상 평가 알고리즘(Figure 128-1) 및 수액·항생제 치료(Table 128-5) (p.961–964)**:  
 > * 비염증성 급성 수양성 설사의 치료 핵심은 포도당-전해질 능동 공동수송을 이용한 **경구 수액 보충(ORS)**과 지사제(**로페라미드** 또는 차살리실산비스무트)이다(Table 128-5; 단, **고열이나 혈변이 있는 염증성 이질 환자에서 로페라미드 등 장운동 억제제는 독성 거대결장을 유발하고, 장출혈성 대장균(O157:H7) 감염에서 항생제는 시가 독소 생성을 늘려 HUS 위험을 높이므로 모두 금기**다!).
@@ -114,9 +109,9 @@ title: "Ch126-129: Osteomyelitis, Intraabdominal Infections and Abscesses, Acute
 > * *C. difficile*의 대형 글루코실전이효소 외독소인 **독소 A (장독소, 호중구 화학주성)와 독소 B (세포독소)**는 장상피세포 내부에서 **Rho, Rac, Cdc42 단백질의 트레오닌 잔기를 글루코실화**하여 액틴 세포골격을 파괴하고 세포 사멸과 위막 형성을 일으킨다. 2000년 이후 유행한 고독성 **NAP1/BI/027 균주**는 플루오로퀴놀론 내성을 획득했고 음성 조절 유전자 결실로 정지기 배양 시 **독소 A와 B를 대조 균주보다 16–23배 많이 생성**하며 이원 독소(binary toxin, CDT)를 보유한다.
 
 **Figure 129-1, p.965**: Autopsy specimen showing confluent pseudomembranes covering the cecum of a patient with pseudomembranous colitis. Note t — 위막성 대장염 환자의 부검 표본: 맹장 점막을 덮고 있는 융합성 위막과 말단 회장의 뚜렷한 보존(화살표). ![[Harrison_V1_Ch129_Fig1.png]]  
-**Figure 129-2, p.965**: Pathogenesis model for hospital-acquired Clostridium difficile infection (CDI). At least three events are integral to C. — 병원획득 *Clostridium difficile* 감염(CDI)의 발병 기전 모델(항생제 노출에 의한 미생물총 교란 \$ o\$ 독소 생성 *C. difficile* 획득 \$ o\$ 숙주 항-독소 A IgG 항체 반응 유무에 따른 무증상 집락화 대 CDI 발병). ![[Harrison_V1_Ch129_Fig2.png]]
+**Figure 129-2, p.965**: Pathogenesis model for hospital-acquired Clostridium difficile infection (CDI). At least three events are integral to C. — 병원획득 *Clostridium difficile* 감염(CDI)의 발병 기전 모델(항생제 노출에 의한 미생물총 교란 $ o$ 독소 생성 *C. difficile* 획득 $ o$ 숙주 항-독소 A IgG 항체 반응 유무에 따른 무증상 집락화 대 CDI 발병). ![[Harrison_V1_Ch129_Fig2.png]]
 
-> * **진단(Table 129-1)과 1차 및 재발성 CDI의 표준 치료(Table 129-2) (p.966–967, p.968로 이어짐)**:  
+> * **진단(Table 129-1)과 1차 및 재발성 CDI의 표준 치료(Table 129-2) (p.966–967, p.968로 이어짐)**: ![[Harrison_V1_Ch129_Tab1.png]] ![[Harrison_V1_Ch129_Tab2.png]]  
 > * **진단 원칙**: 무증상 보균율이 높으므로 설사가 없는 환자(장마비 제외)에서는 검사를 시행하지 않으며, 치료 종료 후에도 50% 이상에서 균과 독소가 계속 검출되므로 **완치 판정 목적의 추적 대변검사(test of cure)는 절대 권장되지 않는다**. 독소 A/B 유전자 **핵산증폭검사(NAAT)**나 글루탐산 탈수소효소(GDH) 선별 후 독소 EIA 확진법을 사용한다(Table 129-1).  
 > * **1차 CDI 및 재발성 CDI 치료(Table 129-2)**:  
   * 과거 경증~중등증에 쓰이던 메트로니다졸은 치료 실패율이 높고 무작위 대조시험에서 경구 반코마이신보다 열등함이 확인되었다. 따라서 **경증~중등증 및 중증 1차 CDI는 경구 반코마이신(125 mg PO qid × 10일) 또는 경구 피닥소마이신(200 mg PO bid × 10일 — 치료율은 반코마이신과 동등하면서 재발률이 유의하게 낮음)**으로 치료한다(**정맥주사[IV] 반코마이신은 장관 내로 배설되지 않으므로 CDI 치료에 전혀 효과가 없다!**).  

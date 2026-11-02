@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs), HSV, VZV, EBV, CMV, HHV-6/7/8, and Poxvirus Infections" aliases: - "해리슨 20판 Ch186-191" - "Antiviral Chemotherapy, Excluding Antiretroviral Drugs" - "Herpes Simplex Virus Infections" - "Varicella-Zoster Virus Infections" - "Epstein-Barr Virus Infections" - "Cytomegalovirus and Human Herpesvirus Types 6, 7, and 8" - "Molluscum Contagiosum, Monkeypox, and Other Poxvirus Infections" tags: - Harrison20e - InternalMedicine - Part5 - Ch186-191 - InfectiousDiseases - AntiviralChemotherapy - HSV - VZV - EBV - InfectiousMononucleosis - CMV - HHV6 - HHV8 - Poxvirus source_pdf: "https\://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a" source_pages: "pp. 1334–1366" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 185(말미)–191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs), HSV, VZV, EBV, CMV/HHV-6/7/8, and Poxvirus Infections**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_1239-1392.pdf](https://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a) (pp. 1334–1366, 해리슨 내과학 1권-3.pdf) - **범위 경계 안내**: p. 1334 좌측 상단에는 직전 범위(pp. 1325–1333)에서 이어지는 **Ch 185** *Medical Virology*의 마지막 문단(백신·유전자 치료용 바이러스 벡터)이 수록되어 있으며, 이어서 **Ch 186** *Antiviral Chemotherapy, Excluding Antiretroviral Drugs* (pp. 1334–1345), **Ch 187** *Herpes Simplex Virus Infections* (pp. 1345–1354), **Ch 188** *Varicella-Zoster Virus Infections* (pp. 1354–1357), **Ch 189** *Epstein-Barr Virus Infections, Including Infectious Mononucleosis* (pp. 1358–1361), **Ch 190** *Cytomegalovirus and Human Herpesvirus Types 6, 7, and 8* (pp. 1361–1366), 그리고 **Ch 191** *Molluscum Contagiosum, Monkeypox, and Other Poxvirus Infections*의 전반부(p. 1366, 폭스바이러스 분류 및 전염성 연속종 임상 양상까지; 진단·치료 및 원숭이두창 등은 p. 1367로 이어짐)가 수록되어 있다.
@@ -22,6 +20,8 @@ title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs),
 **※ 제185장 말미 요약 (p. 1334 상단)**: 아데노바이러스·인플루엔자 바이러스·아데노부속바이러스(AAV)·렌티바이러스 벡터가 실험적 백신 및 유전자 치료에 연구되고 있으나 면역 반응과 종양원성·치명적 합병증 위험에 대한 주의가 필요하다.
 
 ### **1.1 호흡기 바이러스에 활성인 항바이러스제 (Table 186-1) (pp.1334–1339)**
+
+![[Harrison_V1_Ch186_Tab1.png]]
 
 > 1. **뉴라미니다아제 억제제(Neuraminidase Inhibitors: Zanamivir, Oseltamivir, Peramivir, Laninamivir)** (pp. 1334–1338):  
 > 2. **작용 기전**: 인플루엔자 A 및 B 바이러스의 표면 당단백질인 **뉴라미니다아제(neuraminidase)**가 숙주 세포 표면 수용체의 말단 시알산(sialic acid) 잔기를 절단하는 것을 차단하는 전이 상태 유사체(transition-state analogues)로서, 감염 세포로부터의 바이러스 방출과 호흡기 내 확산을 억제한다.  
@@ -93,7 +93,7 @@ title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs),
 **Figure 187-1, p.1348**: Genital herpes: primary vulvar infection, with multiple, extremely painful, punched-out, confluent, shallow ulcers on the edematous vulva and perineum. — 부종성 외음부와 회음부에 다발성의 극심한 통증을 동반한 융합성 얕은 궤양을 보이는 원발성 외음부 성기포진. ![[Harrison_V1_Ch187_Fig1.png]]  
 **Figure 187-2, p.1349**: Computed tomography and diffusion-weighted magnetic resonance imaging scans of the brain of a patient with left-temporal-lobe herpes simplex virus encephalitis. — 좌측 측두엽 단순포진바이러스(HSV) 뇌염 환자의 뇌 CT 및 확산강조 MRI 영상. ![[Harrison_V1_Ch187_Fig2.png]]
 
-> 1. **진단 및 항바이러스 치료(Table 187-1)** (pp. 1351–1353):  
+> 1. **진단 및 항바이러스 치료(Table 187-1)** (pp. 1351–1353): ![[Harrison_V1_Ch187_Tab1.png]]  
 > 2. **진단**: 병변 기저부 찰과물의 **PCR**(배양보다 민감도 우수), 세포배양, DFA 염색, 그리고 당단백질 G(gG1 vs gG2) 기반 형특이 혈청검사.  
 > 3. **주요 임상 상황별 표준 치료 요법(Table 187-1)**:  
    * **초감염 성기포진**: **Acyclovir** (400 mg tid 또는 200 mg 1일 5회 7–10일), **Valacyclovir** (1 g bid 7–10일), 또는 **Famciclovir** (250 mg tid 7–10일).  
@@ -132,7 +132,7 @@ title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs),
 > 2. **정상 면역 숙주의 대상포진(발진 발생 ≤72시간 이내 시작 권장)**: **Valacyclovir (1 g PO tid 7일)**, **Famciclovir (500 mg PO tid 7일)**, 또는 **Acyclovir (800 mg PO 1일 5회 7–10일)**. 발라시클로비르와 팜시클로비르는 급성 통증 및 PHN 단축에 아시클로비르와 동등 이상으로 효과적이며 복약 편의성이 높다. PHN 통증 조절에는 가바펜틴, 프레가발린, 아미트립틸린, 리도카인 패치 등을 사용한다.  
 > 3. **정상 면역 숙주의 수두**: 12세 이하 소아는 발진 24시간 이내 **Acyclovir (20 mg/kg q6h, 최대 800 mg 1일 4회 5일)**, 청소년·성인은 **Acyclovir (800 mg PO 1일 5회 5–7일)**, Valacyclovir(1 g tid), 또는 Famciclovir(250 mg tid).  
 > 4. **면역저하자의 수두 또는 대상포진**: **Acyclovir 10 mg/kg IV q8h 7일 이상** 정주한다.  
-> 5. **예방: 백신 및 수두-대상포진 면역글로불린(VZIG, Table 188-1)** (p. 1357):  
+> 5. **예방: 백신 및 수두-대상포진 면역글로불린(VZIG, Table 188-1)** (p. 1357): ![[Harrison_V1_Ch188_Tab1.png]]  
 > 6. **예방접종**: 소아 수두 생백신(Oka 균주, 2회 접종), 그리고 대상포진 예방을 위한 고역가 생백신(Zostavax, Oka 균주 18배 함량, ≥60세) 및 **보조제 첨가 재조합 당단백질 E 아단위 백신(Shingrix, HZ/su — ≥50세에서 97%, ≥70세에서 90% 예방 효능으로 ACIP에서 생백신보다 우선 권고)**.  
 > 7. **VZIG(VariZIG) 노출 후 수동면역(Table 188-1)**: VZV 면역이 없으면서 중증 수두 고위험군(면역결핍자, 임산부, 분만 전 5일~분만 후 2일 사이에 수두가 발병한 산모의 신생아, 입원 미숙아)이 유의한 노출을 겪은 경우 노출 후 **가급적 72시간 이내(최대 96시간, 최근 기준 최대 10일까지)**에 투여한다.
 
@@ -143,7 +143,7 @@ title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs),
 > 1. **역학 및 병인** (p. 1358):  
 > 2. EBV(HHV-4)는 감마헤르페스바이러스로 전 세계 성인의 90–95%가 감염되어 있다. 유소아기 초감염은 대개 무증상이나, 청소년·청년기 초감염의 **50–75%**에서 **전염성 단핵구증(Infectious Mononucleosis, IM)**이 발병한다(구강 분비물/타액 전파).  
 > 3. 편도 상피세포 감염 후 편도 크립트 내 B세포 표면의 **CD21(보체 수용체 CR2)**에 결합해 감염시키며, 기억 B세포 내에서 환상 에피솜(episome) 형태로 평생 잠복한다(잠복기에는 EBNA와 LMP만 발현). 이에 대응해 **활성화된 다클론성 CD8+ T세포(비정형 림프구, atypical lymphocytes)**가 왕성하게 증식하여 IM의 임상 증상을 유발한다.  
-> 4. **임상 양상(Table 189-1) 및 연관 질환** (pp. 1358–1360):  
+> 4. **임상 양상(Table 189-1) 및 연관 질환** (pp. 1358–1360): ![[Harrison_V1_Ch189_Tab1.png]]  
 > 5. **전염성 단핵구증(IM)**: 잠복기 **4–6주** 후 전구 증상(1–2주)에 이어 **발열(93%)**, **인후통/삼출성 인두편도염(75–82%)**, **대칭성 압통성 후경부 림프절병증(95%)**, **비종대(51% — 발병 2–3주 차에 가장 뚜렷하며 외상성 비장 파열 위험이 \<0.5% 있으므로 발병 후 첫 1개월간 격렬한 신체활동/접촉 스포츠 금기!)**, 안검부종(13%), 구개 점상출혈(5–13%), 발진(~5%, 페니실린/암피실린 투여 시 반점구진성 발진 빈도 증가, Figure 189-1)이 나타난다.  
 > 6. **혈액 및 면역학적 이상**: 백혈구 증가(10,000–20,000/\\mu\\text{L}), **비정형 림프구(atypical lymphocytes >10%, Figure 189-2)**, 간효소 상승(>90%), 경미한 혈소판감소증(~50%), **항-i 한랭응집소에 의한 자가면역 용혈성 빈혈(2%, 발병 첫 2주 내)**.  
 > 7. **면역저하자 및 EBV 연관 종양**:  
@@ -194,7 +194,7 @@ title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs),
 > 1. **원인균, 역학 및 병리** (pp. 1361–1362):  
 > 2. **CMV(HHV-5)**는 가장 큰 유전체(230 kbp 선형 dsDNA)를 가진 베타헤르페스바이러스로, 감염된 세포가 주변 세포보다 2–4배 커지고 투명한 할로(halo)로 둘러싸인 8–10 \\mu\\text{m} 크기의 편심성 핵내 봉입체를 형성하여 특징적인 **"올빼미 눈(owl's eye)"** 모양의 거대세포(cytomegalic cells)를 만든다.  
 > 3. 미국 신생아의 ~1%가 선천성으로 감염되며, 모유·타액·소변·성접촉·백혈구 함유 혈액 수혈(0.14–10%/단위, 백혈구제거 혈액 또는 CMV 음성 혈액으로 예방) 및 장기이식을 통해 전파된다.  
-> 4. **임상 양상(Table 190-1)** (pp. 1362–1364):  
+> 4. **임상 양상(Table 190-1)** (pp. 1362–1364): ![[Harrison_V1_Ch190_Tab1.png]]  
 > 5. **선천성 CMV 감염(거대세포 봉입체 질환)**: 임신 중 초감염 산모 신생아의 5–20%에서 증상이 나타나며(점상출혈·간비종대·황달 60–80%, 소두증·뇌실주위 석회화·자궁내 성장지연 30–50%, 맥락망막염), 출생 시 무증상인 영아의 5–25%에서도 추후 **감각신경성 난청**이나 정신운동 장애가 발생한다.  
 > 6. **정상 면역 숙주의 CMV 단핵구증**: 성생활을 하는 젊은 성인에서 잠복기 20–60일 후 2–6주간 지속되는 고열·피로·비종대·비정형 림프구증(>10%)을 보이나, EBV 단핵구증과 달리 **삼출성 인두염과 경부 림프절병증은 드물고 이종친화항체(heterophile antibody)는 음성**이다.  
 > 7. **면역저하자의 CMV 질환(Table 190-1)**:  
@@ -218,7 +218,7 @@ title: "Ch185(End)-191: Antiviral Chemotherapy (Excluding Antiretroviral Drugs),
 
 ## **6. 제191장 전염성 연속종, 원숭이두창 및 기타 폭스바이러스 감염 — 전반부 (p.1366)**
 
-> 1. **폭스바이러스(Poxviridae)의 분류 및 특징(Table 191-1)** (p. 1366):  
+> 1. **폭스바이러스(Poxviridae)의 분류 및 특징(Table 191-1)** (p. 1366): ![[Harrison_V1_Ch191_Tab1.png]]  
 > 2. 직경 200–400 nm의 벽돌 모양(Orthopoxvirus, Molluscipoxvirus, Yatapoxvirus) 또는 타원형(Parapoxvirus) 대형 외피 보유 선형 dsDNA 바이러스(130–300 kbp)로, 자체 전사 효소를 보유하여 **감염된 숙주 세포의 세포질(cytoplasm) 내에서 복제**한다.  
 > 3. **인간 감염 폭스바이러스(Table 191-1)**:  
    * *Orthopoxvirus*: 두창 바이러스(Variola — 1980년 WHO 박멸 선언), 백시니아(Vaccinia), 원숭이두창(Monkeypox), 우두(Cowpox), 버팔로두창(Buffalopox).  

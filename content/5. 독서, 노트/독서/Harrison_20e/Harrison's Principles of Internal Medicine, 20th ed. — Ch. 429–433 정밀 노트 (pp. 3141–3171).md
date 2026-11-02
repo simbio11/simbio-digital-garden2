@@ -17,8 +17,6 @@ type: 의학원서_요약노트
 
 ## **1. 제428장 말미: 윌슨병 완결, 뇌철축적신경변성 및 심인성 이상운동질환 (p. 3141)**
 
-### ---
-
 **1.1 윌슨병(Wilson's Disease, WD)의 신경병리·진단·치료 (p. 3141)**
 
 > * **신경병리(Neuropathology) (p. 3140에서 이어짐)**: 기저핵(basal ganglia), 특히 선조체(striatum)의 신경변성(neurodegeneration) 및 별아교세포증(astrogliosis)이 특징적이다.  
@@ -58,8 +56,6 @@ type: 의학원서_요약노트
 
 ## **2. 제429장 근위축측삭경화증 및 기타 운동신경세포 질환 (Amyotrophic Lateral Sclerosis and Other Motor Neuron Diseases) (pp. 3141–3148)**
 
-### ---
-
 **2.1 병리 (Pathology) (p. 3142)**
 
 > * **근위축측삭경화증(ALS)의 정의 및 병리적 특징**:  
@@ -90,7 +86,7 @@ Figure 429-1 Amyotrophic lateral sclerosis. Axial T2-weighted magnetic resonance
 > * **피질척수길(상위운동신경세포) 침범 우세 시**: 근육신장반사(힘줄반사)의 항진 및 흔히 침범된 사지의 수동 운동에 대한 경직성 저항(spastic resistance)이 나타난다. 반사 항진이 뚜렷한 환자는 위약 정도에 비해 과도한 근육 뻣뻣함(stiffness)을 호소한다. 뇌줄기를 지배하는 피질연수길(corticobulbar projections)의 변성은 구음장애(dysarthria) 및 정서 운동 표현의 과장을 유발하여 비자발적이고 과도한 울음이나 웃음(**거짓구마비 정동[pseudobulbar affect]**)을 초래한다.  
 > * **경과**: 어떤 근육군이든 처음 징후를 보일 수 있으나 시간이 지나면서 점점 더 많은 근육이 침범되어 궁극적으로 모든 부위에서 대칭적 분포를 띤다. 초기 질환이 상위 또는 하위운동신경세포 중 어디에서 시작하든 결국 두 유형 모두 침범되는 것이 ALS의 특징이다. 말기 단계에서도 감각, 장·방광, 인지 기능은 보존되며, 중증 뇌줄기 질환이 있어도 안구 운동은 극말기까지 보존된다(단, 특히 가족성 증례 등 일부에서는 전두엽 기능장애를 시사하는 조기 행동 이상을 특징으로 하는 FTD가 동시 발생함).
 
-| 구분 (Table 429-2 Sporadic Motor Neuron Diseases) | 세부 질환 (Entity)   |
+| 구분 (Table 429-2 Sporadic Motor Neuron Diseases) | 세부 질환 (Entity)   | ![[Harrison_V2_Ch429_Tab2.png]]  
 | :---- | :---- |
 | **만성 (Chronic) — 상위 및 하위운동신경세포** | 근위축측삭경화증(Amyotrophic lateral sclerosis) |
 | **만성 — 상위운동신경세포 우세** | 원발성 측삭경화증(Primary lateral sclerosis) |
@@ -116,9 +112,9 @@ Figure 429-1 Amyotrophic lateral sclerosis. Axial T2-weighted magnetic resonance
 > * **가족성 ALS (Familial ALS, FALS) (pp. 3143–3145)**:  
 > * 상염색체 우성 유전을 제외하면 임상적으로 산발성 ALS와 구별할 수 없다.  
 > * 주요 원인 유전자 및 비율:  
-  * ***C9orf72*****(9번 염색체 open reading frame 72)**: FALS의 **약 45~50%(~45–50%)**(Table 429-3에서는 40–50% FALS) 및 산발성 ALS의 약 **5%**를 차지한다.  
-  * ***SOD1*****(세포질 효소 superoxide dismutase)**: FALS의 **20%**를 설명한다.  
-  * ***TDP43*****(*TARDBP* 유전자 부호화 RNA 결합 단백질)** 및 ***FUS/TLS*****(fused in sarcoma/translocated in liposarcoma)**: 각각 FALS의 약 **5%**를 차지한다.  
+  * **C9orf72****(9번 염색체 open reading frame 72)**: FALS의 **약 45~50%(~45–50%)**(Table 429-3에서는 40–50% FALS) 및 산발성 ALS의 약 **5%**를 차지한다.  
+  * **SOD1****(세포질 효소 superoxide dismutase)**: FALS의 **20%**를 설명한다.  
+  * **TDP43****(*TARDBP* 유전자 부호화 RNA 결합 단백질)** 및 **FUS/TLS****(fused in sarcoma/translocated in liposarcoma)**: 각각 FALS의 약 **5%**를 차지한다.  
   * 기타 유전자(*optineurin* [*OPTN*], *TBK1*, *profilin-1* [*PFN1*] 등): 각각 약 **1%(~1%)**의 증례를 유발한다.  
 > * 기타 유전성 변형: 소포 결합 단백질(vesicle-binding protein, *VAPB*) 돌연변이(ALS 표현형 모방 우성 유전 질환), 헬리카아제인 *senataxin* (*SETX*) 돌연변이(초기 성인 발병, 서서히 진행하는 ALS 변형), 케네디 증후군(Kennedy's syndrome; 성인 발병 X-연관 질환), 타우(*MAPT*) 유전자 돌연변이(대개 FTD를 유발하나 일부에서 현저한 운동신경세포 소견 동반), 그리고 생애 첫 10년 내에 시작되어 서서히 장애를 유발하는 상위운동신경세포 우세 변성 질환인 *alsin* (*ALS2*, 구아닌 교환 인자[guanine-exchange factor] 특성을 지닌 신호전달 분자) 돌연변이가 있다.
 
@@ -130,7 +126,7 @@ Table 429-3 Genetic Motor Neuron Diseases (Continued) (pp. 3144–3145) ![[Harri
 > * ALS는 현재 근본적 완치가 불가능하므로 치료 가능한 이차성 운동신경세포 기능장애 원인을 반드시 배제해야 한다(Table 429-1). 특히 ① 상위 또는 하위운동신경세포 중 한쪽에만 국한된 경우, ② 운동신경세포 이외의 신경세포가 침범된 경우, ③ 전기생리학적 검사상 운동신경 전도차단(conduction block) 증거가 있는 비전형적 증례에서 더욱 그러하다.  
 > * **경수 또는 경수연수 접합부 압박**: 경추 부위나 큰구멍(foramen magnum) 종양, 또는 척추관 내로 돌출된 골극(osteophytes)을 동반한 경추 척추증(cervical spondylosis)은 상지의 위약, 소모, 근섬유다발수축과 하지의 경직을 유발하여 ALS와 매우 유사할 수 있다. 뇌신경 침범 부재가 감별에 도움이 되나 일부 큰구멍 병터는 제12뇌신경(혀밑신경)을 압박하여 혀 마비를 유발할 수 있다. 통증이나 감각 변화의 부재, 정상 장·방광 기능, 정상 척추 영상 및 정상 뇌척수액(CSF) 소견은 모두 ALS를 시사한다. 의심스러울 때는 경수 시각화를 위해 MRI 및 필요시 조영 척수조영술(contrast myelography)을 시행해야 한다.  
 > * **전도차단을 동반한 다초점 운동신경병증(MMCB)**, **혈액학적 질환(림프종, 다발골수종)** 연관 미만성 하위운동 축삭 신경병증(혈청 M-성분 존재 시 골수 생검 고려), **라임병(Lyme disease)**(심한 근위부 사지 통증 및 CSF 세포증가증 동반 하위운동 축삭 신경병증), **만성 납 중독(chronic lead poisoning)** 및 **갑상선중독증(thyrotoxicosis)**을 감별해야 한다.  
-> * 가족력이 양성인 경우 *C9orf72*, 세포질 *SOD1*, *TDP43*, *FUS/TLS* 및 성인 헥소사미니다아제 A(hexosaminidase A) 또는 \$ lpha$-글루코시다아제($ lpha\$-glucosidase) 결핍증을 배제해야 한다.  
+> * 가족력이 양성인 경우 *C9orf72*, 세포질 *SOD1*, *TDP43*, *FUS/TLS* 및 성인 헥소사미니다아제 A(hexosaminidase A) 또는 $ lpha$-글루코시다아제($ lpha$-glucosidase) 결핍증을 배제해야 한다.  
 > * **양성 근섬유다발수축(Benign fasciculations)**: 위약, 위축 또는 전기생리학적 검사상 탈신경 현상이 없으면 ALS나 다른 심각한 신경계 질환을 배제할 수 있다.  
 > * **소아마비 후 증후군**: 소아마비에서 회복된 환자가 지연성 운동신경세포 악화로 진행성 위약, 위축, 근섬유다발수축을 보일 수 있으며, 폴리오바이러스에 의한 이전의 아치사성(sublethal) 운동신경세포 손상을 반영하는 것으로 추정된다.  
 > * 드물게 파킨슨증이나 전두측두엽 치매(특히 *C9orf72* 돌연변이나 뇌 내 타우 단백질 발현을 변화시키는 돌연변이), 또는 만성 외상성 뇌병증(chronic traumatic encephalopathy; 운동신경세포 내 TDP43 및 신경원섬유매듭 침착 동반)에서 ALS 유사 질환이 동반될 수 있다.  
@@ -152,7 +148,7 @@ Table 429-3 Genetic Motor Neuron Diseases (Continued) (pp. 3144–3145) ![[Harri
 
 > * **선택적 하위운동신경세포 질환 (Selected Lower Motor Neuron Disorders) (p. 3147)**:  
 > * **X-연관 척수연수 근위축증(X-Linked Spinobulbar Muscular Atrophy, 케네디병[Kennedy's Disease])**: 중년 남성에서 사지 및 연수 근육의 진행성 위약과 소모가 시작되며 여성형유방(gynecomastia) 및 생식능력 저하로 발현하는 안드로겐 무감응(androgen insensitivity)이 동반되는 X-연관 하위운동신경세포 질환이다. 피라미드길 질환 징후(경직)의 부재와 일부 환자에서 나타나는 미세한 감각신경병증이 ALS와의 감별점이다. X 염색체 안드로겐 수용체(*AR*) 유전자 첫 번째 엑손의 삼염기 반복(**-CAG-**) 확장이 원인이며, CAG 반복 횟수와 발병 연령 간에는 역상관관계가 있다.  
-> * **성인 테이-삭스병(Adult Tay-Sachs Disease)**: \$ eta$-헥소사미니다아제($ eta\$-hexosaminidase, hex A) 효소 결핍으로 발생하는 성인 발병 하위운동신경병증 우세 질환이다. 매우 서서히 진행하며 구음장애와 영상학적으로 뚜렷한 소뇌 위축이 현저할 수 있어 ALS와 구별된다(드물게 경직이 있을 수 있으나 대개 없음).  
+> * **성인 테이-삭스병(Adult Tay-Sachs Disease)**: $ eta$-헥소사미니다아제($ eta$-hexosaminidase, hex A) 효소 결핍으로 발생하는 성인 발병 하위운동신경병증 우세 질환이다. 매우 서서히 진행하며 구음장애와 영상학적으로 뚜렷한 소뇌 위축이 현저할 수 있어 ALS와 구별된다(드물게 경직이 있을 수 있으나 대개 없음).  
 > * **척수근위축증(Spinal Muscular Atrophy, SMA)**: 조기 발병하는 선택적 하위운동신경세포 질환군으로, 대다수 가계의 결함은 핵막을 가로지르는 RNA 복합체의 형성과 수송에 중요한 **SMN(survival motor neuron)** 단백질의 소실이다.  
   * **영아형 SMA (SMA I, Werdnig-Hoffmann disease)**: 가장 조기에 발병(임신 제3삼분기 후반 태동 감소로 출생 전에도 인지 가능)하고 가장 빠르게 치명적인 경과를 밟는다. 각성 상태는 유지되나 위약과 근육긴장저하(floppy, hypotonic)를 보이며 근육신장반사가 없고 대개 생후 1년 이내에 사망한다.  
   * **만성 소아형 SMA (SMA II)**: 소아기 후반에 시작하여 더 서서히 진행한다.  
@@ -169,27 +165,25 @@ Table 429-3 Genetic Motor Neuron Diseases (Continued) (pp. 3144–3145) ![[Harri
 
 ## **3. 제430장 프리온 질환 (Prion Diseases) (pp. 3148–3154)**
 
-### ---
-
 **3.1 프리온의 개념, 구조 및 프리온 질환의 스펙트럼 (pp. 3148–3149)**
 
 > * **프리온(Prion)의 정의 및 개요 (p. 3148)**:  
 > * 프리온은 자가 증식(self-propagating)하는 대체 입체구조(alternative conformation)를 채택하는 단백질이다.  
-> * 크로이츠펠트-야콥병(Creutzfeldt-Jakob disease, CJD)은 \$ ext{PrP}^{ ext{Sc}}\$ 프리온의 축적으로 발생하며, 최근 연구는 **\$ lpha$-시누클레인프리온($ lpha\$-synuclein prions)**이 **다계통위축증(multiple system atrophy, MSA)**을 유발함을 명확히 입증했다(최대 20년간 포르말린에 보관된 인간 뇌 표본에서 감염성 MSA 프리온이 회수되었으며, 이는 양의 스크래피[scrapie] 뇌 표본과 유사한 포르말린 저항성임). 또한 \$ ext{A} eta\$ 프리온은 알츠하이머병(AD)에, \$ lpha\$-시누클레인 프리온은 파킨슨병(PD)에, 타우(tau) 프리온은 일부 전두측두엽 치매(FTD)에 기여한다는 증거가 증가하고 있다.  
+> * 크로이츠펠트-야콥병(Creutzfeldt-Jakob disease, CJD)은 $\text{PrP}^{\text{Sc}}$ 프리온의 축적으로 발생하며, 최근 연구는 **$ lpha$-시누클레인프리온($ lpha$-synuclein prions)**이 **다계통위축증(multiple system atrophy, MSA)**을 유발함을 명확히 입증했다(최대 20년간 포르말린에 보관된 인간 뇌 표본에서 감염성 MSA 프리온이 회수되었으며, 이는 양의 스크래피[scrapie] 뇌 표본과 유사한 포르말린 저항성임). 또한 $\text{A} eta$ 프리온은 알츠하이머병(AD)에, $ lpha$-시누클레인 프리온은 파킨슨병(PD)에, 타우(tau) 프리온은 일부 전두측두엽 치매(FTD)에 기여한다는 증거가 증가하고 있다.  
 > * CJD는 전형적으로 급속 진행성 치매(rapidly progressive dementia) 및 운동 이상으로 발현하며, 가차 없이 진행하여 대개 **발병 9개월 이내(within 9 months of onset)**에 사망한다. CJD 환자의 대다수는 **50~75세**이나, 최연소 17세부터 최고령 83세까지 기록되어 있다.  
-> * **\$ ext{PrP}^{ ext{C}}\$에서 \$ ext{PrP}^{ ext{Sc}}\$로의 전환 및 4대 핵심 개념 (p. 3148)**:  
-> * PrP 프리온은 정상 세포 동형 단백질인 \$ ext{PrP}^{ ext{C}}\$(cellular isoform; \$ lpha\$-나선 풍부, \$ eta\$-구조 적음)에 결합하여 이를 질환 유발 동형인 **\$ ext{PrP}^{ ext{Sc}}\$**(\$ lpha\$-나선 적음, \$ eta\$-구조 풍부)로 전환시킴으로써 증식한다(Fig. 430-1).  
+> * **$\text{PrP}^{\text{C}}$에서 $\text{PrP}^{\text{Sc}}$로의 전환 및 4대 핵심 개념 (p. 3148)**:  
+> * PrP 프리온은 정상 세포 동형 단백질인 $\text{PrP}^{\text{C}}$(cellular isoform; $ lpha$-나선 풍부, $ eta$-구조 적음)에 결합하여 이를 질환 유발 동형인 **$\text{PrP}^{\text{Sc}}$**($ lpha$-나선 적음, $ eta$-구조 풍부)로 전환시킴으로써 증식한다(Fig. 430-1).  
 > * PrP 프리온 연구에서 도출된 4가지 새로운 개념:  
   1. 프리온은 **핵산(nucleic acid)이 없는 유일하게 알려진 전파 가능 병원체**이다.  
   2. 프리온 질환은 **감염성(infectious), 유전성(genetic), 또는 산발성(sporadic)** 질환으로 발현할 수 있다.  
-  3. 프리온 질환은 전구체인 \$ ext{PrP}^{ ext{C}}\$와 입체구조가 현저히 다른 \$ ext{PrP}^{ ext{Sc}}\$의 축적으로 발생한다.  
-  4. 서로 다른 프리온 균주(strains)는 후성유전학적으로 유전되는(epigenetically inherited) 서로 다른 생물학적 특성을 보인다(즉, \$ ext{PrP}^{ ext{Sc}}\$는 특정 질환 표현형을 지정하는 다양한 입체구조로 존재할 수 있음).
+  3. 프리온 질환은 전구체인 $\text{PrP}^{\text{C}}$와 입체구조가 현저히 다른 $\text{PrP}^{\text{Sc}}$의 축적으로 발생한다.  
+  4. 서로 다른 프리온 균주(strains)는 후성유전학적으로 유전되는(epigenetically inherited) 서로 다른 생물학적 특성을 보인다(즉, $\text{PrP}^{\text{Sc}}$는 특정 질환 표현형을 지정하는 다양한 입체구조로 존재할 수 있음).
 
 Figure 430-1 Structures of PrP prion proteins. A. Nuclear magnetic resonance structure of Syrian hamster recombinant (rec) PrP(90-231). Presumably, the structure of the α-helical form of recPrP(90-231) resembles that of PrPC. recPrP(90-231) is viewed from the interface where PrPSc is thought to bind to PrPC. Shown are α-helices A (residues 144–157), B (172–193), and C (200–227). Flat ribbons depict β-strands S1 (129–131) and S2 (161–163). B. Structural model of PrPSc. The 90–160 region has been modeled onto a β-helical architecture while the COOH terminal helices B and C are preserved as in PrPC. (p. 3148) ![[Harrison_V2_Ch430_Fig1.png]]  
-Table 430-1 Glossary of PrP Prion Terminology (p. 3149) ![[Harrison_V2_Ch43_Tab0.png]]
+Table 430-1 Glossary of PrP Prion Terminology (p. 3149) ![[Harrison_V2_Ch43_Tab0.png]] ![[Harrison_V2_Ch430_Tab1.png]]  
 
-> * **인간 및 동물 PrP 프리온 질환의 스펙트럼 (pp. 3148–3149, Table 430-2)**:  
-> * **산발성 CJD (sCJD)**: 인간 프리온 질환의 가장 흔한 형태로 전체 인간 PrP 프리온 질환의 **약 85%(~85%)**를 차지한다(산발성 치명적 불면증[sFI] 포함 시 체세포 돌연변이 또는 \$ ext{PrP}^{ ext{C}}\$의 자발적 \$ ext{PrP}^{ ext{Sc}}\$ 전환 추정).  
+> * **인간 및 동물 PrP 프리온 질환의 스펙트럼 (pp. 3148–3149, Table 430-2)**: ![[Harrison_V2_Ch430_Tab2.png]]  
+> * **산발성 CJD (sCJD)**: 인간 프리온 질환의 가장 흔한 형태로 전체 인간 PrP 프리온 질환의 **약 85%(~85%)**를 차지한다(산발성 치명적 불면증[sFI] 포함 시 체세포 돌연변이 또는 $\text{PrP}^{\text{C}}$의 자발적 $\text{PrP}^{\text{Sc}}$ 전환 추정).  
 > * **유전성 프리온 질환**: 전체의 **10~15%**를 차지하며, 가족성 CJD(fCJD), 게르스트만-슈트로이슬러-샤잉커병(Gerstmann-Sträussler-Scheinker disease, GSS), 치명적 가족성 불면증(fatal familial insomnia, FFI; *PRNP* D178N, M129 생식세포 돌연변이)은 모두 *PRNP* 유전자 돌연변이에 의한 상염색체 우성 유전 질환이다.  
 > * **감염성 PrP 프리온 질환**: 전체의 **1% 미만(\<1%)**을 차지한다.  
   * **쿠루(Kuru)**: 뉴기니 포레족(Fore people)에서 의식적 식인 풍습(ritualistic cannibalism) 중 사망한 친척의 뇌를 섭취하여 발생했으며, 1950년대 후반 식인 풍습 중단 후 거의 사라졌으나 잠복기가 **40년 초과(>40 years)**인 소수의 최근 환자가 보고되었다.  
@@ -203,15 +197,15 @@ Table 430-1 Glossary of PrP Prion Terminology (p. 3149) ![[Harrison_V2_Ch43_Tab0
 > * sCJD 발생률은 **인구 100만 명당 약 1명(~1 case per million)**이며 전체 사망 **10,000건당 약 1건(~1 in every 10,000 deaths)**을 차지한다. 일부 사냥 구역에서 도태된 사슴의 최대 90%가 CWD 프리온을 보유하고 있어 CJD가 발생한 사슴 사냥꾼들이 관심 대상이나, 사슴·엘크의 프리온 질환이 소, 양 또는 인간에게 직접 전파되었는지는 알려져 있지 않다.  
 > * **단백질 분해 저항성 및 프리온 막대(Prion Rods) (pp. 3149–3150)**:  
 > * 인간 PrP 유전자(*PRNP*)는 **20번 염색체 단완(short arm of chromosome 20)**에 위치한다.  
-> * 시리아 햄스터 PrP(254개 아미노산)는 \$ ext{NH}_2\$ 및 COOH 말단 처리 후 \$ ext{PrP}^{ ext{C}}\$와 \$ ext{PrP}^{ ext{Sc}}\$ 모두 209개 잔기로 구성된다(Fig. 430-2). 제한적 단백질 분해(limited proteolysis, proteinase K) 시 \$ ext{PrP}^{ ext{C}}\$는 완전히 가수분해되는 반면, \$ ext{PrP}^{ ext{Sc}}\$는 \$ ext{NH}_2\$ 말단이 절단되어 약 142개 아미노산으로 구성된 단백질분해효소 저항성 절편인 **PrP 27-30**을 생성한다. 세제(detergent) 존재하에 PrP 27-30은 아밀로이드로 중합되어 프리온 막대(prion rods)를 형성하며, 이는 콩고레드(Congo red) 염색 후 녹금색 복굴절(green-gold birefringence)을 보인다.
+> * 시리아 햄스터 PrP(254개 아미노산)는 $\text{NH}_2$ 및 COOH 말단 처리 후 $\text{PrP}^{\text{C}}$와 $\text{PrP}^{\text{Sc}}$ 모두 209개 잔기로 구성된다(Fig. 430-2). 제한적 단백질 분해(limited proteolysis, proteinase K) 시 $\text{PrP}^{\text{C}}$는 완전히 가수분해되는 반면, $\text{PrP}^{\text{Sc}}$는 $\text{NH}_2$ 말단이 절단되어 약 142개 아미노산으로 구성된 단백질분해효소 저항성 절편인 **PrP 27-30**을 생성한다. 세제(detergent) 존재하에 PrP 27-30은 아밀로이드로 중합되어 프리온 막대(prion rods)를 형성하며, 이는 콩고레드(Congo red) 염색 후 녹금색 복굴절(green-gold birefringence)을 보인다.
 
 Figure 430-2 PrP prion protein isoforms. Bar diagram of Syrian hamster PrP, which consists of 254 amino acids. After processing of the NH2 and COOH termini, both PrPC and PrPSc consist of 209 residues. After limited proteolysis, the NH2 terminus of PrPSc is truncated to form PrP 27-30 composed of ~142 amino acids. GPI, glycosylphosphatidylinositol anchor attachment site; S-S, disulfide bond; CHO, N-linked sugars. (p. 3150) ![[Harrison_V2_Ch430_Fig2.png]]
 
-> * **프리온 균주(Prion Strains) 및 합성 프리온 (p. 3150, Table 430-3)**:  
-> * 탈당화(deglycosylation) 후 단백질분해효소 저항성 \$ ext{PrP}^{ ext{Sc}}\$ 절편의 분자량은 **FFI에서 19 kDa**, **fCJD(E200K) 및 대다수 산발성 프리온 질환에서 21 kDa**이다. 키메라 인간-마우스 PrP 이식유전자 발현 마우스(Tg(MHu2M))에 접종 시 FFI 뇌 추출물은 잠복기 $206\pm 7ext일$(2차 계대 시 $136\pm 1ext일$)과 **19 kDa** \$ ext{PrP}^{ ext{Sc}}\$를, fCJD 뇌 추출물은 잠복기 $170\pm 2ext일$(2차 계대 시 $167\pm 3ext일$)과 **21 kDa** \$ ext{PrP}^{ ext{Sc}}\$를 그대로 유지하며 유도한다.  
-> * *PRNP* 돌연변이가 없는 **산발성 치명적 불면증(sporadic fatal insomnia, sFI)** 환자의 뇌에서도 19 kDa \$ ext{PrP}^{ ext{Sc}}\$가 발견되고 마우스 계대 시에도 19 kDa \$ ext{PrP}^{ ext{Sc}}\$가 생성되어, 질환 표현형이 아미노산 서열이 아닌 \$ ext{PrP}^{ ext{Sc}}\$의 **3차 입체구조(conformation)**에 의해 결정됨을 입증한다.  
-> * 박테리아에서 생산된 재조합 PrP(recPrP)를 아밀로이드 원섬유로 중합하여 야생형 마우스 \$ ext{PrP}^{ ext{C}}\$ 과발현 마우스에 접종하면 약 500일 후 프리온 질환으로 사망하며, 프리온의 안정성이 높을수록 잠복기가 길고 안정성이 낮을수록 잠복기가 짧다(잠복기는 프리온 안정성에 정비례함).  
-> * **종 장벽(Species Barrier) (p. 3150)**: 한 종에서 다른 종으로의 전파는 비효율적이며, 이러한 종 장벽은 접종받는 숙주의 \$ ext{PrP}^{ ext{C}}\$와 접종물 내 \$ ext{PrP}^{ ext{Sc}}\$ 간의 아미노산 서열 유사성 정도와 상관관계가 있다.  
+> * **프리온 균주(Prion Strains) 및 합성 프리온 (p. 3150, Table 430-3)**: ![[Harrison_V2_Ch430_Tab3.png]]  
+> * 탈당화(deglycosylation) 후 단백질분해효소 저항성 $\text{PrP}^{\text{Sc}}$ 절편의 분자량은 **FFI에서 19 kDa**, **fCJD(E200K) 및 대다수 산발성 프리온 질환에서 21 kDa**이다. 키메라 인간-마우스 PrP 이식유전자 발현 마우스(Tg(MHu2M))에 접종 시 FFI 뇌 추출물은 잠복기 $206\pm 7ext일$(2차 계대 시 $136\pm 1ext일$)과 **19 kDa** $\text{PrP}^{\text{Sc}}$를, fCJD 뇌 추출물은 잠복기 $170\pm 2ext일$(2차 계대 시 $167\pm 3ext일$)과 **21 kDa** $\text{PrP}^{\text{Sc}}$를 그대로 유지하며 유도한다.  
+> * *PRNP* 돌연변이가 없는 **산발성 치명적 불면증(sporadic fatal insomnia, sFI)** 환자의 뇌에서도 19 kDa $\text{PrP}^{\text{Sc}}$가 발견되고 마우스 계대 시에도 19 kDa $\text{PrP}^{\text{Sc}}$가 생성되어, 질환 표현형이 아미노산 서열이 아닌 $\text{PrP}^{\text{Sc}}$의 **3차 입체구조(conformation)**에 의해 결정됨을 입증한다.  
+> * 박테리아에서 생산된 재조합 PrP(recPrP)를 아밀로이드 원섬유로 중합하여 야생형 마우스 $\text{PrP}^{\text{C}}$ 과발현 마우스에 접종하면 약 500일 후 프리온 질환으로 사망하며, 프리온의 안정성이 높을수록 잠복기가 길고 안정성이 낮을수록 잠복기가 짧다(잠복기는 프리온 안정성에 정비례함).  
+> * **종 장벽(Species Barrier) (p. 3150)**: 한 종에서 다른 종으로의 전파는 비효율적이며, 이러한 종 장벽은 접종받는 숙주의 $\text{PrP}^{\text{C}}$와 접종물 내 $\text{PrP}^{\text{Sc}}$ 간의 아미노산 서열 유사성 정도와 상관관계가 있다.  
 > * **산발성 및 유전성 프리온 질환과 *PRNP* 다형성 (pp. 3150–3151)**:  
 > * *PRNP* 유전자에서 40개 이상의 비보존적 치환 돌연변이가 유전성 인간 프리온 질환과 분리(segregate)되었다:  
   * **전형적 sCJD와 구별할 수 없는 표현형**: 코돈 **180, 183, 200, 208, 210, 232** 치환.  
@@ -246,19 +240,17 @@ Figure 430-3 T2-weighted FLAIR MRI showing hyperintensity in the cortex in a pat
 > * **환자 관리, 소독 및 치료 시도 (Care, Decontamination & Therapeutics) (pp. 3153–3154)**:  
 > * **환자 관리 및 소독**: 생물안전 2등급(Biosafety level 2) 수칙이 권장되며 CJD 환자에게 사용한 뇌파 및 근전도 바늘은 재사용해서는 안 된다. 프리온 멸균(sterilization)을 위해서는 **134°C에서 5시간 동안 고압증기멸균(autoclaving at 134°C for 5 h)**하거나 **수 시간 동안 2 N NaOH로 처리**하는 것이 권장된다(스테인리스강 표면에 결합된 sCJD 프리온은 134°C 2시간 고압증기멸균에 저항성을 보이나 산성 세제 용액에 먼저 노출시키면 불활성화에 감수성을 띠게 됨).  
 > * **예방 및 치료**: CJD를 예방하거나 치료하는 알려진 효과적인 치료법은 없다(퀴나크린[quinacrine]은 인지 저하 속도를 늦추지 못했으며, 항-PrP 항체나 펜토산 폴리설페이트[pentosan polysulfate] 등은 동물 실험 단계임).  
-> * **다른 신경변성 질환을 유발하는 프리온 (pp. 3153–3154)**: PrP 외에도 \$ ext{A} eta\$, 타우(tau), \$ lpha\$-시누클레인, 헌팅틴(huntingtin)이 모두 자가 증식하는 프리온이 될 수 있다(진행성 파킨슨병 환자에서 태아 흑질 신경세포 이식 약 10년 후 이식된 세포 내에서 루이소체가 확인되었고, MSA 환자 뇌 균질액을 형질전환 마우스에 주입 시 약 3개월 만에 치명적 신경변성이 전파됨).
+> * **다른 신경변성 질환을 유발하는 프리온 (pp. 3153–3154)**: PrP 외에도 $\text{A} eta$, 타우(tau), $ lpha$-시누클레인, 헌팅틴(huntingtin)이 모두 자가 증식하는 프리온이 될 수 있다(진행성 파킨슨병 환자에서 태아 흑질 신경세포 이식 약 10년 후 이식된 세포 내에서 루이소체가 확인되었고, MSA 환자 뇌 균질액을 형질전환 마우스에 주입 시 약 3개월 만에 치명적 신경변성이 전파됨).
 
 ## **4. 제431장 실조성 질환 (Ataxic Disorders) (pp. 3154–3158)**
-
-### ---
 
 **4.1 환자에 대한 접근: 대칭성 및 초점성 운동실조 (pp. 3154–3155)**
 
 > * **진정한 소뇌성 실조(True cerebellar ataxia)의 감별**: 보행 장애, 불명확한('분절성[scanning]') 구음, 안진으로 인한 시야 흐림, 손 협응장애, 운동 시 떨림이 나타나며, 어지럼증·아찔함이나 움직임 지각이 동반되는 전정신경·미로 질환과 구별해야 한다. 감각성 실조(sensory ataxia)는 시각 입력이 제거될 때 불균형이 극적으로 악화된다(롬베르크 징후[Romberg sign]).  
-> * **발병 속도 및 양상에 따른 분류 (Table 431-1)**:  
+> * **발병 속도 및 양상에 따른 분류 (Table 431-1)**: ![[Harrison_V2_Ch431_Tab1.png]]  
 > * **대칭성 진행성 실조(Symmetric ataxia)**:  
   * **급성(수시간~수일)**: 알코올, 페니토인, 리튬, 바르비투르산염 중독; 톨루엔, 휘발유·본드 흡입, 스프레이 페인트, 메틸수은, 비스무트 노출; 세포독성 화학요법제(플루오로우라실[fluorouracil], 파클리탁셀[paclitaxel]); 급성 바이러스 소뇌염 및 감염후 증후군(특히 수두[varicella] 후); 폴리오·콕사키·에코·EBV, 톡소플라스마증, 레지오넬라, 라임병.  
-  * **아급성(수주~수개월)**: 알코올중독 및 영양실조(특히 비타민 \$ ext{B}*1\$, \$ ext{B}*{12}\$ 결핍)에 의한 소뇌 벌레(vermis) 변성; 저나트륨혈증; **신생물딸림 소뇌 실조(Paraneoplastic cerebellar ataxia)** — 유방암·난소암(**항-Yo**), 소세포폐암(**항-PQ형 전압 개폐 칼슘 통로**), 호지킨병(**항-Tr**), 간대성근경련·안구간대경련(opsoclonus)을 동반한 유방암(**항-Ri**)·폐암·신경모세포종; 항-글루탐산 탈탄산효소(**항-GAD**) 항체 상승; **항글리아딘(antigliadin) 및 항근내막(antiendomysium) 항체**와 **HLA DQB1*0201** 일배체형 연관 글루텐 감수성 장병증(gluten-sensitive enteropathy); 프리온 질환(오염된 인간 성장호르몬 등).  
+  * **아급성(수주~수개월)**: 알코올중독 및 영양실조(특히 비타민 $\text{B}*1$, $\text{B}*{12}$ 결핍)에 의한 소뇌 벌레(vermis) 변성; 저나트륨혈증; **신생물딸림 소뇌 실조(Paraneoplastic cerebellar ataxia)** — 유방암·난소암(**항-Yo**), 소세포폐암(**항-PQ형 전압 개폐 칼슘 통로**), 호지킨병(**항-Tr**), 간대성근경련·안구간대경련(opsoclonus)을 동반한 유방암(**항-Ri**)·폐암·신경모세포종; 항-글루탐산 탈탄산효소(**항-GAD**) 항체 상승; **항글리아딘(antigliadin) 및 항근내막(antiendomysium) 항체**와 **HLA DQB1*0201** 일배체형 연관 글루텐 감수성 장병증(gluten-sensitive enteropathy); 프리온 질환(오염된 인간 성장호르몬 등).  
   * **만성(수개월~수년)**: 유전성 실조증, 갑상선기능저하증(hypothyroidism), 수막혈관성 매독 및 척수매독(tabes dorsalis).  
 > * **초점성 실조(Focal ataxia)**: 동측 소뇌 증상을 유발하며, 허혈성 뇌경색·소뇌 출혈, 뒤머리뼈우묵 경막하혈종, 세균성 농양, 원발성·전이성 소뇌 종양(뇌줄기 압박 및 뇌압 상승으로 인한 천막위 또는 큰구멍 탈출 위험 — 급성 외과적 감압술 필요), AIDS 환자의 림프종·PML, 만성 원인으로 다발성 경화증 및 선천성 병터(키아리 기형, 댄디-워커 증후군[Dandy-Walker syndrome]).
 
@@ -271,7 +263,7 @@ Figure 430-3 T2-weighted FLAIR MRI showing hyperintensity in the cortex in a pat
 | **SCA1** (구 명칭 올리브교뇌소뇌위축증) | *ataxin-1*; 환자 $\geq 40$ **CAG** 반복 (비침범 정상인 $\leq 36$, 일부 38~40 보고) | 초기~중기 성인 발병. 체간·사지 실조, 분절성 구음, 안진, 추체외로 및 피라미드 징후, 괄약근 장애. MRI상 소뇌·뇌줄기 위축(Fig. 431-1). 교뇌 배측 절반 수축, 연수 올리브 융기 소실, 푸르키네 세포 소실. |
 | **SCA2** | *ataxin-2*; 정상 **15~32**, 돌연변이 **35~77 CAG** 반복 | 쿠바(단일 조상 후손 추정) 및 인도 환자에서 기술. 발병 연령 **2~65세**. **느린 단속적 안구운동(slow saccadic eye movements)**, 실조, 구음장애, 파킨슨성 경축, 시신경유두 창백, 망막변성. |
 | **SCA3 / 마차도-조셉병 (MJD)** | **14q24.3–q32** (*ataxin-3* / MJD-ataxin, 유비퀴틴 프로테아제 부호화); 정상 **12~37**, 돌연변이 **60~84 CAG** 반복 | **가장 흔한 상염색체 우성 실조증**. 평균 발병 **25세**, 발병 15년 내 사망, 지능 보존. 병리상 **아래올리브핵 보존(sparing of the inferior olives)**이 다른 우성 실조증과의 감별점. **I형(ALS-파킨슨증-근긴장이상형, 10~20대)**, **II형(실조형, 20~40대, 가장 흔함)**, **III형(실조-근위축형, 50~70대, 말초신경병증 및 심부건반사 소실)**. |
-| **SCA6** | **19p13** *CACNA1A* (*CACNL1A4*, \$ lpha_{1A}\$ 전압 의존 칼슘 통로 소단위); 환자 **21~27**, 정상 **4~16 CAG** 반복 | 후기 발병 진행성 실조증 및 소뇌 변성(진동·고유감각 소실 동반). 동일 유전자의 과오돌연변이(missense)는 **가족성 편마비 편두통(FHM)**을, 무의미돌연변이(nonsense)는 **EA-2**를 유발함. |
+| **SCA6** | **19p13** *CACNA1A* (*CACNL1A4*, $ lpha_{1A}$ 전압 의존 칼슘 통로 소단위); 환자 **21~27**, 정상 **4~16 CAG** 반복 | 후기 발병 진행성 실조증 및 소뇌 변성(진동·고유감각 소실 동반). 동일 유전자의 과오돌연변이(missense)는 **가족성 편마비 편두통(FHM)**을, 무의미돌연변이(nonsense)는 **EA-2**를 유발함. |
 | **SCA7** | **3p14–p21.1** (*ataxin-7*, 히스톤 아세틸전달효소 복합체 GCN5의 소단위); 가변적 CAG 반복 확장 | **망막 색소 변성(retinal pigmentary degeneration)** 존재로 다른 모든 SCA와 구별됨(**청황 색맹[blue-yellow color blindness]**으로 시작하여 황반변성 및 실명으로 진행). 부계 유전 시 현저한 표현촉진. |
 | **SCA8** | **13q21** 비번역 영역의 **CTG** 반복 확장 | 현저한 모계 전달 편향(maternal bias; 정자형성 중 반복 수축 반영 추정), 불완전 침투도. 약 40세(20~65세) 발병, RNA 수준 독성 기전. |
 | **DRPLA** (치상핵적핵창백핵루이체 위축증) | **12p12-ter** *atrophin* 유전자; 환자 $\geq 49$, 정상 $\leq 26$ **CAG** 반복 | 진행성 실조, 무도무정위운동, 근긴장이상, 발작, 간대성근경련, 치매. 노스캐롤라이나 가계의 표현형 변형인 **Haw River 증후군** 포함. |
@@ -283,28 +275,26 @@ Figure 431-1 Sagittal magnetic resonance imaging (MRI) of the brain of a 60-year
 
 > * **프리드라이히 실조증 (Friedreich's Ataxia) (p. 3157)**:  
 > * **역학 및 임상 양상**: 가장 흔한 유전성 실조증으로 전체 유전성 실조증의 절반(one-half)을 차지한다. **25세 이전**에 진행성 비틀거리는 보행, 잦은 넘어짐, 체간 흔들림(titubation)으로 발현하며 하지 침범이 상지보다 심하다. 신경학적 진찰상 안진, 빠른 단속적 안구운동 소실, 구음장애, 겨냥이상(dysmetria), 체간·사지 실조, **발바닥 폄근 반응(extensor plantar responses, 바빈스키 징후 양성)**과 함께 **심부건반사 소실(absence of deep tendon reflexes)**, 원위부 우세 위약, 진동·고유감각 소실이 관찰된다. 사망 중앙 연령은 **35세**이며 여성이 남성보다 예후가 유의하게 좋다.  
-> * **전신 합병증**: 환자의 **90%**에서 **심장 침범**(심비대, 대칭성 비대, 심잡음, 전도 결손)이 발생하고, **20%**에서 인슐린 저항성 및 췌장 \$ eta\$-세포 기능장애와 연관된 **당뇨병(diabetes mellitus)**이 발생하며, 오목발(pes cavus), 내반첨족(pes equinovarus), 척추측만증(scoliosis) 등 근골격계 변형이 흔하다. 척수 MRI상 척수 위축이 보인다(Fig. 431-2).  
+> * **전신 합병증**: 환자의 **90%**에서 **심장 침범**(심비대, 대칭성 비대, 심잡음, 전도 결손)이 발생하고, **20%**에서 인슐린 저항성 및 췌장 $ eta$-세포 기능장애와 연관된 **당뇨병(diabetes mellitus)**이 발생하며, 오목발(pes cavus), 내반첨족(pes equinovarus), 척추측만증(scoliosis) 등 근골격계 변형이 흔하다. 척수 MRI상 척수 위축이 보인다(Fig. 431-2).  
 > * **병리**: 주된 병리 부위는 척수(척수소뇌길, 가쪽 피질척수길, 뒤기둥의 경화 및 변성), 등쪽뿌리신경절 세포, 말초신경(대형 유수 섬유 소실)이며, 대뇌피질은 중심앞이랑의 베츠 세포(Betz cells) 소실을 제외하면 조직학적으로 정상이다.
 
 Figure 431-2 Sagittal magnetic resonance imaging (MRI) of the brain and spinal cord of a patient with Friedreich's ataxia, demonstrating spinal cord atrophy. (Reproduced with permission from RN Rosenberg, P Khemani, in RN Rosenberg, JM Pascual [eds]: Rosenberg's Molecular and Genetic Basis of Neurological and Psychiatric Disease, 5th ed. London, Elsevier, 2015.) (p. 3157) ![[Harrison_V2_Ch431_Fig2.png]]
 
 > * **유전학 및 비타민 E 결핍 연관 형태**:  
   * 고전적 형태는 **9q13–q21.1**의 **프라탁신(*frataxin*)** 유전자 첫 번째 인트론(first intron) 내 **GAA 삼염기 반복 확장**에 의해 발생한다(환자의 95% 이상에서 동형접합성; 정상인 **7~22 GAA** 반복, 환자 **200~900 GAA** 반복). 프라탁신은 미토콘드리아 철 항상성에 관여하는 단백질로, 결핍 시 미토콘드리아 철 축적 및 산화된 철에 의한 세포 손상이 일어난다.  
-  * 고전적 프리드라이히 실조증과 임상적으로 구별할 수 없는 비타민 E(\$ lpha\$-토코페롤)와 초저밀도 지단백(VLDL) 상호작용 이상에 의한 두 가지 유전성 실조증으로 **무베타지단백혈증(abetalipoproteinemia, Bassen-Kornzweig syndrome; 마이크로솜 중성지방 전달 단백질[*MTP*] 대형 소단위 유전자 돌연변이로 간에서 VLDL 형성·분비 장애)**과 **비타민 E 결핍 동반 실조증(AVED; \$ lpha$-토코페롤전달단백질[$ lpha\$-TTP] 유전자 돌연변이로 간에서 생성된 VLDL에 비타민 E 결합 장애)**이 있다.  
+  * 고전적 프리드라이히 실조증과 임상적으로 구별할 수 없는 비타민 E($ lpha$-토코페롤)와 초저밀도 지단백(VLDL) 상호작용 이상에 의한 두 가지 유전성 실조증으로 **무베타지단백혈증(abetalipoproteinemia, Bassen-Kornzweig syndrome; 마이크로솜 중성지방 전달 단백질[*MTP*] 대형 소단위 유전자 돌연변이로 간에서 VLDL 형성·분비 장애)**과 **비타민 E 결핍 동반 실조증(AVED; $ lpha$-토코페롤전달단백질[$ lpha$-TTP] 유전자 돌연변이로 간에서 생성된 VLDL에 비타민 E 결합 장애)**이 있다.  
 > * **모세혈관확장성 운동실조증 (Ataxia Telangiectasia, AT) (p. 3157)**:  
 > * 생애 첫 10년(first decade of life) 내에 진행성 모세혈관확장 병터와 소뇌 기능 결손 및 안진으로 발현한다. 재발성 폐 감염, 흉선 저형성(thymic hypoplasia)을 동반한 세포성·체액성(**IgA 및 IgG2**) 면역결핍, 조기 노화, 제1형 당뇨병 및 림프종·호지킨병·급성 T세포 백혈병·유방암 발생 위험 증가가 특징이다.  
-> * 원인은 **11q22–23**의 ***ATM*** **유전자** 돌연변이(포스파티딜이노시톨-3' 키나아제 유사 단백질 부호화; 자외선 노출 섬유모세포의 DNA 복구 결함)이며, **혈청 알파태아단백(AFP) 상승** 및 면역글로불린 결핍이 관찰된다.  
+> * 원인은 **11q22–23**의 **ATM** **유전자** 돌연변이(포스파티딜이노시톨-3' 키나아제 유사 단백질 부호화; 자외선 노출 섬유모세포의 DNA 복구 결함)이며, **혈청 알파태아단백(AFP) 상승** 및 면역글로불린 결핍이 관찰된다.  
 > * **미토콘드리아 실조증 및 치료 (pp. 3157–3158)**:  
 > * 미토콘드리아 DNA(mtDNA)의 30가지 병원성 점돌연변이와 60가지 결실 유형이 알려져 있으며 일부가 실조증을 유발한다.  
-> * **치료 (p. 3158)**: 비타민 E 결핍형, 비타민 \$ ext{B}*1$/$ ext{B}*{12}\$ 결핍, 갑상선기능저하증, 글루텐 감수성 장병증(무글루텐 식이), 감염(매독, 라임병, 레지오넬라) 등 치료 가능한 원인을 찾아 교정하고 페니토인·알코올 노출을 피한다. 상염색체 우성 실조증(SCA1~SCA40)에 입증된 치료법은 없다. 자유라디칼 제거제인 **이데베논(idebenone)**이 고전적 프리드라이히 실조증 환자의 심근 비대를 호전시킬 수 있다는 예비 증거가 있으나 신경학적 기능을 호전시킨다는 증거는 없으며, **철 킬레이트제(iron chelators)와 항산화제는 심근 손상을 증가시킬 수 있어 프리드라이히 환자에서 잠재적으로 해롭다**.
+> * **치료 (p. 3158)**: 비타민 E 결핍형, 비타민 $\text{B}*1$/$\text{B}*{12}$ 결핍, 갑상선기능저하증, 글루텐 감수성 장병증(무글루텐 식이), 감염(매독, 라임병, 레지오넬라) 등 치료 가능한 원인을 찾아 교정하고 페니토인·알코올 노출을 피한다. 상염색체 우성 실조증(SCA1~SCA40)에 입증된 치료법은 없다. 자유라디칼 제거제인 **이데베논(idebenone)**이 고전적 프리드라이히 실조증 환자의 심근 비대를 호전시킬 수 있다는 예비 증거가 있으나 신경학적 기능을 호전시킨다는 증거는 없으며, **철 킬레이트제(iron chelators)와 항산화제는 심근 손상을 증가시킬 수 있어 프리드라이히 환자에서 잠재적으로 해롭다**.
 
 ## **5. 제432장 자율신경계 질환 (Disorders of the Autonomic Nervous System) (pp. 3158–3166)**
 
-### ---
-
 **5.1 해부학적 구성 및 임상적 평가 (pp. 3158–3162)**
 
-> * **해부학적 및 신경전달물질 구성 (pp. 3158–3159, Fig. 432-1, Table 432-1)**:  
+> * **해부학적 및 신경전달물질 구성 (pp. 3158–3159, Fig. 432-1, Table 432-1)**: ![[Harrison_V2_Ch432_Tab1.png]]  
 > * **부교감신경계(Parasympathetic nervous system)**의 절전 신경세포(preganglionic neurons)는 **제3, 7, 9, 10 뇌신경**과 **제2, 3 천수신경(S2, S3)**(장관 조절 설명에서는 미주신경 및 S2–S4)으로 중추신경계를 떠나며, **교감신경계(Sympathetic nervous system)**의 절전 신경세포는 **제1흉수~제2요수 분절(T1–L2)** 사이에서 척수를 빠져나간다(Fig. 432-1). 절전 섬유는 얇게 유수화(thinly myelinated)되어 있고 절후 섬유는 무수(unmyelinated) 신경이다.  
 > * **신경전달물질**: 교감 및 부교감신경계 양쪽 모두의 절전 신경전달물질과 부교감신경 절후 신경전달물질은 **아세틸콜린(ACh)**이다(절전 수용체는 **니코틴성[nicotinic]**, 절후 수용체는 **무스카린성[muscarinic]**). 교감신경 절후 신경전달물질은 **노르에피네프린(NE)**이나, 예외적으로 **에크린 땀샘(eccrine sweat glands)**을 지배하는 교감신경 절후 섬유는 **콜린성(cholinergic)**이다.  
 > * **장신경계(Enteric nervous system)**: 척수 세포 수와 맞먹는 수억 개의 세포로 이루어진 신경절 및 신경얼기 네트워크(점막하 마이스너 신경얼기[Meissner's plexus], 근육층 아우에르바흐 신경얼기[Auerbach's plexus], 심부 근육층 카할 신경얼기[Cajal's plexus] 등)로 구성된다.
@@ -321,7 +311,7 @@ Table 432-4 Prevalence of Orthostatic Hypotension in Different Situations (p. 31
 Table 432-5 Nonneurogenic Causes of Orthostatic Hypotension (p. 3161) ![[Harrison_V2_Ch432_Tab5.png]]  
 Table 432-6 Some Drugs That Affect Autonomic Function (p. 3161) ![[Harrison_V2_Ch432_Tab6.png]]
 
-> * **자율신경 기능 검사 (Autonomic Testing) (pp. 3161–3162, Table 432-7, Table 432-8)**:  
+> * **자율신경 기능 검사 (Autonomic Testing) (pp. 3161–3162, Table 432-7, Table 432-8)**: ![[Harrison_V2_Ch432_Tab8.png]]  
 > * **심호흡 시 심박수 변이(Heart Rate Variation With Deep Breathing, HRDB)**: 미주신경을 통한 부교감신경 심혈관 반사를 평가한다(분당 6회 호흡 및 노력성 폐활량[FVC] $>1.5extL$가 최적). 정상 하한치는 20세 미만에서 $>15ext–20extbeats/min$, 60세 초과에서 $5ext–8extbeats/min$이며, 아트로핀(atropine)에 의해 소실되나 프로프라놀롤(propranolol)에는 영향받지 않는다.  
 > * **발살바 반응(Valsalva Response) (Table 432-7)**: 앙와위에서 닫힌 성문 또는 40 mmHg 일정한 호기압을 유지하는 압력계에 대고 15초간 호기하며 박동간 혈압과 심박수를 측정한다. 제I상 및 제III상은 기계적 변화이고, 초기 제II상 혈압 하강은 시작 약 5~8초 후 총말초저항 증가에 의해 멈추며 후기 제II상 혈압 상승과 제IV상 일시적 혈압 오버슈트(overshoot)는 온전한 원심성 교감신경 아드레날린성 반응을 필요로 한다. **발살바 비(Valsalva ratio; 최대 제II상 빈맥 / 최소 제IV상 서맥)**는 주로 부교감신경 기능의 척도이다.  
 > * **발한운동 기능(Sudomotor Function)**: **정량적 발한운동 축삭반사 검사(QSART)**는 ACh 유도 발한을 통한 절후 발한운동 축삭을 평가하고, **체온조절 발한 검사(TST)**는 체온 상승 시 전신 발한 양상을 통해 절전 및 절후 경로 전체를 평가한다. **절후 병터(postganglionic lesion)**에서는 QSART와 TST 모두 무한증(absent sweating)을 보이나, **절전 병터(preganglionic lesion)**에서는 **QSART는 정상이고 TST에서만 무한증**을 보인다.  
@@ -343,44 +333,42 @@ Figure 432-2 Multiple system atrophy, cerebellar type (MSA-c). Axial T2-weighted
 > * **당뇨병(Diabetes Mellitus)**: 자율신경병증 동반 시 사망률이 1.5~3배 증가한다(5년 사망 위험 15~53%).  
 > * **아밀로이드증(Amyloidosis)**: AL형(원발성 또는 다발골수종 이차성) 및 ATTR형(트랜스티레틴 유전성 아밀로이드증).  
 > * **알코올성 신경병증**, **포르피린증(급성 간헐성 포르피린증 등)**, **길랭-바레 증후군(중증 환자의 2~10%에서 치명적 심혈관 허탈 발생)**, **보툴리눔독소증(Botulism)**.  
-> * **자가면역 자율신경절병증(Autoimmune Autonomic Ganglionopathy, AAG)**: 아급성 OH, 장신경병증, 이완성 방광, 콜린성 부전(무한증, 건조증후군[sicca complex], 긴장성 동공[tonic pupil])으로 발현하며, 환자의 약 절반에서 **신경절 ACh 수용체 \$ lpha 3\$ 소단위(ganglionic ACh receptor \$ lpha 3\$ subunit) 자가항체**가 검출되어 진단적이다(소세포폐암, 폐선암, 림프종, 흉선종 관련 신생물딸림 기원 가능).  
-> * **순수 자율신경 부전(Pure Autonomic Failure, PAF) (p. 3164)**: 중년에 시작하여 여성에서 더 흔하며 기립저혈압, 발기부전, 방광 기능장애, 발한 장애를 보이나 수명에는 영향이 없다. 절후 자율신경세포 침범으로 앙와위 혈장 NE 수치가 낮고 노르아드레날린 과민성을 보이며, 피부 생검상 인산화된 \$ lpha\$-시누클레인 봉입체가 확인되어 시누클레인병증(synucleinopathy)으로 분류된다(최근 연구에서 초기 PAF 진단 환자의 1/3 이상이 4년 내에 DLB, PD, MSA 같은 중추신경계 시누클레인병증으로 전환되었고 렘수면행동장애[RBD]가 예측 인자였음).  
+> * **자가면역 자율신경절병증(Autoimmune Autonomic Ganglionopathy, AAG)**: 아급성 OH, 장신경병증, 이완성 방광, 콜린성 부전(무한증, 건조증후군[sicca complex], 긴장성 동공[tonic pupil])으로 발현하며, 환자의 약 절반에서 **신경절 ACh 수용체 $ lpha 3$ 소단위(ganglionic ACh receptor $ lpha 3$ subunit) 자가항체**가 검출되어 진단적이다(소세포폐암, 폐선암, 림프종, 흉선종 관련 신생물딸림 기원 가능).  
+> * **순수 자율신경 부전(Pure Autonomic Failure, PAF) (p. 3164)**: 중년에 시작하여 여성에서 더 흔하며 기립저혈압, 발기부전, 방광 기능장애, 발한 장애를 보이나 수명에는 영향이 없다. 절후 자율신경세포 침범으로 앙와위 혈장 NE 수치가 낮고 노르아드레날린 과민성을 보이며, 피부 생검상 인산화된 $ lpha$-시누클레인 봉입체가 확인되어 시누클레인병증(synucleinopathy)으로 분류된다(최근 연구에서 초기 PAF 진단 환자의 1/3 이상이 4년 내에 DLB, PD, MSA 같은 중추신경계 시누클레인병증으로 전환되었고 렘수면행동장애[RBD]가 예측 인자였음).  
 > * **체위성 기립빈맥증후군(Postural Orthostatic Tachycardia Syndrome, POTS) (p. 3164)**: 기립저혈압(OH) 없이 증상성 기립불내증이 나타나며, 기립 시 심박수가 **분당 120회 초과(>120 beats/min)**로 상승하거나 **분당 30회 이상(30 beats/min)** 증가하고 앉거나 누우면 가라앉는 증후군이다. 여성이 남성보다 약 5배 흔하며 15~50세에 주로 발생한다. 수분·염분·플루드로코르티손을 통한 혈장량 확장, 유산소 재활 운동, 저용량 프로프라놀롤(20 mg), 미도드린, 피리도스티그민, 클로니딘을 고려한다.  
 > * **유전성 감각 및 자율신경병증(HSAN I–V) (p. 3164)**: **HSAN I**은 상염색체 우성 유전(9q *SPTLC1* 유전자; 세라마이드 조절 효소 이상으로 글루코실 세라마이드 증가)으로 원위부 소섬유 신경병증(발 작열감 증후군[burning feet syndrome])과 족부 궤양을 유발한다. **HSAN III(Riley-Day 증후군, 가족성 자율신경이상증)**은 아쉬케나지 유대인에 발생하는 상염색체 열성 질환(*IKBKAP* 유전자 결함)으로 눈물 감소, 다한증, 통증 감각 저하, 무반사, **혀의 버섯유두 결여(absent fungiform papillae on the tongue)**, 구심성(afferent) 압력반사 부전으로 인한 삽화성 복부 위기 및 혈압 급증을 보인다.  
-> * **원발성 다한증(Primary Hyperhidrosis) (pp. 3164–3165)**: 인구의 0.6~1.0%를 침범하며 손바닥·발바닥 과다 발한으로 발현한다(25%에서 가족력 양성). 경구 글리코피롤레이트(glycopyrrolate 1~2 mg PO tid)나 옥시부티닌(oxybutynin 5 mg PO bid), 보툴리눔 독소 국소 주사(약 4개월 지속), 내시경 경액와 **T2 교감신경절제술(T2 ganglionectomy or sympathectomy; 손바닥 다한증의 \$>90\\%\$에서 성공, 가장 흔한 합병증은 보상성 다한증)**로 치료한다.  
+> * **원발성 다한증(Primary Hyperhidrosis) (pp. 3164–3165)**: 인구의 0.6~1.0%를 침범하며 손바닥·발바닥 과다 발한으로 발현한다(25%에서 가족력 양성). 경구 글리코피롤레이트(glycopyrrolate 1~2 mg PO tid)나 옥시부티닌(oxybutynin 5 mg PO bid), 보툴리눔 독소 국소 주사(약 4개월 지속), 내시경 경액와 **T2 교감신경절제술(T2 ganglionectomy or sympathectomy; 손바닥 다한증의 $>90\%$에서 성공, 가장 흔한 합병증은 보상성 다한증)**로 치료한다.  
 > * **급성 교감신경 과활성 증후군(Autonomic Storm) 및 복합부위 통증증후군(CRPS) (p. 3165)**:  
 > * **자율신경 폭풍(Autonomic storm)**: 중증 두부 외상이나 저산소-허혈 뇌손상 등 급성 두개내 재앙, 약물·독소(코카인, 암페타민, 삼환계 항우울제, 파상풍), 길랭-바레 증후군, 갈색세포종, 신경이완제 악성증후군에서 발생한다. 중환자실에서 황산모르핀(morphine sulfate 10 mg q4h) 및 라베탈롤(labetalol 100~200 mg bid) 등으로 관리한다.  
 > * **복합부위 통증증후군(CRPS I형 및 II형)**: 구 명칭 반사성 교감신경 위축증(RSD, I형 — 조직 손상 후 발생) 및 작열통(causalgia, II형 — 특정 말초신경 손상 후 발생)이다. **부다페스트 합의 기준(Budapest consensus criteria)**은 단계 분류(staging)를 삭제하고 4개 범주(**① 감각[sensory], ② 혈관운동[vasomotor], ③ 발한운동/부종[sudomotor/edema], ④ 운동/영양성[motor/trophic]**) 중 최소 3개의 증상과 2개의 징후를 요구한다. 조기 가동화, 물리치료, 단기 글루코코르티코이드 등으로 다학제적 치료를 시행한다.  
-> * **기립저혈압(OH) 및 자율신경 부전의 치료 (pp. 3165–3166, Table 432-9)**:  
-> * **비약물적 치료 (Table 432-9)**: 환자 교육, **고염식이(10~20 g/d)** 및 **충분한 수분 섭취(2 L/d)**(24시간 소변량 1.5~2.5 L 및 요중 \$ ext{Na}^+ > 170 ext{ meq/L}\$ 유지), 앙와위 야간 고혈압 최소화를 위해 **침대 머리쪽 10 cm(4 in.) 거상**, 다리 꼬고 30초간 하지 근육 수축 유지하기, 압박 스타킹·복대 착용. 일시적 악화 시 **5분 이내에 물 250 mL(8 oz) 두 잔 마시기**(약 5분 후부터 약 2시간 동안 기립 혈압을 20~30 mmHg 상승시킴).  
+> * **기립저혈압(OH) 및 자율신경 부전의 치료 (pp. 3165–3166, Table 432-9)**: ![[Harrison_V2_Ch432_Tab9.png]]  
+> * **비약물적 치료 (Table 432-9)**: 환자 교육, **고염식이(10~20 g/d)** 및 **충분한 수분 섭취(2 L/d)**(24시간 소변량 1.5~2.5 L 및 요중 $\text{Na}^+ > 170\text{ meq/L}$ 유지), 앙와위 야간 고혈압 최소화를 위해 **침대 머리쪽 10 cm(4 in.) 거상**, 다리 꼬고 30초간 하지 근육 수축 유지하기, 압박 스타킹·복대 착용. 일시적 악화 시 **5분 이내에 물 250 mL(8 oz) 두 잔 마시기**(약 5분 후부터 약 2시간 동안 기립 혈압을 20~30 mmHg 상승시킴).  
 > * **약물적 치료**:  
   * **에리스로포이에틴(Erythropoietin)**: 빈혈 동반 시 25~75 U/kg 주 3회 피하 주사.  
-  * **미도드린(Midodrine)**: 혈액뇌장벽을 통과하지 않는 직접 작용 \$ lpha_1\$ 작용제(작용시간 2~4시간, 통상 5~10 mg PO tid 또는 기상 시 15 mg \$ ightarrow\$ 정오 10 mg \$ ightarrow\$ 오후 5 mg 감량 용법; 앙와위 고혈압 방지를 위해 오후 6시 이후 복용 금지).  
+  * **미도드린(Midodrine)**: 혈액뇌장벽을 통과하지 않는 직접 작용 $ lpha_1$ 작용제(작용시간 2~4시간, 통상 5~10 mg PO tid 또는 기상 시 15 mg $ ightarrow$ 정오 10 mg $ ightarrow$ 오후 5 mg 감량 용법; 앙와위 고혈압 방지를 위해 오후 6시 이후 복용 금지).  
   * **드록시도파(Droxidopa, Northera)**: PAF, PD, MSA 연관 신경인성 OH 증상 감소에 효과적.  
   * **피리도스티그민(Pyridostigmine)**: 기립 시에만 최대화되는 신경절 전달 강화로 앙와위 고혈압을 악화시키지 않고 OH를 호전시킴.  
   * **플루드로코르티손(Fludrocortisone, 0.1 mg/d ~ 0.3 mg PO bid)**: 신장 나트륨 보존 및 세동맥의 NE 민감도 증가(앙와위 고혈압 및 저칼륨혈증 유발 가능).  
   * **앙와위 고혈압($>180/110extmmHg$) 관리**: 앙와위 회피, 플루드로코르티손 감량, 취침 전 경구 하이드랄라진(hydralazine 25 mg qhs), 니페디핀(nifedipine 10 mg qhs) 또는 니트로글리세린 패치.  
-  * **아토목세틴(atomoxetine; NE 재흡수 수송체 차단) + 요힘빈(yohimbine; \$ lpha_2\$ 수용체 차단)** 병용 및 **식후 저혈압(Postprandial OH)**에 대한 소량 저탄수화물 빈번 식사, 식사와 함께 이부프로펜·인도메타신 또는 미도드린(10 mg), 피하 **옥트레오타이드(octreotide 25 $\mu$g bid ~ 200 $\mu$g tid)**.
+  * **아토목세틴(atomoxetine; NE 재흡수 수송체 차단) + 요힘빈(yohimbine; $ lpha_2$ 수용체 차단)** 병용 및 **식후 저혈압(Postprandial OH)**에 대한 소량 저탄수화물 빈번 식사, 식사와 함께 이부프로펜·인도메타신 또는 미도드린(10 mg), 피하 **옥트레오타이드(octreotide 25 $\mu$g bid ~ 200 $\mu$g tid)**.
 
 ## **6. 제433장 삼차신경통, 벨마비 및 기타 뇌신경 질환 (Trigeminal Neuralgia, Bell's Palsy, and Other Cranial Nerve Disorders) (pp. 3166–3171)**
-
-### ---
 
 **6.1 안면 통증 또는 감각저하: 삼차신경통 및 삼차신경병증 (pp. 3166–3169)**
 
 > * **삼차신경(제5뇌신경, CN V)의 해부학적 특징 (pp. 3166–3167, Fig. 433-1)**:  
 > * 가장 큰 뇌신경으로, 안면 및 두부 앞쪽 절반의 피부 감각을 담당하고 운동 부분은 저작근(깨물근[masseters], 날개근[pterygoids])과 중이의 고막긴장근(tensor tympani; 특히 고음 청각에 관여)을 지배한다.  
-> * 중교뇌 가쪽에서 나와 중두개와를 가로질러 메켈 공간(Meckel's cave)의 반달신경절(semilunar/gasserian ganglion)에서 3개 분지(**안신경[\$ ext{V}_1$],상악신경[$ ext{V}_2$],하악신경[$ ext{V}_3\$]**)로 나뉜다. \$ ext{V}_1\$과 \$ ext{V}_2\$는 해면정맥동(cavernous sinus)을 통과하여 각각 위눈확틈새(superior orbital fissure)와 원형구멍(foramen rotundum)으로 나가며, \$ ext{V}_3\$는 타원구멍(foramen ovale)으로 나간다(운동 섬유는 오직 \$ ext{V}_3\$에만 포함됨). 각막은 주로 \$ ext{V}_1\$이 지배한다(하방 초승달 부위는 \$ ext{V}_2\$ 가능).  
+> * 중교뇌 가쪽에서 나와 중두개와를 가로질러 메켈 공간(Meckel's cave)의 반달신경절(semilunar/gasserian ganglion)에서 3개 분지(**안신경[$\text{V}_1$],상악신경[$\text{V}_2$],하악신경[$\text{V}_3$]**)로 나뉜다. $\text{V}_1$과 $\text{V}_2$는 해면정맥동(cavernous sinus)을 통과하여 각각 위눈확틈새(superior orbital fissure)와 원형구멍(foramen rotundum)으로 나가며, $\text{V}_3$는 타원구멍(foramen ovale)으로 나간다(운동 섬유는 오직 $\text{V}_3$에만 포함됨). 각막은 주로 $\text{V}_1$이 지배한다(하방 초승달 부위는 $\text{V}_2$ 가능).  
 > * 통각·온도각 섬유는 교뇌 진입 후 동측으로 상부 경수(C2 위쪽)까지 삼차신경 척수작로(spinal tract of V)로 하행하여 척수핵과 시냅스하며, 교뇌 진입 후 최대 **7 mm**까지 슈반세포가 아닌 **희소돌기아교세포(oligodendrocyte) 유래 수초**로 둘러싸여 있어 다발성 경화증(MS)에서 삼차신경통 빈도가 높은 이유를 설명해 준다.
 
 Figure 433-1 The trigeminal nerve and its branches and sensory distribution on the face. The three major sensory divisions of the trigeminal nerve consist of the ophthalmic, maxillary, and mandibular nerves. (Adapted from Waxman SG: Clinical Neuroanatomy, 26th ed. http\://www.accessmedicine.com. Copyright © The McGraw-Hill Companies, Inc. All rights reserved.) (p. 3167) ![[Harrison_V2_Ch433_Fig1.png]]
 
 > * **삼차신경통 (Trigeminal Neuralgia, Tic Douloureux) (pp. 3167–3168)**:  
-> * **임상 양상 및 역학**: 입술, 잇몸, 볼, 턱(매우 드물게 \$ ext{V}_1\$ 분포)에 발생하는 수초~1~2분간 지속되는 극심한 발작성 찌르는 듯한 통증으로, 환자가 움찔거리게 되어 틱(tic)이라 불린다. 세수, 양치질, 바람 노출 같은 촉각 자극이 통증을 유발하는 **유발 부위(trigger zones)**가 특징적이며, **신경학적 진찰상 객관적인 감각 소실 징후가 입증되지 않는 것이 필수 특징**이다. 연간 발생률은 100,000명당 4~8명, 중년·노년에 호발하며 약 **60%**가 여성이다.  
+> * **임상 양상 및 역학**: 입술, 잇몸, 볼, 턱(매우 드물게 $\text{V}_1$ 분포)에 발생하는 수초~1~2분간 지속되는 극심한 발작성 찌르는 듯한 통증으로, 환자가 움찔거리게 되어 틱(tic)이라 불린다. 세수, 양치질, 바람 노출 같은 촉각 자극이 통증을 유발하는 **유발 부위(trigger zones)**가 특징적이며, **신경학적 진찰상 객관적인 감각 소실 징후가 입증되지 않는 것이 필수 특징**이다. 연간 발생률은 100,000명당 4~8명, 중년·노년에 호발하며 약 **60%**가 여성이다.  
 > * **병태생리 및 감별진단**: 교뇌 가쪽 표면 진입 직전 제5뇌신경뿌리의 혈관 압박(대개 **위소뇌동맥[superior cerebellar artery]**, 때로 구불구불한 정맥)에 의해 대형 유수 섬유가 탈수초화되어 과흥분성을 띠고 인접한 무수/박수초 통각 섬유와 전기적으로 결합(electrically coupled)되어 이소성 활동전위가 생성된다. 젊은 성인이나 양측성 발현 시 **다발성 경화증(MS)**을, 노인에서 근육통·전신 증상 및 ESR/CRP 상승 동반 시 측두동맥염(temporal arteritis)을 감별해야 한다.  
 > * **치료 (p. 3168)**:  
-  * **약물 치료**: **카바마제핀(Carbamazepine)**이 환자의 **약 50~75%(~50–75%)**에서 효과적이다(식사와 함께 100 mg/d 단일 용량으로 시작하여 50% 이상 통증 완화 시까지 1~2일마다 100 mg/d씩 증량, 대개 유지용량 200 mg qid; $>1200extmg/d$는 추가 이점 없음; 부작용으로 어지럼증, 진정, 드물게 무과립구증). 대안으로 골수 독성이 적은 **옥스카바제핀(Oxcarbazepine, 300~1200 mg bid)**, 라모트리진(lamotrigine 400 mg/d), 페니토인(phenytoin 300~400 mg/d), 바클로펜(baclofen 5~10 mg tid \$ ightarrow\$ 최대 20 mg qid)을 사용한다.  
-  * **수술적 치료**: 약물 실패 시 **미세혈관감압술(Microvascular decompression; 후두하 개두술 필요, \$>70\\%\$ 유효율 및 낮은 재발률)**, **감마나이프 방사선수술(Gamma knife radiosurgery; 2/3 이상에서 완전 통증 완화, 절반에서 2~3년 내 재발)**, **고주파 열 신경뿌리절단술(Radiofrequency thermal rhizotomy; 단기 완화 \$>95\\%\$, 최대 1/3에서 재발, 수술 후 안면 부분 감각저하·깨물근 위약·각막 탈신경 위험)**을 시행한다.  
+  * **약물 치료**: **카바마제핀(Carbamazepine)**이 환자의 **약 50~75%(~50–75%)**에서 효과적이다(식사와 함께 100 mg/d 단일 용량으로 시작하여 50% 이상 통증 완화 시까지 1~2일마다 100 mg/d씩 증량, 대개 유지용량 200 mg qid; $>1200extmg/d$는 추가 이점 없음; 부작용으로 어지럼증, 진정, 드물게 무과립구증). 대안으로 골수 독성이 적은 **옥스카바제핀(Oxcarbazepine, 300~1200 mg bid)**, 라모트리진(lamotrigine 400 mg/d), 페니토인(phenytoin 300~400 mg/d), 바클로펜(baclofen 5~10 mg tid $ ightarrow$ 최대 20 mg qid)을 사용한다.  
+  * **수술적 치료**: 약물 실패 시 **미세혈관감압술(Microvascular decompression; 후두하 개두술 필요, $>70\%$ 유효율 및 낮은 재발률)**, **감마나이프 방사선수술(Gamma knife radiosurgery; 2/3 이상에서 완전 통증 완화, 절반에서 2~3년 내 재발)**, **고주파 열 신경뿌리절단술(Radiofrequency thermal rhizotomy; 단기 완화 $>95\%$, 최대 1/3에서 재발, 수술 후 안면 부분 감각저하·깨물근 위약·각막 탈신경 위험)**을 시행한다.  
 > * **삼차신경병증 (Trigeminal Neuropathy) (pp. 3168–3169, Table 433-1)**:  
 > * 안면 감각 소실 또는 턱 근육 위약으로 발현한다(입을 벌릴 때 턱이 편위되는 쪽의 날개근[pterygoids] 위약을 의미함).  
 > * 특히 **턱끝에 국한된 감각 소실(턱끝신경병증[mental neuropathy])**은 전신 악성종양의 유일한 발현일 수 있다. 저작근의 긴장성 연축인 **개구장애(trismus)**는 파상풍(tetanus)이나 페노티아진(phenothiazines) 투여 환자에서 발생할 수 있다.
@@ -402,7 +390,7 @@ Figure 433-2 The facial nerve. A, B, and C denote lesions of the facial nerve at
 > * **벨마비 (Bell's Palsy) (pp. 3169–3170)**:  
 > * **역학 및 임상 양상**: 가장 흔한 안면마비 형태로 연간 발생률은 100,000명당 약 25명(평생 약 60명 중 1명)이며 **임신(pregnancy)**과 **당뇨병(diabetes mellitus)**이 위험인자이다. 비교적 급격히 발병하여 대개 **48시간 이내**에 최대 위약에 도달하며 귀 뒤쪽 통증이 1~2일 선행할 수 있다. 환자의 **약 80%(Approximately 80%)**가 수주~수개월 내에 회복된다. 첫 1주일 내 불완전 마비가 가장 좋은 예후 징후이며, 10일 후 근전도상 탈신경 증거가 있으면 축삭 변성이 일어났음을 의미하여 재생까지 약 3개월이 걸리고 불완전할 수 있다. 약 **7%**에서 재발한다.  
 > * **병태생리**: 무릎신경절(geniculate ganglion) 내 **단순포진바이러스 1형(HSV-1)** 재활성화가 대다수 증례의 원인으로 추정되며, 최대 1/3에서는 수두-대상포진바이러스(VZV) 재활성화가 연관된다.  
-> * **감별진단**: 라임병(풍토병 지역 안면마비의 \$\\ge 10\\%\$), **람세이 헌트 증후군(Ramsay Hunt syndrome; 무릎신경절의 대상포진 재활성화로 바깥귀길·인두의 수포성 발진 및 중증 안면마비 발생, 흔히 제8뇌신경 침범 동반)**, 사르코이드증 및 길랭-바레 증후군(흔히 양측성 안면마비), 나병, **멜케르손-로젠탈 증후군(Melkersson-Rosenthal syndrome; 재발성 안면마비 + 재발성·영구적 안면[특히 입술] 부종 + 혀 주름[plication of the tongue])**, 청신경초종, 핵상성(supranuclear) 안면마비(양측 운동피질 지배를 받는 이마근·눈둘레근은 하부 안면근보다 덜 침범됨).
+> * **감별진단**: 라임병(풍토병 지역 안면마비의 $\ge 10\%$), **람세이 헌트 증후군(Ramsay Hunt syndrome; 무릎신경절의 대상포진 재활성화로 바깥귀길·인두의 수포성 발진 및 중증 안면마비 발생, 흔히 제8뇌신경 침범 동반)**, 사르코이드증 및 길랭-바레 증후군(흔히 양측성 안면마비), 나병, **멜케르손-로젠탈 증후군(Melkersson-Rosenthal syndrome; 재발성 안면마비 + 재발성·영구적 안면[특히 입술] 부종 + 혀 주름[plication of the tongue])**, 청신경초종, 핵상성(supranuclear) 안면마비(양측 운동피질 지배를 받는 이마근·눈둘레근은 하부 안면근보다 덜 침범됨).
 
 Figure 433-3 Axial and coronal T1-weighted images after gadolinium with fat suppression demonstrate diffuse smooth linear enhancement of the left facial nerve, involving the genu, tympanic, and mastoid segments within the temporal bone (arrows), without evidence of mass lesion. Although highly suggestive of Bell's palsy, similar findings may be seen with other etiologies such as Lyme disease, sarcoidosis, and perineural malignant spread. (p. 3170) ![[Harrison_V2_Ch433_Fig3.png]]
 
@@ -417,12 +405,12 @@ Figure 433-3 Axial and coronal T1-weighted images after gadolinium with fat supp
 
 > * **혀인두신경통 (Glossopharyngeal Neuralgia, CN IX 및 일부 CN X) (pp. 3170–3171)**:  
 > * 편도와(tonsillar fossa) 부근 일측 인후에서 기원하여 귀로 방사되는 발작성 극심한 통증으로 연하나 기침에 의해 유발된다. 운동·감각 결손은 입증되지 않으나 서맥·무수축(asystole), 저혈압, 실신 같은 심장 증상이 동반될 수 있다. 카바마제핀 등 약물 치료 실패 시 미세혈관감압술이나 경정맥구(jugular bulb) 내 혀인두·미주신경 섬유 신경뿌리절단술을 시행한다.  
-> * **목정맥구멍 증후군(Jugular foramen syndrome, CN IX, X, XI) (p. 3171, Table 433-2)**: 성대 마비로 인한 쉰목소리, 연하곤란, 건측으로의 연구개 편위(deviation of the soft palate to the intact side), 인두 뒷벽 감각소실, 위쪽 등세모근(trapezius) 및 목빗근(sternocleidomastoid) 위약이 나타난다.
+> * **목정맥구멍 증후군(Jugular foramen syndrome, CN IX, X, XI) (p. 3171, Table 433-2)**: 성대 마비로 인한 쉰목소리, 연하곤란, 건측으로의 연구개 편위(deviation of the soft palate to the intact side), 인두 뒷벽 감각소실, 위쪽 등세모근(trapezius) 및 목빗근(sternocleidomastoid) 위약이 나타난다. ![[Harrison_V2_Ch433_Tab2.png]]  
 
 | 부위 (Site, Table 433-2 Cranial Nerve Syndromes, p. 3171) | 침범 뇌신경 (Cranial Nerves) | 주요 원인 (Usual Cause)   |
 | :---- | :---- | :---- |
-| **나비틈새(Sphenoid fissure / superior orbital)** | III, IV, \$ ext{V}_1\$, VI | 나비뼈 침습 종양, 동맥류 |
-| **해면정맥동 가쪽벽(Lateral wall of cavernous sinus)** | III, IV, \$ ext{V}_1\$, VI (흔히 안구돌출 동반) | 해면정맥동 감염·혈전증·동맥류·누공, 부비동·안장 침습 종양, 글루코코르티코이드 반응성 양성 육아종 |
+| **나비틈새(Sphenoid fissure / superior orbital)** | III, IV, $\text{V}_1$, VI | 나비뼈 침습 종양, 동맥류 |
+| **해면정맥동 가쪽벽(Lateral wall of cavernous sinus)** | III, IV, $\text{V}_1$, VI (흔히 안구돌출 동반) | 해면정맥동 감염·혈전증·동맥류·누공, 부비동·안장 침습 종양, 글루코코르티코이드 반응성 양성 육아종 |
 | **나비뒤공간(Retrosphenoid space)** | II, III, IV, V, VI | 중두개와의 대형 종양 |
 | **바위뼈 꼭대기(Apex of petrous bone)** | V, VI | 바위뼈염(petrositis), 바위뼈 종양 |
 | **속귀길(Internal auditory meatus)** | VII, VIII | 바위뼈 종양(유피종 등), 감염 과정, 청신경초종 |

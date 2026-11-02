@@ -13,17 +13,11 @@ type: 의학원서_요약노트
 
 **문서 범위**: pp. 2563–2599 (*Harrison's Principles of Internal Medicine, 20th ed.*) - **Chapter 355**: The Spondyloarthritides (pp. 2563–2573) - **Chapter 356**: The Vasculitis Syndromes (pp. 2573–2588) - **Chapter 357**: Behçet's Syndrome (pp. 2588–2589) - **Chapter 358**: Inflammatory Myopathies (pp. 2589–2596) - **Chapter 359**: Relapsing Polychondritis (pp. 2596–2599) - **Chapter 360**: Sarcoidosis — 초반 도입부 (p. 2599)
 
-# ---
-
 **Chapter 355. 척추관절염 (The Spondyloarthritides) (pp. 2563–2573)**
 
 > 🖼️ **원서 도판 캡션 정리 대기 (2026-10-27)** — Harrison 20e 도판을 볼트로 복사해 표시는 되지만, 그림 번호·설명 캡션이 아직 없습니다(캡션 날조 금지 원칙).
 
-## ---
-
 **1. 개요 및 분류 (Overview & Classification) (p. 2563)**
-
-### ---
 
 **1) 척추관절염(SpA) 스펙트럼의 구성 질환 (p. 2563)**
 
@@ -48,11 +42,7 @@ flowchart TD
     C --> C3["장병증성 관절염 (IBD-associated SpA)"]  
     C --> C4["미분화 말초성 SpA"]
 
-## ---
-
 **2. 강직척추염 및 축성 척추관절염 (Ankylosing Spondylitis & Axial SpA) (pp. 2563–2569)**
-
-### ---
 
 **1) 역학 (Epidemiology) (p. 2563)**
 
@@ -177,18 +167,14 @@ flowchart TD
 > * **수술적 치료 및 합병증 관리**:  
 > * 중증 고관절 관절염 시 **인공 고관절 전치환술(total hip arthroplasty)**이 매우 효과적이며, 극심한 굴곡 변형 시 척추 절골술(wedge osteotomy)을 고려한다. 급성 전방 포도막염은 산동제 및 국소 스테로이드 점안제로 즉각 치료한다(단, 단클론항체형 항-TNF 제제인 infliximab, adalimumab이 수용체 융합단백인 etanercept보다 포도막염 및 IBD 재발 예방에 더 효과적이다).
 
-## ---
-
 **3. 반응관절염 (Reactive Arthritis, ReA) (pp. 2569–2571)**
-
-### ---
 
 **1) 정의 및 원인 균주 (Definition & Etiology) (p. 2569)**
 
 > * **반응관절염(ReA)**: 신체 다른 부위(주로 **장관[enteric]** 또는 **비뇨생식기[urogenital]**)의 선행 감염 후 **1~4주** 뒤에 발생하는 급성 비화농성(무균성) 관절염이다. (과거 명칭인 *Reiter's syndrome*은 관절염, 요도염, 결막염의 3징후를 지칭했으나 현재는 ReA로 통칭함).  
 > * **원인 미생물 (Triggering Pathogens)**:  
-> * **장관 감염 원인균 (Enteric pathogens)**: *Shigella* 속 (특히 ***Shigella flexneri*** — *S. sonnei*는 드묾), *Salmonella* 속 (*S. enteritidis*, *S. typhimurium*), *Yersinia* 속 (*Y. enterocolitica*, *Y. pseudotuberculosis*), *Campylobacter jejuni*, *Clostridium difficile*.  
-> * **비뇨생식기 감염 원인균 (Urogenital pathogens)**: ***Chlamydia trachomatis*** (가장 흔한 선행 원인균), *Ureaplasma urealyticum*.  
+> * **장관 감염 원인균 (Enteric pathogens)**: *Shigella* 속 (특히 **Shigella flexneri** — *S. sonnei*는 드묾), *Salmonella* 속 (*S. enteritidis*, *S. typhimurium*), *Yersinia* 속 (*Y. enterocolitica*, *Y. pseudotuberculosis*), *Campylobacter jejuni*, *Clostridium difficile*.  
+> * **비뇨생식기 감염 원인균 (Urogenital pathogens)**: **Chlamydia trachomatis** (가장 흔한 선행 원인균), *Ureaplasma urealyticum*.  
 > * **기타 보고된 균주**: *Chlamydophila pneumoniae*, BCG 방광 내 주입 치료 후 등.
 
 ### **2) 역학 및 병태생리 (Epidemiology & Pathogenesis) (pp. 2569–2570)**
@@ -232,11 +218,7 @@ flowchart TD
   * 관절염이 이미 발생한 후의 일반적 단기/장기 항생제 단독요법은 장관 감염 후 ReA에서는 효과가 없으나, 만성 *Chlamydia* 유발 ReA 환자에서 **경구 Rifampin ($300mg/d$) + Doxycycline ($200mg/d$ 또는 Azithromycin) 6개월 병용요법**이 위약 대비 관절염 호전을 보였다는 무작위 대조시험 결과가 있다.  
 > * **DMARDs 및 생물학적 제제**: 만성 난치성 환자에서 **Sulfasalazine ($2–3g/d$)** 또는 **Methotrexate ($15–25mg/wk$)**를 사용하며, 이에 불응할 경우 **항-TNF 제제**가 효과적이다.
 
-## ---
-
 **4. 건선관절염 (Psoriatic Arthritis, PsA) (pp. 2571–2573)**
-
-### ---
 
 **1) 역학 및 병태생리 (Epidemiology & Pathogenesis) (p. 2571)**
 
@@ -298,11 +280,7 @@ flowchart TD
 | **항-IL-12/23 제제** | Ustekinumab | 매우 우수 | 우수 | 우수 (축성 제외) | **억제 입증됨** |
 | **PDE4 억제제** | Apremilast | 중등도 | 중등도 | 지염/골부착부염 일부 호전 | 미입증 |
 
-## ---
-
 **5. 기타 척추관절염: 소아기 발병 SpA 및 장병증성 관절염 (pp. 2573)**
-
-### ---
 
 **1) 소아기 발병 척추관절염 (Juvenile-Onset Spondyloarthritis, JSpA) (p. 2573)**
 
@@ -325,15 +303,9 @@ flowchart TD
 > * **SAPHO 증후군 (Synovitis, Acne, Pustulosis, Hyperostosis, and Osteitis) (p. 2573)**:  
 > * 활막염, 중증 여드름, 손발바닥 농포증(palmoplantar pustulosis), 과골화증, 골염의 5징후를 특징으로 하며, **전방 흉벽(흉쇄관절[sternoclavicular joint], 흉골병[manubrium], 제1늑골)**이 가장 흔한 침범 부위이다. 골주사(bone scan)에서 특징적인 **"황소 머리 징후(bull's head sign)"**가 관찰될 수 있으며, 무균성 염증이나 일부에서 *Propionibacterium acnes* 검출이 보고된다. NSAIDs, 비스포스포네이트, 항-TNF 제제로 치료한다.
 
-# ---
-
 **Chapter 356. 혈관염 증후군 (The Vasculitis Syndromes) (pp. 2573–2588)**
 
-## ---
-
 **1. 정의, 분류 및 병태생리 (Definition, Classification & Pathogenesis) (pp. 2573–2577)**
-
-### ---
 
 **1) 혈관염의 정의 및 분류 (pp. 2573–2575)**
 
@@ -373,11 +345,7 @@ flowchart TD
 
 ![[Harrison_V2_Ch356_Tab4.png]]
 
-## ---
-
 **2. 혈관염 환자에 대한 진단적·치료적 접근 (Approach to the Patient) (pp. 2576–2579)**
-
-### ---
 
 **1) 진단적 원칙 및 모방 질환 배제 (pp. 2576–2577)**
 
@@ -397,7 +365,7 @@ flowchart TD
   * 초기 **Prednisone $1mg/kg/d$ (최대 $60–80mg/d$)**로 시작(중증 폐출혈이나 급속진행성 사구체신염 시 **Methylprednisolone $1,000mg/d$ IV 3일간** 충격요법 선행 가능). 처음에는 분복 후 수주 내에 아침 1회 복용으로 통합하고, 임상 반응에 따라 서서히 감량하여 3~6개월에 걸쳐 중단 또는 최소 용량으로 줄인다(단, 격일 요법[alternate-day]으로 너무 빨리 전환하면 재발 위험이 높다).  
   * **골다공증 예방**: 칼슘, 비타민 D 보충 및 **비스포스포네이트(bisphosphonates)** 투여.  
 > * **Cyclophosphamide (CYC)**:  
-  * **경구 매일 투여($2mg/kg/d$)**: 아침에 다량의 수분과 함께 한 번에 복용하여 방광 독성을 줄인다. 신기능 저하 시 용량을 감량해야 하며, **2주마다 백혈구(WBC) 수치를 모니터링**하여 **\$\\text{WBC} > 3,000/\\mu\\text{L}\$ (절대호중구수 \$\\text{ANC} > 1,500/\\mu\\text{L}\$)**를 유지하도록 용량을 조절한다(백혈구 감소증을 유도할 필요가 없으며 오히려 중증 감염 사망률을 높인다!).  
+  * **경구 매일 투여($2mg/kg/d$)**: 아침에 다량의 수분과 함께 한 번에 복용하여 방광 독성을 줄인다. 신기능 저하 시 용량을 감량해야 하며, **2주마다 백혈구(WBC) 수치를 모니터링**하여 **$\text{WBC} > 3,000/\mu\text{L}$ (절대호중구수 $\text{ANC} > 1,500/\mu\text{L}$)**를 유지하도록 용량을 조절한다(백혈구 감소증을 유도할 필요가 없으며 오히려 중증 감염 사망률을 높인다!).  
   * **정주 충격요법(Pulsed IV CYC, $15mg/kg$ 또는 $0.6–0.75g/{m}^{2}$ 2~4주 간격)**: 누적 용량과 부작용이 적으나 재발률이 경구 요법보다 다소 높을 수 있다.  
   * **주요 독성**: 골수억제, 출혈성 방광염(hemorrhagic cystitis), **방광암**(투여 중단 수년 후에도 발생 가능하므로 비현미경적/현미경적 혈뇨 지속 시 방광경 검사 필수), 생식선 기능부전(불임), 기형 유발.  
   * **관해 유도 후 전환**: CYC는 **3~6개월간 관해 유도(remission induction)** 목적으로만 사용하고, 관해 도달 즉시 **Methotrexate** 또는 **Azathioprine** 같은 독성이 적은 관해 유지(maintenance) 약제로 전환해야 한다.  
@@ -408,15 +376,11 @@ flowchart TD
 > * **Azathioprine ($2mg/kg/d$)**:  
   * 관해 유지요법의 표준 약제 중 하나로, 투여 전 **TPMT (thiopurine methyltransferase)** 결핍 여부를 확인하는 것이 권장된다.  
 > * **Mycophenolate mofetil ($2g/d$)** 및 **생물학적 제제(Tocilizumab — GCA, Mepolizumab — EGPA)**.  
-> * **감염 예방**: 면역억제제와 글루코코르티코이드 병용 기간 동안 ***Pneumocystis jirovecii*** **폐렴(PJP) 예방**을 위해 **Trimethoprim-sulfamethoxazole (TMP-SMX, 1 single-strength tablet daily 또는 1 double-strength tablet 3회/주)**을 반드시 투여한다.
+> * **감염 예방**: 면역억제제와 글루코코르티코이드 병용 기간 동안 **Pneumocystis jirovecii** **폐렴(PJP) 예방**을 위해 **Trimethoprim-sulfamethoxazole (TMP-SMX, 1 single-strength tablet daily 또는 1 double-strength tablet 3회/주)**을 반드시 투여한다.
 
 > ⚠️ **이미지 미확보 (2026-10-27)** — Harrison 20e 원서 그림 추출본이 없어 표시만 남깁니다
 
-## ---
-
 **3. ANCA 연관 혈관염 (ANCA-Associated Vasculitis, AAV) (pp. 2579–2582)**
-
-### ---
 
 **1) 다발혈관염 동반 육아종증 (Granulomatosis with Polyangiitis, GPA; 구 Wegener's Granulomatosis) (pp. 2579–2581)**
 
@@ -443,7 +407,7 @@ flowchart TD
 > * **감별진단**: Goodpasture 증후군(항-GBM 질환), 재발성 다발연골염(성문하 협착이나 안장코 변형은 공유하나 사구체신염이나 폐 공동성 결절이 없고 외이 염증이 특징적), 코카인(특히 levamisole 함유) 유발 정중선 파괴 병변, NK/T세포 림프종(구 "lethal midline granuloma"), 림프종양 육아종증(EBV 양성 B세포 증식).  
 > * **치료 및 예후**:  
 > * 치료하지 않을 경우 사망률이 90%를 넘었으나, **글루코코르티코이드 + Rituximab (또는 Cyclophosphamide)** 관해 유도 후 **Rituximab, Methotrexate, 또는 Azathioprine** 유지요법을 통해 **90% 이상에서 현저한 호전** 및 **75%에서 완전 관해**에 도달한다.  
-> * 단, 관해 도달 환자의 **50~70%**가 1회 이상 재발(relapse)을 경험하며, 비강 내 ***Staphylococcus aureus*** **만성 보균**이 재발 위험 증가와 연관되어 고용량 TMP-SMX가 비강 위생 및 재발 감소에 도움을 줄 수 있다.
+> * 단, 관해 도달 환자의 **50~70%**가 1회 이상 재발(relapse)을 경험하며, 비강 내 **Staphylococcus aureus** **만성 보균**이 재발 위험 증가와 연관되어 고용량 TMP-SMX가 비강 위생 및 재발 감소에 도움을 줄 수 있다.
 
 ### **2) 현미경적 다발혈관염 (Microscopic Polyangiitis, MPA) (p. 2581)**
 
@@ -463,7 +427,7 @@ flowchart TD
 > * *참고*: 백혈구류코트리엔 수용체 길항제(leukotriene antagonists, 예: montelukast, zafirlukast)나 omalizumab 복용 중 발생한 EGPA는 약물이 직접 혈관염을 유발했다기보다, 천식 조절을 위해 복용 중이던 경구 스테로이드를 감량하면서 기저의 잠복 EGPA가 드러난(unmasked) 것으로 해석된다.  
 > * **임상 경과의 3단계**:  
 > * **전구기 (Prodromal phase)**: 수년~수십 년간 지속되는 성인 발병 **천식(asthma, 거의 모든 환자에서 존재)**, 알레르기 비염, 코폴립(nasal polyposis), 부비동염.  
-> * **호산구 침윤기 (Eosinophilic phase)**: 말초혈액 호산구 증가(**\$>1,000/\\mu\\text{L}\$**, 백혈구의 10% 이상 — 환자의 **80% 이상**에서 관찰) 및 폐 침윤(이동성 비공동성 폐 침윤, **61%**), 호산구성 위장관염.  
+> * **호산구 침윤기 (Eosinophilic phase)**: 말초혈액 호산구 증가(**$>1,000/\mu\text{L}$**, 백혈구의 10% 이상 — 환자의 **80% 이상**에서 관찰) 및 폐 침윤(이동성 비공동성 폐 침윤, **61%**), 호산구성 위장관염.  
 > * **전신 혈관염기 (Vasculitic phase)**:  
   * **다발성 단신경염 (Mononeuritis multiplex, 72%)**: 두 번째로 흔한 침범 소견.  
   * **심장 침범 (Heart disease, 약 14~47%)**: **EGPA 환자의 가장 흔한 사망 원인(major cause of death)**이다! 호산구성 심근염(eosinophilic myocarditis), 울혈성 심부전, 심낭염, 심근경색으로 나타난다.  
@@ -472,11 +436,7 @@ flowchart TD
 > * 경증/장기 위협이 없는 경우 글루코코르티코이드 단독으로 관해 유도가 가능하나, 심장·신장·중증 신경계·위장관 침범 등 불량 예후 인자가 있는 경우 **글루코코르티코이드 + Cyclophosphamide**를 병용한다.  
 > * **항-IL-5 단클론항체 — Mepolizumab ($300mg$ SC q4w)**: 재발성 또는 불응성 EGPA 환자에서 관해율을 유의하게 높이고 스테로이드 요구량을 줄이는 것으로 입증되어 FDA 승인을 받았다.
 
-## ---
-
 **4. 중혈관 혈관염: 결절다발동맥염 및 가와사키병 (Medium-Vessel Vasculitis) (pp. 2582–2584)**
-
-### ---
 
 **1) 결절다발동맥염 (Polyarteritis Nodosa, PAN) (pp. 2582–2583)**
 
@@ -486,8 +446,8 @@ flowchart TD
 > * 육아종이나 호산구 증가증이 없으며, **ANCA는 음성**이다.  
 > * 혈관 분지부(branch points)에 분절성 전층 괴사성 염증(피브리노이드 괴사)이 발생하여 혈관 탄력층이 파괴되고 **최대 $1cm$ 크기의 다발성 소동맥류(microaneurysms)** 및 혈전성 폐색/경색을 유발한다.  
 > * **B형 간염 바이러스(HBV)와의 연관성**:  
-> * PAN 환자의 약 **10% 이하**(과거 최대 30%, 백신 도입 후 감소)에서 활동성 **B형 간염 항원혈증(HBsAg 양성)**이 동반되며, 순환 면역복합체 침착이 관여한다. 또한 털세포백혈병(hairy cell leukemia) 및 ***CECR1*** **유전자 돌연변이(Adenosine deaminase 2 [ADA2] 결핍증, DADA2)**에 의한 단일유전자성 PAN 유사 혈관염이 보고되어 있다.  
-> * **임상 양상 (Table 356-6)**:  
+> * PAN 환자의 약 **10% 이하**(과거 최대 30%, 백신 도입 후 감소)에서 활동성 **B형 간염 항원혈증(HBsAg 양성)**이 동반되며, 순환 면역복합체 침착이 관여한다. 또한 털세포백혈병(hairy cell leukemia) 및 **CECR1** **유전자 돌연변이(Adenosine deaminase 2 [ADA2] 결핍증, DADA2)**에 의한 단일유전자성 PAN 유사 혈관염이 보고되어 있다.  
+> * **임상 양상 (Table 356-6)**: ![[Harrison_V2_Ch356_Tab6.png]]  
 > * **신장 침범 (60%)**: 사구체신염 없이 신동맥 침범에 의한 **신혈관성 고혈압(renovascular hypertension)**, 신장 경색, 또는 신동맥류 파열에 의한 신주위 혈종으로 나타난다.  
 > * **근골격계 (64%)**: 관절통, 관절염, 근육통(종아리 통증).  
 > * **말초신경병증 (51%)**: 신경영양혈관(vasa nervorum) 혈관염에 의한 **다발성 단신경염(mononeuritis multiplex)**(갑작스러운 족하수[foot drop], 손목하수[wrist drop]).  
@@ -516,11 +476,7 @@ flowchart TD
 > * **치료**:  
 > * 발병 **10일 이내**에 **고용량 정주 면역글로불린(IVIG, $2g/kg$ 10~12시간 단일 주입) + 고용량 Aspirin ($80–100mg/kg/d$ 4회 분복, 해열 후 또는 14일째부터 항혈소판 용량인 $3–5mg/kg/d$로 감량)**을 투여하면 관상동맥류 발생률을 25%에서 **약 5% 미만**으로 극적으로 낮춘다. 고위험군 또는 IVIG 불응성 환자에서는 글루코코르티코이드 또는 Infliximab 추가가 유용하다.
 
-## ---
-
 **5. 대혈관 혈관염: 거대세포동맥염 및 타카야수동맥염 (Large-Vessel Vasculitis) (pp. 2583–2585)**
-
-### ---
 
 **1) 거대세포동맥염 (Giant Cell Arteritis, GCA; 구 Temporal Arteritis) 및 류마티스다발근육통 (Polymyalgia Rheumatica, PMR) (pp. 2583–2584)**
 
@@ -566,11 +522,7 @@ flowchart TD
 | **확진 검사** | **측두동맥 생검** (최소 3~5 cm), 측두동맥 초음파/대혈관 영상 | 대동맥 및 분지 **MRA / CTA / 혈관조영술** |
 | **표준 치료** | 고용량 글루코코르티코이드 + **Tocilizumab** + 저용량 아스피린 | 고용량 글루코코르티코이드 + **MTX**(또는 항-TNF/Tocilizumab) + 혈관재개통술 |
 
-## ---
-
 **6. 면역복합체 소혈관염 및 기타 특수 혈관염 (pp. 2585–2588)**
-
-### ---
 
 **1) IgA 혈관염 (IgA Vasculitis; Henoch-Schönlein Purpura, HSP) (pp. 2585–2586)**
 
@@ -610,11 +562,7 @@ flowchart TD
 > * **간질성 각막염(interstitial keratitis)**과 **전정청각 기능장애(vestibuloauditory dysfunction — 메니에르 유사 현훈, 운동실조, 이명, 급격한 감각신경성 난청)** 및 전신 혈관염(특히 **대동맥염 및 대동맥판막 역류[약 10%]**)을 특징으로 한다. 난청 진행을 막기 위해 즉각적인 고용량 글루코코르티코이드 투여가 필수적이다.  
 > * **이차성 혈관염 (Secondary Vasculitis) (p. 2588)**: 약물 유발 혈관염(hydralazine, propylthiouracil[PTU — MPO-ANCA 양성 흔함], allopurinol, minocycline, 항-TNF 제제, levamisole 등), 혈청병, 류마티스관절염/SLE/쇼그렌증후군/염증성장질환/악성종양 연관 혈관염.
 
-# ---
-
 **Chapter 357. 베체트 증후군 (Behçet's Syndrome) (pp. 2588–2589)**
-
-## ---
 
 **1. 정의, 역학 및 병태생리 (Definition, Epidemiology & Pathogenesis) (p. 2588)**
 
@@ -628,11 +576,7 @@ flowchart TD
 > * 자가면역과 자가염증(autoinflammatory)의 경계에 있는 질환으로, **HLA-B*51 (HLA-B5101)** 대립유전자가 가장 강력한 유전적 위험 인자이다.  
 > * 그 외 IL10, IL23R-IL12RB2, ERAP1, STAT4, CCR1, KLRC4, MEFV 유전자 다형성이 관여하며, 선천면역계의 호중구 과활성화(neutrophil hyperactivity) 및 Th1/Th17 세포 활성화가 혈관 내피 손상과 혈전을 유도한다.
 
-## ---
-
 **2. 임상 양상 및 진단 기준 (Clinical Manifestations & Diagnostic Criteria) (pp. 2588–2589)**
-
-### ---
 
 **1) 국제 베체트병 연구그룹(ISG) 진단 기준 (Table 357-1) (p. 2588)**
 
@@ -663,8 +607,6 @@ flowchart TD
 > * **뇌실질형(Parenchymal, 80%)**: **뇌간(brainstem)**, 간뇌, 기저핵을 주로 침범하여 피질척수로 징후, 뇌신경 마비, 구음장애, 운동실조, 인격 변화/치매를 유발하며 예후가 불량하다.  
 > * **비뇌실질형(Nonparenchymal / Vascular, 20%)**: **경막정맥동 혈전증(dural sinus thrombosis)**에 의해 두통과 두개내압 상승(유두부종)으로 나타나며 뇌실질형보다 예후가 좋다.
 
-## ---
-
 **3. 치료 (Treatment) (p. 2589)**
 
 > * ---
@@ -682,11 +624,7 @@ flowchart TD
 > * **폐동맥류 및 대동맥류**: **고용량 글루코코르티코이드(Methylprednisolone IV 충격요법 후 경구) + 월간 정주 Cyclophosphamide** 또는 **Infliximab**으로 치료한다.  
 > * **신경베체트(뇌실질형)**: 고용량 글루코코르티코이드 + Azathioprine, Cyclophosphamide, 또는 항-TNF 제제.
 
-# ---
-
 **Chapter 358. 염증성 근육병증 (Inflammatory Myopathies) (pp. 2589–2596)**
-
-## ---
 
 **1. 분류 및 역학 (Classification & Epidemiology) (pp. 2589–2590)**
 
@@ -701,8 +639,6 @@ flowchart TD
 > * **DM**: 소아와 성인 모두에서 발생하며(이봉성 분포), 여성에서 더 흔하다.  
 > * **PM 및 IMNM**: 주로 20세 이후 성인에서 발생하며 여성에서 더 흔하다(과거 PM으로 진단되던 사례의 상당수가 실제로는 IMNM, IBM, 또는 이영양증으로 재분류되어 순수한 PM은 가장 드문 아형임).  
 > * **IBM**: **50세 이상에서 가장 흔한 후천성 염증성 근육병증**이며, 다른 아형들과 달리 **남성에서 여성보다 더 흔하다(남성 우세)** (HLA-DR3 연관).
-
-## ---
 
 **2. 임상 양상 (Clinical Features) (pp. 2590–2591)**
 
@@ -748,11 +684,7 @@ flowchart TD
 > * 특히 **항-TIF1-$\gamma$ (transcriptional intermediary factor 1-$\gamma$)** 항체 또는 **항-NXP-2 (nuclear matrix protein 2)** 항체 양성인 성인 DM 환자에서 암 동반 위험이 매우 높다.  
 > * 흔한 동반 암종: **난소암, 유방암, 폐암, 대장암, 위암, 췌장암, 비호지킨 림프종**(아시아인에서는 비인두암도 흔함). 진단 시점 및 이후 3년간 연령·성별에 맞춘 종양 선별검사(유방촬영, 골반 초음파/CT, 대장내시경, 흉복부 CT 또는 전신 PET-CT)가 권장된다.
 
-## ---
-
 **3. 병태생리 및 근육 생검 조직병리 (Pathogenesis & Muscle Biopsy Pathology) (pp. 2591–2594)**
-
-### ---
 
 **1) 아형별 면역병리 및 근생검 소견 비교 (pp. 2591–2593)**
 
@@ -792,11 +724,7 @@ flowchart TD
 | **대표 자가항체** | 항-Mi-2, 항-TIF1-$\gamma$, 항-NXP-2, 항-MDA5, 항-Jo-1 | 항-Jo-1 및 기타 합성효소 항체 | **항-cN1A (NT5C1A)** | **항-SRP**, **항-HMGCR**(스타틴 연관) |
 | **면역억제 반응** | 우수 | 중등도~우수 | **불응성 (효과 없음)** | 중등도 (초기 IVIG/다제 병용 필요) |
 
-## ---
-
 **4. 진단적 검사 및 감별진단 (Diagnostic Evaluation & Differential Diagnosis) (pp. 2593–2595)**
-
-### ---
 
 **1) 4대 핵심 진단 검사 (pp. 2593–2594)**
 
@@ -827,8 +755,6 @@ flowchart TD
 > * 고용량 스테로이드를 복용 중인 근염 환자에서 근력 저하가 악화될 때, 원인이 **원발성 근염의 재발(relapse)**인지 **스테로이드 유발 근병증(type 2 근섬유 위축)**인지 구별해야 한다.  
 > * **스테로이드 근병증의 특징**: **혈청 CK 수치가 정상(또는 감소 추세)**이고, **EMG에서 세동전위(fibrillation potentials) 같은 자발전위(막 불안정성)가 없으며**, 스테로이드 용량을 감량하면 호전된다.
 
-## ---
-
 **5. 치료 (Treatment) (pp. 2595–2596)**
 
 ---
@@ -852,11 +778,7 @@ flowchart TD
 > * **포함체근염(IBM)의 치료 (p. 2596)**:  
 > * IBM은 글루코코르티코이드, 면역억제제, IVIG 등 **모든 면역조절 치료에 일반적으로 반응하지 않는다**. 물리치료·작업치료, 낙상 방지 보조기, 그리고 심한 연하곤란 시 윤상인두근 절개술(cricopharyngeal myotomy)이나 보툴리눔 독소 주사 등 대증적 관리가 중심이다.
 
-# ---
-
 **Chapter 359. 재발성 다발연골염 (Relapsing Polychondritis) (pp. 2596–2599)**
-
-## ---
 
 **1. 정의, 역학 및 병태생리 (Definition, Epidemiology & Pathogenesis) (p. 2596)**
 
@@ -866,8 +788,6 @@ flowchart TD
 > * **역학**: 호발 연령은 **40~50대**이나 모든 연령에서 발생 가능하며 남녀 비는 거의 **1:1**이다.  
 > * **동반 질환**: 환자의 **약 30%**에서 다른 류마티스/자가면역 질환(전신 혈관염[가장 흔함], RA, SLE, 쇼그렌증후군, 척추관절염, 베체트병[**MAGIC 증후군**: Mouth And Genital ulcers with Inflamed Cartilage]) 또는 혈액질환(**골수형성이상증후군[Myelodysplastic syndrome, MDS]**)이 동반된다.  
 > * **병태생리**: HLA-DR4와의 유전적 연관성이 보고되었으며, 연골 기질 성분인 **제2형, 제9형, 제11형 콜라겐(Type II, IX, XI collagen)** 및 **Matrilin-1**에 대한 체액성·세포성 자가면역 반응과 단백분해효소 방출이 연골 기질의 프로테오글리칸 소실과 섬유화/연골 용해를 초래한다.
-
-## ---
 
 **2. 임상 양상 (Clinical Manifestations) (pp. 2596–2598)**
 
@@ -895,8 +815,6 @@ flowchart TD
 ![[Harrison_V2_Ch359_Fig1.png]]  
 ![[Harrison_V2_Ch359_Fig2.png]]
 
-## ---
-
 **3. 진단 및 치료 (Diagnosis & Treatment) (pp. 2598–2599)**
 
 > * ---
@@ -908,8 +826,6 @@ flowchart TD
 > * 경증 이개/비강 연골염 또는 관절염: NSAIDs, Colchicine, Dapsone, 또는 저용량 Prednisone ($10–20mg/d$).  
 > * 중증 증상(기도 침범, 감각신경성 난청, 괴사성 공막염, 대동맥염, 사구체신염): **고용량 Prednisone ($1mg/kg/d$ 또는 Methylprednisolone IV 충격요법)** + 스테로이드 절약 면역억제제(**Methotrexate, Azathioprine, Mycophenolate mofetil, 또는 Cyclophosphamide**)나 **항-TNF 제제(Infliximab, Adalimumab)**를 병용한다.  
 > * 중증 기관기관지연화증/기도 허탈 시 **지속성 양압환기(CPAP)**, 기도 스텐트 삽입, 또는 기관절개술이 필요할 수 있다.
-
-# ---
 
 **Chapter 360. 유육종증 — 도입부 (Sarcoidosis — Introduction) (p. 2599)**
 
@@ -924,14 +840,12 @@ flowchart TD
 >   **정의**: 하나 이상의 장기 및 조직에 **비건락성 육아종(noncaseating granulomas)** 형성을 특징으로 하는 원인 불명의 다기관 염증성 질환이다.  
 > * **원인 가설 (Etiology)**:  
 > * 감염성 또는 환경적 노출 항원에 대한 유전적 감수성 숙주의 과장된 세포매개 면역 반응으로 여겨진다.  
-> * 연구된 후보 원인 인자: ***Propionibacterium acnes***, **미코박테리아(Mycobacteria)**의 **mKatG (mycobacterial catalase-peroxidase)** 단백질, 그리고 살충제, 농작업 먼지, 곰팡이/미생물 생물학적 에어로졸, 9/11 세계무역센터(World Trade Center) 붕괴 분진 노출 등.  
+> * 연구된 후보 원인 인자: **Propionibacterium acnes**, **미코박테리아(Mycobacteria)**의 **mKatG (mycobacterial catalase-peroxidase)** 단백질, 그리고 살충제, 농작업 먼지, 곰팡이/미생물 생물학적 에어로졸, 9/11 세계무역센터(World Trade Center) 붕괴 분진 노출 등.  
 > * **베릴륨 노출(Chronic Beryllium Disease, 만성 베릴륨 질환)**: 유육종증과 임상적·방사선학적·조직학적으로 구별할 수 없는 육아종성 폐질환을 유발하므로, 합금·세라믹·전자·항공우주 산업 종사자에서는 반드시 직업력을 확인하고 **혈액 베릴륨 림프구 증식 검사(BeLPT, blood beryllium lymphocyte proliferation test)**로 감별해야 한다.  
 > * **역학 및 유전적 요인**:  
 > * 전 세계 모든 인종과 연령에서 발생하나 **20~40세 성인**에서 호발하며, 북유럽(스칸디나비아) 및 **미국 흑인(아프리카계 미국인)**에서 발생률이 가장 높다(미국 흑인 여성의 평생 위험도는 약 **2.7%**, 흑인 남성은 **2.1%**인 반면 백인 여성은 1.0%, 백인 남성은 0.7%이며, 흑인에서 질환이 더 만성적이고 중증임).  
 > * 환자의 1차 또는 2차 친족에서 유육종증이 발생할 오즈비(OR)는 약 **5배** 증가한다.  
 > * **HLA-DRB1*1101**은 흑인과 백인 모두에서 유육종증 감수성과 연관되며, **HLA-DRB1*0301**은 급성 발병 및 자연 관해 경향이 높은 **뢰프그렌 증후군(Löfgren's syndrome)**과 강하게 연관된다.
-
-## ---
 
 **자체 점검 (Self-Check)**
 

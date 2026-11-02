@@ -13,24 +13,20 @@ type: 의학원서_요약노트
 
 **원서 정보** - **원서명**: *Harrison's Principles of Internal Medicine, 20th ed.* - **수록 범위**: 인쇄면 pp. 3172–3203 (제433장 말미 p. 3172 상단 + 제434장 척수 질환 pp. 3172–3182 + 제435장 뇌진탕 및 기타 외상성 뇌손상 pp. 3183–3188 + 제436장 다발성 경화증 pp. 3188–3202 + 제437장 시신경척수염 전반부 pp. 3202–3203) - **원본 파일**: [Harrison20e_V2_3046-3203.pdf](https://drive.google.com/file/d/1-swSLECPSMsmzo77aJqQsm9NVF7AqiBY/view?usp=drivesdk)
 
-※ **범위 경계 안내**: 본 노트는 **제433장(Trigeminal Neuralgia, Bell's Palsy, and Other Cranial Nerve Disorders) 말미인 p. 3172 최상단**에서 시작합니다. 직전 페이지(p. 3171) 하단에서는 뇌줄기 외부에서 여러 뇌신경을 침범하는 원인(외상, 감염, 수막염, 육아종성 질환, 종양 등)이 서술되었고 "Owing to their anatomic relationships, the"라는 문장 도중에 끝났으며 본 범위 첫 줄("multiple cranial nerve palsies form a number of distinctive syndromes, listed in Table 433-2.")로 이어집니다. 또한 본 범위 말미(p. 3203 하단)는 제437장 시신경척수염(Neuromyelitis Optica)의 Global Considerations 절 끝에서 끝나며 이후 절은 다음 범위(pp. 3204–)로 이어집니다.
+※ **범위 경계 안내**: 본 노트는 **제433장(Trigeminal Neuralgia, Bell's Palsy, and Other Cranial Nerve Disorders) 말미인 p. 3172 최상단**에서 시작합니다. 직전 페이지(p. 3171) 하단에서는 뇌줄기 외부에서 여러 뇌신경을 침범하는 원인(외상, 감염, 수막염, 육아종성 질환, 종양 등)이 서술되었고 "Owing to their anatomic relationships, the"라는 문장 도중에 끝났으며 본 범위 첫 줄("multiple cranial nerve palsies form a number of distinctive syndromes, listed in Table 433-2.")로 이어집니다. 또한 본 범위 말미(p. 3203 하단)는 제437장 시신경척수염(Neuromyelitis Optica)의 Global Considerations 절 끝에서 끝나며 이후 절은 다음 범위(pp. 3204–)로 이어집니다. ![[Harrison_V2_Ch433_Tab2.png]]  
 
 ## **1. 제433장 말미: 다발성 뇌신경 마비 완결 및 해면정맥동 증후군 (p. 3172)**
-
-### ---
 
 **1.1 다발성 뇌신경 마비의 감별 및 해면정맥동 증후군 (Cavernous Sinus Syndrome) (p. 3172)**
 
 > * **다발성 뇌신경 마비의 추가 원인 (p. 3171에서 이어짐)**: 사르코이드증(sarcoidosis), 결핵, 키아리 기형(Chiari malformation), 편평기저증(platybasia), 두개기저함입증(basilar invagination)이 원인일 수 있다. 근위축이 없는 순수 운동 장애는 항상 중증근무력증(myasthenia gravis)의 가능성을 제기한다. 길랭-바레 증후군은 흔히 양측 안면신경을 침범하며, 피셔 변형(Fisher variant)에서는 안구운동 마비가 사지의 실조 및 무반사와 동반된다. 베르니케 뇌병증(Wernicke's encephalopathy)은 중증 안근마비와 다른 뇌줄기 징후를 유발할 수 있다.  
 > * **해면정맥동 증후군 (Cavernous Sinus Syndrome) (p. 3172)**:  
-> * 흔히 생명을 위협하는 특징적인 질환으로, 눈확 또는 안면 통증, 눈정맥(ophthalmic veins) 폐색으로 인한 눈확 부종 및 결막부종(chemosis), 발열, **제3, 4, 6 뇌신경(CN III, IV, VI)**을 침범하는 안구운동 신경병증, 그리고 삼차신경의 **안신경(\$ ext{V}_1\$)** 및 때로 **상악신경(\$ ext{V}_2\$)** 분지를 침범하는 삼차신경병증으로 발현한다.  
+> * 흔히 생명을 위협하는 특징적인 질환으로, 눈확 또는 안면 통증, 눈정맥(ophthalmic veins) 폐색으로 인한 눈확 부종 및 결막부종(chemosis), 발열, **제3, 4, 6 뇌신경(CN III, IV, VI)**을 침범하는 안구운동 신경병증, 그리고 삼차신경의 **안신경($\text{V}_1$)** 및 때로 **상악신경($\text{V}_2$)** 분지를 침범하는 삼차신경병증으로 발현한다.  
 > * **원인**: 눈확연조직염(orbital cellulitis; 흔히 *Staphylococcus aureus*에 의함), 안면 피부 감염원, 또는 부비동염(특히 당뇨병 환자의 털곰팡이증[mucormycosis])에서 속발하는 **해면정맥동 혈전증(cavernous sinus thrombosis)**이 가장 흔한 원인이다. 그 외 경동맥 동맥류, 경동맥-해면정맥동 누공(carotid-cavernous fistula; 눈확 잡음[orbital bruit] 동반 가능), 수막종, 비인두암종, 기타 종양, 또는 특발성 육아종성 질환인 **톨로사-헌트 증후군(Tolosa-Hunt syndrome)**이 있다. 양측 해면정맥동은 해면정맥동간 통로(intercavernous channels)로 직접 교통하므로 일측 침범이 양측성으로 확장될 수 있다.  
 > * **치료**: 감염성 증례에서는 광범위 항생제의 즉각적 투여, 농양강 배농, 원인균 동정이 필수적이다. 일차성 혈전증에는 항응고 요법이 이점을 줄 수 있으며, 누공이나 동맥류는 경동맥 복구 또는 폐색이 필요할 수 있다. **톨로사-헌트 증후군**은 글루코코르티코이드에 잘 반응하여 대개 수일 내에 극적인 통증 호전이 나타나며, 경구 프레드니손(**60 mg/d**)을 2주간 유지한 뒤 1개월 이상에 걸쳐 서서히 감량한다(초기 반응 유지를 위해 때로 아자티오프린이나 메토트렉세이트 추가 필요).  
 > * 일측 또는 양측 안면에 아급성으로 시작하는 도려내는 듯한(boring) 안면 통증 후 운동 뇌신경 마비가 뒤따르는 특발성 다발성 뇌신경 침범(MRI상 경막의 특발성 염증 시각화 가능)도 글루코코르티코이드에 반응한다.
 
 ## **2. 제434장 척수 질환 (Diseases of the Spinal Cord) (pp. 3172–3182)**
-
-### ---
 
 **2.1 임상 징후와 관련된 척수 해부학 및 병터 수준 결정 (pp. 3172–3174)**
 
@@ -51,7 +47,7 @@ Table 434-2 Spinal Cord Levels Relative to the Vertebral Bodies (p. 3173) ![[Har
 > * **브라운-세카르 반측척수 증후군(Brown-Séquard Hemicord Syndrome)**: 병터 **동측**의 위약(피질척수길) 및 관절 위치·진동감각 소실(뒤기둥)과 병터 1~2분절 아래 **반대측**의 통각·온도감각 소실(척수시상길; 등쪽뿔에서 기원한 2차 감각 섬유가 중심관 앞쪽에서 교차하면서 1~2분절 상행하기 때문)로 구성된다.  
 > * **중심척수 증후군(Central Cord Syndrome)**: 중심관 주변 회색질 신경세포와 교차하는 척수시상길의 선택적 손상으로 발생한다. 경수에서는 하지보다 **상지 위약이 불균형적으로 심하고**, 어깨·하부 목·상부 체간에 **망토 분포(cape distribution)의 해리성 감각소실(dissociated sensory loss; 통각·온도각은 소실되나 가벼운 촉각·위치·진동감각은 보존됨)**이 나타난다. 척수 외상, 척수공동증(syringomyelia), 척수내 종양이 주원인이다.  
 > * **앞척수동맥 증후군(Anterior Spinal Artery Syndrome)**: 뒤기둥(진동·위치감각)만 현저히 보존되고 병터 아래의 모든 운동, 통각·온도각, 자율신경 기능이 소실된다.  
-> * **큰구멍 증후군(Foramen Magnum Syndrome)**: 팔로 가는 섬유보다 꼬리쪽(하방)에서 교차하는 다리 행 피라미드길 섬유를 차단하여 하지 위약(crural paresis)을 유발하거나, 동측 어깨·팔 \$ ightarrow\$ 동측 다리 \$ ightarrow\$ 반대측 다리 \$ ightarrow\$ 반대측 팔 순서로 진행하는 **'시계 방향(around the clock)'** 위약과 후두하 통증을 유발한다.  
+> * **큰구멍 증후군(Foramen Magnum Syndrome)**: 팔로 가는 섬유보다 꼬리쪽(하방)에서 교차하는 다리 행 피라미드길 섬유를 차단하여 하지 위약(crural paresis)을 유발하거나, 동측 어깨·팔 $ ightarrow$ 동측 다리 $ ightarrow$ 반대측 다리 $ ightarrow$ 반대측 팔 순서로 진행하는 **'시계 방향(around the clock)'** 위약과 후두하 통증을 유발한다.  
 > * **척수내(Intramedullary) vs 척수외(Extramedullary) 병터**: 척수외 병터는 신경뿌리 통증, 조기 천수 감각 소실 및 경직성 하지 위약·요실금이 흔한 반면, 척수내 병터는 국소화가 불분명한 작열통과 회음부·천수 감각이 보존되는 **천수 보존(sacral sparing; 척수시상길에서 천수 섬유가 가장 바깥쪽에 위치하는 층판 구조 반영)**을 보인다.
 
 Figure 434-1 Transverse section through the spinal cord, composite representation, illustrating the principal ascending (left) and descending (right) pathways. The lateral and ventral spinothalamic tracts ascend contralateral to the side of the body that is innervated. C, cervical; D, distal; E, extensors; F, flexors; L, lumbar; P, proximal; S, sacral; T, thoracic. (p. 3174) ![[Harrison_V2_Ch434_Fig1.png]]
@@ -74,7 +70,7 @@ Figure 434-4 Magnetic resonance imaging of an intramedullary astrocytoma. Sagitt
 
 > * **척수 경막외 농양 (Spinal Epidural Abscess) (pp. 3176–3177)**:  
 > * 정중선 등/목 통증, 발열, 진행성 사지 위약의 3징으로 발현한다. 2/3는 피부(종기증), 연조직(인두·치아 농양, 부비동염), 심부 내장(세균성 심내막염)으로부터의 혈행성 확산이며, 나머지는 척추 골수염, 욕창, 요추천자, 경막외 마취, 척추 수술 등 국소 감염의 직접 확장이다.  
-> * 원인균은 ***Staphylococcus aureus*****(MRSA 포함)**가 가장 흔하며 그람음성 막대균, 연쇄구균, 혐기균, 진균, 결핵(포트병[Pott's disease], Fig. 434-5)도 원인이다.  
+> * 원인균은 **Staphylococcus aureus****(MRSA 포함)**가 가장 흔하며 그람음성 막대균, 연쇄구균, 혐기균, 진균, 결핵(포트병[Pott's disease], Fig. 434-5)도 원인이다.  
 > * **치료**: 감압 척추후궁절제술 및 변연절제술(decompressive laminectomy with debridement)과 장기 항생제(6~8주) 병용이다. 수술 전 경험적 광범위 항생제로 **반코마이신(vancomycin 15~20 mg/kg q12h)** + **세프트리악손(ceftriaxone 2 g q24h)** + 적응증 해당 시 **메트로니다졸(metronidazole 30 mg/kg/d를 q6h로 분할)**을 시작한다.
 
 Figure 434-5 Magnetic resonance (MR) imaging of a spinal epidural abscess due to tuberculosis. A. Sagittal T2-weighted free spin-echo MR sequence. A hypointense mass replaces the posterior elements of C3 and extends epidurally to compress the spinal cord (arrows). B. Sagittal T1-weighted image after contrast administration reveals a diffuse enhancement of the epidural process (arrows) with extension into the epidural space. (p. 3177) ![[Harrison_V2_Ch434_Fig5.png]]
@@ -103,20 +99,18 @@ Figure 434-6 Arteriovenous malformation. Sagittal magnetic resonance scans of th
 
 Figure 434-7 Magnetic resonance imaging of syringomyelia associated with a Chiari malformation. Sagittal T1-weighted image through the cervical and upper thoracic spine demonstrates descent of the cerebellar tonsils below the level of the foramen magnum (black arrows). Within the substance of the cervical and thoracic spinal cord, a cerebrospinal fluid collection dilates the central canal (white arrows). (p. 3180) ![[Harrison_V2_Ch434_Fig7.png]]
 
-> * **아급성 연합변성(Subacute Combined Degeneration, 비타민 \$ ext{B}_{12}\$ 결핍) (p. 3181)**: 손발의 아급성 이상감각, 진동·위치감각 소실, 진행성 경직성·실조성 위약(뒤기둥 및 가쪽기둥 침범; 말초신경병증에 의한 반사 소실과 바빈스키 징후 공존이 중요한 단서)으로 발현한다. 거대적혈모구빈혈, 낮은 혈청 \$ ext{B}*{12}\$, 상승된 호모시스테인 및 메틸말론산으로 확진하며 근육내 비타민 \$ ext{B}*{12}\$ **1000 $\mu$g** 반복 투여 및 경구 보충으로 치료한다.  
-> * **저구리혈증 척수병증(Hypocupric Myelopathy) (p. 3181)**: 아급성 연합변성과 유사하나 신경병증이 없고 혈청 \$ ext{B}_{12}\$가 정상이다. 비만대사수술 등 위장관 수술 후나 과도한 아연 보충제/틀니 크림(메탈로티오네인 유도를 통해 구리 흡수 억제) 사용 후 발생하며 혈청 구리 및 세룰로플라스민이 낮다.  
-> * **척수매독(Tabes Dorsalis; 전격통, 감각성 실조, 하지 무반사, 빛반사는 소실되고 조절반사는 보존되는 양측 아길 로버트슨 동공[Argyll Robertson pupils])**, **유전성 강직성 하반신마비(HSP)**, **부신척수신경병증(Adrenomyeloneuropathy; X-연관 *ALDP* 유전자 결함, 혈장 극장쇄지방산[VLCFA] 상승)**, **결박척수 증후군(Tethered cord syndrome)**, **라티리즘(lathyrism; 병아리콩 내 흥분독소 BOAA[\$ eta\$-N-oxalylamino-L-alanine] 섭취)** 및 **아산화질소(\$ ext{N}_2 ext{O}\$) 흡입** (p. 3181).  
-> * **척수 질환의 재활 (Rehabilitation) (p. 3182, Table 434-4)**: 배뇨근 경직에는 옥시부티닌(2.5~5 mg qid)이나 이미프라민(25~200 mg/d), 조임근 배뇨근 협동장애에는 테라조신(1~2 mg tid/qid) 또는 간헐적 도뇨를 시행한다. 정맥혈전색전증 예방(지속 마비 시 3개월간 저분자량 헤파린 항응고), 욕창 예방, 경직 치료(바클로펜 최대 240 mg/d, 디아제팜 취침 시 2~4 mg, 티자니딘 2~8 mg tid, 단트롤렌 25~100 mg qid 또는 척수강내 바클로펜 펌프), 만성 통증(가바펜틴, 프레가발린), T6 위쪽 병터의 발작성 자율신경 과반사증(유발 자극 제거, 메카밀라민[mecamylamine] 2.5~5 mg)을 관리한다.
+> * **아급성 연합변성(Subacute Combined Degeneration, 비타민 $\text{B}_{12}$ 결핍) (p. 3181)**: 손발의 아급성 이상감각, 진동·위치감각 소실, 진행성 경직성·실조성 위약(뒤기둥 및 가쪽기둥 침범; 말초신경병증에 의한 반사 소실과 바빈스키 징후 공존이 중요한 단서)으로 발현한다. 거대적혈모구빈혈, 낮은 혈청 $\text{B}*{12}$, 상승된 호모시스테인 및 메틸말론산으로 확진하며 근육내 비타민 $\text{B}*{12}$ **1000 $\mu$g** 반복 투여 및 경구 보충으로 치료한다.  
+> * **저구리혈증 척수병증(Hypocupric Myelopathy) (p. 3181)**: 아급성 연합변성과 유사하나 신경병증이 없고 혈청 $\text{B}_{12}$가 정상이다. 비만대사수술 등 위장관 수술 후나 과도한 아연 보충제/틀니 크림(메탈로티오네인 유도를 통해 구리 흡수 억제) 사용 후 발생하며 혈청 구리 및 세룰로플라스민이 낮다.  
+> * **척수매독(Tabes Dorsalis; 전격통, 감각성 실조, 하지 무반사, 빛반사는 소실되고 조절반사는 보존되는 양측 아길 로버트슨 동공[Argyll Robertson pupils])**, **유전성 강직성 하반신마비(HSP)**, **부신척수신경병증(Adrenomyeloneuropathy; X-연관 *ALDP* 유전자 결함, 혈장 극장쇄지방산[VLCFA] 상승)**, **결박척수 증후군(Tethered cord syndrome)**, **라티리즘(lathyrism; 병아리콩 내 흥분독소 BOAA[$ eta$-N-oxalylamino-L-alanine] 섭취)** 및 **아산화질소($\text{N}_2\text{O}$) 흡입** (p. 3181).  
+> * **척수 질환의 재활 (Rehabilitation) (p. 3182, Table 434-4)**: 배뇨근 경직에는 옥시부티닌(2.5~5 mg qid)이나 이미프라민(25~200 mg/d), 조임근 배뇨근 협동장애에는 테라조신(1~2 mg tid/qid) 또는 간헐적 도뇨를 시행한다. 정맥혈전색전증 예방(지속 마비 시 3개월간 저분자량 헤파린 항응고), 욕창 예방, 경직 치료(바클로펜 최대 240 mg/d, 디아제팜 취침 시 2~4 mg, 티자니딘 2~8 mg tid, 단트롤렌 25~100 mg qid 또는 척수강내 바클로펜 펌프), 만성 통증(가바펜틴, 프레가발린), T6 위쪽 병터의 발작성 자율신경 과반사증(유발 자극 제거, 메카밀라민[mecamylamine] 2.5~5 mg)을 관리한다. ![[Harrison_V2_Ch434_Tab4.png]]  
 
 ## **3. 제435장 뇌진탕 및 기타 외상성 뇌손상 (Concussion and Other Traumatic Brain Injuries) (pp. 3183–3188)**
-
-### ---
 
 **3.1 역학, 정의, 중증도 분류 및 병리 유형 (pp. 3183–3186)**
 
 > * **역학 및 중증도 분류 (p. 3183)**:  
 > * 미국 내 외상성 뇌손상(TBI) 빈도는 연간 250만~400만 건(전 세계적으로 사망 또는 입원을 유발하는 중증 TBI 최소 1,000만 건, 미국 연간 비용 760억 달러 초과, TBI로 인한 장애 생존자 530만 명)이며, 젊은 층(남성 우세)에서는 자동차 사고가, 고령층(여성 우세)에서는 낙상이 주원인이다.  
-> * **글래스고 혼수척도(Glasgow Coma Scale, GCS) (Table 435-1)**: 눈뜨기(E1–E4), 언어반응(V1–V5), 최상의 운동반응(M1–M6)의 총점 3~15점으로 평가하며, **경증(mTBI, GCS 13–15; 전체 치료받는 TBI의 70~90%, 대개 약 85%)**, **중등증(GCS 9–12)**, **중증(GCS 3–8)**으로 분류한다(2014년 개정 GCS에서는 총점보다 E3V4M6처럼 세 구성요소를 개별 기술할 것을 권장함).  
+> * **글래스고 혼수척도(Glasgow Coma Scale, GCS) (Table 435-1)**: 눈뜨기(E1–E4), 언어반응(V1–V5), 최상의 운동반응(M1–M6)의 총점 3~15점으로 평가하며, **경증(mTBI, GCS 13–15; 전체 치료받는 TBI의 70~90%, 대개 약 85%)**, **중등증(GCS 9–12)**, **중증(GCS 3–8)**으로 분류한다(2014년 개정 GCS에서는 총점보다 E3V4M6처럼 세 구성요소를 개별 기술할 것을 권장함). ![[Harrison_V2_Ch435_Tab1.png]]  
 > * **두개골 골절, 축외 혈종, 뇌좌상 및 축삭 손상 (pp. 3184–3186)**:  
 > * **두개골 골절(Skull Fracture)**: 두개골 골절의 약 2/3에서 두개내 병터가 동반된다. 기저두개골 골절(basilar skull fractures)은 고실혈종(hemotympanum), 유양돌기 반상출혈(**배틀 징후[Battle sign]**), 눈주위 반상출혈(**너구리 징후[raccoon sign]**), 뇌척수액 누출(기립성 두통 및 수막염 위험), 기뇌증(pneumocephalus), 지연성 해면정맥동-경동맥 누공을 유발할 수 있다.  
 > * **급성 경막외 혈종(Acute Epidural Hematoma) (p. 3184, Fig. 435-1)**: 중증 두부 손상의 최대 10%에서 발생하며 대개 측두골 골절에 의한 **중간뇌막동맥(middle meningeal artery)** 열상으로 발생한다. 신경학적 악화 전 수분~수시간의 **'의식명료기(lucid interval)'**가 흔히 동반되며, 비조영 CT상 특징적인 **렌즈 모양(lenticular-shaped)** 고음영 출혈을 보인다. 신속한 외과적 혈종 제거 및 손상 혈관 결찰 시 예후가 좋다.  
@@ -132,7 +126,7 @@ Figure 435-5 Multiple small areas of hemorrhage and tissue disruption in the whi
 
 > * **뇌신경 손상 및 외상후 발작 (p. 3186)**:  
 > * 체판(cribriform bone)을 통과하는 후각신경 미세섬유 전단으로 중증 두부 손상 환자의 약 **10%**에서 후각소실(anosmia) 및 방향성 풍미 지각 소실이 발생한다. 하방 주시 시 복시(머리를 환측 눈 반대쪽으로 기울이면 교정됨)는 도르래신경(CN IV) 손상을 가리키며, 바위뼈(특히 횡골절) 골절은 안면신경(CN VII, 중증 손상의 최대 3%에서 즉시 발생 또는 5~7일 지연 발생)과 속귀신경(CN VIII) 손상을 유발한다.  
-> * **발작(Seizures)**: 뇌좌상, 경막하혈종 또는 장기 의식소실 환자의 **17%**에서 향후 발작 질환이 발생하는 반면, 경증 손상 후에는 **\$\\le 2\\%\$**에서만 발생한다.
+> * **발작(Seizures)**: 뇌좌상, 경막하혈종 또는 장기 의식소실 환자의 **17%**에서 향후 발작 질환이 발생하는 반면, 경증 손상 후에는 **$\le 2\%$**에서만 발생한다.
 
 ### **3.2 두부 손상의 임상 증후군 및 치료 (pp. 3186–3188)**
 
@@ -145,8 +139,6 @@ Figure 435-5 Multiple small areas of hemorrhage and tissue disruption in the whi
 
 ## **4. 제436장 다발성 경화증 (Multiple Sclerosis) (pp. 3188–3202)**
 
-### ---
-
 **4.1 임상 양상, 질병 경과, 역학 및 유전학 (pp. 3188–3190)**
 
 > * **개요 및 임상 양상 (pp. 3188–3189, Table 436-1)**:  
@@ -155,7 +147,7 @@ Figure 435-5 Multiple small areas of hemorrhage and tissue disruption in the whi
 > * **주요 임상 특징**:  
   * **시신경염(Optic neuritis, ON)**: 중심 시야의 시력 저하, 흐릿함, 색각 저하(desaturation), 안구 운동 시 악화되는 눈주위 통증, 구심성 동공 결손(APD).  
   * **안구운동 장애**: 동측 안쪽세로다발(MLF) 병터로 인한 내전 장애와 외전안의 안진을 보이는 **핵간안근마비(internuclear ophthalmoplegia, INO; 특히 양측성 INO는 MS를 강하게 시사함)**, 하나반 증후군(one and a half syndrome), 후천성 시계추안진(pendular nystagmus).  
-  * **부수 증상(Ancillary symptoms)**: 지속시간 10초~2분, 하루 5~40회 빈도로 발생하는 발작성 증상(목 굽힘 시 등을 따라 다리로 방사되는 전기충격 유사 감각인 **레르미트 증후군[Lhermitte's symptom]**, 긴장성 경련 등), 열 민감성(체온 상승 시 일시적 전도차단으로 단안 시야 흐림 등이 악화되는 **우토프 증상[Uhthoff's symptom]**), 방광 기능장애(\$>90\\%\$에서 존재; 배뇨근 과반사 또는 배뇨근-조임근 협동장애), 피로(90%), 우울(약 절반), 다행감(euphoria, \$\<20\\%\$).  
+  * **부수 증상(Ancillary symptoms)**: 지속시간 10초~2분, 하루 5~40회 빈도로 발생하는 발작성 증상(목 굽힘 시 등을 따라 다리로 방사되는 전기충격 유사 감각인 **레르미트 증후군[Lhermitte's symptom]**, 긴장성 경련 등), 열 민감성(체온 상승 시 일시적 전도차단으로 단안 시야 흐림 등이 악화되는 **우토프 증상[Uhthoff's symptom]**), 방광 기능장애($>90\%$에서 존재; 배뇨근 과반사 또는 배뇨근-조임근 협동장애), 피로(90%), 우울(약 절반), 다행감(euphoria, $<20\%$).  
 > * **질병 경과 3대 임상 유형 (p. 3189, Fig. 436-1)**:  
 > * **재발성 다발성 경화증(Relapsing MS, RMS)**: 전체의 **90%**를 차지하며 수일~수주에 걸쳐 발생하는 불연속적 발작과 발작 사이의 신경학적 안정이 특징이다.  
 > * **이차진행성 다발성 경화증(Secondary Progressive MS, SPMS)**: 항상 RMS로 시작하나 어느 시점부터 급성 발작과 무관한 기능 악화가 진행된다(RMS 환자가 매년 SPMS로 이행할 위험은 약 **2%**였으며, 질병조절치료 도입 후 약 **1%**로 감소함).  
@@ -174,7 +166,7 @@ Table 436-2 Risk of Developing Multiple Sclerosis (MS) (p. 3190) ![[Harrison_V2_
 > * **병리, 생리 및 면역학 (pp. 3190–3191, Fig. 436-2)**:  
 > * 세정맥주위(perivenular) 단핵구 침윤, 혈액뇌장벽(BBB) 파괴(혈관염과 달리 혈관벽은 보존됨), 탈수초화 및 부분적 재수초화 판인 **그림자 판(shadow plaques)**, 피질하 연막하 탈수초화와 연관된 뇌수막 내 이소성 림프구 군집(**림프 소포[lymphoid follicles]**)이 관찰된다.  
 > * 유수 축삭의 도약전도(saltatory conduction, $\sim 70extm/s$)가 탈수초화 후 전도차단(노출된 전압 의존 칼륨 통로에 의한 과분극)을 겪은 뒤 랑비에결절에 집중되어 있던 나트륨 통로가 노출된 축삭을 따라 재배치되면서 느린 연속 전도($\sim 1extm/s$)로 회복된다(Fig. 436-2).  
-> * 수초염기성단백질(MBP; 아미노산 89–96 절편이 DRB1*15:01에 고친화성 결합) 반응성 자가반응 \$ ext{T}*{ ext{H}}1$(IFN-$\\gamma$,TNF-$ lpha\$, IL-2 생성) 및 \$ ext{T}*{ ext{H}}17$(TGF-$ eta\$, IL-6에 의해 유도되고 IL-21, IL-23에 의해 증폭되며 IL-17 분비) 세포와 클론 제한 기억 B세포·형질세포 및 항-MOG 항체 등 체액성 면역이 관여한다.
+> * 수초염기성단백질(MBP; 아미노산 89–96 절편이 DRB1*15:01에 고친화성 결합) 반응성 자가반응 $\text{T}*{\text{H}}1$(IFN-$\gamma$,TNF-$ lpha$, IL-2 생성) 및 $\text{T}*{\text{H}}17$(TGF-$ eta$, IL-6에 의해 유도되고 IL-21, IL-23에 의해 증폭되며 IL-17 분비) 세포와 클론 제한 기억 B세포·형질세포 및 항-MOG 항체 등 체액성 면역이 관여한다.
 
 Figure 436-2 Nerve conduction in myelinated and demyelinated axons. A. Saltatory nerve conduction in myelinated axons occurs with the nerve impulse jumping from one node of Ranvier to the next. Sodium channels (shown as breaks in the solid black line) are concentrated at the nodes where axonal depolarization occurs. B. Following demyelination, additional sodium channels are redistributed along the axon itself, thereby allowing continuous propagation of the nerve action potential despite the absence of myelin. (p. 3191) ![[Harrison_V2_Ch436_Fig2.png]]
 
@@ -191,18 +183,18 @@ Figure 436-3 Magnetic resonance imaging findings in multiple sclerosis (MS). A. 
 
 > * **급성 발작 치료 (p. 3194)**: 체온 상승·발열·감염에 의한 거짓악화(pseudoexacerbation)를 배제한 후, 정맥 **메틸프레드니솔론(methylprednisolone 500~1000 mg/d, 3~5일간)** 투여 후 무감량 종료하거나 경구 프레드니손(60~80 mg/d로 시작하여 2주에 걸쳐 감량)을 사용한다(정서 불안정·불면에 탄산리튬 300 mg PO bid 병용 가능). 글루코코르티코이드에 반응하지 않는 전격성 탈수초 발작에는 **혈장교환술(plasma exchange; 격일로 14일간 5~7회, 회당 40~60 mL/kg)**이 도움이 될 수 있다.  
 > * **재발형 MS(RMS) 및 진행형 MS의 질병조절치료 (Disease-Modifying Therapies, DMTs) (pp. 3194–3199, Table 436-6, Fig. 436-4)**:  
-> * **확장 장애 상태 척도(Kurtzke EDSS, Table 436-5)**: 0.0(정상)~10.0(MS로 인한 사망) 척도로, EDSS $<3.5$는 정상 보행 및 비장애 상태이고 $>4.0$은 진행성 MS로 보행 장애가 있다.  
+> * **확장 장애 상태 척도(Kurtzke EDSS, Table 436-5)**: 0.0(정상)~10.0(MS로 인한 사망) 척도로, EDSS $<3.5$는 정상 보행 및 비장애 상태이고 $>4.0$은 진행성 MS로 보행 장애가 있다. ![[Harrison_V2_Ch436_Tab5.png]]  
 > * **주요 FDA 승인 질병조절치료제 요약**:  
-  * **인터페론 \$ eta\$ (IFN-\$ eta\$, 경도 효과)**: IFN-\$ eta\$-1a(**Avonex** 30 $\mu$g IM 주 1회; 중화항체 2~10%), IFN-\$ eta\$-1a(**Rebif** 44 $\mu$g SC 주 3회; 중화항체 15~25%), IFN-\$ eta\$-1b(**Betaseron/Extavia** 250 $\mu$g SC 격일; 중화항체 30~40%), 페길화 IFN-\$ eta\$-1a(**Plegridy** 125 $\mu$g SC 14일마다 1회; 중화항체 \$\<1\\%\$). 부작용은 독감 유사 증상, 간효소 상승, 림프구감소증, 주사부위 반응.  
+  * **인터페론 $ eta$ (IFN-$ eta$, 경도 효과)**: IFN-$ eta$-1a(**Avonex** 30 $\mu$g IM 주 1회; 중화항체 2~10%), IFN-$ eta$-1a(**Rebif** 44 $\mu$g SC 주 3회; 중화항체 15~25%), IFN-$ eta$-1b(**Betaseron/Extavia** 250 $\mu$g SC 격일; 중화항체 30~40%), 페길화 IFN-$ eta$-1a(**Plegridy** 125 $\mu$g SC 14일마다 1회; 중화항체 $<1\%$). 부작용은 독감 유사 증상, 간효소 상승, 림프구감소증, 주사부위 반응.  
   * **글라티라머 아세테이트(Glatiramer acetate [GA] 및 바이오시밀러 Glatopa, 경도 효과)**: 4가지 아미노산(L-글루탐산, L-라이신, L-알라닌, L-티로신)의 합성 무작위 폴리펩타이드로 **20 mg SC 매일** 또는 **40 mg SC 주 3회** 투여한다. 약 15%에서 주사 후 홍조·흉부 압박감·호흡곤란·두근거림·불안(\<1시간 지속)을 경험하며 지방위축(lipoatrophy)이 발생할 수 있다.  
   * **핑골리모드(Fingolimod [FNG], 중등도 효과)**: 스핑고신-1-인산(S1P) 억제제로 이차 림프기관에서 림프구 유출을 차단한다(**0.5 mg PO qd**). 첫 투여 시 1도·2도 방실차단 및 서맥 위험이 있어 **첫 복용 후 6시간 관찰(심전도 모니터링 포함)**이 권장되며, 치료 시작 전 안과 검진(황반부종 위험) 및 VZV 혈청음성자 예방접종이 적응증이다.  
   * **디메틸 푸마레이트(Dimethyl fumarate [DMF], 중등도 효과)**: Nrf2 전사인자 유비퀴틴화·분해를 억제하는 경구제(**240 mg PO bid**). 초기 위장관 부작용 및 홍조가 흔하며, 지속적 림프구감소증(림프구 수 $<500extcells/mL$) 환자에서 PML 발생 위험이 있어 **6개월마다 림프구감소증 모니터링**이 권장된다.  
-  * **나탈리주맙(Natalizumab [NTZ], 고도 효과)**: \$ lpha_4 eta_1\$ 인테그린의 \$ lpha_4\$ 소단위에 대한 인간화 단클론 항체로 **300 mg IV 매월 1회** 주입한다. 장기 치료 시 최대 우려는 JC 바이러스에 의한 **진행성 다초점 백질뇌병증(PML; 전체 투여 환자의 약 0.4%에서 발생 — 항-JCV 항체 음성 시 $<1:10,000$이나 항체 양성 고역가 시 \$\\ge 1.1\\%\$)**이므로 **6개월 간격으로 JCV 항체 상태를 평가**해야 한다(연간 최대 2%가 혈청전환됨).  
+  * **나탈리주맙(Natalizumab [NTZ], 고도 효과)**: $ lpha_4 eta_1$ 인테그린의 $ lpha_4$ 소단위에 대한 인간화 단클론 항체로 **300 mg IV 매월 1회** 주입한다. 장기 치료 시 최대 우려는 JC 바이러스에 의한 **진행성 다초점 백질뇌병증(PML; 전체 투여 환자의 약 0.4%에서 발생 — 항-JCV 항체 음성 시 $<1:10,000$이나 항체 양성 고역가 시 $\ge 1.1\%$)**이므로 **6개월 간격으로 JCV 항체 상태를 평가**해야 한다(연간 최대 2%가 혈청전환됨).  
   * **오크렐리주맙(Ocrelizumab [OCR], 고도 효과)**: 성숙 B세포 표면의 **CD20**을 표적으로 하는 인간화 단클론 항체이다(**24주[6개월]마다 600 mg IV 주입**; 첫 용량은 2주 간격으로 300 mg씩 2회 분할 투여하며 매 주입 전 메틸프레드니솔론 100 mg IV 전처치). RMS에서 Rebif 대비 연간 재발률을 47%, 새로운 MRI 병터를 95% 감소시켰으며, **일차진행성 MS(PPMS)에서도 위약 대비 임상적 장애 진행을 24% 감소시켜 PPMS 경과를 입증 가능하게 변경한 최초의 약제**이다.  
   * **테리플루노마이드(Teriflunomide [TF], 경도 효과)**: 미토콘드리아 효소 다이하이드로오로테이트 탈수소효소(dihydro-orotate dehydrogenase)를 억제하는 세포정지성(cytostatic) 경구제(**7 또는 14 mg PO qd**, 레플루노마이드의 활성 대사체). 드물게 독성표피괴사용해(TEN)/스티븐스-존슨 증후군(SJS)을 유발하며, **기형유발성(임신 범주 X)** 및 간담도 재흡수로 인해 혈중에 최대 **2년간** 잔류하므로 임신을 원하는 남녀는 **콜레스티라민(cholestyramine)이나 활성탄(activated charcoal)**으로 잔류 약물을 제거해야 한다.  
   * **알렘투주맙(Alemtuzumab [ALEM], 고도 효과)**: 단핵구 및 림프구의 **CD52** 항원에 대한 인간화 단클론 항체로, 자가면역 질환(갑상선염, 그레이브스병, 혈소판감소증, 항사구체기저막 질환 등), 악성종양, 심각한 감염 위험 때문에 최소 2가지 이상의 다른 DMT에 실패한 환자에서만 적응증이 된다.  
-  * **미톡산트론(Mitoxantrone [MTX], 고도 효과)**: $12ext{mg/m}^{2}$ IV 3개월마다 투여하나 심장독성(누적 용량 $>140ext{mg/m}^{2}$ **비권장**, 최대 치료 기간 2~3년), 무월경(\$>40\\%\$), 급성 백혈병(평생 위험 최소 1.4%) 때문에 현재는 거의 사용되지 않는다. (다클리주맙[Daclizumab, 항-CD25]은 뇌 염증 보고로 2018년 시장에서 철수됨.)  
-  * 모든 MS 환자에서 비타민 D 결핍을 교정해야 하며 대개 경구 **비타민 \$ ext{D}_3\$ 하루 4000~5000 IU** 보충이 필요하다(p. 3199).
+  * **미톡산트론(Mitoxantrone [MTX], 고도 효과)**: $12ext{mg/m}^{2}$ IV 3개월마다 투여하나 심장독성(누적 용량 $>140ext{mg/m}^{2}$ **비권장**, 최대 치료 기간 2~3년), 무월경($>40\%$), 급성 백혈병(평생 위험 최소 1.4%) 때문에 현재는 거의 사용되지 않는다. (다클리주맙[Daclizumab, 항-CD25]은 뇌 염증 보고로 2018년 시장에서 철수됨.)  
+  * 모든 MS 환자에서 비타민 D 결핍을 교정해야 하며 대개 경구 **비타민 $\text{D}_3$ 하루 4000~5000 IU** 보충이 필요하다(p. 3199).
 
 Table 436-6 Outcomes for FDA-Approved Therapies for Multiple Sclerosis (MS) (p. 3196) ![[Harrison_V2_Ch436_Tab6.png]]  
 Figure 436-4 Therapeutic decision-making for relapsing MS. Options are shown for different clinical scenarios and based on JCV status. Active MS is defined by clinical relapses or the development of new focal MRI white matter lesions. Treatment options can also include trials of different preparations of interferon β (IFN-β), particularly advancing from once-weekly (Avonex) to a more frequent (e.g., Rebif, Betaseron/Extavia) dosing regimen, as well as use of natalizumab in JC virus-positive patients. (p. 3198) ![[Harrison_V2_Ch436_Fig4.png]]
@@ -220,8 +212,6 @@ Figure 436-5 Magnetic resonance imaging findings in variants of MS. A and B. Acu
 
 ## **5. 제437장 시신경척수염 (Neuromyelitis Optica, NMO / Devic's Disease) 전반부 (pp. 3202–3203)**
 
-### ---
-
 **5.1 임상적 특징, 진단 기준, 면역학 및 임상 경과 (pp. 3202–3203)**
 
 > * **개요 및 MS와의 감별점 (p. 3202)**:  
@@ -231,7 +221,7 @@ Figure 436-5 Magnetic resonance imaging findings in variants of MS. A and B. Acu
 > * 뇌척수액(CSF): MS보다 심한 세포증가증(급성기에 호중구 및 호산구 동반)을 보이며 **올리고클론 띠(OCBs)는 20% 미만(\<20%)**으로 드물다.  
 > * 병리: 염증, 별아교세포 소실, 면역조직화학염색상 **AQP4 염색 소실**, 두꺼워진 혈관벽, 탈수초화, 항체 및 보체 침착을 동반한 특징적인 **별아교세포병증(astrocytopathy)**이다.
 
-| 진단 범주 (Table 437-1 Diagnostic Criteria for NMOSD, p. 3202) | 세부 진단 요건 (2015 Wingerchuk 기준)   |
+| 진단 범주 (Table 437-1 Diagnostic Criteria for NMOSD, p. 3202) | 세부 진단 요건 (2015 Wingerchuk 기준)   | ![[Harrison_V2_Ch437_Tab1.png]]  
 | :---- | :---- |
 | **AQP4-IgG 양성 NMOSD** | 1. 최소 1개의 핵심 임상 특성(Core clinical characteristic) 2. 최상의 검출법(세포 기반 분석법[cell-based assay] 강력 권장)을 사용한 AQP4-IgG 양성 3. 대체 진단의 배제 |
 | **AQP4-IgG 음성 또는 미상 NMOSD** | 1. 1회 이상의 임상 발작 결과로 발생한 최소 2개의 핵심 임상 특성(공간적 산재) 및 다음 모두 충족: a. 최소 1개는 시신경염, LETM 동반 급성 척수염, 또는 맨아래구역 증후군이어야 함 b. 2개 이상의 서로 다른 핵심 임상 특성 침범 c. 추가 MRI 요건 충족(시신경 길이 $>1/2$ 또는 시신경교차 침범, 척수 $\geq 3$개 연속 분절 LETM 또는 위축, 등쪽 연수/맨아래구역 병터, 뇌실막주위 뇌줄기 병터) 2. AQP4-IgG 음성 또는 검사 불가 3. 대체 진단의 배제 |

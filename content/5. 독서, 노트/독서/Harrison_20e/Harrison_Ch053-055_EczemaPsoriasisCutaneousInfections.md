@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestations of Internal Disease, and Immunologically Mediated Skin Diseases" aliases: - "해리슨 20판 Ch53-55" - "Eczema, Psoriasis, Cutaneous Infections, Acne, and Other Common Skin Disorders" - "Skin Manifestations of Internal Disease" - "Immunologically Mediated Skin Diseases" tags: - Harrison20e - InternalMedicine - Part2 - Ch53-55 - Dermatology - Eczema - Psoriasis - SkinManifestations - AutoimmuneBlistering source_pdf: "https\://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk" source_pages: "pp. 329–361" created: "2026-10-22"
 
-# ---
-
 **📑 [Harrison 20e] Ch53–55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestations of Internal Disease, and Immunologically Mediated Skin Diseases**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [해리슨 내과학 1권-1.pdf](https://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk) (분할 PDF: Harrison20e_V1_0329-0479.pdf, pp. 329–361) - **범위 경계 안내**: p.329 상단에는 **Ch 52** *Approach to the Patient with a Skin Disorder*의 마지막 부분(Wood 등 검사 소견, 첩포검사[Patch tests] 및 도판 Figures 52-9 ~ 52-12)이 인쇄되어 있으며, 이어서 **Ch 53** Eczema, Psoriasis, Cutaneous Infections, Acne, and Other Common Skin Disorders (p.329–338), **Ch 54** Skin Manifestations of Internal Disease (p.339–355), **Ch 55** Immunologically Mediated Skin Diseases (p.355–361, p.362로 이어짐)가 수록되어 있다.
@@ -28,8 +26,6 @@ title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestati
 **Figure 52-10, p.329**: Allergic contact dermatitis (ACD). A. An example of ACD in its acute phase, with sharply demarcated, weeping, eczematous plaques in a perioral distribution. B. ACD in its chronic phase, with an erythematous, lichenified, weeping plaque on skin chronically exposed to nickel in a metal snap. — 급성기 구강주위의 경계가 뚜렷한 삼출성 습진 판(A)과 금속 단추의 니켈에 만성 노출된 피부의 홍반성·태선화 판(B)을 보이는 알레르기 접촉피부염. ![[Harrison_V1_Ch52_Fig10.png]]  
 **Figure 52-11, p.329**: Urticaria. Discrete and confluent, edematous, erythematous papules and plaques are characteristic of this whealing eruption. — 개별적 및 융합성의 부종성·홍반성 구진과 판(팽진)을 특징으로 하는 두드러기. ![[Harrison_V1_Ch52_Fig11.png]]  
 **Figure 52-12, p.329**: Vitiligo. Characteristic lesions display an acral distribution and striking depigmentation as a result of loss of melanocytes. — 멜라닌세포 소실로 인해 사지 말단 분포와 뚜렷한 탈색소를 보이는 백반증. ![[Harrison_V1_Ch52_Fig12.png]]
-
-## ---
 
 **1. 제53장 습진, 건선, 피부 감염, 여드름 및 기타 흔한 피부 질환 (Chapter 53) (p.329–338)**
 
@@ -47,10 +43,10 @@ title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestati
   * 하루 1회 이하 온수/냉수 목욕 직후 물기가 남아 있을 때 국소 항염증제와 보습제를 도포한다(평균 성인의 전신 체표면을 도포하는 데 약 **30 g**의 국소 제제가 필요함).  
   * 안면과 간찰부에는 피부 위축을 피하기 위해 저역가 국소 글루코코르티코이드나 마크로라이드 면역억제제인 **타크로리무스(tacrolimus) 연고, 피메크로리무스(pimecrolimus) 크림**(피부 위축이나 시상하부-뇌하수체-부신 축 억제는 없으나 림프종 잠재 위험 경고 주의)을 사용한다.  
   * *S. aureus* 이차 감염 시 배양검사와 함께 성인에서 **디클록사실린(dicloxacillin) 또는 세팔렉신(cephalexin 250 mg qid 7–10일)**을 투여한다. 일부 지역사회에서는 *S. aureus* 분리주의 **50% 이상이 메티실린 내성(CA-MRSA)**이므로 성인 CA-MRSA 감염에는 **트리메토프림-설파메톡사졸(복합 2배 함량정 1정 bid), 미노사이클린(100 mg bid), 독시사이클린(100 mg bid), 또는 클린다마이신(300–450 mg qid, 7–10일; 에리스로마이신 내성·클린다마이신 감수성 균주는 유도 내성 확인을 위해 이중 디스크 확산 검사[double-disk diffusion test] 지시 필수)**을 사용하고 보조적으로 **희석 차아염소산나트륨 목욕(0.005% 표백제)**과 간헐적 비강 무피로신을 활용한다.  
-  * 소양증 조절에는 진정 작용이 있는 항히스타민제(**디펜히드라민 25 mg q4–6h, 히드록시진 10–25 mg q6h, 독세핀 10–25 mg 취침 전**; 비진정 항히스타민제나 선택적 \$ ext{H}_2\$ 차단제는 AD 소양증에 거의 무익함)를 사용하며, 만성 AD에서 전신 글루코코르티코이드는 중단 시 반동 악화를 부르므로 국소 치료 불응 급성 악화에 한해 제한적으로 사용한다(식품 알레르겐은 영아기 소수를 제외하면 역할 근거가 희박함).  
+  * 소양증 조절에는 진정 작용이 있는 항히스타민제(**디펜히드라민 25 mg q4–6h, 히드록시진 10–25 mg q6h, 독세핀 10–25 mg 취침 전**; 비진정 항히스타민제나 선택적 $\text{H}_2$ 차단제는 AD 소양증에 거의 무익함)를 사용하며, 만성 AD에서 전신 글루코코르티코이드는 중단 시 반동 악화를 부르므로 국소 치료 불응 급성 악화에 한해 제한적으로 사용한다(식품 알레르겐은 영아기 소수를 제외하면 역할 근거가 희박함).  
 > * **만성 단순태선(Lichen Simplex Chronicus) 및 접촉피부염(Contact Dermatitis) (p.331)**:  
 > * **만성 단순태선**: 만성적인 긁음·문지름으로 뒷목, 발등, 발목에 국한된 태선화 판이 생기며 고역가 국소 글루코코르티코이드(필요시 밀폐 요법 또는 병변내 주사)로 치료한다.  
-> * **자극성 접촉피부염(ICD, 사전 감작 불필요, 수분~수시간 내 발생, 만성 습식 작업·비누·세제에 의한 손 침범 최다)** 대 **알레르기 접촉피부염(ACD, 피부 기억 T림프구 매개 지연형 과민반응, 사전 감작 필수, 노출 12–72시간 후 발생)**. ACD의 가장 흔한 원인은 옻나무과(*Anacardiaceae*) ***Toxicodendron*** **속(poison ivy, poison oak, poison sumac)** 식물의 올레오레진인 **우루시올(urushiol, 활성 성분 pentadecylcatechol)**이다(수포액에는 우루시올이 없어 타인에게 피부염을 옮기지 않음). 전신 치료가 필요할 때는 경구 **프레드니손 1 mg/kg(통상 ≤60 mg/d)으로 시작해 2–3주에 걸쳐 감량**(매일 아침 식사와 함께 복용)한다. 흔한 감작 물질은 국소제 보존제, 황산니켈, 중크롬산칼륨, 치메로살, 황산네오마이신, 향료, 포름알데히드, 고무 경화제이며 광범위 활성 피부염이나 전신 스테로이드 복용 중에는 첩포검사를 시행하지 않는다.  
+> * **자극성 접촉피부염(ICD, 사전 감작 불필요, 수분~수시간 내 발생, 만성 습식 작업·비누·세제에 의한 손 침범 최다)** 대 **알레르기 접촉피부염(ACD, 피부 기억 T림프구 매개 지연형 과민반응, 사전 감작 필수, 노출 12–72시간 후 발생)**. ACD의 가장 흔한 원인은 옻나무과(*Anacardiaceae*) **Toxicodendron** **속(poison ivy, poison oak, poison sumac)** 식물의 올레오레진인 **우루시올(urushiol, 활성 성분 pentadecylcatechol)**이다(수포액에는 우루시올이 없어 타인에게 피부염을 옮기지 않음). 전신 치료가 필요할 때는 경구 **프레드니손 1 mg/kg(통상 ≤60 mg/d)으로 시작해 2–3주에 걸쳐 감량**(매일 아침 식사와 함께 복용)한다. 흔한 감작 물질은 국소제 보존제, 황산니켈, 중크롬산칼륨, 치메로살, 황산네오마이신, 향료, 포름알데히드, 고무 경화제이며 광범위 활성 피부염이나 전신 스테로이드 복용 중에는 첩포검사를 시행하지 않는다.  
 > * **수부 습진(Hand Eczema), 화폐상 습진(Nummular Eczema), 건성 습진(Asteatotic Eczema), 울체 피부염 및 지루피부염 (p.331–333)**:  
 > * **수부 습진**: 직업성 피부질환의 큰 비중을 차지하며 비닐 장갑 보호가 권장된다(라텍스 고무 장갑은 수분~수시간 내 두드러기·혈관부종·아나필락시스를 일으키는 제I형 과민반응이나 고무 촉진제에 의한 제IV형 과민반응 유발 가능). 이형인 **한포진성 습진(dyshidrotic eczema)**은 무지구·소지구와 손가락 측면에 심한 소양증을 동반한 작은 구진·소수포가 무리 지어 발생한다(Fig. 53-2).  
 > * **화폐상 습진**: 중년 남성에서 체간이나 사지 신전부(정강이, 손등)에 동전 모양 병변이 발생한다. **건성 습진("winter itch")**: 건조한 겨울철 고령자의 하지 전면에 미세 균열과 인설이 발생한다.  
@@ -84,14 +80,12 @@ title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestati
 **Figure 53-6, p.335**: Pityriasis rosea. In this patient with pityriasis rosea, multiple round to oval erythematous patches with fine central scale are distributed along the skin tension lines on the trunk. — 체간의 피부 긴장선을 따라 배열된 미세 중심 인설을 동반한 다발성 원형~타원형 홍반성 반을 보이는 장미색비강진. ![[Harrison_V1_Ch53_Fig6.png]]
 
 > * **심상성 여드름(Acne Vulgaris), 주사(Acne Rosacea) 및 두창 예방접종 금기 (p.337–338, Figs. 53-7 & 53-8)**:  
-> * **심상성 여드름**: 사춘기 피지 분비 증가, 모낭 입구 각질 저류에 의한 **면포(comedone: 폐쇄면포[1–2 mm 백색 구진] 및 개방면포)**, ***Propionibacterium acnes***에 의한 유리지방산 유리 및 염증이 병인이다(글루코코르티코이드, 경구피임약, 리튬, 이소니아지드, 안드로겐, 할로겐, 페니토인, 페노바르비탈, 다낭성 난소 질환이 유발·악화 요인, Fig. 53-7). 국소 레티노산·과산화벤조일·살리실산·국소 항균제(아젤라산, 에리스로마이신, 클린다마이신, 답손; 세균 내성 방지를 위해 국소 항생제는 과산화벤조일과 병용), 경구 **테트라사이클린(250–500 mg bid), 독시사이클린(100 mg bid), 미노사이클린**, 여성 경구피임약으로 치료한다. 중증 결절낭종성 여드름에는 합성 레티노이드인 **이소트레티노인(isotretinoin: 체중 기반 용량으로 1일 1회 5개월간 투여)**을 사용하며, 최기형성·우울증·고중성지방혈증 위험 때문에 **치료 시작 전 2회의 임신 검사 음성과 매 처방 갱신 전 임신 검사 음성**을 확인하는 엄격한 프로그램 등록이 필수적이다.  
+> * **심상성 여드름**: 사춘기 피지 분비 증가, 모낭 입구 각질 저류에 의한 **면포(comedone: 폐쇄면포[1–2 mm 백색 구진] 및 개방면포)**, **Propionibacterium acnes**에 의한 유리지방산 유리 및 염증이 병인이다(글루코코르티코이드, 경구피임약, 리튬, 이소니아지드, 안드로겐, 할로겐, 페니토인, 페노바르비탈, 다낭성 난소 질환이 유발·악화 요인, Fig. 53-7). 국소 레티노산·과산화벤조일·살리실산·국소 항균제(아젤라산, 에리스로마이신, 클린다마이신, 답손; 세균 내성 방지를 위해 국소 항생제는 과산화벤조일과 병용), 경구 **테트라사이클린(250–500 mg bid), 독시사이클린(100 mg bid), 미노사이클린**, 여성 경구피임약으로 치료한다. 중증 결절낭종성 여드름에는 합성 레티노이드인 **이소트레티노인(isotretinoin: 체중 기반 용량으로 1일 1회 5개월간 투여)**을 사용하며, 최기형성·우울증·고중성지방혈증 위험 때문에 **치료 시작 전 2회의 임신 검사 음성과 매 처방 갱신 전 임신 검사 음성**을 확인하는 엄격한 프로그램 등록이 필수적이다.  
 > * **주사(Acne Rosacea)**: 주로 30세 이후 성인의 안면 중앙부에 안면 홍조(열, 감정, 알코올, 뜨거운 음료, 매운 음식에 반응), 홍반, 모세혈관확장증, 표재성 농포를 보이나 **면포(comedones)가 없으며**, 장기화 시 코 결합조직 과증식(**비류[rhinophyma]**)과 각막염·안검염·홍채염 등 안구 염증을 동반한다(Fig. 53-8). 경증은 국소 **메트로니다졸, 설파세타미드나트륨, 아젤라산, 이버멕틴, 브리모니딘**, 중증은 경구 테트라사이클린(250–500 mg bid), 독시사이클린(100 mg bid), 미노사이클린(50–100 mg bid)으로 치료한다.  
 > * **피부 질환과 두창(Smallpox) 예방접종**: 생물테러에 의한 실제 노출이 없는 한 아토피 피부염, 습진, 건선 병력자에서는 두창 백신 접종이 금기다(p.338).
 
 **Figure 53-7, p.338**: Acne vulgaris. An example of acne vulgaris with inflammatory papules, pustules, and comedones. — 염증성 구진, 농포 및 면포를 동반한 심상성 여드름. ![[Harrison_V1_Ch53_Fig7.png]]  
 **Figure 53-8, p.338**: Acne rosacea. Prominent facial erythema, telangiectasia, scattered papules, and small pustules are seen in this patient with acne rosacea. — 현저한 안면 홍반, 모세혈관확장증, 산재한 구진과 소농포를 보이는 주사. ![[Harrison_V1_Ch53_Fig8.png]]
-
-## ---
 
 **2. 제54장 내과 질환의 피부 발현 (Chapter 54: Skin Manifestations of Internal Disease) (p.339–355)**
 
@@ -117,7 +111,7 @@ title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestati
 > * **저색소침착**: 눈피부백색증(OCA 1형[*tyrosinase*] 및 2형[*P* 유전자]), 백반증(**갑상선 질환이 최대 30%에서 동반**; 전신 질환 감별 4가지: **Vogt-Koyanagi-Harada 증후군**[무균성 수막염, 포도막염, 이명·난청], 전신경화증[모낭주위 색소 보존], 사상충증, 흑색종 연관 백피증[이필리무맙 등 면역치료 반응 예측]), 얼룩증(piebaldism: *PAX-3*, *MITF* 등 변이에 의한 **Waardenburg 증후군** 및 *endothelin 3/B 수용체*, *SOX-10* 변이에 의한 Hirschsprung 병 동반 **Shah-Waardenburg 증후군**), **결절경화증(tuberous sclerosis: 1–3 cm 물푸레나무 잎 반점[ash leaf spot], 안면 혈관섬유종, 손발톱·구강 섬유종, 샤그린 반, 18세 미만 소아의 최대 60%에서 심장 횡문근종 동반)**, 결핵형 나병(무감각·무한증·탈모 동반 저색소반).  
 > * **과색소침착(Table 54-11)**:  
   * *국소형*: 다발성 지루각화증이 갑자기 폭발적으로 나타나는 내부 악성종양 징후인 **Leser-Trélat 징후**, **흑색가시세포증(acanthosis nigricans: 대다수는 비만·인슐린 저항성과 연관되나 위장관 선암 등 내부 악성종양의 부종양 징후 가능)**, 흑자증(**Peutz-Jeghers 증후군**[세린-트레오닌 키나아제 유전자 변이, 입술·구강점막 색소반은 평생 지속, 위장관 과오종성 용종 및 대장·췌장·고환·난소 종양 위험], **LEOPARD 증후군**, 심장 점액종과 내분비 과활성을 동반하는 **Carney 복합체[LAMB / NAME 증후군]**), **밀크커피반점(CALMs: 제1형 신경섬유종증[NF1] 성인의 >90%에서 직경 ≥1.5 cm 반점 6개 이상; McCune-Albright 증후군은 ${G}_{\alpha }$ 유전자 모자이크 활성화 변이로 더 크고 불규칙하며 정중선을 넘지 않음)**, 선천성 이상각화증, 블레오마이신 편모상(flagellate) 색소침착.  
-  * *미만성*: 내분비(**애디슨병, Nelson 증후군, 이소성 ACTH 증후군** — 프로오피오멜라노코르틴 유래 $\alpha$-MSH와 ACTH가 13개 아미노산을 공유하여 손금·마찰 부위·흉터·일광노출부 과색소 유발), 대사성(만발성 피부 포르피린증, 혈색소침착증[청동색], 비타민 \$ ext{B}_{12}\$·엽산 결핍, 펠라그라, **Whipple 병[환자의 약 50%에서 과색소침착]**), 자가면역(원발성 담즙성 간경변증, 전신경화증, **POEMS 증후군**), 약물·금속(부설판, 미노사이클린, 아미오다론[청회색~보라색], 은[argyria], 금[chrysiasis], 클로파지민).
+  * *미만성*: 내분비(**애디슨병, Nelson 증후군, 이소성 ACTH 증후군** — 프로오피오멜라노코르틴 유래 $\alpha$-MSH와 ACTH가 13개 아미노산을 공유하여 손금·마찰 부위·흉터·일광노출부 과색소 유발), 대사성(만발성 피부 포르피린증, 혈색소침착증[청동색], 비타민 $\text{B}_{12}$·엽산 결핍, 펠라그라, **Whipple 병[환자의 약 50%에서 과색소침착]**), 자가면역(원발성 담즙성 간경변증, 전신경화증, **POEMS 증후군**), 약물·금속(부설판, 미노사이클린, 아미오다론[청회색~보라색], 은[argyria], 금[chrysiasis], 클로파지민).
 
 **Table 54-11, p.345**: Table 54-11 Causes of Hyperpigmentation — 국소형 및 미만성(내분비, 대사성, 자가면역, 약물/금속) 과색소침착의 원인 분류표. ![[Harrison_V1_Ch54_Tab11.png]]
 
@@ -134,7 +128,7 @@ title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestati
 > * **살색(Skin-colored)**: 류마티스 결절(류마티스 관절염의 **~20%**, 스틸병의 **6%**), 신경섬유종("단추구멍 징후[button-hole sign]", NF1), 안면 중앙 혈관섬유종(결절경화증 또는 **MEN 1형**), 눈꺼풀·입술·혀의 다발성 신경종(**MEN 2b형: 마르판양 체형, 갑상선 수질암 >75%**), 조기 다발성 기저세포암(**기저세포모반 증후군**), 안면 다발성 모초종(tricholemmomas)과 구강점막 자갈모양 변화(**Cowden 병: *PTEN* 변이, 유방암·갑상선암·위장관 용종증**).  
 > * **분홍색/반투명(Pink/translucent)**: **원발성 전신(AL) 아밀로이드증**(환자의 ~30%에서 점막피부 병변, 경미한 외상 후 눈주위 **"꼬집기 자반[pinch purpura]"** 및 대설증; 복부 피하지방 흡인 생검 시 40–50% 양성; 조기 발병 반점형/태선형 피부 아밀로이드증은 **MEN 2a형** 연관), 다중심성 망상조직구증, 구진성 점액증(경화점액수종[scleromyxedema]: 단클론 IgG$\lambda$ 연관).  
 > * **황색(Yellow)**: 발진성 황색종(고중성지방혈증, 조절되지 않는 당뇨병 최다), 안검황색종(xanthelasma: **최소 50%는 정상 지질 수치**), 정강이 **지방성 당뇨병성 생괴사증(necrobiosis lipoidica, 90%가 정강이)**, 통풍 결절(tophi), **탄력섬유 가성황색종(pseudoxanthoma elasticum: *ABCC6* 변이, 굴곡부의 닭살["plucked chicken skin"] 모양 황색 판, 눈 Bruch 막 석회화에 의한 혈관양 선조[angioid streaks], 위장관 출혈·협심증)**, 피지선종(**Muir-Torre 증후군: 대장암·비뇨생식기암 연관**).  
-> * **적색(Red)**: AIDS 환자의 세균성 혈관종증(*Bartonella henselae/quintana*, Warthin-Starry 염색 양성), **Fabry 병($\alpha$-galactosidase A 결핍, 하부 체간의 다발성 혈관각화종[angiokeratomas], 신부전, 각막혼탁[cornea verticillata])**, 스포로트릭스증(*Sporothrix schenckii*) 및 *Mycobacterium marinum*의 림프관 선상 결절, 피부 림프종/백혈병(HTLV-1 연관 성인 T세포 백혈병/림프종의 고칼슘혈증·\$ ext{CD25}^+\$ 세포; 급성골수성백혈병의 녹색종[chloroma]), **Sweet 증후군(약 10%에서 악성종양[AML 최다] 연관)**, **지방층염(Panniculitis: 정강이 앞쪽의 결절홍반[궤양·흉터 없이 치유] vs 종아리 뒤쪽의 경결홍반[erythema induratum, 결핵균 DNA 연관], ${\alpha }_{1}$-항트립신 결핍증, 췌장염/췌장암의 피하지방 괴사)**.  
+> * **적색(Red)**: AIDS 환자의 세균성 혈관종증(*Bartonella henselae/quintana*, Warthin-Starry 염색 양성), **Fabry 병($\alpha$-galactosidase A 결핍, 하부 체간의 다발성 혈관각화종[angiokeratomas], 신부전, 각막혼탁[cornea verticillata])**, 스포로트릭스증(*Sporothrix schenckii*) 및 *Mycobacterium marinum*의 림프관 선상 결절, 피부 림프종/백혈병(HTLV-1 연관 성인 T세포 백혈병/림프종의 고칼슘혈증·$\text{CD25}^+$ 세포; 급성골수성백혈병의 녹색종[chloroma]), **Sweet 증후군(약 10%에서 악성종양[AML 최다] 연관)**, **지방층염(Panniculitis: 정강이 앞쪽의 결절홍반[궤양·흉터 없이 치유] vs 종아리 뒤쪽의 경결홍반[erythema induratum, 결핵균 DNA 연관], ${\alpha }_{1}$-항트립신 결핍증, 췌장염/췌장암의 피하지방 괴사)**.  
 > * **적갈색(Red-brown)**: **유육종증**(유리압진 시 황갈색 "사과젤리" 색조, 생검상 "나신[naked] 육아종"), 심상성 루푸스(피부 결핵), **색소성 두드러기(urticaria pigmentosa: 문지르면 두드러기가 생기는 Darier 징후 양성)**, 지속성 융기성 홍반(EED).  
 > * **청색(Blue: 청색 고무수포 모반 증후군[위장관 혈관기형 출혈], 연골종을 동반한 Maffucci 증후군)**, **보라색(Violaceous: 코끝·귓불의 동창상 루푸스[lupus pernio — 상기도 유육종증 연관])**, **자색(Purple: 카포시 육종, 맥관육종)** 및 **피부 전이암**(남성은 흑색종·구인두·폐·대장암, 여성은 유방·흑색종·난소암 원발 최다).
 
@@ -147,8 +141,6 @@ title: "Ch53-55: Eczema, Psoriasis, Cutaneous Infections, Acne, Skin Manifestati
 
 **Table 54-16, p.353**: Table 54-16 Causes of Purpura — 비촉지성 자반(원발성 및 전신성[응고장애, 혈관 취약성, 혈관내 혈전, 색전, 면역복합체])과 촉지성 자반(혈관염, 감염성 색전)의 원인 분류표. ![[Harrison_V1_Ch54_Tab16.png]]  
 **Table 54-17, p.355**: Table 54-17 Causes of Mucocutaneous Ulcers — 원발성 피부 질환, 전신 질환(하지, 수족부, 전신성[괴저농피증, 칼시필락시스 등], 안면/항문생식기) 및 점막 궤양의 원인 분류표. ![[Harrison_V1_Ch54_Tab17.png]]
-
-## ---
 
 **3. 제55장 면역매개 피부 질환 (Chapter 55: Immunologically Mediated Skin Diseases) (p.355–361)**
 

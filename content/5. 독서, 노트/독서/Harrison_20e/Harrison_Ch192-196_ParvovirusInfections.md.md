@@ -11,15 +11,13 @@ type: 의학원서_요약노트
 
 title: "Ch191(Part 2)-196: Parvovirus Infections, Human Papillomavirus Infections, Common Viral Respiratory Infections, Influenza, and The Human Retroviruses" aliases: - "해리슨 20판 Ch192-196" - "Parvovirus Infections" - "Human Papillomavirus Infections" - "Common Viral Respiratory Infections" - "Influenza" - "The Human Retroviruses" tags: - Harrison20e - InternalMedicine - Part5 - Ch192-196 - InfectiousDiseases - ParvovirusB19 - HPV - RespiratoryViruses - Rhinovirus - RSV - Coronavirus - Influenza - Retroviruses - HTLV1 source_pdf: "https\://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a" source_pages: "pp. 1367–1392" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 191(후반)–196: Parvovirus Infections, Human Papillomavirus Infections, Common Viral Respiratory Infections, Influenza, and The Human Retroviruses**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_1239-1392.pdf](https://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a) (pp. 1367–1392, 해리슨 내과학 1권-3.pdf) - **범위 경계 안내**: p. 1367 상단에는 직전 범위(p. 1366)에서 이어지는 **Ch 191** *Molluscum Contagiosum, Monkeypox, and Other Poxvirus Infections*(전염성 연속종·원숭이두창 및 기타 폭스바이러스 감염)의 결말부가 수록되어 있으며, 이어서 **Ch 192** *Parvovirus Infections* (pp. 1367–1370), **Ch 193** *Human Papillomavirus Infections* (pp. 1370–1375), **Ch 194** *Common Viral Respiratory Infections* (pp. 1375–1382), **Ch 195** *Influenza* (pp. 1382–1388), 그리고 **Ch 196** *The Human Retroviruses* (pp. 1388–1392, HAM/TSP 치료 및 HTLV-2는 p. 1393 상단으로 이어짐)가 순서대로 수록되어 있다.
 
 ## **1. 제191장 폭스바이러스 감염(Poxvirus Infections) — 후반부 (p.1367)**
 
-**※ 제191장 중간부터**: 직전 범위(p. 1366)에서는 폭스바이러스 분류(Table 191-1)와 전염성 연속종의 임상 양상(Figure 191-1)이 설명되었고, p. 1367은 전염성 연속종의 진단·치료와 원숭이두창·백시니아·파라폭스바이러스 감염으로 이어진다.
+**※ 제191장 중간부터**: 직전 범위(p. 1366)에서는 폭스바이러스 분류(Table 191-1)와 전염성 연속종의 임상 양상(Figure 191-1)이 설명되었고, p. 1367은 전염성 연속종의 진단·치료와 원숭이두창·백시니아·파라폭스바이러스 감염으로 이어진다. ![[Harrison_V1_Ch191_Tab1.png]] ![[Harrison_V1_Ch191_Fig1.png]]  
 
 > 1. **전염성 연속종(Molluscum Contagiosum)의 진단 및 치료** (p. 1367):  
 > 2. 조직학적 검사에서 대형 호산구성 세포질내 봉입체인 **연속종 소체(molluscum bodies / Henderson-Paterson bodies)**로 확진한다.  
@@ -91,7 +89,7 @@ title: "Ch191(Part 2)-196: Parvovirus Infections, Human Papillomavirus Infection
 > 3. **4가 백신(Gardasil)**: HPV **6, 11, 16, 18형** 포함(외부 생식기 사마귀 예방 효능 98.9%, CIN 2/3 또는 AIS 예방 효능 100%; 남녀 9–26세 승인).  
 > 4. **9가 백신(Gardasil 9)**: HPV **6, 11, 16, 18, 31, 33, 45, 52, 58형** 포함(자궁경부암 원인 유전형의 약 90% 예방; HPV 31/33/45/52/58 관련 고등급 병변 예방 효능 96.7%).  
 > 5. **ACIP 권고**: 11–12세 소녀·소년에게 정기 접종(9세부터 가능, 미접종 여성은 26세, 남성은 21세[MSM·면역저하자는 26세]까지 따라잡기 접종). **15세 미만에서 첫 접종 시작 시 0, 6–12개월 2회 접종**, 15세 이상 또는 면역저하자는 0, 1–2, 6개월 3회 접종을 시행한다.  
-> 6. **자궁경부암 선별검사 및 생식기 사마귀 치료(Table 193-1)** (pp. 1374–1375):  
+> 6. **자궁경부암 선별검사 및 생식기 사마귀 치료(Table 193-1)** (pp. 1374–1375): ![[Harrison_V1_Ch193_Tab1.png]]  
 > 7. **선별검사**: **21세**에 시작하여 21–29세는 **3년마다 세포검사(Pap test) 단독**, 30–65세는 **5년마다 세포검사 + 고위험 HPV 동시검사(co-testing)**(또는 3년마다 세포검사 단독)를 권장한다.  
 > 8. **생식기 사마귀 치료(Table 193-1)**: **냉동치료(Cryotherapy — 음경·외음부 사마귀에서 가장 안전하고 저렴하며 효과적인 1차 방법, 소실률 60–90%, 재발률 20–40%)**, 포도필로톡신(0.5% 용액/겔, 임신 금기), 이미퀴모드(5% 또는 3.75% 크림, 국소 사이토카인 유도, 자가도포 가능), 삼염화아세트산/이염화아세트산(TCA/BCA 80–90%), 외과적 절제/레이저/전기소작(재발률 가장 낮음 5–10%), 시네카테킨(15% 녹차 추출물 연고).
 
@@ -161,7 +159,7 @@ title: "Ch191(Part 2)-196: Parvovirus Infections, Human Papillomavirus Infection
 | **1977–1978** | **H1N1** (러시아 독감) | 경증 팬데믹 (주로 젊은 연령층 이환) |
 | **2009–2010** | **H1N1pdm09** | 신종 돼지·조류·인간 삼중 재편성 H1N1에 의한 팬데믹 (1968년 이전 출생자는 상대적 교차면역 보유) |
 
-> 1. **조류·돼지 인플루엔자 수용체 특이성 및 질병 부담(Figure 195-2–Figure 195-4, Table 195-2)** (pp. 1383–1385):  
+> 1. **조류·돼지 인플루엔자 수용체 특이성 및 질병 부담(Figure 195-2–Figure 195-4, Table 195-2)** (pp. 1383–1385): ![[Harrison_V1_Ch195_Tab2.png]]  
 > 2. **시알산 수용체 특이성**: 인간 상기도 상피세포는 주로 $\alpha -2,6-galactose$ **시알산 수용체**를 가지고, 조류는 $\alpha -2,3-galactose$ **수용체**를 가지는 반면, **돼지(swine) 호흡기 상피세포는 두 가지 수용체를 모두 보유**하여 조류와 인간 바이러스의 유전자 재편성이 일어나는 **"혼합 용기(mixing vessel)"** 역할을 한다.  
 > 3. 고병원성 조류 **H5N1**(1996년 홍콩 출현, 직접 접촉자 치명률 **~50%**, 사이토카인 폭풍 유발, 사람 간 전파력은 낮음) 및 **H7N9**가 산발적 중증 감염을 일으킨다.  
 > 4. **인플루엔자 B형**: 동물 보유숙주가 없으며 지난 40년간 **B/Yamagata 계통**과 **B/Victoria 계통** 2가지가 유행하여 최근 **4가 백신(A/H1N1 + A/H3N2 + B 두 계통)**이 도입되었다.
@@ -180,15 +178,15 @@ title: "Ch191(Part 2)-196: Parvovirus Infections, Human Papillomavirus Infection
 | 임상 소견 (Condition/Event) | 환자 수 (총 24명 중) | 임상 소견 (Condition/Event) | 환자 수 (총 24명 중)   |
 | :---- | :---: | :---- | ----- |
 | **콧물 (Coryza)** | 22 | **편도염 (Tonsillitis)** | 8 |
-| **발열 (\$>38.4^\\circ\\text{C}\$ [\$>101^\\circ\\text{F}\$])** | 21 | **구토 (Vomiting)** | 7 |
+| **발열 ($>38.4^\circ\text{C}$ [$>101^\circ\text{F}$])** | 21 | **구토 (Vomiting)** | 7 |
 | **기침 (Cough)** | 21 | **중이염 (Otitis)** / **폐렴 (Pneumonia)** / **설사 (Diarrhea)** | 각 6 |
 | **인두염 (Pharyngitis)** / **보챔 (Irritability)** | 각 20 | **쉰목소리 (Hoarseness)** | 4 |
-| **고열 (\$>39.5^\\circ\\text{C}\$ [\$>103^\\circ\\text{F}\$])** | 13 | **크루프 (Croup)** | 1 |
+| **고열 ($>39.5^\circ\text{C}$ [$>103^\circ\text{F}$])** | 13 | **크루프 (Croup)** | 1 |
 | **식욕부진 (Anorexia)** | 12 |  |  |
 
 > * **폐 합병증 3대 유형**:  
   1. **원발성 인플루엔자 바이러스 폐렴(Primary viral pneumonia)**: 급성 인플루엔자 호전 없이 고열·호흡곤란·청색증·미만성 간질성 침윤·ARDS로 급격히 진행(심장질환자·임산부·고령에서 호발, 객담에 세균이 적음).  
-  2. **2차 세균성 폐렴(Secondary bacterial pneumonia)**: 급성 인플루엔자 호전 후 **2–3일의 호전기를 거친 뒤** 발열 재발과 화농성 객담·폐엽 경화로 발현. 원인균은 ***Streptococcus pneumoniae*****, *Staphylococcus aureus*(지역사회 MRSA 포함), *Haemophilus influenzae***이다.  
+  2. **2차 세균성 폐렴(Secondary bacterial pneumonia)**: 급성 인플루엔자 호전 후 **2–3일의 호전기를 거친 뒤** 발열 재발과 화농성 객담·폐엽 경화로 발현. 원인균은 **Streptococcus pneumoniae****, *Staphylococcus aureus*(지역사회 MRSA 포함), *Haemophilus influenzae***이다.  
   3. **혼합형 바이러스·세균성 폐렴(Mixed viral and bacterial pneumonia)**: 임상에서 가장 흔한 형태.  
 > * **폐외 합병증**: 아스피린 복용 소아의 **라이 증후군(Reye's syndrome — 급성 뇌병증 및 지방간 변성; 아스피린 사용 중단 후 급감)**, 근육염·횡문근융해증·미오글로빈뇨, 심근염/심낭염, 뇌염/횡단성 척수염/Guillain-Barré 증후군.  
 > * **예방(백신) 및 항바이러스 치료** (pp. 1387–1388):  

@@ -17,8 +17,6 @@ type: 의학원서_요약노트
 
 > * 남성 유방암의 약 **90%는 에스트로겐 수용체(ER)를 포함**하며 연령과 병기를 일치시키면 여성 유방암과 전체 예후가 동일하다. 유방절제술 및 액와 림프절 곽청술(또는 감시림프절 생검)로 관리하며, 국소 진행성 또는 림프절 양성 환자에서는 방사선 치료를 추가하고 전이성 질환의 ~60%가 내분비 치료(1차 선택제는 **타목시펜[tamoxifen]**)에 반응한다.
 
-## ---
-
 **1. 제76장 상부 위장관 암: 식도암, 위암, 소장 종양 (Chapter 76: Upper Gastrointestinal Tract Cancers) (p.566–571)**
 
 ### **1.1 식도암(편평세포암 대 선암: Tables 76-1, 76-2), 위 선암의 분자 아형(Figure 76-1, Table 76-3) 및 위 림프종·육종·소장 종양 (p.566–571)**
@@ -39,11 +37,9 @@ type: 의학원서_요약노트
 **Figure 76-1, p.568**: Molecular/genomic characterization of subtypes of gastric carcinomas. CIMP, CpG-island methylator phenotype; CIN, chromosomally unstable; EBV, Epstein-Barr virus-associated; GS, genomically stable; MSI, microsatellite instability-associated. — 위 선암의 4대 분자 유전체 아형(EBV 연관형, 미세부수체 불안정형[MSI], 유전체 안정형[GS], 염색체 불안정형[CIN])의 해부학적 분포와 주요 분자적 특징. ![[Harrison_V1_Ch76_Fig1.png]]
 
 > * **원발성 위 림프종, 위장관기질종양(GIST) 및 소장 종양 (p.570–571)**:  
-> * 위 점막연관 림프조직(MALT)의 저등급 B세포 림프종은 ***H. pylori*** **제균 항생제 치료만으로 약 75%에서 완전 관해**에 도달하며, 대세포 비호지킨 림프종은 CHOP+리툭시맙으로 치료한다.  
-> * **위장관기질종양(GIST)**: ***c-kit*** **수용체 돌연변이**를 가지며, 절제 후 고위험군 보조요법(3년) 및 전이성 1차 치료로 **이마티닙(imatinib 400–800 mg/일)**, 이마티닙 불응 시 **수니티닙(sunitinib)**, 3차로 **레고라페닙(regorafenib)**을 투여한다.  
+> * 위 점막연관 림프조직(MALT)의 저등급 B세포 림프종은 **H. pylori** **제균 항생제 치료만으로 약 75%에서 완전 관해**에 도달하며, 대세포 비호지킨 림프종은 CHOP+리툭시맙으로 치료한다.  
+> * **위장관기질종양(GIST)**: **c-kit** **수용체 돌연변이**를 가지며, 절제 후 고위험군 보조요법(3년) 및 전이성 1차 치료로 **이마티닙(imatinib 400–800 mg/일)**, 이마티닙 불응 시 **수니티닙(sunitinib)**, 3차로 **레고라페닙(regorafenib)**을 투여한다.  
 > * **소장 종양**: 선암은 십이지장(특히 바터팽대부 주위)에 가장 흔하고, 소장 림프종(셀리악병·크론병·면역결핍 연관, 지중해 림프종[IPSID / $\alpha$ 중쇄병] 포함)과 카르시노이드 종양은 **회장(ileum)**에 가장 흔하다.
-
-## ---
 
 **2. 제77장 하부 위장관 암: 대장직장암 및 항문암 (Chapter 77: Lower Gastrointestinal Cancers) (p.572–578)**
 
@@ -51,7 +47,7 @@ type: 의학원서_요약노트
 
 > * **선종성 용종, 위험인자(Table 77-1) 및 유전성 대장암 증후군 (p.572–574)**:  
 > * 융모상(villous) 및 무경성·톱니모양(sessile, serrated) 선종과 크기가 큰 용종($<1.5cm$는 침습암 위험 \<2% vs >2.5 cm는 **10%**)에서 악성화 위험이 높으며, 동시성 병변이 약 1/3에서 존재하므로 용종 발견 시 전 대장내시경이 필수적이다.  
-> * 위험인자(Table 77-1): 동물성 지방·고열량 식이, 유전성 용종증(염색체 5q21 *APC* 결실에 의한 **가족성 선종성 용종증[FAP]**, 골종·섬유종·표피낭종·선천성 망막색소상피 비대를 동반하는 **Gardner 증후군**, 뇌종양을 동반하는 **Turcot 증후군**, *MUT4H* 양측 대립유전자 변이에 의한 상염색체 열성 **MYH 연관 용종증[MAP]**), 불일치 복구 유전자(2번 염색체 ***hMSH2***, 3번 염색체 ***hMLH1*** 등) 변이에 의해 근위부 대장암(평균 연령 \<50세)과 자궁내막암·난소암이 다발하는 **유전성 비용종증 대장암(HNPCC, Lynch 증후군)**, 장기 염증성 장질환, 그리고 잠복 대장 종양과 강하게 연관되는 ***Streptococcus bovis*** **균혈증/심내막염**.
+> * 위험인자(Table 77-1): 동물성 지방·고열량 식이, 유전성 용종증(염색체 5q21 *APC* 결실에 의한 **가족성 선종성 용종증[FAP]**, 골종·섬유종·표피낭종·선천성 망막색소상피 비대를 동반하는 **Gardner 증후군**, 뇌종양을 동반하는 **Turcot 증후군**, *MUT4H* 양측 대립유전자 변이에 의한 상염색체 열성 **MYH 연관 용종증[MAP]**), 불일치 복구 유전자(2번 염색체 **hMSH2**, 3번 염색체 **hMLH1** 등) 변이에 의해 근위부 대장암(평균 연령 \<50세)과 자궁내막암·난소암이 다발하는 **유전성 비용종증 대장암(HNPCC, Lynch 증후군)**, 장기 염증성 장질환, 그리고 잠복 대장 종양과 강하게 연관되는 **Streptococcus bovis** **균혈증/심내막염**.
 
 **Table 77-1, p.572**: Table 77-1 Risk Factors for the Development of Colorectal Cancer — 대장직장암 발생의 주요 위험인자(동물성 지방 식이, 유전성 증후군[대장 용종증, MYH 연관 용종증, Lynch 증후군], 염증성 장질환, *Streptococcus bovis* 균혈증, 흡연). ![[Harrison_V1_Ch77_Tab1.png]]
 
@@ -69,15 +65,13 @@ type: 의학원서_요약노트
 > * **IV기 전이성 대장직장암**: **FOLFOX 또는 FOLFIRI**에 항VEGF 항체 **베바시주맙(bevacizumab)**을 병합하거나, **종양 *RAS* (*K-ras*)이 정상인 환자에 한해 항EGFR 항체 세툭시맙(cetuximab) 또는 파니투무맙(panitumumab)**을 병합한다(*RAS* 변이 종양에서는 항EGFR 항체가 전혀 효과가 없음).  
 > * **항문암(대부분 편평세포암 — HPV 감염, 남성 간 성접촉자·HIV 감염 연관)**: 근치적 복회음절제술(영구 결장루) 대신 **외부 방사선 치료 + 5-FU 및 미토마이신 C 동시 화학요법**으로 **약 80%에서 괄약근을 보존하며 완치**된다.
 
-## ---
-
 **3. 제78장 간 및 담도계 종양 (Chapter 78: Tumors of the Liver and Biliary Tree) (p.578–590)**
 
 ### **3.1 간세포암(HCC)의 역학(Figure 78-1, 78-2), 비침습 진단(Figure 78-3) 및 BCLC 병기별 치료 전략 (Figure 78-4 ~ 78-6) (p.578–587)**
 
 > * **역학, 위험인자 및 분자 발암 기전 (p.578–581, Figure 78-1, 78-2)**:  
 > * 미국에서 1990–2009년 사이 간·담관암은 남녀 모두에서 **암 사망률 증가 속도 1위**를 기록하였다(Figure 78-1). 환자의 약 **90%**가 만성 간질환·간경변증을 기저에 가지며, 주요 원인은 아시아·아프리카의 **B형간염(HBV, 전 세계 HCC의 50% 차지; 몽골이 인구 10만 명당 78명으로 세계 최고 발생률)**, 서구·일본·이집트의 **C형간염(HCV)**, 알코올성 간질환, 비알코올성 지방간염(NASH), 그리고 서아프리카·수단·중국의 **아플라톡신 ${B}_{1}$(*TP53* 코돈 249 특이 변이 유발)** 노출이다(Figure 78-2).  
-> * 가장 흔한 운전자 변이는 ***TERT*** **프로모터 변이(60%)**, ***TP53*** **변이(30%)**, ***CTNNB1*** **($\beta$-catenin) 변이(30%)**, *ARID1A* (10%) 등이다(Table 78-1). 간경변증(Child-Pugh A/B 및 이식 대기 Child-Pugh C) 및 고위험 만성 HBV 환자에서는 **6개월마다 간 초음파 선별검사**가 권고된다.
+> * 가장 흔한 운전자 변이는 **TERT** **프로모터 변이(60%)**, **TP53** **변이(30%)**, **CTNNB1** **($\beta$-catenin) 변이(30%)**, *ARID1A* (10%) 등이다(Table 78-1). 간경변증(Child-Pugh A/B 및 이식 대기 Child-Pugh C) 및 고위험 만성 HBV 환자에서는 **6개월마다 간 초음파 선별검사**가 권고된다.
 
 **Figure 78-1, p.579**: Mortality trends of patients with different malignancies in the United States between 1990 and 2009. — 1990년부터 2009년까지 미국 내 주요 암종별 사망률 변화 추이(남녀 모두에서 간 및 담관암 사망률 증가율이 1위). ![[Harrison_V1_Ch78_Fig1.png]]  
 **Figure 78-2, p.579**: The global burden of hepatocellular carcinoma. Incidence of hepatocellular carcinoma (HCC) and risk factors. — 간세포암(HCC)의 전 세계 연령표준화 발생률 지도와 지역별 주요 위험인자(중국 HBV, 이집트 HCV, 미국 알코올/NASH, 수단 아플라톡신 B1). ![[Harrison_V1_Ch78_Fig2.png]]
@@ -87,12 +81,12 @@ type: 의학원서_요약노트
 
 **Figure 78-3, p.582**: Recall diagnosis schedule for HCC (EASL). EASL, European Association for the Study of Liver Disease; HCC, hepatocellular carcinoma. — 간경변증 환자의 초음파에서 발견된 결절 크기(\<1 cm, 1–2 cm, >2 cm)와 4상 CT/역동적 조영증강 MRI의 동맥기 조영증강 및 지연기 씻김(washout) 소견에 따른 유럽간학회(EASL) 간세포암 진단 알고리즘. ![[Harrison_V1_Ch78_Fig3.png]]
 
-> * **BCLC (Barcelona Clinic Liver Cancer) 병기 체계와 병기별 표준 치료 (p.582–587, Figure 78-4 ~ 78-6, Table 78-2)**:  
+> * **BCLC (Barcelona Clinic Liver Cancer) 병기 체계와 병기별 표준 치료 (p.582–587, Figure 78-4 ~ 78-6, Table 78-2)**: ![[Harrison_V1_Ch78_Tab2.png]]  
 > * **초조기(Stage 0: 단일 결절 ≤2 cm, Child-Pugh A, ECOG 0) 및 조기(Stage A: 단일 결절 또는 각 ≤3 cm 이하 결절 3개 이하, ECOG 0)**: 완치 목적 치료(전체의 30–40%, 중앙 생존기간 >60개월, 5년 생존율 50–80%) 대상이다(Figure 78-4, Figure 78-5):  
   1. **간절제술**: 비간경변증 또는 Child-Pugh A이면서 **임상적으로 유의한 문맥압 항진증이 없고(간정맥 압력경사 ≤10 mmHg, 혈소판 ≥100,000/µL, 비장종대·정맥류 없음) 빌리루빈이 정상(≤1 mg/dL)인 단일 종양** 환자에서 시행한다(5년 재발률 ~70%이나 확립된 보조요법 없음).  
   2. **간이식(밀란 기준[Milan criteria]: 단일 종양 ≤5 cm 또는 각 ≤3 cm 이하 결절 3개 이하이면서 혈관 침습 및 간외 전이 없음)**: 5년 생존율 70% 이상, 재발률 \<10–15%를 달성한다(대기 기간이 6개월을 초과할 때는 가교 치료로 고주파 열치료나 TACE 시행).  
   3. **국소 절제술(고주파 열치료[RFA])**: 수술 부적합 Stage 0–A 환자의 1차 치료로 \<2 cm 종양에서는 90% 이상 완전 괴사를 달성한다(>3 cm에서는 혈류 냉각 효과로 실패율 증가).  
-> * **중간기(Stage B: 무증상 다발성 결절, 혈관 침습 및 간외 전이 없음, ECOG 0)**: **경동맥 화학색전술(TACE: 독소루비신 또는 시스플라틴 + 리피오돌 주입 후 색전, 또는 약물방출 미세구[DEB-TACE])**이 1차 표준 치료이며 중앙 생존기간을 16개월에서 **20–26개월(선택된 환자군 25–30개월)**로 연장한다(문맥 본간 혈전증이나 비대상성 간경변증에서는 금기; 문맥 혈전증 환자에서는 이트륨-90 [\$^{90}\\text{Y}\$] 방사선색전술이 연구됨).  
+> * **중간기(Stage B: 무증상 다발성 결절, 혈관 침습 및 간외 전이 없음, ECOG 0)**: **경동맥 화학색전술(TACE: 독소루비신 또는 시스플라틴 + 리피오돌 주입 후 색전, 또는 약물방출 미세구[DEB-TACE])**이 1차 표준 치료이며 중앙 생존기간을 16개월에서 **20–26개월(선택된 환자군 25–30개월)**로 연장한다(문맥 본간 혈전증이나 비대상성 간경변증에서는 금기; 문맥 혈전증 환자에서는 이트륨-90 [$^{90}\text{Y}$] 방사선색전술이 연구됨).  
 > * **진행기(Stage C: 문맥 침습, 림프절 전이[N1], 원격 전이[M1], 또는 ECOG 1–2, Child-Pugh A)**:  
   * **1차 전신 표적 치료**: 다중 키나제 억제제 **소라페닙(sorafenib 800 mg/일 — SHARP 시험에서 위약 대비 중앙 생존기간을 7.9개월에서 10.7개월로 연장, HR 0.69)**이 표준이며, 최근 제3상 시험에서 **렌바티닙(lenvatinib: 중앙 생존기간 13.6개월 대 소라페닙 12.3개월, HR 0.92)**이 비열등성을 입증하였다(Table 78-2, Figure 78-6).  
   * **2차 전신 치료**: 소라페닙 치료 후 진행한 환자에서 **레고라페닙(regorafenib — RESOURCE 시험에서 위약 대비 중앙 생존기간 7.8개월 → 10.6개월 연장, HR 0.63)**이 생존 이득을 입증하였다(Figure 78-4, Figure 78-5).  
@@ -112,16 +106,14 @@ type: 의학원서_요약노트
 **Figure 78-7, p.588**: Classification of cholangiocarcinoma subtypes. The 7th edition AJCC/UICC TNM staging classification includes intrahepatic (iCCA, A), perihilar (pCCA, B) and distal (dCCA, C) tumors. — 담관암의 3대 해부학적 아형(간내[iCCA, A: *FGFR2* 융합, *IDH1/2* 변이], 간문부[pCCA, B], 원위부[dCCA, C])과 진단 기법 및 유전적 변이 특징. ![[Harrison_V1_Ch78_Fig7.png]]  
 **Figure 78-8, p.589**: Staging and treatment schedule for iCCA proposed by the International Liver Cancer Association. — 국제간암학회(ILCA)가 제안한 간내 담관암(iCCA)의 절제 가능성 및 간기능 평가에 따른 외과적 절제·국소치료·전신 항암화학요법(시스플라틴+젬시타빈) 알고리즘. ![[Harrison_V1_Ch78_Fig8.png]]
 
-## ---
-
 **4. 제79장 췌장암 (Chapter 79: Pancreatic Cancer) (p.591–595)**
 
 ### **4.1 췌장관 선암의 유전적 위험(Table 79-1), 치밀한 기질 생물학(Figure 79-1), 병기 영상(Figure 79-2, 79-3) 및 병기별 치료(Table 79-3) (p.591–595)**
 
 > * **역학, 위험인자, 유전성 증후군(Table 79-1) 및 분자 병리(Figure 79-1) (p.591–592)**:  
 > * 미국 암 사망 원인 **3위**(>53,000명 진단, >43,000명 사망, 5년 생존율 ~8%)로 췌장암의 **60–70%가 췌장 두부(head)**에 위치한다(체부 10–15%, 미부 10–15%).  
-> * 흡연, 비만, 만성 췌장염, 최근 1–2년 내 새로 발병한 당뇨병 및 생식세포 변이(**Peutz-Jeghers 증후군[원인 유전자, 위험 132배]**, 유전성 췌장염[***PRSS1*****, 53–87배**], 가족성 비정형 다발모반 흑색종[***CDKN2A*****, 13–39배**], 유전성 유방-난소암[***BRCA1/BRCA2/PALB2***], Lynch 증후군, 모세혈관확장성 운동실조증[***ATM***], Table 79-1)이 주요 위험인자다.  
-> * 췌장관 선암의 **>90%에서 *KRAS* 변이**(주로 코돈 12)가 발견되며 ***CDKN2A*** **($p16$), *TP53*, *SMAD4* (DPC4)** 불활성화가 동반되고, 히알루론산과 콜라겐이 풍부한 극도로 치밀한 결합조직형성 기질(desmoplastic stroma, Figure 79-1B)이 종양 간질압을 높여 약물 전달을 방해한다.
+> * 흡연, 비만, 만성 췌장염, 최근 1–2년 내 새로 발병한 당뇨병 및 생식세포 변이(**Peutz-Jeghers 증후군[원인 유전자, 위험 132배]**, 유전성 췌장염[**PRSS1****, 53–87배**], 가족성 비정형 다발모반 흑색종[**CDKN2A****, 13–39배**], 유전성 유방-난소암[**BRCA1/BRCA2/PALB2**], Lynch 증후군, 모세혈관확장성 운동실조증[**ATM**], Table 79-1)이 주요 위험인자다.  
+> * 췌장관 선암의 **>90%에서 *KRAS* 변이**(주로 코돈 12)가 발견되며 **CDKN2A** **($p16$), *TP53*, *SMAD4* (DPC4)** 불활성화가 동반되고, 히알루론산과 콜라겐이 풍부한 극도로 치밀한 결합조직형성 기질(desmoplastic stroma, Figure 79-1B)이 종양 간질압을 높여 약물 전달을 방해한다.
 
 **Table 79-1, p.591**: Table 79-1 Germ-line Mutations, Their Familial Cancer Syndrome, and Fold Risk of Pancreatic Cancer — 췌장암 위험을 높이는 생식세포 유전자 변이(원인 유전자 [Peutz-Jeghers, 132배], *PRSS1* [유전성 췌장염, 53–87배], *CDKN2A* [13–39배], *MLH1/MSH2/MSH6* [Lynch, 8.6배], *BRCA2* [3.5–10배], *BRCA1*, *PALB2*, *ATM*) 요약표. ![[Harrison_V1_Ch79_Tab1.png]]  
 **Figure 79-1, p.592**: A. Note the relationship of the pancreas to the major vessels of the retroperitoneum. B. Ductal adenocarcinoma of the pancreas — 후복막 주요 혈관(복강동맥축, 상장간막동맥·정맥, 간문맥)과 췌장의 해부학적 관계(A) 및 치밀한 기질 성분(흰 화살표)에 둘러싸인 췌장관 선암(검은 화살표)의 조직 소견(B). ![[Harrison_V1_Ch79_Fig1.png]]
@@ -134,10 +126,8 @@ type: 의학원서_요약노트
   3. **전이성 췌장암(50–60%, 중앙 생존기간 8.3–12.8개월)**: 수행상태가 양호한 환자에서 1차 표준 병합 화학요법은 **FOLFIRINOX (5-FU/류코보린 + 이리노테칸 + 옥살리플라틴: 중앙 생존기간 11.1개월 대 젬시타빈 6.8개월)** 또는 **알부민 결합 파클리탁셀(paclitaxel) + 젬시타빈(8.5개월 대 6.7개월)**이며, 젬시타빈 치료 후 진행 시 2차로 **리포솜 이리노테칸(liposomal irinotecan) + 5-FU/류코보린**을 사용한다(*BRCA* 변이 환자에서는 백금계 약제와 PARP 억제제에 높은 감수성을 보임).
 
 **Figure 79-2, p.593**: Selected images from contrast-enhanced CT in patients with locally advanced adenocarcinoma of the pancreas. — 국소 진행성 췌장 선암 환자의 동맥기(A–C: 상장간막동맥[SMA]을 둘러싼 종양 침윤 및 총담관 확장) 및 문맥기(D–F: 문맥-비장정맥 합류부 및 상장간막정맥 침윤) 조영증강 다중면 재구성 CT 영상. ![[Harrison_V1_Ch79_Fig2.png]]  
-**Figure 79-3, p.593**: demonstrates the use of an 18F glucose positron emission tomography (PET) scan. — 전이성 췌장암 환자에서 기저 시점과 항암화학요법 6주 후 간 전이 병소의 대사 호전을 보여주는 \$^{18}\\text{F}\$-FDG PET 스캔. ![[Harrison_V1_Ch79_Fig3.png]]  
+**Figure 79-3, p.593**: demonstrates the use of an 18F glucose positron emission tomography (PET) scan. — 전이성 췌장암 환자에서 기저 시점과 항암화학요법 6주 후 간 전이 병소의 대사 호전을 보여주는 $^{18}\text{F}$-FDG PET 스캔. ![[Harrison_V1_Ch79_Fig3.png]]  
 **Table 79-3, p.595**: Table 79-3 Extent of Disease and Therapeutic Approach — 췌장암의 침범 범위(절제 가능 국소 질환[중앙 생존 18–23개월, 수술 후 젬시타빈+카페시타빈 보조요법], 국소 진행성 질환[6–10개월], 전이성 질환[8.3–12.8개월, 전신 화학요법])에 따른 치료 접근 요약표. ![[Harrison_V1_Ch79_Tab3.png]]
-
-## ---
 
 **5. 제80장 위장관 및 췌장의 신경내분비 종양 — 도입부 (Chapter 80: Neuroendocrine Tumors of the GI Tract and Pancreas, pp. 596–598) (p.596–598)**
 
@@ -145,7 +135,7 @@ type: 의학원서_요약노트
 
 > * **공통 면역조직화학 표지자와 소마토스타틴 수용체 발현 (p.596)**:  
 > * 위장관 신경내분비종양(GI-NET, 카르시노이드)과 췌장 신경내분비종양(pNET)은 분비과립 내 가용성 산성 단백질인 **크로모그라닌 A (Chromogranin A)**와 소포막 당단백질인 **시냅토피신(Synaptophysin)**을 공통 발현하며, 80–90% 이상에서 **소마토스타틴 수용체**를 고밀도로 발현하여 소마토스타틴 수용체 신티그래피 영상 진단과 옥트레오티드·란레오티드 치료의 표적이 된다.  
-> * **WHO/ENETS 증식 지수 등급 분류(Table 80-1)와 발생학·기능별 증후군 분류(Tables 80-2, 80-3) (p.596–598, p.599로 이어짐)**:  
+> * **WHO/ENETS 증식 지수 등급 분류(Table 80-1)와 발생학·기능별 증후군 분류(Tables 80-2, 80-3) (p.596–598, p.599로 이어짐)**: ![[Harrison_V1_Ch80_Tab1.png]] ![[Harrison_V1_Ch80_Tab2.png]]  
 > * 유사분열 수와 증식 지수에 따라 고분화 **NET G1**(유사분열 \<2/10 HPF 및 ≤2%), **NET G2**(유사분열 2–20/10 HPF 또는 3–20%), 그리고 저분화 고악성도 신경내분비암종인 **NEC G3**(유사분열 >20/10 HPF 또는 >20%)로 분류한다(Table 80-1).  
 > * **기능성 및 비기능성 증후군(Table 80-2, Table 80-3)**:  
   1. **카르시노이드 증후군(세로토닌, 타키키닌, 프로스타글란딘 분비)**: 주로 **중장(midgut: 공장·회장·충수, 75–87% — 특히 회장 카르시노이드의 간 전이 시)** 기원 종양에서 설사(32–84%), 피부 홍조(63–75%), 천식/기관지수축(4–18%), 우심 내막 섬유화(**카르시노이드 심장병, 11–41%**)를 유발한다(후장[직장] 기원 종양은 펩티드를 분비하지 않아 카르시노이드 증후군을 거의 일으키지 않음, Table 80-3).  

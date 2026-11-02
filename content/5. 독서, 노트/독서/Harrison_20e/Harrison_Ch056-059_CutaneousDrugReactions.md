@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions to Light, Interpreting Peripheral Blood Smears, and Anemia and Polycythemia" aliases: - "해리슨 20판 Ch56-59" - "Cutaneous Drug Reactions" - "Photosensitivity and Other Reactions to Light" - "Interpreting Peripheral Blood Smears" - "Anemia and Polycythemia" tags: - Harrison20e - InternalMedicine - Part2 - Ch56-59 - Dermatology - CutaneousDrugReactions - Photosensitivity - Hematology - BloodSmear - Anemia - Polycythemia source_pdf: "https\://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk" source_pages: "pp. 362–393" created: "2026-10-22"
 
-# ---
-
 **📑 [Harrison 20e] Ch56–59: Cutaneous Drug Reactions, Photosensitivity, Interpreting Peripheral Blood Smears, and Anemia/Polycythemia**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [해리슨 내과학 1권-1.pdf](https://drive.google.com/file/d/1TvPiA1RjL1tABvFrx4WCJpGhbJWUMFF5/view?usp=drivesdk) (분할 PDF: Harrison20e_V1_0329-0479.pdf, pp. 362–393) - **범위 경계 안내**: p.362 상단에는 **Ch 55** *Immunologically Mediated Skin Diseases*의 마지막 부분(경피증의 안면 소견[Fig. 55-8], 국소 경피증[Morphea], 호산구성 근막염 및 호산구증가-근육통 증후군)이 인쇄되어 있으며, 이어서 **Ch 56** Cutaneous Drug Reactions (p.362–371), **Ch 57** Photosensitivity and Other Reactions to Light (p.372–378), Section 9 *Hematologic Alterations*의 **Ch 58** Interpreting Peripheral Blood Smears (p.379–385), **Ch 59** Anemia and Polycythemia (p.385–393, p.394로 이어짐)가 수록되어 있다.
@@ -28,14 +26,12 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 
 **Figure 55-8, p.362**: Scleroderma often eventuates in development of an expressionless, masklike facies. — 무표정한 가면 모양 얼굴과 구강주위 방사상 주름을 보이는 경피증. ![[Harrison_V1_Ch55_Fig8.png]]
 
-## ---
-
 **1. 제56장 피부 약물 반응 (Chapter 56: Cutaneous Drug Reactions) (p.362–371)**
 
 ### **1.1 약물 발진의 역학, 면역 기전 및 HLA 약물유전체학 연관성 (p.362–364)**
 
-> * **역학 및 고위험군 (p.362–363)**: 미국에서는 매일 **200만 건 이상**의 약물 이상반응이 발생한다. 입원 환자 **48,005명**을 20년간 추적한 연구에서 가장 흔한 피부 약물 반응은 **홍역양 발진(morbilliform rash, 91%)**과 **두드러기(urticaria, 6%)**였다. 특히 진행성 HIV 질환자(\$ ext{CD4} \<200 ext{ cells/\\mu L}\$)는 **설파메톡사졸(sulfamethoxazole) 이상반응 위험이 40–50배 증가**한다.  
-> * **면역학적 분류 및 HLA 연관성 (p.363–364, Table 56-1)**:  
+> * **역학 및 고위험군 (p.362–363)**: 미국에서는 매일 **200만 건 이상**의 약물 이상반응이 발생한다. 입원 환자 **48,005명**을 20년간 추적한 연구에서 가장 흔한 피부 약물 반응은 **홍역양 발진(morbilliform rash, 91%)**과 **두드러기(urticaria, 6%)**였다. 특히 진행성 HIV 질환자($\text{CD4} <200\text{ cells/\mu L}$)는 **설파메톡사졸(sulfamethoxazole) 이상반응 위험이 40–50배 증가**한다.  
+> * **면역학적 분류 및 HLA 연관성 (p.363–364, Table 56-1)**: ![[Harrison_V1_Ch56_Tab1.png]]  
 > * 즉시형 반응(IgE 매개[페니실린, 근이완제 — 사전 감작 필요] 또는 직접 비만세포 탈과립[아스피린/NSAIDs, 방사선 조영제 — 첫 노출에 가능]), 면역복합체 반응(노출 6일 이상 후 발생하는 혈청병 및 인플릭시맙·리툭시맙·오말리주맙 등에 의한 혈청병 유사 반응), T세포 매개 지연형 과민반응(홍역양 약진, DIHS/DRESS, AGEP, SJS/TEN — 합텐 경로 또는 약물이 TCR/HLA에 직접 결합하는 p-i 가설).  
 > * **핵심 HLA 연관성**: (1) 항HIV 약물 **아바카비르(abacavir)와 HLA-B*57:01**(첩포검사 확인 시 **음성예측도 100%, 양성예측도 55%, 치료 필요 환자 수[NNT] \= 13**으로 전 세계 표준 사전 선별검사), (2) 대만 한족에서 **카르바마제핀 유발 SJS/TEN과 HLA-B*15:02**의 100% 연관성(FDA는 아시아인에서 카르바마제핀 처방 전 HLA-B*15:02 선별 권고), (3) 한족에서 **알로푸리놀 유발 SJS/TEN/DIHS와 HLA-B*58:01**의 100% 연관성(ACR 선별 권고).
 
@@ -80,8 +76,6 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 **Table 56-2, p.370**: Table 56-2 Clinical and Laboratory Findings Suggestive of Severe Cutaneous Adverse Drug Reaction — 중증 피부 약물 이상반응을 시사하는 피부·일반·검사실(호산구 >1000/µL, 비정형 림프구증가증, 간·신기능 이상) 소견. ![[Harrison_V1_Ch56_Tab2.png]]  
 **Table 56-3, p.371**: Table 56-3 Clinical Features of Severe Cutaneous Drug Reactions — 중증 피부 약물 반응(SJS, TEN, DIHS/DRESS, AGEP, 혈청병, 항응고제 괴사, 혈관부종)의 점막·피부 병변, 동반 증상 및 주요 원인 약물 비교표. ![[Harrison_V1_Ch56_Tab3.png]]
 
-## ---
-
 **2. 제57장 광과민성 및 기타 일광 반응 (Chapter 57: Photosensitivity and Other Reactions to Light) (p.372–378)**
 
 ### **2.1 태양 복사선, 자외선(UVR) 피부 생물학, 광노화·피부암 및 광면역학 (p.372–375)**
@@ -91,8 +85,8 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 > * **급성·만성 일광 효과 및 분자 발암 기전 (p.373–375)**:  
 > * **일광화상과 멜라닌**: 멜라노코르틴-1 수용체(**MC1R**) 활성이 높으면 갈색·흑색의 유멜라닌(eumelanin)이, 낮으면 적색 머리와 흰 피부를 띠는 시스테인 함유 **페오멜라닌(pheomelanin, 자외선 차폐력이 약하고 UV-A 의존적 및 비의존적 산화 손상으로 흑색종 촉진)**이 생성된다.  
 > * **광노화(Photoaging)**: UV-A와 ROS가 기질금속단백분해효소(**MMP-1, MMP-3**)를 유도하고 제I형 프로콜라겐 mRNA 발현을 억제하여 비정상 탄력섬유가 축적되는 **일광 탄력섬유증(solar elastosis)**을 일으킨다.  
-> * **비흑색종 피부암(NMSC: 미국에서 연간 200만 명 이상 발생, 백인 평생 위험 ~15%, 연 2–3% 증가, 80%가 일광노출부 발생)**: 정상 노화 일광노출 피부 세포의 **~20%**와 편평세포암(SCC)의 **~60%**가 ***NOTCH1*** **드라이버 돌연변이**를 보유하며 SCC는 정상 노화 피부보다 세포당 약 **10배** 많은 드라이버 변이와 자외선 특이 ***p53*** **변이(\$ ext{C}→arrow ext{T}\$ 및 \$ ext{CC}→arrow ext{TT}\$ 전이)**, *CDKN2A* 변이를 가진다. 반면 기저세포암(BCC)은 종양억제유전자 ***patched*** **불활성화 또는 종양유전자 *smoothened* 활성화(sonic hedgehog 경로)** 및 Wnt/$\beta$-catenin 경로에 의존한다.  
-> * **광면역학(Photoimmunology)**: UV-B는 표피 랑게르한스 세포를 고갈시키고 각질층 필라그린 분해 산물인 **트랜스-우로카닌산(우로카닌산(urocanic acid))을 시스-우로카닌산(cis-urocanic acid)으로 이성질화**하며 \$ ext{PGE}_2$($ ext{EP}_4\$ 수용체) 및 인터루킨 10 분비 조절 T세포를 통해 국소·전신 면역을 억제한다. **장기이식 수혜자의 50% 이상에서 BCC와 SCC가 발생**하며, 칼시뉴린 억제제(사이클로스포린, 타크로리무스)를 **mTOR 억제제(시롤리무스, 에베롤리무스)**로 대체하면 피부암 위험을 줄일 수 있다.
+> * **비흑색종 피부암(NMSC: 미국에서 연간 200만 명 이상 발생, 백인 평생 위험 ~15%, 연 2–3% 증가, 80%가 일광노출부 발생)**: 정상 노화 일광노출 피부 세포의 **~20%**와 편평세포암(SCC)의 **~60%**가 **NOTCH1** **드라이버 돌연변이**를 보유하며 SCC는 정상 노화 피부보다 세포당 약 **10배** 많은 드라이버 변이와 자외선 특이 **p53** **변이($\text{C}→arrow\text{T}$ 및 $\text{CC}→arrow\text{TT}$ 전이)**, *CDKN2A* 변이를 가진다. 반면 기저세포암(BCC)은 종양억제유전자 **patched** **불활성화 또는 종양유전자 *smoothened* 활성화(sonic hedgehog 경로)** 및 Wnt/$\beta$-catenin 경로에 의존한다.  
+> * **광면역학(Photoimmunology)**: UV-B는 표피 랑게르한스 세포를 고갈시키고 각질층 필라그린 분해 산물인 **트랜스-우로카닌산(우로카닌산(urocanic acid))을 시스-우로카닌산(cis-urocanic acid)으로 이성질화**하며 $\text{PGE}_2$($\text{EP}_4$ 수용체) 및 인터루킨 10 분비 조절 T세포를 통해 국소·전신 면역을 억제한다. **장기이식 수혜자의 50% 이상에서 BCC와 SCC가 발생**하며, 칼시뉴린 억제제(사이클로스포린, 타크로리무스)를 **mTOR 억제제(시롤리무스, 에베롤리무스)**로 대체하면 피부암 위험을 줄일 수 있다.
 
 ### **2.2 광과민성 질환(다형광발진, 광독성·광알레르기, 포르피린증) 및 광보호·광선치료 (p.375–378)**
 
@@ -112,8 +106,6 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 
 **Figure 57-1, p.378**: Algorithm for the diagnosis of a patient with photosensitivity. ANA, antinuclear antibody; MED, minimal erythemal dose; UV-A and UV-B, ultraviolet spectrum segments including wavelengths of 320-400 nm and 290-320 nm, respectively. — 광과민성 환자의 병력·노출 시간·광검사(MED)·광첩포검사·포르피린/ANA 검사에 따른 진단 알고리즘. ![[Harrison_V1_Ch57_Fig1.png]]
 
-## ---
-
 **3. 제58장 말초혈액 도말의 판독 (Chapter 58: Interpreting Peripheral Blood Smears) (p.379–385)**
 
 ### **3.1 말초혈액 도말 검경 원칙과 혈소판·적혈구·백혈구 형태학 아틀라스 (p.379–385)**
@@ -123,7 +115,7 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 > * **100배 유침 렌즈(oil immersion lens)**로 5–6개 시야의 혈소판 수를 세어 시야당 평균치에 **20,000을 곱하면** 혈소판 수의 대략적 추정치가 된다(정상 혈소판은 직경 **1–2 µm**, 적혈구 약 **20개당 혈소판 1개** 비율; 항응고제에 의한 혈소판 응집은 가성 혈소판감소증을, 호중구 분열은 가성 혈소판증가증을 유발함).  
 > * **적혈구(RBCs) 크기·적혈구분포폭(RDW)·포함체 및 형태 이상 (p.379–383, Figs. 58-1 ~ 58-22)**:  
 > * 정상 적혈구 직경은 **소림프구 핵 직경(약 8 µm)**과 같으며, 적혈구는 정색소성이거나 저색소성이지 결코 "과색소성(hyperchromic)"이 되지 않는다.  
-> * **적혈구분포폭(\$ ext{RDW} \= [ ext{MCV 표준편차} \\div ext{평균 MCV}] imes 100\$)**: 정상은 **11–14%**이며 부동적혈구증(anisocytosis) 시 **15–18%**로 증가한다(소적혈구 빈혈에서 지중해빈혈은 RDW가 정상으로 균일한 반면, 철결핍이나 만성 위축성 위염에 의한 비타민 \$ ext{B}_{12}\$ 결핍 + 철결핍 이형성[dimorphic] 빈혈은 RDW가 증가함).  
+> * **적혈구분포폭($\text{RDW} \= [\text{MCV 표준편차} \div\text{평균 MCV}] imes 100$)**: 정상은 **11–14%**이며 부동적혈구증(anisocytosis) 시 **15–18%**로 증가한다(소적혈구 빈혈에서 지중해빈혈은 RDW가 정상으로 균일한 반면, 철결핍이나 만성 위축성 위염에 의한 비타민 $\text{B}_{12}$ 결핍 + 철결핍 이형성[dimorphic] 빈혈은 RDW가 증가함).  
 > * **5대 적혈구 포함체**: (1) **호염기성 반점(Basophilic stippling, 납 중독 — Fig. 58-21)**, (2) **Howell-Jolly 소체(비장 기능 결함/절제 후 핵 잔여물 — Fig. 58-17)**, (3) **유핵적혈구(골수침윤[myelophthisic] 또는 심한 용혈 — Fig. 58-18)**, (4) **기생충(말라리아, 바베시아)**, (5) **다염성(Polychromatophilia, 어린 적혈구의 리보솜 잔존 — Fig. 58-5)** 및 초생체 염색(크리스탈 바이올렛)이 필요한 변성 혈색소 침전물인 **Heinz 소체(Fig. 58-22)**.  
 > * **변형적혈구증(Poikilocytosis)**: 구상적혈구(spherocytes: 유전성 구상적혈구증, 면역 용혈, 클로스트리디움 패혈증, Fig. 58-8), 눈물방울세포(dacrocytes: 골수섬유증, 지중해빈혈, Fig. 58-18), 분열적혈구(schistocytes: 미세혈관병증 용혈, 인공 심장판막, Fig. 58-11), 유극적혈구(echinocytes: 균일한 돌기, 요독증·영양실조·보관 혈액, Fig. 58-16), 가시적혈구(acanthocytes: 불규칙한 돌기, 중증 간질환·무베타지단백혈증·McLeod 혈액형·비장절제 후, Fig. 58-16), 타원적혈구(elliptocytes: 스펙트린 변이 등, Fig. 58-14), 구순적혈구(stomatocytes: 알코올중독 등, Fig. 58-15), 표적세포(target cells: 지중해빈혈, 간질환, 혈색소 C병, Fig. 58-13), 연전 현상(rouleaux, Fig. 58-9) 및 적혈구 응집(agglutination, Fig. 58-10).  
 > * **백혈구(백혈구) 형태학 (p.380, 384–385, Figs. 58-24 ~ 58-30)**:  
@@ -135,8 +127,8 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 **Figure 58-3, p.380**: Hypochromic microcytic anemia of iron deficiency. Small lymphocyte in field helps assess the red blood cell size. — 철결핍의 저색소성 소적혈구 빈혈. ![[Harrison_V1_Ch58_Fig3.png]]  
 **Figure 58-4, p.380**: Iron deficiency anemia next to normal red blood cells. Microcytes (right panel) are smaller than normal red blood cells (cell diameter \<7 µm) and may or may not be poorly hemoglobinized (hypochromic). — 정상 적혈구(좌측)와 비교한 철결핍 빈혈의 소적혈구(우측, 직경 \<7 µm). ![[Harrison_V1_Ch58_Fig4.png]]  
 **Figure 58-5, p.381**: Polychromatophilia. Note large red cells with light purple coloring. — 연보라색을 띠는 큰 적혈구들이 관찰되는 다염성(Polychromatophilia). ![[Harrison_V1_Ch58_Fig5.png]]  
-**Figure 58-6, p.381**: Macrocytosis. These cells are both larger than normal (mean corpuscular volume >100) and somewhat oval in shape. Some morphologists call these cells macroovalocytes. — 정상보다 크고(\$ ext{MCV} >100\$) 타원형인 대적혈구증(macroovalocytes). ![[Harrison_V1_Ch58_Fig6.png]]  
-**Figure 58-7, p.381**: Hypersegmented neutrophils. Hypersegmented neutrophils (multilobed polymorphonuclear leukocytes) are larger than normal neutrophils with five or more segmented nuclear lobes. They are commonly seen with folic acid or vitamin B12 deficiency. — 엽산 또는 비타민 \$ ext{B}_{12}\$ 결핍에서 흔히 관찰되는 5개 이상의 핵 분엽을 가진 과분엽 호중구. ![[Harrison_V1_Ch58_Fig7.png]]  
+**Figure 58-6, p.381**: Macrocytosis. These cells are both larger than normal (mean corpuscular volume >100) and somewhat oval in shape. Some morphologists call these cells macroovalocytes. — 정상보다 크고($\text{MCV} >100$) 타원형인 대적혈구증(macroovalocytes). ![[Harrison_V1_Ch58_Fig6.png]]  
+**Figure 58-7, p.381**: Hypersegmented neutrophils. Hypersegmented neutrophils (multilobed polymorphonuclear leukocytes) are larger than normal neutrophils with five or more segmented nuclear lobes. They are commonly seen with folic acid or vitamin B12 deficiency. — 엽산 또는 비타민 $\text{B}_{12}$ 결핍에서 흔히 관찰되는 5개 이상의 핵 분엽을 가진 과분엽 호중구. ![[Harrison_V1_Ch58_Fig7.png]]  
 **Figure 58-8, p.381**: Spherocytosis. Note small hyperchromatic cells without the usual clear area in the center. — 중심부 창백 영역이 없는 작은 구상적혈구증(Spherocytosis). ![[Harrison_V1_Ch58_Fig8.png]]  
 **Figure 58-9, p.381**: Rouleaux formation. Small lymphocyte in center of field. These red cells align themselves in stacks and are related to increased serum protein levels. — 혈청 단백질 증가와 연관되어 적혈구들이 동전 더미처럼 배열된 연전 현상(Rouleaux formation). ![[Harrison_V1_Ch58_Fig9.png]]  
 **Figure 58-10, p.381**: Red cell agglutination. Small lymphocyte and segmented neutrophil in upper left center. Note irregular collections of aggregated red cells. — 불규칙하게 응집된 적혈구 덩어리를 보여주는 적혈구 응집(Red cell agglutination). ![[Harrison_V1_Ch58_Fig10.png]]  
@@ -161,8 +153,6 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 **Figure 58-29, p.385**: Döhle body. Neutrophil band with Döhle body. The neutrophil with a sausage-shaped nucleus in the center of the field is a band form. Döhle bodies are discrete, blue-staining nongranular areas found in the periphery of the cytoplasm of the neutrophil in infections and other toxic states. They represent aggregates of rough endoplasmic reticulum. — 감염 등 독성 상태에서 띠호중구 세포질 가장자리에 조면소포체 응집물로 나타나는 청색 비과립 영역인 Döhle 소체. ![[Harrison_V1_Ch58_Fig29.png]]  
 **Figure 58-30, p.385**: Chédiak-Higashi disease. Note giant granules in neutrophil. — 호중구 내 거대 과립을 보여주는 Chédiak-Higashi 병. ![[Harrison_V1_Ch58_Fig30.png]]
 
-## ---
-
 **4. 제59장 빈혈과 다혈구증 (Chapter 59: Anemia and Polycythemia) (p.385–393)**
 
 ### **4.1 적혈구생성(Erythropoiesis)의 생리학과 빈혈의 임상 양상 및 검사실 평가 (p.385–391)**
@@ -171,7 +161,7 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 > * 골수 전구세포에서 망상적혈구까지는 약 **7일**이 걸리고 성숙 적혈구는 약 **100–120일**간 순환하므로 매일 전체 적혈구의 **0.8–1.0%**가 교체된다.  
 > * 신장 세뇨관주위 모세혈관 내막 세포가 저산소 상태에서 프롤린 수산화가 억제된 **HIF-1$\alpha$**를 통해 EPO 유전자 발현을 높인다. 정상 혈장 EPO 농도는 **10–25 U/L**(순환 반감기 **6–9시간**)이며 혈색소가 100–120 g/L (10–12 g/dL) 미만으로 떨어지면 대수적으로 상승하여 철분이 충분할 때 1–2주 내 적혈구 생산을 **4–5배** 증가시킨다(Fig. 59-1, Fig. 59-2).  
 > * **빈혈의 정의와 임상 발현 (p.386–387, Tables 59-1 & 59-3)**:  
-> * 성인 평균 헤마토크릿은 남성 **\$47\\% (\\pm 7\\%)\$**, 여성 **\$42\\% (\\pm 5\\%)\$**이며, **WHO 빈혈 기준은 남성 혈색소 \<130 g/L (13 g/dL), 여성 \<120 g/L (12 g/dL)**이다(Table 59-3).  
+> * 성인 평균 헤마토크릿은 남성 **$47\% (\pm 7\%)$**, 여성 **$42\% (\pm 5\%)$**이며, **WHO 빈혈 기준은 남성 혈색소 \<130 g/L (13 g/dL), 여성 \<120 g/L (12 g/dL)**이다(Table 59-3).  
 > * 급성 실혈량에 따른 징후: 총 혈액량의 **10–15%** 손실 시 혈관 불안정 징후 시작, **>30%** 손실 시 기립성 저혈압과 빈맥, **>40% (평균 성인 >2 L)** 손실 시 저혈량성 쇼크가 발생한다. 만성 빈혈에서는 세포내 **2,3-비스포스포글리세레이트(2,3-BPG)** 상승이 산소해리곡선을 우측 이동시켜 20–30 g/L (2–3 g/dL)의 혈색소 결손을 보상하며, 손을 과신전했을 때 **손금(palmar creases)이 주변 피부보다 창백하면 혈색소가 대개 \<80 g/L (8 g/dL)**이다.
 
 **Figure 59-1, p.385**: The physiologic regulation of red cell production by tissue oxygen tension. Hb, hemoglobin. — 조직 산소분압에 의한 적혈구 생산의 생리적 조절 모식도. ![[Harrison_V1_Ch59_Fig1.png]]  
@@ -181,10 +171,10 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 
 > * **말초혈액 도말, 망상적혈구 생산지수(RPI) 계산 및 철 대사·골수 검사 (p.387–391, Figs. 59-3 ~ 59-16, Table 59-4)**:  
 > * **망상적혈구 생산지수(Reticulocyte Production Index, RPI)의 2단계 보정(Table 59-4, Fig. 59-13)**:  
-  1. *1차 빈혈 보정*: 망상적혈구 백분율에 (환자 혈색소 $\div 15$) 또는 (환자 헤마토크릿 $\div 45$)를 곱한다(예: 망상적혈구 9%, Hb 7.5 g/dL, Hct 23%이면 \$9 imes [7.5/15] \= 4.5\\%\$).  
-  2. *2차 조기 방출("shift" cells) 성숙 시간 보정*: 말초혈액에 다염성 대적혈구가 보이면 골수에서 조기 방출된 망상적혈구가 말초혈액에서 1일보다 길게 생존하므로 성숙 시간 보정 인자(**Hct 45%일 때 1.0, 35%일 때 1.5, 25%일 때 2.0, 15%일 때 2.5**, 통상 2 사용)로 한 번 더 나눈다(위 예에서 \$ ext{RPI} \= 4.5 / 2 \= {2.25}\$). 확립된 빈혈에서 **\$ ext{RPI} \<2\$이면 골수 적혈구계 증식 또는 성숙 결함**을 뜻하며, 중증 만성 용혈성 빈혈에서는 적혈구 생산이 최대 **6–7배**까지 증가할 수 있다.  
+  1. *1차 빈혈 보정*: 망상적혈구 백분율에 (환자 혈색소 $\div 15$) 또는 (환자 헤마토크릿 $\div 45$)를 곱한다(예: 망상적혈구 9%, Hb 7.5 g/dL, Hct 23%이면 $9 imes [7.5/15] \= 4.5\%$).  
+  2. *2차 조기 방출("shift" cells) 성숙 시간 보정*: 말초혈액에 다염성 대적혈구가 보이면 골수에서 조기 방출된 망상적혈구가 말초혈액에서 1일보다 길게 생존하므로 성숙 시간 보정 인자(**Hct 45%일 때 1.0, 35%일 때 1.5, 25%일 때 2.0, 15%일 때 2.5**, 통상 2 사용)로 한 번 더 나눈다(위 예에서 $\text{RPI} \= 4.5 / 2 \= {2.25}$). 확립된 빈혈에서 **$\text{RPI} <2$이면 골수 적혈구계 증식 또는 성숙 결함**을 뜻하며, 중증 만성 용혈성 빈혈에서는 적혈구 생산이 최대 **6–7배**까지 증가할 수 있다.  
 > * **철 공급 및 저장 검사(p.390)**: 정상 혈청 철은 **9–27 µmol/L (50–150 µg/dL)**, 정상 TIBC는 **54–64 µmol/L (300–360 µg/dL)**, 정상 트랜스페린 포화도는 **25–50%**이다. 혈청 페리틴은 성인 남성 평균 **~100 µg/L(저장철 ~1 g)**, 성인 여성 평균 **30 µg/L(저장철 ~300 mg)**이며, **10–15 µg/L는 체내 저장철 고갈**을 뜻하고 **>200 µg/L는 조직에 최소한 일부 저장철이 존재함**을 의미한다.  
-> * **골수 검사(p.390–391, Figs. 59-14 ~ 59-16)**: 정상 골수 생검은 유핵 세포 성분이 **~40–50%**, 지방이 **~50–60%**를 차지하며(Fig. 59-14), 골수 도말 유침 검경 시 정상적으로 발달 중인 적혈모구의 **20–40%**에서 작은 페리틴 과립이 보이는 **철적혈모구(sideroblasts)**가 관찰된다. 저증식성 빈혈(\$ ext{RPI} \<2\$)은 골수계/적혈구계(**M/E**) 비율이 **2 또는 3:1**인 반면, 용혈(\$ ext{RPI} >3\$)이나 무효조혈(성숙 장애)은 적혈구계 과형성으로 **M/E 비율이 최소 1:1 이하**가 된다.
+> * **골수 검사(p.390–391, Figs. 59-14 ~ 59-16)**: 정상 골수 생검은 유핵 세포 성분이 **~40–50%**, 지방이 **~50–60%**를 차지하며(Fig. 59-14), 골수 도말 유침 검경 시 정상적으로 발달 중인 적혈모구의 **20–40%**에서 작은 페리틴 과립이 보이는 **철적혈모구(sideroblasts)**가 관찰된다. 저증식성 빈혈($\text{RPI} <2$)은 골수계/적혈구계(**M/E**) 비율이 **2 또는 3:1**인 반면, 용혈($\text{RPI} >3$)이나 무효조혈(성숙 장애)은 적혈구계 과형성으로 **M/E 비율이 최소 1:1 이하**가 된다.
 
 **Figure 59-3, p.388**: Normal blood smear (Wright stain). High-power field showing normal red cells, a neutrophil, and a few platelets. — 정상 적혈구, 호중구, 혈소판을 보여주는 고배율 정상 말초혈액 도말(Wright 염색). ![[Harrison_V1_Ch59_Fig3.png]]  
 **Figure 59-4, p.388**: Severe iron-deficiency anemia. Microcytic and hypochromic red cells smaller than the nucleus of a lymphocyte associated with marked variation in size (anisocytosis) and shape (poikilocytosis). — 부동적혈구증과 변형적혈구증을 동반한 중증 철결핍 빈혈. ![[Harrison_V1_Ch59_Fig4.png]]  
@@ -205,18 +195,18 @@ title: "Ch56-59: Cutaneous Drug Reactions, Photosensitivity and Other Reactions 
 ### **4.2 빈혈의 생리학적 3대 분류와 다혈구증(Polycythemia)의 감별진단 (p.391–393)**
 
 > * **빈혈의 기능적 3대 분류 (Fig. 59-17) (p.391–393)**:  
-> * **저증식성 빈혈(Hypoproliferative anemias — 전체 빈혈의 최소 75% 차지, \$ ext{RPI} \<2\$, 정적혈구성·정색소성)**: 대다수는 경증~중등증 철결핍(저혈청철, 고TIBC, 저포화도, 저페리틴) 또는 급·만성 염증(간에서 생성되는 철 조절 호르몬인 **헵시딘[hepcidin]** 증가에 의해 **저혈청철, 정상 또는 저TIBC, 저포화도, 정상 또는 고페리틴** 양상을 보임)에 기인하며, 신부전·갑상선기능저하증·골수 손상이 포함된다.  
-> * **성숙 장애(Maturation disorders — 무효조혈로 골수 적혈구계 과형성 및 \$ ext{M/E} \<1:1\$이나 \$ ext{RPI} \<2\$)**: 핵 성숙 결함(대적혈구증: 비타민 \$ ext{B}_{12}\$·엽산 결핍, 메토트렉세이트·알킬화제, 골수이형성증)과 세포질 성숙 결함(소적혈구·저색소성: 중증 장기 철결핍, 지중해빈혈, 미토콘드리아 철 침착으로 핵 주위 고리를 형성하는 **환상 철적혈모구[ringed sideroblasts]**의 철적혈모구 빈혈).  
-> * **실혈/용혈성 빈혈(Blood loss/hemolytic anemia — 용혈은 \$ ext{RPI} \\ge 2.5 ext{–}3\$배, 출혈성 빈혈은 철 가용성 제한으로 대개 $2.0ext–2.5$배 이하)**.
+> * **저증식성 빈혈(Hypoproliferative anemias — 전체 빈혈의 최소 75% 차지, $\text{RPI} <2$, 정적혈구성·정색소성)**: 대다수는 경증~중등증 철결핍(저혈청철, 고TIBC, 저포화도, 저페리틴) 또는 급·만성 염증(간에서 생성되는 철 조절 호르몬인 **헵시딘[hepcidin]** 증가에 의해 **저혈청철, 정상 또는 저TIBC, 저포화도, 정상 또는 고페리틴** 양상을 보임)에 기인하며, 신부전·갑상선기능저하증·골수 손상이 포함된다.  
+> * **성숙 장애(Maturation disorders — 무효조혈로 골수 적혈구계 과형성 및 $\text{M/E} <1:1$이나 $\text{RPI} <2$)**: 핵 성숙 결함(대적혈구증: 비타민 $\text{B}_{12}$·엽산 결핍, 메토트렉세이트·알킬화제, 골수이형성증)과 세포질 성숙 결함(소적혈구·저색소성: 중증 장기 철결핍, 지중해빈혈, 미토콘드리아 철 침착으로 핵 주위 고리를 형성하는 **환상 철적혈모구[ringed sideroblasts]**의 철적혈모구 빈혈).  
+> * **실혈/용혈성 빈혈(Blood loss/hemolytic anemia — 용혈은 $\text{RPI} \ge 2.5\text{–}3$배, 출혈성 빈혈은 철 가용성 제한으로 대개 $2.0ext–2.5$배 이하)**.
 
 **Figure 59-17, p.391**: The physiologic classification of anemia. CBC, complete blood count. — 전혈구계산(CBC)과 망상적혈구 생산지수(Index \<2.5 대 ≥2.5) 및 적혈구 형태에 따른 빈혈의 생리학적 분류 알고리즘. ![[Harrison_V1_Ch59_Fig17.png]]
 
 > * **다혈구증 (Polycythemia)의 정의와 진단 알고리즘 (p.393, Fig. 59-18)**:  
 > * **기준 수치**: 남성 혈색소 **>170 g/L (17 g/dL)**(또는 Hct >50%), 여성 **>150 g/L (15 g/dL)**(또는 Hct >45%)에서 의심하며, 남성 Hct **>60%**, 여성 **>55%**이면 거의 항상 실제 적혈구 질량(red cell mass)이 증가되어 있다(Hct >55%에서 혈액 점도가 대수적으로 증가하여 현훈·이명·두통·혈전증 유발; 진성 적혈구증가증[PV]에서는 **수성 소양증[aquagenic pruritus]**, 비장종대, 소화성 궤양, 수지 허혈, **Budd-Chiari 증후군**·간문맥/장간막정맥 혈전증이 특징적임).  
 > * **단계적 진단 접근(Fig. 59-18)**:  
-  1. \$^{51} ext{Cr}\$ 표지 자가 적혈구 동위원소 희석법으로 적혈구 질량이 정상이면($<36extmL/kg$ 남성, $<32extmL/kg$ 여성) 혈장량 감소에 의한 **가성(상대적) 다혈구증(Gaisbock 증후군)**이고, 증가되어 있으면 혈청 EPO를 측정한다.  
+  1. $^{51}\text{Cr}$ 표지 자가 적혈구 동위원소 희석법으로 적혈구 질량이 정상이면($<36extmL/kg$ 남성, $<32extmL/kg$ 여성) 혈장량 감소에 의한 **가성(상대적) 다혈구증(Gaisbock 증후군)**이고, 증가되어 있으면 혈청 EPO를 측정한다.  
   2. **혈청 EPO가 낮거나 측정 불가**: **진성 적혈구증가증(Polycythemia vera, PV)** — 환자의 **90–95%에서 *JAK2* (Val617Phe) 돌연변이**(나머지는 엑손 12 변이)가 확인된다.  
-  3. **혈청 EPO가 상승**: 동맥혈 \$ ext{O}_2\$ 포화도가 낮으면(\<92%) 심폐질환·고산지대·단락을 평가하고, 정상이면서 흡연자이면 일산화탄소헤모글로빈(COHb) 상승에 의한 **"흡연자 다혈구증(smoker's polycythemia)"**을 확인하며, 비흡연자이면(문장 후반부는 p.394로 이어짐).
+  3. **혈청 EPO가 상승**: 동맥혈 $\text{O}_2$ 포화도가 낮으면(\<92%) 심폐질환·고산지대·단락을 평가하고, 정상이면서 흡연자이면 일산화탄소헤모글로빈(COHb) 상승에 의한 **"흡연자 다혈구증(smoker's polycythemia)"**을 확인하며, 비흡연자이면(문장 후반부는 p.394로 이어짐).
 
 **Figure 59-18, p.393**: An approach to the differential diagnosis of patients with an elevated hemoglobin (possible polycythemia). AV, atrioventricular; COPD, chronic obstructive pulmonary disease; CT, computed tomography; EPO, erythropoietin; hct, hematocrit; hgb, hemoglobin; IVP, intravenous pyelogram; RBC, red blood cell. — 혈색소/헤마토크릿 상승 환자(다혈구증 의심)의 감별진단 접근 알고리즘. ![[Harrison_V1_Ch59_Fig18.png]]  
 이어짐: pp.394–

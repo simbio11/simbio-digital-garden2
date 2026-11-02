@@ -75,7 +75,7 @@ source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/v
   * 정상 **구강 세균총**(치은열구·편도와)의 일원이며, **구강위생 불량, 치주낭, 치태, 우식 치아**에서 유병률이 증가한다.
 * **역학 및 임상형 (Epidemiology)**:
   * 전 세계 산발성 **내인성 감염(endogenous infection)**. **남성이 여성보다 $1.5\sim3.0$배** 호발.
-  * 원인균은 통상 ***Actinomyces israelii***이며, 드물게 다른 종도 인체 질환을 유발한다.
+  * 원인균은 통상 **Actinomyces israelii**이며, 드물게 다른 종도 인체 질환을 유발한다.
   * 임상형과 빈도: **경안면부(Cervicofacial) 55% $\rightarrow$ 폐(Pulmonary) 20% $\rightarrow$ 복부(Abdominal) 20% $\rightarrow$ 파종성(Disseminated) 5%**.
   * **방선균증의 표지(hallmark)**: 근막면(Fascial plane)을 포함한 **해부학적 장벽을 통과해 확산**되는 경향과 **다발성 누공(Sinus tract) 형성**.
 * **경안면부 감염 (Cervicofacial actinomycosis)**:
@@ -327,10 +327,10 @@ source_url: "https://drive.google.com/file/d/1lDCEGUPEHrzTY10gPML28PbdcCYyY90a/v
   * 크립토쿠스증은 **밀접하게 관련된 출아성 효모형 진균 *Cryptococcus neoformans*와 *Cryptococcus gattii***에 의해 발생한다.
   * ***Cryptococcus*는 사상체(mycelial) 형태가 존재하지 않는 단상성(uniphasic) 진균**이다.
 * **생태와 종의 차이 (Ecology & species)**:
-  * ***C. neoformans***는 **부패 식생과 비둘기 배설물로 오염된 토양에 전 세계적으로 분포**한다. 그러나 **비둘기 노출은 이 감염의 역학에서 중요한 역할을 하지 않는다**.
+  * **C. neoformans**는 **부패 식생과 비둘기 배설물로 오염된 토양에 전 세계적으로 분포**한다. 그러나 **비둘기 노출은 이 감염의 역학에서 중요한 역할을 하지 않는다**.
   * 사람과 비둘기 모두 **부패 식생 노출을 통해 이 진균에 노출**되는 것으로 보이며, **비둘기는 위장관 내에서 진균의 운반자(carrier) 역할**을 한다.
   * **면역저하 숙주의 감염 대부분은 *C. neoformans***에 의한다.
-  * ***C. gattii***는 **호주의 특정 유칼립투스 수종**, 그리고 **캐나다 밴쿠버섬의 다른 수종**과 연관되어 있다. ***C. gattii* 감염은 거의 모두 면역정상 숙주**에서 관찰된다.
+  * **C. gattii**는 **호주의 특정 유칼립투스 수종**, 그리고 **캐나다 밴쿠버섬의 다른 수종**과 연관되어 있다. ***C. gattii* 감염은 거의 모두 면역정상 숙주**에서 관찰된다.
 * **감염 경로와 잠복 (Route & latency)**:
   * *Cryptococcus* spp.는 **이 진균의 담자포자(basidiospore) 형태를 흡입하여 폐를 통해 체내에 들어가는** 것으로 보인다.
   * 담자포자는 **효모형보다 작아서 흡입 후 폐포와 말단세기관지에 침착되기 쉽다**. 폐에서 **모든 장기로 파종**될 수 있다.

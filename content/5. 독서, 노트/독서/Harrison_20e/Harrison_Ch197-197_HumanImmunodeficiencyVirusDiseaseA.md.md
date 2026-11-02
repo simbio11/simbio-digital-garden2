@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and Related Disorders (Etiology, Transmission, Epidemiology, Pathogenesis, and Diagnosis)" aliases: - "해리슨 20판 Ch197 전반부" - "Human Immunodeficiency Virus Disease: AIDS and Related Disorders (Part 1)" - "HIV and AIDS Pathogenesis and Diagnosis" tags: - Harrison20e - InternalMedicine - Part5 - Ch197 - InfectiousDiseases - HIV - AIDS - Retrovirus - CCR5 - CXCR4 - CD4 - HIVDiagnosis source_pdf: "https\://drive.google.com/open?id=1im7qvMdBa64615vOrBrXciyEoBnr50Kd" source_pages: "pp. 1393–1427" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 196(말미)–197(전반): Human Immunodeficiency Virus Disease: AIDS and Related Disorders (pp. 1393–1427)**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_1393-1546.pdf](https://drive.google.com/open?id=1im7qvMdBa64615vOrBrXciyEoBnr50Kd) (pp. 1393–1427, 해리슨 내과학 1권-3.pdf) - **범위 경계 안내**: p. 1393 상단에는 직전 범위(pp. 1388–1392)에서 이어지는 **Ch 196** *The Human Retroviruses*의 결말부(HAM/TSP 치료, HTLV-2 감염의 특징 및 HIV 개관)가 수록되어 있으며, 이어서 **Ch 197** *Human Immunodeficiency Virus Disease: AIDS and Related Disorders*의 전반부(pp. 1393–1427: 정의 및 CDC 병기 분류, 원인 바이러스와 복제 주기, 전파 경로, 세계 및 미국 역학, 병태생리 및 발병기전, 숙주 유전 인자, 신경병인 및 카포시 육종 병인, 면역 반응, 진단 및 검사실 모니터링 초반부까지; 임상 양상 및 항레트로바이러스 치료 상세는 p. 1428 이후 다음 범위로 이어짐)가 수록되어 있다.
@@ -29,6 +27,9 @@ title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and R
 
 ### **2.1 정의 및 CDC 병기 분류 체계 (Table 197-1, Table 197-2) (pp.1393–1394)**
 
+![[Harrison_V1_Ch197_Tab1.png]]
+![[Harrison_V1_Ch197_Tab2.png]]
+
 > 1. **개관 및 CDC 병기 분류(2014년 개정)** (pp. 1393–1394):  
 > 2. 1981년 미국 LA의 남성 동성애자 5명에서 *Pneumocystis carinii*(*P. jirovecii*) 폐렴과 뉴욕·캘리포니아 남성 26명에서 카포시 육종이 보고되면서 AIDS가 처음 인지되었고, 1983년 HIV-1, 1985년 민감한 효소면역측정법(EIA)이 개발되었다.  
 > 3. **CDC HIV 감염 병기 분류(Table 197-1, Table 197-2)**:  
@@ -44,7 +45,7 @@ title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and R
 ### **2.2 HIV의 기원, 형태, 복제 주기 및 유전체 구조 (pp.1394–1399)**
 
 > 1. **영장류 렌티바이러스 계통 및 형태(Figure 197-1, Figure 197-2)** (pp. 1394–1396):  
-> 2. **기원(Figure 197-1)**: **HIV-1**의 M 및 N군은 침팬지 아종(*Pan troglodytes troglodytes*)의 \$\\text{SIV}*{\\text{cpz}}\$에서, O 및 P군은 카메룬 고릴라의 바이러스에서 유래한 4차례의 독립적인 종간 전파 결과이며, **HIV-2**(A–H 8개 군)는 서아프리카 검댕망가베이(Cercocebus atys, sooty mangabey)의 \$\\text{SIV}*{\\text{sm}}\$에서 유래하였다.  
+> 2. **기원(Figure 197-1)**: **HIV-1**의 M 및 N군은 침팬지 아종(*Pan troglodytes troglodytes*)의 $\text{SIV}*{\text{cpz}}$에서, O 및 P군은 카메룬 고릴라의 바이러스에서 유래한 4차례의 독립적인 종간 전파 결과이며, **HIV-2**(A–H 8개 군)는 서아프리카 검댕망가베이(Cercocebus atys, sooty mangabey)의 $\text{SIV}*{\text{sm}}$에서 유래하였다.  
 > 3. **형태(Figure 197-2)**: 직경 ~120 nm의 정이십면체 구조로, 외부 지질 이중층 외피에는 72개의 스파이크를 이루는 외부 당단백질 **gp120(SU)**과 막관통 당단백질 **gp41(TM)**이 존재하고, 내막 기질 단백질 **p18(p17, MA)**과 원뿔형 중심 핵(core) 캡시드 단백질 **p24(CA)** 내부에 2개의 동일한 단일가닥 RNA 및 역전사효소·통합효소·프로테아제가 들어 있다.
 
 **Figure 197-1, p.1395**: A phylogenetic tree based on the nearly complete genomes (gag through nef genes) of primate immunodeficiency viruses. — 영장류 면역결핍 바이러스의 전체 유전체(gag~nef) 기반 계통수(침팬지·고릴라 유래 HIV-1 M/N/O/P군과 검댕망가베이 유래 HIV-2군). ![[Harrison_V1_Ch197_Fig1.png]]  
@@ -63,6 +64,8 @@ title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and R
 ## **3. 전파 경로 및 세계·미국 역학 (pp.1399–1407)**
 
 ### **3.1 전파 경로 (Transmission, Table 197-3) (pp.1399–1402)**
+
+![[Harrison_V1_Ch197_Tab3.png]]
 
 > 1. **노출 경로별 1회 행위당 HIV 전파 확률(Table 197-3) 및 성접촉 전파(Figure 197-7)** (pp. 1399–1400):  
 > 2. **수혈(오염 혈액)**: **>90%** (9,250/10,000; 현재 선진국에서는 항체·p24·NAT 검사로 수혈 감염 위험이 ~1/150만 단위이고 창기간은 ~10–12일로 단축됨).  
@@ -151,14 +154,14 @@ title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and R
 **Figure 197-25, p.1414**: Model for the role of co-receptors CXCR4 and CCR5 in the efficient binding and entry of X4 (A) and R5 (B) strains of HIV-1, respectively, into CD4+ target cells. — X4 균주(CXCR4 사용, SDF-1에 의해 차단, A)와 R5 균주(CCR5 사용, RANTES/MIP-1$\alpha$/MIP-1$\beta$에 의해 차단, B)의 CD4+ 표적 세포 결합·침입 모델. ![[Harrison_V1_Ch197_Fig25.png]]
 
 > 1. **단핵구계 세포들의 질적·양적 이상** (pp. 1414–1417):  
-> 2. **CD4+ T세포**: GALT 내 \$\\text{T}*{\\text{H}}17\$ 세포 조기 고갈, 림프절 여포보조 T세포(\$\\text{T}*{\\text{FH}}\$)의 비정상적 증가, IL-2 생성 다기능성 CD4+ T세포 소실, CD28 발현 감소, IL-7 수용체(CD127) 감소로 인한 혈청 IL-7 상승.  
+> 2. **CD4+ T세포**: GALT 내 $\text{T}*{\text{H}}17$ 세포 조기 고갈, 림프절 여포보조 T세포($\text{T}*{\text{FH}}$)의 비정상적 증가, IL-2 생성 다기능성 CD4+ T세포 소실, CD28 발현 감소, IL-7 수용체(CD127) 감소로 인한 혈청 IL-7 상승.  
 > 3. **CD8+ T세포**: 혈청전환 후 **HLA-DR+/CD38+** 표현형 발현 시 나쁜 예후와 연관되는 반면, **HLA-DR+/CD38-** 표현형 및 높은 퍼포린 발현 유지는 양호한 예후(엘리트 조절자)와 연관된다.  
 > 4. **B세포**: 비정상적 다클론 활성화로 인한 **고감마글로불린혈증(hypergammaglobulinemia)**, 기억 B세포 감소 및 백신 반응 저하, EBV 연관 B세포 림프종 증가.  
 > 5. **단핵구/대식세포, 수지상세포 및 NK세포**: 뇌 미세아교세포와 폐포 대식세포는 지속적 바이러스 저장소 역할을 하며, 수지상세포는 **DC-SIGN**으로 비리온을 포획해 CD4+ T세포에 전달(trans-infection)하고, 만성 감염 시 무반응성 **CD56-/CD16+ NK세포** 아집단이 확장된다.
 
 ### **4.3 숙주 유전 인자, 신경병인, 카포시 육종 및 면역 반응 (pp.1417–1424)**
 
-> 1. **숙주 유전 인자(Table 197-6, Figure 197-26)** (pp. 1417–1421):  
+> 1. **숙주 유전 인자(Table 197-6, Figure 197-26)** (pp. 1417–1421): ![[Harrison_V1_Ch197_Tab6.png]]  
 > 2. **CCR5-$\Delta 32$ 결실 돌연변이(3번 염색체 3p21)**: 코카서스인의 ~1%가 동형접합자(**CCR5-$\Delta 32/\Delta 32$**)로서 세포 표면에 CCR5가 전혀 발현되지 않아 **R5 HIV-1 성접촉 감염에 거의 완전한 저항성**을 가지며, 이형접합자(~10–15%)는 질병 진행이 느리고 바이러스 부하가 낮다(CCR5 리간드인 **CCL3L1** 유전자 복제수 증가도 보호 효과; 반면 Duffy 항원[**DARC**] 결핍은 백혈구감소증과 관련됨).  
 > 3. **MHC 유전자좌(6번 염색체 6p21, Figure 197-26)**: **HLA-B*57**(특히 B*57:01)과 HLA-B*27**, HLA Class I 이형접합성, HLA-Bw4 + 활성화 수용체 KIR3DS1/KIR3DL1, 그리고 HLA-C 상류 -35 kb SNP(rs9264942-C)는** 낮은 바이러스 설정점과 느린 질병 진행**에 연관되는 반면,** HLA-B*35(특히 B*35-Px) 및 HLA Class I 동형접합성은 빠른 AIDS 진행과 연관된다. 또한 **HLA-B*57:01** 보유자는 **아바카비르(abacavir) 과민반응(2–9%)** 고위험군이므로 투여 전 유전자 선별검사가 필수적이다.
 
@@ -167,7 +170,7 @@ title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and R
 > 1. **신경병인(Neuropathogenesis) 및 카포시 육종 병인** (pp. 1421–1422):  
 > 2. **신경병인**: HIV는 신경세포(neurons)를 직접 감염시키지 않고, 혈액뇌장벽을 통과한 **감염된 단핵구/대식세포와 뇌 정주 미세아교세포(microglia)**에서 복제하면서 신경독성 바이러스 단백질(gp120, Tat, Vpr)과 염증성 사이토카인(TNF-$\alpha$, IL-1$\beta$, IL-6), 흥분독성 물질(글루타메이트, 퀴놀린산, 산화질소)을 방출해 성상세포 글루타메이트 재흡수 억제 및 NMDA 수용체 매개 신경세포 손상(**HIV 연관 신경인지장애[HAND]**)을 유발한다.  
 > 3. **카포시 육종(KS)**: **HHV-8(KSHV)**이 원인 병원체(HIV 양성 남성의 30–35% vs 여성의 ~4%가 HHV-8 항체 양성)이며, HIV Tat 단백질과 염증성 사이토카인(IL-6, TNF-$\alpha$, VEGF, bFGF)이 혈관신생과 방추세포 증식을 촉진한다.  
-> 4. **HIV에 대한 체액성 및 세포성 면역 반응(Table 197-7, Figure 197-27–Figure 197-29)** (pp. 1422–1424):  
+> 4. **HIV에 대한 체액성 및 세포성 면역 반응(Table 197-7, Figure 197-27–Figure 197-29)** (pp. 1422–1424): ![[Harrison_V1_Ch197_Tab7.png]]  
 > 5. 감염 후 **3–6주**(대개 12주 이내)에 비중화 결합항체(p24, gp41, gp120 항체 — ADCC 매개 가능)가 먼저 출현하고, **~3개월** 후 자가 바이러스 중화항체(autologous NAbs)가, 그리고 **2년 이상** 경과한 환자의 약 10–20%에서 다양한 이종 균주를 중화하는 **광범위 중화항체(broadly neutralizing antibodies, bNAbs)**가 출현한다(Figure 197-27, Figure 197-28).  
 > 6. **광범위 중화항체(bNAbs)의 5대 외피 스파이크 표적 부위(Figure 197-29)**: ① **CD4 결합 부위(CD4-binding site)**(예: **VRC01**), ② **V1V2 루프 글리칸 부위**(예: PG9, PG16), ③ **V3 루프 고만노스 패치(high-mannose patch)**(예: PGT128), ④ **gp120/gp41 경계면(interface)**, ⑤ **gp41 막근접 외부 영역(MPER)**(예: 10E8, 2F5, 4E10).
 
@@ -192,6 +195,8 @@ title: "Ch196(End)-197(Part 1): Human Immunodeficiency Virus Disease: AIDS and R
 **Figure 197-31, p.1426**: Serologic tests for the diagnosis of HIV-1 or HIV-2 infection. A. Algorithm including the use of a western blot. B. CDC algorithm not including the use of a western blot. (Adapted from stacks.cdc.gov/view/cdc/23446.) — HIV-1 또는 HIV-2 감염 진단을 위한 고전적 웨스턴 블롯 포함 알고리즘(A) 및 현행 CDC 4세대 항원/항체 결합 검사 + 항체 감별 검사 + HIV-1 NAT 알고리즘(B). ![[Harrison_V1_Ch197_Fig31.png]]
 
 ### **5.2 직접 바이러스 검출 검사 (Table 197-8) 및 검사실 모니터링 (pp.1426–1427)**
+
+![[Harrison_V1_Ch197_Tab8.png]]
 
 > 1. **HIV 직접 검출 및 정량 RNA 검사(Table 197-8)** (pp. 1426–1427):
 

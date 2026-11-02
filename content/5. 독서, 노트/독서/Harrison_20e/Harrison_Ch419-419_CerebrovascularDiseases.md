@@ -17,8 +17,8 @@ type: 의학원서_요약노트
 
 >    **임신·피임·수유와 뇌전증 말미 (Ch 418, p. 3068)**: 임산부는 최소 유효 용량의 단독요법을 유지하고 엽산($1ext–4\ extmg/d$)을 복용하며, 효소유도 항뇌전증제 복용 산모는 신생아의 비타민 K 의존성 응고인자 결핍(약 50%) 예방을 위해 임신 마지막 2주간 경구 비타민 K(phylloquinone $20\ extmg/d$)를 복용하고 신생아는 출생 시 근주 비타민 K($1\ extmg$)를 투여받는다. 모유 내 약물 농도 비율은 약 5%(valproic acid)에서 300%(levetiracetam)까지 다양하나 모유 수유가 권장된다.  
 > 2. **뇌혈관질환 접근법 및 혈관 영역별 뇌졸중 증후군 (Ch 419, pp. 3068–3079)**: 뇌졸중은 전 세계 사망 원인 2위(2015년 620만 명 사망), 미국 사망 원인 5위(2014년 133,000명 사망)이자 최다 장애 원인이다. 전체 뇌졸중의 85%는 허혈성(심방세동 17%, 경동맥 질환 4%, 기타 64%), 15%는 출혈성(고혈압성 ICH 7%, 동맥류성 SAH 4%, 기타 4%)이다. 전순환(중대뇌동맥 M1·상하 분지·렌즈핵선조체동맥, 전대뇌동맥 A1·A2, 전맥락막동맥, 내경·총경동맥)과 후순환(후대뇌동맥 P1[Claude, Weber, Percheron, Déjérine-Roussy] 및 P2[황반 보존 없는 동측 반맹, 좌측 뇌량팽대 침범 시 실서증 없는 실독증, 양측 침범 시 Anton 증후군·Balint 증후군], 추골·후하소뇌동맥[Wallenberg 외측연수 증후군], 기저동맥·전하소뇌동맥·상소뇌동맥)의 해부학적 증후군과 뇌간 단면(연수, 하·중·상부 교뇌, 중뇌) 증후군을 국소화하고 비조영 CT, CTA/CTP, MRI(DWI-PWI 불일치로 허혈성 반영부 평가)로 진단한다.  
-> 3. **허혈성 뇌졸중의 급성 치료 및 2차 예방 (Ch 420, pp. 3079–3091)**: 뇌혈류가 0이 되면 4–10분 내 뇌조직이 괴사하고 $<16ext–18\ extmL/100g/min$이면 1시간 내 경색, $<20\ extmL/100g/min$이면 수시간~수일 지속 시 경색이 발생한다. 급성기 혈압은 $>220/120\ extmmHg$(혈전용해술 예정 시 $>185/110\ extmmHg$)가 아니면 낮추지 않으며 혈당은 $60ext–180\ extmg/dL$($3.3ext–10.0\ extmmol/L$)로 유지하고, 악성 대뇌반구 부종 시 반구두개절제술(사망률 50% 감소)을 시행한다. 정주 rtPA($0.9\ extmg/kg$, 최대 $90\ extmg$, 10% 볼루스 후 60분 주입; 아시아 $0.6\ extmg/kg$)는 3시간(ECASS III 근거 유럽·캐나다 4.5시간) 이내 투여하며, 전순환 대혈관 폐색에서 6시간 이내 기계적 혈전제거술(6개 무작위 시험 메타분석 OR 2.49) 및 관류 영상 선별 시 16–24시간 이내 혈전제거술(DAWN 47% vs 13%, DEFUSE-3 45% vs 17%)이 예후를 극적으로 개선한다. 2차 예방으로 항혈소판제, 비류마티스성 심방세동의 경구 항응고제(와파린 INR 2–3, dabigatran, apixaban, rivaroxaban, edoxaban), 증상성 70–99% 경동맥 협착의 경동맥 내막절제술(NASCET 2년 절대위험감소 17%, 시술 합병증 \$\\le 6\\%\$ 조건, 증상 2주 내 최대 이득)을 시행하며, 두개내 죽상경화증에서 스텐트 삽입은 유해하므로(SAMMPRIS 14.7% vs 5.8%) 적극적 내과 치료를 시행한다.  
-> 4. **두개내 출혈 및 뇌혈관 기형 (Ch 421, pp. 3091–3095)**: 뇌실질내출혈(ICH)은 전체 뇌졸중의 약 10%를 차지하며 1개월 사망률이 35–45%이다. 고혈압성 ICH의 호발 부위는 조가비핵(putamen, 최다), 시상, 소뇌, 교뇌이며, 고령자 엽성 출혈의 최다 원인은 대뇌 아밀로이드 혈관병증(CAA, *ApoE* \$ arepsilon 2, arepsilon 4\$ 연관)이다. 급성기 수축기 혈압을 $<140\ extmmHg$로 낮추는 것(INTERACT2, ATACH2)은 안전하며, 항응고제 역전(VKA는 PCC + 비타민 K, dabigatran은 idarucizumab 2회 투여)을 즉시 시행한다. 천막상부 ICH의 일상적 수술은 이득이 없으나(STICH, STICH-II), **직경 $>3\ extcm$ 소뇌 혈종**이나 뇌간 압박·수두증 동반 소뇌 출혈은 즉각 외과적 혈종 제거술이 생명을 구한다($<1\ extcm$는 수술 불필요, $1ext–3\ extcm$는 면밀 관찰). 비파열 동정맥기형(AVM)은 중재 시술보다 내과적 치료가 안전하다(ARUBA 시험 사망·뇌졸중 10.1% vs 30.7%).  
+> 3. **허혈성 뇌졸중의 급성 치료 및 2차 예방 (Ch 420, pp. 3079–3091)**: 뇌혈류가 0이 되면 4–10분 내 뇌조직이 괴사하고 $<16ext–18\ extmL/100g/min$이면 1시간 내 경색, $<20\ extmL/100g/min$이면 수시간~수일 지속 시 경색이 발생한다. 급성기 혈압은 $>220/120\ extmmHg$(혈전용해술 예정 시 $>185/110\ extmmHg$)가 아니면 낮추지 않으며 혈당은 $60ext–180\ extmg/dL$($3.3ext–10.0\ extmmol/L$)로 유지하고, 악성 대뇌반구 부종 시 반구두개절제술(사망률 50% 감소)을 시행한다. 정주 rtPA($0.9\ extmg/kg$, 최대 $90\ extmg$, 10% 볼루스 후 60분 주입; 아시아 $0.6\ extmg/kg$)는 3시간(ECASS III 근거 유럽·캐나다 4.5시간) 이내 투여하며, 전순환 대혈관 폐색에서 6시간 이내 기계적 혈전제거술(6개 무작위 시험 메타분석 OR 2.49) 및 관류 영상 선별 시 16–24시간 이내 혈전제거술(DAWN 47% vs 13%, DEFUSE-3 45% vs 17%)이 예후를 극적으로 개선한다. 2차 예방으로 항혈소판제, 비류마티스성 심방세동의 경구 항응고제(와파린 INR 2–3, dabigatran, apixaban, rivaroxaban, edoxaban), 증상성 70–99% 경동맥 협착의 경동맥 내막절제술(NASCET 2년 절대위험감소 17%, 시술 합병증 $\le 6\%$ 조건, 증상 2주 내 최대 이득)을 시행하며, 두개내 죽상경화증에서 스텐트 삽입은 유해하므로(SAMMPRIS 14.7% vs 5.8%) 적극적 내과 치료를 시행한다.  
+> 4. **두개내 출혈 및 뇌혈관 기형 (Ch 421, pp. 3091–3095)**: 뇌실질내출혈(ICH)은 전체 뇌졸중의 약 10%를 차지하며 1개월 사망률이 35–45%이다. 고혈압성 ICH의 호발 부위는 조가비핵(putamen, 최다), 시상, 소뇌, 교뇌이며, 고령자 엽성 출혈의 최다 원인은 대뇌 아밀로이드 혈관병증(CAA, *ApoE* $ arepsilon 2, arepsilon 4$ 연관)이다. 급성기 수축기 혈압을 $<140\ extmmHg$로 낮추는 것(INTERACT2, ATACH2)은 안전하며, 항응고제 역전(VKA는 PCC + 비타민 K, dabigatran은 idarucizumab 2회 투여)을 즉시 시행한다. 천막상부 ICH의 일상적 수술은 이득이 없으나(STICH, STICH-II), **직경 $>3\ extcm$ 소뇌 혈종**이나 뇌간 압박·수두증 동반 소뇌 출혈은 즉각 외과적 혈종 제거술이 생명을 구한다($<1\ extcm$는 수술 불필요, $1ext–3\ extcm$는 면밀 관찰). 비파열 동정맥기형(AVM)은 중재 시술보다 내과적 치료가 안전하다(ARUBA 시험 사망·뇌졸중 10.1% vs 30.7%).  
 > 5. **편두통 및 기타 일차성 두통 질환 (Ch 422, pp. 3096–3107)**: 편두통은 연간 여성의 15%, 남성의 6%가 겪으며 삼차신경혈관 경로(CGRP 방출), 배외측 교뇌(청색반점 포함) 및 시상하부 활성화, 세로토닌($5ext{-HT}_{1extB/1extD/1extF}$)·도파민계가 관여하고 가족성 반신마비 편두통 유전자(FHM1 *CACNA1A* 50%, FHM2 *ATP1A2* 20%, FHM3 *SCN1A*)가 규명되었다. 급성기 치료로 NSAID, 트립탄(sumatriptan과 naproxen $500\ extmg$ 병용 시 재발 감소), 디히드로에르고타민, 도파민 길항제, sTMS/nVNS를 사용하고, 월 4회 이상 발작 시 예방 치료(propranolol, timolol, valproate, topiramate, amitriptyline, candesartan, 만성 편두통에서 onabotulinum toxin A $155\ extU$)를 시행한다. 삼차자율신경두통(TACs) 중 **군발두통**(후시상하부 활성화, 급성기 100% 산소 $10ext–12\ extL/min$ 15–20분 및 피하 sumatriptan $6\ extmg$, 장기 예방 1차 선택제 verapamil $160ext–960\ extmg/d$ [PR 간격 감시]), **발작성 반두통** 및 **지속성 반두통**(indomethacin에 완전 관해), **SUNCT/SUNA**(피부 자극 유발, 불응기 없음, 예방 1차 선택제 lamotrigine $200ext–400\ extmg/d$)의 감별과 일차성 기침·운동·성행위·벼락·냉자극·외부압박·찌름·동전모양·수면(hypnic, 취침 전 리튬·카페인)·신발생일일지속성 두통의 진단·치료를 정리한다.
 
 ## **2. 임신·피임·수유와 뇌전증 말미 (Ch 418 말미, p. 3068)**
@@ -33,8 +33,6 @@ type: 의학원서_요약노트
 > * 혈청 대비 모유 내 항뇌전증제 농도 비율은 약 **5%(valproic acid)에서 300%(levetiracetam)**까지 다양하나, 전반적인 모유 수유의 이점과 영아에 대한 장기적 해악의 증거 부재를 고려할 때 모유 수유가 권장된다(단, 영아에게 기면이나 수유 불량 등 약물 영향 징후가 나타나면 재고함).
 
 ## **3. 뇌혈관질환의 임상 증후군 및 진단 (Ch 419: Cerebrovascular Diseases, pp. 3068–3079)**
-
-### ---
 
 **3.1 역학, 정의 및 환자 접근법 (Fig. 419-1, pp. 3068–3069)**
 
@@ -52,7 +50,7 @@ Figure 419-1 Medical management of stroke and TIA. Rounded boxes are diagnoses; 
 
 > * **중대뇌동맥 (Middle Cerebral Artery, MCA, Figs. 419-2 & 419-3, pp. 3069–3071)**:  
 > * 근위부 MCA 폐색은 두개내 죽상혈전증보다 **색전증**(동맥-동맥, 심장성, 원인미상)에 의한 경우가 대부분이다.  
-> * **M1 분절(줄기)**: 관통 분지인 **렌즈핵선조체동맥(lenticulostriate arteries)**이 분지되어 조가비핵(putamen), 외측 창백핵, 내포 후각, 인접 방사관, 미상핵 대부분을 공급한다. 렌즈핵선조체동맥 폐색은 내포의 소혈관(열공) 경색을 일으켜 반대측 순수 운동 뇌졸중, 감각-운동 뇌졸중(내포 슬부 허혈 시 안면 위약 \$ ightarrow\$ 후방 이동 시 팔 \$ ightarrow\$ 다리 위약), 또는 서툰 손-구음장애(clumsy hand, dysarthria) 증후군을 유발한다.  
+> * **M1 분절(줄기)**: 관통 분지인 **렌즈핵선조체동맥(lenticulostriate arteries)**이 분지되어 조가비핵(putamen), 외측 창백핵, 내포 후각, 인접 방사관, 미상핵 대부분을 공급한다. 렌즈핵선조체동맥 폐색은 내포의 소혈관(열공) 경색을 일으켜 반대측 순수 운동 뇌졸중, 감각-운동 뇌졸중(내포 슬부 허혈 시 안면 위약 $ ightarrow$ 후방 이동 시 팔 $ ightarrow$ 다리 위약), 또는 서툰 손-구음장애(clumsy hand, dysarthria) 증후군을 유발한다.  
 > * **완전 MCA 폐색**: 반대측 반신마비, 반신감각소실, 동측 반맹, 1–2일간의 병변측 주시 편위, 구음장애가 나타나며, 우세반구 침범 시 전실어증(global aphasia), 비우세반구 침범 시 질병인식불능증(anosognosia)·구성실행증·무시가 동반된다.  
 > * **M2 상분지(Superior division) 폐색**: 전두엽 및 상두정엽 피질을 공급하므로 반대측 감각장애, 운동 위약(완완증후군 brachial syndrome 또는 안면·팔 위약), **비유창성(Broca) 실어증**(전두엽 판개 증후군 frontal opercular syndrome)을 유발한다.  
 > * **M2 하분지(Inferior division) 폐색**: 하두정엽 및 측두엽 피질을 공급하므로 우세반구 침범 시 **위약 없는 유창성(Wernicke) 실어증**(자곤 발화, 구어·문어 이해 불능)과 반대측 상사분맹, Gerstmann 증후군(실산증, 실독증, 손가락실인증, 좌우혼동)을 유발하고, 비우세반구 침범 시 위약 없는 반측무시·공간실인증을 유발한다.
@@ -108,24 +106,22 @@ Figure 419-13 Magnetic resonance imaging (MRI) of acute stroke. A. MRI diffusion
 
 ## **4. 허혈성 뇌졸중 (Ch 420: Ischemic Stroke, pp. 3079–3091)**
 
-### ---
-
-**4.1 허혈성 뇌졸중의 병태생리 및 급성 치료 (Fig. 420-1, Table 420-1, pp. 3079–3082)**
+**4.1 허혈성 뇌졸중의 병태생리 및 급성 치료 (Fig. 420-1, Table 420-1, pp. 3079–3082)** ![[Harrison_V2_Ch420_Tab1.png]]  
 
 > * **뇌혈류 임계치와 허혈 연쇄반응 (Fig. 420-1, pp. 3079–3080)**:  
 > * 뇌혈류가 **0**으로 감소하면 **4–10분** 내에 뇌조직이 사망하고, $<16ext–18\ extmL/100gtissue/min$이면 **1시간** 내에 경색이 발생하며, $<20\ extmL/100gtissue/min$이면 수시간~수일간 지속되지 않는 한 경색 없는 허혈(허혈성 반영부)을 유발한다.  
-> * 세포사는 에너지 고갈·\$ ext{Ca}^{2+}/ ext{Na}^+\$ 유입·글루탐산 흥분독성·자유기 생성(iNOS, PARP, phospholipase 활성화)에 의한 **괴사(necrosis) 경로**와, 반영부의 경도 허혈에서 수일~수주 후 세포사를 일으키는 **세포자멸사(apoptosis) 경로**로 진행된다. 발열과 고혈당($>11.1\ extmmol/L$ [$200\ extmg/dL$])은 허혈성 뇌손상을 극적으로 악화시킨다.
+> * 세포사는 에너지 고갈·$\text{Ca}^{2+}/\text{Na}^+$ 유입·글루탐산 흥분독성·자유기 생성(iNOS, PARP, phospholipase 활성화)에 의한 **괴사(necrosis) 경로**와, 반영부의 경도 허혈에서 수일~수주 후 세포사를 일으키는 **세포자멸사(apoptosis) 경로**로 진행된다. 발열과 고혈당($>11.1\ extmmol/L$ [$200\ extmg/dL$])은 허혈성 뇌손상을 극적으로 악화시킨다.
 
 Figure 420-1 Major steps in the cascade of cerebral ischemia. See text for details. iNOS, inducible nitric oxide synthase; PARP, poly-A ribose polymerase. ![[Harrison_V2_Ch420_Fig1.png]]
 
 > * **급성기 내과적 지지요법 (p. 3080)**:  
-> * **혈압 관리**: 악성 고혈압, 동반 심근허혈이 있거나 혈압이 $>220/120\ extmmHg$인 경우, 또는 혈전용해술 예정이면서 $>185/110\ extmmHg$인 경우에만 혈압을 낮춘다(심근허혈 동반 시 \$ eta_1\$ 차단제 esmolol 등으로 심박수를 먼저 낮춤).  
+> * **혈압 관리**: 악성 고혈압, 동반 심근허혈이 있거나 혈압이 $>220/120\ extmmHg$인 경우, 또는 혈전용해술 예정이면서 $>185/110\ extmmHg$인 경우에만 혈압을 낮춘다(심근허혈 동반 시 $ eta_1$ 차단제 esmolol 등으로 심박수를 먼저 낮춤).  
 > * **체온 및 혈당**: 해열제와 표면 냉각으로 발열을 억제하고, 혈당은 인슐린 주입 등을 통해 $3.3ext–10.0\ extmmol/L$ **($60ext–180\ extmg/dL$)**로 유지한다.  
 > * **뇌부종 및 감압술**: 환자의 5–10%에서 기면·뇌탈출을 유발하는 뇌부종(발병 2–3일에 정점, 약 10일간 종괴효과 지속)이 발생한다. 수분 제한과 정주 만니톨을 사용하며, 유럽 3개 무작위 임상시험 통합 분석에서 **반구두개절제술(hemicraniectomy)**은 사망률을 **50%** 감소시키고 생존자 임상 예후를 유의하게 개선하였다($>60$세 고령자도 이득은 적으나 여전히 유의함). 소뇌 경색 악화 시 뇌간 압박 전에 **후두하 감압술(suboccipital decompression)**을 시행한다.  
 > * **정주 혈전용해술 (Intravenous Thrombolysis, Table 420-1, p. 3081)**:  
 > * **NINDS rtPA 연구 (0–3시간)**: 정주 rtPA($0.9\ extmg/kg$, 최대 $90\ extmg$; 전체 용량의 10%는 볼루스 투여, 나머지 90%는 60분간 지속 주입) 투여 시 위약 대비 증상성 두개내출혈은 증가(6.4% vs 0.6%)했으나 최소 장애 회복 환자가 절대치로 **12% 유의하게 증가**(44% vs 32%)하고 사망률은 4% 감소(17% vs 21%, 비유의)하였다.  
 > * **ECASS III 연구 (3–4.5시간)**: 80세 초과 및 이전 뇌졸중 동반 당뇨병 환자를 제외한 821명 대상 연구에서 90일 양호한 예후가 rtPA군 52.4% vs 위약군 45.2%(OR 1.34, $p=.04$), 증상성 두개내출혈은 2.4% vs 0.2%($p=.008$)로 확인되어 유럽·캐나다에서는 3–4.5시간까지 승인되었다(미국 FDA 승인 기준은 0–3시간). 일본 등 아시아에서는 출혈 위험을 낮추기 위해 $0.6\ extmg/kg$ 용량이 흔히 사용된다.  
-> * **Table 420-1 적응증·금기증 및 투여 지침**: 적응증은 발병(또는 마지막 정상 목격 시각; 기상 시 뇌졸중은 취침 시각 기준) 4.5시간 이내, 뇌 CT상 출혈이나 MCA 영역 $>1/3$ 부종 없음, 18세 이상이며; 금기증은 치료에도 지속되는 혈압 $>185/110\ extmmHg$, 출혈 경향(혈소판 $<100,000/\mu extL$, \$ ext{HCT} \< 25\\%\$, 헤파린 투여 후 PTT 상승, \$ ext{INR} > 1.7\$), 최근 두부외상·뇌출혈, 최근 14일 내 대수술, 최근 21일 내 위장관 출혈, 최근 심근경색이다. 투여 후 24시간 동안 다른 항혈전제를 금하고 최소 2시간 동안 요도 카테터 삽입을 피하며 신경학적 악화 시 주입을 중단하고 동결침전물(cryoprecipitate) 투여 및 응급 뇌영상을 시행한다.  
+> * **Table 420-1 적응증·금기증 및 투여 지침**: 적응증은 발병(또는 마지막 정상 목격 시각; 기상 시 뇌졸중은 취침 시각 기준) 4.5시간 이내, 뇌 CT상 출혈이나 MCA 영역 $>1/3$ 부종 없음, 18세 이상이며; 금기증은 치료에도 지속되는 혈압 $>185/110\ extmmHg$, 출혈 경향(혈소판 $<100,000/\mu extL$, $\text{HCT} < 25\%$, 헤파린 투여 후 PTT 상승, $\text{INR} > 1.7$), 최근 두부외상·뇌출혈, 최근 14일 내 대수술, 최근 21일 내 위장관 출혈, 최근 심근경색이다. 투여 후 24시간 동안 다른 항혈전제를 금하고 최소 2시간 동안 요도 카테터 삽입을 피하며 신경학적 악화 시 주입을 중단하고 동결침전물(cryoprecipitate) 투여 및 응급 뇌영상을 시행한다.  
 > * **혈관내 재관류 치료 (Endovascular Revascularization, pp. 3081–3082)**:  
 > * **6시간 이내 기계적 혈전제거술**: 2015년 발표된 6개 무작위 임상시험(1,287명 메타분석)에서 CTA로 확인된 내경동맥 원위부 및 MCA 폐색에 대해 발병 6시간 이내 혈관내 혈전제거술 시행 시 90일 독립적 기능 회복(mRS 0–2)이 **46% vs 내과 치료군 26.5%**(OR 2.49, 95% CI 1.76–3.53, $p<0.001$)로 현저히 향상되었고 퇴원 시기도 약 2개월 단축되었다.  
 > * **6–24시간 확장 시간창**: 관류 영상(CTP 또는 MRP)으로 양호한 측부순환/반영부가 확인된 환자에서 **DAWN 시험**(24시간 이내 치료 시 양호한 예후 **47% vs 13%**, $p<0.0001$)과 **DEFUSE-3 시험**(16시간 이내 치료 시 **45% vs 17%**, $p<0.001$)을 통해 24시간까지 효과가 입증되었다.  
@@ -135,7 +131,7 @@ Figure 420-1 Major steps in the cascade of cerebral ischemia. See text for detai
 
 > * **허혈성 뇌졸중의 원인 분류 (Fig. 420-2, Tables 420-2 & 420-3, pp. 3082–3085)**:  
 > * 정밀 검사 후에도 약 **30%**는 원인미상(cryptogenic)으로 남는다.  
-> * **심장성 색전 뇌졸중 (Cardioembolic stroke, 전체의 약 20%)**: 비류마티스성(비판막성) 심방세동이 최다 원인이며 연간 평균 뇌졸중 위험은 약 5%로 **\$ ext{CHA}_2 ext{DS}_2 ext{-VASc}\$ 점수**(Table 420-3: 심부전 1, 고혈압 1, $\geq 75$세 2, 당뇨병 1, 뇌졸중/TIA 2, 혈관질환 1, 65–74세 1, 여성 1점; 0점은 아스피린 또는 무치료, 1점은 아스피린 또는 OAC, $\geq 2$점은 OAC 권고)로 산정한다. 난원공 개존증(PFO, 일반 인구의 약 15%에 존재)을 통한 기이성 색전증은 최근 2개 임상시험에서 원인미상 뇌졸중 환자에게 경피적 폐쇄 기구 시술 시 연간 약 1%의 절대 뇌졸중 위험 감소가 확인되었다. 세균성 심내막염에서는 항응고제와 혈전용해제가 금기다.  
+> * **심장성 색전 뇌졸중 (Cardioembolic stroke, 전체의 약 20%)**: 비류마티스성(비판막성) 심방세동이 최다 원인이며 연간 평균 뇌졸중 위험은 약 5%로 **$\text{CHA}_2\text{DS}_2\text{-VASc}$ 점수**(Table 420-3: 심부전 1, 고혈압 1, $\geq 75$세 2, 당뇨병 1, 뇌졸중/TIA 2, 혈관질환 1, 65–74세 1, 여성 1점; 0점은 아스피린 또는 무치료, 1점은 아스피린 또는 OAC, $\geq 2$점은 OAC 권고)로 산정한다. 난원공 개존증(PFO, 일반 인구의 약 15%에 존재)을 통한 기이성 색전증은 최근 2개 임상시험에서 원인미상 뇌졸중 환자에게 경피적 폐쇄 기구 시술 시 연간 약 1%의 절대 뇌졸중 위험 감소가 확인되었다. 세균성 심내막염에서는 항응고제와 혈전용해제가 금기다.  
 > * **동맥-동맥 색전 뇌졸중 및 동맥박리**: 경동맥 죽상경화는 허혈성 뇌졸중의 약 10%를 차지한다. 두개내 죽상경화는 아시아인·아프리카계 미국인에 흔하며 연간 재발 위험이 약 15%이다. 내경·추골동맥 박리는 젊은($<60$세) 환자의 흔한 원인으로(Ehlers-Danlos 4형, Marfan병, 섬유근형성이상, 외상, 척추 도수치료 연관), 아스피린과 항응고제 간 예방 효과 차이가 없고 재발률(2%)이 낮다.
 
 Figure 420-2 Pathophysiology of ischemic stroke. A. Diagram illustrating the three major mechanisms that underlie ischemic stroke: (1) occlusion of an intracranial vessel by an embolus that arises at a distant site, (2) in situ thrombosis of an intracranial vessel, (3) hypoperfusion caused by flow-limiting stenosis. B. and C. Diagram and reformatted CTA of the carotid arteries. ![[Harrison_V2_Ch420_Fig2.png]]  
@@ -153,13 +149,15 @@ Figure 420-4 Cerebral angiogram from a 32-year-old male with central nervous sys
 > * **정맥동 혈전증**: 경구피임약(특히 prothrombin *G20210* 변이 동반 여성), 임신·산욕기, 혈전성향증에서 발생하며 **두개내 정맥성 출혈 유무와 무관하게 정주 헤파린**이 사망·이환을 줄인다(원인 불명 시 3–6개월 VKA 후 아스피린 전환, 혈전성향증 확진 시 무기한 항응고).  
 > * **겸상적혈구빈혈**: 경두개 도플러(TCD)에서 MCA 고류속이 확인된 소아에게 적극적 교환수혈 시행 시 뇌졸중 위험이 급격히 감소한다.  
 > * **기타**: 섬유근형성이상(여성 호발, 염주 모양 협착-확장), 거대세포(측두) 동맥염(후모양체동맥 폐색에 의한 실명 유발, 내경동맥은 잘 침범하지 않아 뇌졸중은 드묾), 원발성 CNS 혈관염(Fig. 420-4, 뇌생검 또는 혈관조영술로 진단, 글루코코르티코이드 + cyclophosphamide 치료), 모야모야병(원위부 ICA 및 MCA/ACA 줄기 폐쇄와 렌즈핵선조체 측부혈관 "담배연기" 소견, 항응고제는 출혈 위험으로 금기, 외경-내경 우회술 시행), 가역성 후두엽 백질뇌증(PRES) 및 가역성 뇌혈관수축증후군(RCVS, 벼락두통 발현, 경구 칼슘채널차단제 투여), 백질희소증(leukoaraiosis), **CADASIL**(염색체 19번 *Notch-3* 변이, 상염색체 우성, 30–40대 발병 소혈관 뇌졸중·치매·전측두엽 백질 변화, 약 40%에서 조짐 편두통 동반), CARASIL, HERNS, Fabry병, *COL4A1* 변이.  
-> * **일과성허혈발작 (TIA) 및 \$ ext{ABCD}^2\$ 점수 (Table 420-5, p. 3087)**:  
-> * TIA 후 3개월 내 뇌졸중 위험은 **10–15%**(대부분 첫 2일 내 발생)이며, **\$ ext{ABCD}^2\$ 점수**(Age $\geq 60$세 1점, BP $>140/90\ extmmHg$ 1점, Clinical 편측 위약 2점 / 위약 없는 언어장애 1점, Duration $>60$분 2점 / 10–59분 1점, Diabetes 1점; 총점 0–7점, 3개월 뇌졸중 위험 0점 0% $\sim$ 7점 22%)로 예측한다.  
+> * **일과성허혈발작 (TIA) 및 $\text{ABCD}^2$ 점수 (Table 420-5, p. 3087)**:  
+> * TIA 후 3개월 내 뇌졸중 위험은 **10–15%**(대부분 첫 2일 내 발생)이며, **$\text{ABCD}^2$ 점수**(Age $\geq 60$세 1점, BP $>140/90\ extmmHg$ 1점, Clinical 편측 위약 2점 / 위약 없는 언어장애 1점, Duration $>60$분 2점 / 10–59분 1점, Diabetes 1점; 총점 0–7점, 3개월 뇌졸중 위험 0점 0% $\sim$ 7점 22%)로 예측한다.  
 > * 중국 대규모 임상시험(CHANCE, 5,170명)에서 경증 뇌졸중/TIA 발병 24시간 내 **clopidogrel($300\ extmg$ 부하 후 $75\ extmg/d$) + 아스피린($75\ extmg/d$) 21일간 단기 병용**이 아스피린 단독 대비 90일 뇌졸중 위험을 유의하게 낮추었다(8.2% vs 11.7%, $p<.001$; 단, clopidogrel 대사 저하 *CYP2C19* 다형성 비보유자에 한함).
 
 Table 420-5 Risk of Stroke Following Transient Ischemic Attack: The ABCD2 Score ![[Harrison_V2_Ch420_Tab5.png]]
 
 ### **4.3 뇌졸중 및 TIA의 1차·2차 예방 치료 (Table 420-4, pp. 3087–3091)**
+
+![[Harrison_V2_Ch420_Tab4.png]]
 
 > * **위험인자 조절 (Table 420-4, pp. 3085, 3087–3088)**:  
 > * **고혈압**: 상대위험도 2–5, 치료 시 상대위험감소율 38%. 목표 혈압은 $<130/80\ extmmHg$이며, SPRINT 시험에서 수축기 혈압 $<120\ extmmHg$ 조절이 $<140\ extmmHg$ 대비 뇌졸중·심근경색을 43% 감소시켰다.  
@@ -168,19 +166,17 @@ Table 420-5 Risk of Stroke Following Transient Ischemic Attack: The ABCD2 Score 
 > * 항혈소판제는 비치명적 뇌졸중 상대위험을 약 25–30%, 전체 혈관 사건을 약 25% 감소시킨다. 아스피린(북미 $81ext–325\ extmg/d$, 유럽 $50ext–100\ extmg/d$), clopidogrel(CAPRIE 시험), 서방형 dipyridamole $200\ extmg$ + 아스피린 $25\ extmg$ 복합제(ESPS-II, ESPRIT, PROFESS 시험에서 clopidogrel과 동등한 9% 재발률)가 1차 선택제다. 반면 **장기적인 clopidogrel + 아스피린 병용**은 MATCH, CHARISMA, SPS3 시험에서 뇌졸중 예방 추가 이득 없이 출혈과 사망만 증가시켜 권고되지 않는다.  
 > * **비판막성 심방세동(NVAF) 항응고 요법**: 와파린(INR 2–3, 상대위험 67% 감소) 대비 신규 경구 항응고제(OAC)—**dabigatran**(RE-LY: $150\ extmg/d$는 와파린 대비 뇌졸중·색전 예방 우월 [RR 0.66], $110\ extmg/d$는 비열등 및 대출혈 감소), **apixaban**(ARISTOTLE: $5\ extmg$ bid가 와파린 대비 뇌졸중·색전 감소 [1.27% vs 1.6%] 및 대출혈 1% 감소), **rivaroxaban**(ROCKET-AF: 1.7% vs 2.2% 비열등 및 두개내출혈 감소), **edoxaban**—이 동등하거나 더 우수하고 안전하다. 원인미상 색전성 뇌졸중에서는 잠재성 간헐적 심방세동(약 20%에서 발견) 검출을 위해 **3–4주간 보행 심전도 감시**가 합리적이다. 비심장성 죽상혈전성 뇌졸중에서는 와파린이 아스피린 대비 이득 없이 출혈만 증가시킨다(WARSS, WASID).  
 > * **경동맥 및 두개내 죽상경화증의 외과적·혈관내 치료 (pp. 3090–3091)**:  
-> * **증상성 경동맥 협착**: **NASCET** 및 **ECST** 시험에서 **70–99% 협착** 환자에게 경동맥 내막절제술(CEA) 시행 시 2년 동측 뇌졸중 위험이 내과군 26% vs 수술군 9%(**절대위험감소 17%, 상대위험감소 65%**, NNT 12)로 현저히 감소하였다(50–69% 협착은 5년 상대위험감소 29%, NNT 77; \$\<30\\%\$ 협착은 수술이 유해함). 수술 이득은 **증상 발생 2주 이내 시행 시**, 75세 이상 고령, 남성에서 가장 크며 기관의 주술기 뇌졸중·사망률이 **\$\\le 6\\%\$**여야 한다.  
-> * **무증상 경동맥 협착 (\$\\ge 60\\%\$)**: **ACAS**(5년 위험 5.1% vs 11%, 상대위험감소 53%, 연간 절대위험감소 1.2%)와 **ACST**(5년 위험 6.4% vs 11.8%)에서 소폭의 이득이 있었으나 여성에서는 주술기 합병증으로 이득이 상쇄될 수 있어 내과적 치료가 주로 권고된다.  
+> * **증상성 경동맥 협착**: **NASCET** 및 **ECST** 시험에서 **70–99% 협착** 환자에게 경동맥 내막절제술(CEA) 시행 시 2년 동측 뇌졸중 위험이 내과군 26% vs 수술군 9%(**절대위험감소 17%, 상대위험감소 65%**, NNT 12)로 현저히 감소하였다(50–69% 협착은 5년 상대위험감소 29%, NNT 77; $<30\%$ 협착은 수술이 유해함). 수술 이득은 **증상 발생 2주 이내 시행 시**, 75세 이상 고령, 남성에서 가장 크며 기관의 주술기 뇌졸중·사망률이 **$\le 6\%$**여야 한다.  
+> * **무증상 경동맥 협착 ($\ge 60\%$)**: **ACAS**(5년 위험 5.1% vs 11%, 상대위험감소 53%, 연간 절대위험감소 1.2%)와 **ACST**(5년 위험 6.4% vs 11.8%)에서 소폭의 이득이 있었으나 여성에서는 주술기 합병증으로 이득이 상쇄될 수 있어 내과적 치료가 주로 권고된다.  
 > * **경동맥 스텐트 삽입술 (CAS)**: 고위험군 대상 SAPPHIRE 및 일반 위험군 대상 **CREST**(30일 뇌졸중은 스텐트군 4.1% vs 수술군 2.3%로 높으나 심근경색은 1.1% vs 2.3%로 낮아 2.5년 및 10년 복합 사건율 7.2% vs 6.8%로 동등), **ICSS** 시험 결과, **70세 이상 고령에서는 CEA가 스텐트보다 합병증이 적다**. 두개외-두개내(EC-IC) 우회술은 효과가 없다.  
 > * **두개내 죽상경화증**: **WASID 시험**(아스피린 $1300\ extmg/d$ vs 와파린; 와파린군 사망 9.7% vs 4.3%, 대출혈 8.3% vs 3.2%로 조기 종료) 및 **SAMMPRIS 시험**(70–99% 두개내 협착에서 자가팽창 스텐트 삽입군 뇌졸중·사망 **14.7% vs 적극적 내과 치료군[clopidogrel + 아스피린 + 스타틴 + 혈압 조절] 5.8%**, $p=.002$)에 따라 **두개내 스텐트 삽입은 유해하므로 금기이며 적극적 내과 치료가 표준**이다.
 
 ## **5. 두개내 출혈 및 뇌혈관 기형 (Ch 421: Intracranial Hemorrhage, pp. 3091–3095)**
 
-### ---
-
-**5.1 응급 처치 및 고혈압성 뇌실질내출혈 (Fig. 421-1, Tables 421-1 & 421-2, pp. 3091–3094)**
+**5.1 응급 처치 및 고혈압성 뇌실질내출혈 (Fig. 421-1, Tables 421-1 & 421-2, pp. 3091–3094)** ![[Harrison_V2_Ch421_Tab1.png]]  
 
 > * **응급 혈압 관리 (pp. 3091–3092)**:  
-> * 자발성 ICH 환자(초기 SBP $150ext–220\ extmmHg$)에서 급성기 수축기 혈압을 $<140\ extmmHg$로 낮추는 것을 평가한 **INTERACT2**(90일 사망·중증장애 $<140\ extmmHg$군 52% vs $<180\ extmmHg$군 55.6%, $p=.06$, 기능 점수 분포 유의한 호전) 및 **ATACH2**(양 군 차이 없음) 결과에 따라, 비혈관확장성 정주 약제(nicardipine, labetalol, esmolol)로 SBP를 $<140ext–180\ extmmHg$로 낮추는 것은 안전하다. 뇌압(ICP) 감시 장치가 있는 경우 뇌관류압(\$ ext{CPP} \= ext{MAP} - ext{ICP}\$)을 $50ext–70\ extmmHg$로 유지한다.  
+> * 자발성 ICH 환자(초기 SBP $150ext–220\ extmmHg$)에서 급성기 수축기 혈압을 $<140\ extmmHg$로 낮추는 것을 평가한 **INTERACT2**(90일 사망·중증장애 $<140\ extmmHg$군 52% vs $<180\ extmmHg$군 55.6%, $p=.06$, 기능 점수 분포 유의한 호전) 및 **ATACH2**(양 군 차이 없음) 결과에 따라, 비혈관확장성 정주 약제(nicardipine, labetalol, esmolol)로 SBP를 $<140ext–180\ extmmHg$로 낮추는 것은 안전하다. 뇌압(ICP) 감시 장치가 있는 경우 뇌관류압($\text{CPP} \=\text{MAP} -\text{ICP}$)을 $50ext–70\ extmmHg$로 유지한다.  
 > * **뇌실질내출혈(ICH)의 역학 및 부위별 임상 양상 (Fig. 421-1, Table 421-1, pp. 3092–3093)**:  
 > * ICH는 전체 뇌졸중의 약 **10%**를 차지하며 1개월 내 사망률이 **35–45%**이다. 응고장애가 없는 환자의 약 1/3에서도 첫 24시간 내에 유의한 혈종 팽창이 발생하며, CTA/조영증강 CT의 **점 징후(spot sign)**는 지속 출혈 및 혈종 팽창·사망 위험 증가를 시사한다.  
 > * **조가비핵 (Putamen, 고혈압성 ICH 최다 부위, Fig. 421-1)**: 인접 내포 손상으로 **반대측 반신불완전마비**가 핵심 징후이며 안구는 반신마비 반대쪽(병변측)으로 편위된다.  
@@ -192,11 +188,13 @@ Table 420-5 Risk of Stroke Following Transient Ischemic Attack: The ABCD2 Score 
 Figure 421-1 Hypertensive hemorrhage. Transaxial noncontrast computed tomography scan through the region of the basal ganglia reveals a hematoma involving the left putamen in a patient with rapidly progressive onset of right hemiparesis. ![[Harrison_V2_Ch421_Fig1.png]]
 
 > * **비고혈압성 ICH의 주요 원인 (p. 3093)**:  
-> * **대뇌 아밀로이드 혈관병증 (CAA)**: 고령자 단발성·재발성 엽성 출혈의 최다 원인으로 뇌혈관 벽의 콩고레드 양성 아밀로이드 침착 및 ***ApoE*** **\$ arepsilon 2, arepsilon 4\$ 대립유전자**와 연관된다(경구 항응고제는 피해야 하나 죽상혈전 질환 적응증이 있으면 항혈소판제는 투여 가능; 염증성 CAA 혈관염 동반 시 경구 글루코코르티코이드 유효).  
+> * **대뇌 아밀로이드 혈관병증 (CAA)**: 고령자 단발성·재발성 엽성 출혈의 최다 원인으로 뇌혈관 벽의 콩고레드 양성 아밀로이드 침착 및 **ApoE** **$ arepsilon 2, arepsilon 4$ 대립유전자**와 연관된다(경구 항응고제는 피해야 하나 죽상혈전 질환 적응증이 있으면 항혈소판제는 투여 가능; 염증성 CAA 혈관염 동반 시 경구 글루코코르티코이드 유효).  
 > * **교감신경흥분제 (코카인, 메스암페타민)**: 젊은($<45$세) 뇌졸중의 흔한 원인으로 조금 더 많은 절반 이상은 뇌실질내출혈이고 나머지는 지주막하출혈(대개 동맥류 파열 동반)이다.  
 > * **기타**: 두부외상, 항응고제(24–48시간 동안 혈종 팽창 지속 가능), 혈액질환, 종양 내 출혈(융모막암종, 악성흑색종, 신세포암, 기관지암, 교모세포종, 수모세포종), **고혈압성 뇌증**(가역성 후두엽 백질뇌증 동반, 의식 변화 전구증상이 선행하며 너무 급격한 혈압 강하는 뇌졸중 유발 가능).
 
 ### **5.2 뇌실질내출혈의 치료 및 뇌혈관 기형 (Table 421-2, pp. 3094–3095)**
+
+![[Harrison_V2_Ch421_Tab2.png]]
 
 > * **ICH 점수 (Table 421-2) 및 내과적·외과적 치료** (p. 3094):  
 > * **ICH Score (0–6점)**: 연령 $\geq 80$세(1점), 혈종 용적 $\geq 30\ extcc$(1점), 뇌실내출혈(IVH) 존재(1점), 천막하 기원(1점), GCS 점수(13–15점 0점, 5–12점 1점, 3–4점 2점). 단, 조기 치료 포기로 인한 자기충족적 예언(self-fulfilling prophecy)을 막기 위해 예후 단정에 단독 사용해서는 안 된다.  
@@ -205,11 +203,9 @@ Figure 421-1 Hypertensive hemorrhage. Transaxial noncontrast computed tomography
 > * **선천성 및 후천성 뇌혈관 기형 (p. 3095)**:  
 > * **동정맥기형 (AVM)**: 10–30세(남성 우세)에 출혈(절반), 두통, 초점 발작(약 30%)으로 발현하며 유전성 출혈성 모세혈관확장증(Osler-Rendu-Weber 증후군, *endoglin* 또는 *activin receptor-like kinase 1* 변이)과 연관될 수 있다. 비파열 AVM의 연간 출혈률은 약 **2–4%**이나 파열 병력이 있으면 첫해 최대 **17%**에 달한다. **ARUBA 시험**(비파열 뇌 AVM에서 내과적 관찰 vs 중재 시술 비교)에서 평균 33개월 추적 시 사망 또는 증상성 뇌졸중이 **내과군 10.1% vs 중재 시술군 30.7%**로 나타나 조기 중단되었으므로 비파열 AVM의 일상적 중재 시술은 권고되지 않는다.  
 > * **정맥 기형(Venous anomalies)** 및 **모세혈관확장증(Capillary telangiectasias)**: 정맥 기형은 기능적 정맥 통로이므로 절제 시 정맥성 경색·출혈을 유발하여 건드리지 않는다. 모세혈관확장증은 교뇌와 심부 대뇌 백질에 호발하며 치료가 필요 없다.  
-> * **해면상 혈관종 (Cavernous angiomas)** 및 **경막 동정맥루 (Dural AV fistulas)**: 해면상 혈관종은 정상 신경조직이 개재되지 않은 모세혈관 동양혈관 다발(직경 $<1\ extcm$, 가족성은 *KRIT1*, *CCM2*, *PDCD10* 유전자 연관, 단발성 연간 출혈 위험 \$0.7 ext{–}1.5\\%\$)로 뇌 표면 인근 발작·출혈 병변만 수술로 절제한다(방사선 치료는 무효). 경막 동정맥루는 박동성 이명과 두통, 지주막하출혈을 유발하고 정맥동 혈전증과 양방향 연관성을 가지며 수술·혈관내 색전술로 완치 가능하다.
+> * **해면상 혈관종 (Cavernous angiomas)** 및 **경막 동정맥루 (Dural AV fistulas)**: 해면상 혈관종은 정상 신경조직이 개재되지 않은 모세혈관 동양혈관 다발(직경 $<1\ extcm$, 가족성은 *KRIT1*, *CCM2*, *PDCD10* 유전자 연관, 단발성 연간 출혈 위험 $0.7\text{–}1.5\%$)로 뇌 표면 인근 발작·출혈 병변만 수술로 절제한다(방사선 치료는 무효). 경막 동정맥루는 박동성 이명과 두통, 지주막하출혈을 유발하고 정맥동 혈전증과 양방향 연관성을 가지며 수술·혈관내 색전술로 완치 가능하다.
 
 ## **6. 편두통 및 기타 일차성 두통 질환 (Ch 422: Migraine and Other Primary Headache Disorders, pp. 3096–3107)**
-
-### ---
 
 **6.1 일차성 두통 분류 및 편두통의 병태생리·진단 (Figs. 422-1 to 422-4, Tables 422-1 to 422-3, pp. 3096–3100)**
 
@@ -222,9 +218,9 @@ Table 422-2 Symptoms Accompanying Severe Migraine Attacks in 500 Patients ![[Har
 
 > * **편두통의 병태생리 및 유전학 (Figs. 422-1 to 422-3, pp. 3096–3099)**:  
 > * 뇌간(등쪽솔기핵, 청색반점, 대솔기핵) 및 시상하부의 단아민성 감각 조절계 기능장애와 삼차신경절·삼차신경경추복합체(TCC) 활성화에 따른 **칼시토닌 유전자 관련 펩티드(CGRP)** 방출이 핵심이다(6종의 소분자 CGRP 수용체 길항제 gepants와 4종의 CGRP/수용체 단클론항체가 급성·예방 임상시험에서 효능 입증).  
-> * 트립탄은 \$5 ext{-HT}*{1 ext{B}/1 ext{D}}\$(일부는 \$5 ext{-HT}*{1 ext{F}}\$) 수용체 작용제이고, **디탄(ditans, lasmiditan)**은 혈관 수축 없이 순수하게 신경 표적에만 작용하는 선택적 $5ext{-HT}_{1extF}$ **작용제**이다.  
+> * 트립탄은 $5\text{-HT}*{1\text{B}/1\text{D}}$(일부는 $5\text{-HT}*{1\text{F}}$) 수용체 작용제이고, **디탄(ditans, lasmiditan)**은 혈관 수축 없이 순수하게 신경 표적에만 작용하는 선택적 $5ext{-HT}_{1extF}$ **작용제**이다.  
 > * PET 영상에서 편두통 전구기에는 시상하부·등쪽중뇌·배외측 교뇌 활성화가 나타나고 두통기 및 만성 편두통에서는 **배외측 교뇌(청색반점 포함)** 활성화가 지속되는 반면(Fig. 422-2), 군발두통에서는 **후시상하부 회백질**이 활성화된다(Fig. 422-3).  
-> * **가족성 반신마비 편두통 (FHM) 유전자**: **FHM 1**(약 50%, \$ ext{Ca}_{ ext{v}}2.1\$ P/Q형 전압개폐 칼슘통로 ***CACNA1A*** 변이), **FHM 2**(약 20%, \$ ext{Na}^+ ext{-K}^+ ext{ ATPase}\$ ***ATP1A2*** 변이), **FHM 3**(신경 전압개폐 나트륨통로 ***SCN1A*** 변이).
+> * **가족성 반신마비 편두통 (FHM) 유전자**: **FHM 1**(약 50%, $\text{Ca}_{\text{v}}2.1$ P/Q형 전압개폐 칼슘통로 **CACNA1A** 변이), **FHM 2**(약 20%, $\text{Na}^+\text{-K}^+\text{ ATPase}$ **ATP1A2** 변이), **FHM 3**(신경 전압개폐 나트륨통로 **SCN1A** 변이).
 
 Figure 422-1 Brainstem pathways that modulate sensory input. The key pathway for pain in migraine is the trigeminovascular input from the meningeal vessels, which passes through the trigeminal ganglion and synapses on second-order neurons in the trigeminocervical complex (TCC). ![[Harrison_V2_Ch422_Fig1.png]]  
 Figure 422-2 Positron emission tomography (PET) activation in migraine. Hypothalamic, dorsal midbrain, and dorsolateral pontine activation is seen in triggered attacks in the premonitory phase before pain, whereas in migraine attacks, dorsolateral pontine activation persists. ![[Harrison_V2_Ch422_Fig2.png]]  
@@ -234,11 +230,13 @@ Figure 422-4 The Migraine Disability Assessment Score (MIDAS) Questionnaire. ![[
 
 ### **6.2 편두통의 급성기 및 예방 치료 (Tables 422-4 to 422-6, pp. 3100–3103)**
 
+![[Harrison_V2_Ch422_Tab4.png]]
+
 > * **급성기 편두통 치료 (Tables 422-4 & 422-5, pp. 3100–3102)**:  
 > * **단순 진통제 및 NSAID**: 아세트아미노펜+아스피린+카페인 복합제, naproxen($220ext–550\ extmg$ PO bid), ibuprofen($400\ extmg$ PO q3–4h), tolfenamic acid($200\ extmg$ PO), diclofenac K($50\ extmg$ PO). 아스피린 + metoclopramide 병용은 경구 sumatriptan 단일 투여와 효과가 대등하다.  
 > * $5ext{-HT}_{1extB/1extD}$ **수용체 작용제 (트립탄 및 에르고타민)**: 경구 트립탄 7종 중 인구 집단 기준으로 **rizatriptan**($5ext–10\ extmg$, 최대 $30\ extmg/d$)과 **eletriptan**($40ext–80\ extmg$)의 효능이 가장 높고, almotriptan($12.5\ extmg$)은 sumatriptan($50ext–100\ extmg$)과 효능이 유사하면서 내약성이 더 좋으며, naratriptan($2.5\ extmg$)과 frovatriptan($2.5\ extmg$)은 작용 발현이 느리나 내약성이 우수하다(심혈관·뇌혈관 질환 병력자에서는 트립탄 금기; sumatriptan과 장기작용 NSAID인 **naproxen $500\ extmg$ 병용** 시 초기 효과를 높이고 두통 재발률을 줄임). 비경구 제형으로 비강 스프레이(dihydroergotamine $0.5\ extmg$ 2회, sumatriptan $5ext–20\ extmg$, zolmitriptan $5\ extmg$)와 주사제(sumatriptan $6\ extmg$ SC [50–80% 유효], dihydroergotamine $1\ extmg$ IV/IM/SC [정점 도달 전 IM/SC 투여 시 80–90% 유효])가 있다.  
 > * **도파민 수용체 길항제 및 신경조절술**: 위장관 운동 저하로 약물 흡수가 지연되므로 경구 metoclopramide $10\ extmg$ 또는 domperidone $10\ extmg$을 병용하거나, 중증 발작 시 정주 **prochlorperazine $5\ extmg$ + dihydroergotamine $0.5\ extmg$**을 2분에 걸쳐 투여한다(응급실 무작위 임상시험에서 prochlorperazine이 아편유사제 hydromorphone보다 우월함). 비약물적 급성 치료로 **단일펄스 경두개자기자극술(sTMS, SpringTMS)**과 **비침습적 미주신경자극술(nVNS, gammaCore, 120초 자극 1–2회)**이 FDA 승인을 받았다. 주 2일 이상 두통이 있는 환자는 **약물과용두통(medication-overuse headache)**을 주의해야 한다.  
-> * **편두통 예방 치료 (Table 422-6, p. 3103)**:  
+> * **편두통 예방 치료 (Table 422-6, p. 3103)**: ![[Harrison_V2_Ch422_Tab6.png]]  
 > * 월 4회 이상 발작 시 고려하며 개별 약제의 성공 확률은 약 **50%**이고 효과 발현에 2–12주가 소요된다(안정화 후 약 6개월 유지 뒤 서서히 감량).  
 > * **FDA 승인 예방 약제 및 기기**: **Propranolol**($40ext–120\ extmg$ bid), **timolol**, **sodium valproate**($400ext–600\ extmg$ bid), **topiramate**($25ext–200\ extmg/d$), 만성 편두통에서 **onabotulinum toxin type A ($155\ extU$)**(삽화성 편두통에서는 위약 대조 시험 음성), **sTMS(4–24 pulses/d)**. 기타 유효 약제로 metoprolol($25ext–100\ extmg$ bid), amitriptyline($10ext–75\ extmg$ qhs), nortriptyline($25ext–75\ extmg$ qhs), dosulepin, venlafaxine($75ext–150\ extmg/d$), pizotifen, flunarizine($5ext–15\ extmg$ qd), candesartan($4ext–24\ extmg$ qd), phenelzine(MAOI), cyproheptadine, melatonin 및 CGRP/수용체 단클론항체(erenumab, eptinezumab, fremanezumab, galcanezumab)가 있다(verapamil은 대조 시험 근거가 불충분하고 nimodipine, clonidine, fluoxetine은 대조 시험에서 무효 입증).
 

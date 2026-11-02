@@ -16,7 +16,7 @@ type: 의학원서_요약노트
 ### **1.1 혈장 HIV RNA 수치 모니터링 (p. 1428)**
 
 ![[Harrison_V1_Ch197_Fig32.png]]
-> [그림 1: **도해 캡션 (Figure 197-32)**: CD4+ T 세포 수와 기회질환(opportunistic diseases) 발생 간의 관계. 기회질환 발생 시점의 CD4+ 림프구 수 중앙값(상자 내부 선), 제1사분위수(상자 하단), 제3사분위수(상자 상단), 평균(별표 *)을 나타낸 상자 수염 그림(boxplot)이다. 약어: Can, 칸디다 식도염(candidal esophagitis); CMV, 거대세포바이러스 감염(cytomegalovirus infection); Crp, 크립토스포리디움증(cryptosporidiosis); Cry, 크립토코쿠스 수막염(cryptococcal meningitis); DEM, AIDS 치매 복합체(AIDS dementia complex); HSV, 단순포진바이러스 감염(herpes simplex virus infection); HZos, 대상포진(herpes zoster); KS, 카포시 육종(Kaposi's sarcoma); MAC, *Mycobacterium avium* complex 균혈증; NHL, 비호지킨 림프종(non-Hodgkin's lymphoma); PCP, 일차성 *Pneumocystis jirovecii* 폐렴; PCP2, 이차성 *P. jirovecii* 폐렴; PML, 진행성 다초점 백질뇌병증(progressive multifocal leukoencephalopathy); Tox, *Toxoplasma gondii* 뇌염; WS, 소모증후군(wasting syndrome). *(출처: RD Moore, RE Chaisson: Ann Intern Med 124:633, 1996.)* (p. 1428) - **혈장 HIV RNA 측정의 임상적 가치와 주기 (p. 1428)**: - 시간에 따른 HIV RNA 수치 변화 측정은 바이러스 수치와 질환 진행 속도 간의 관계(Fig. 197-22), 바이러스 회전율(turnover rates), 면역계 활성화와 바이러스 복제 간의 관계, 약제 내성 발현까지의 시간을 규명하는 데 큰 가치를 지닌다. - HIV RNA 측정치는 면역계 활성화 상태에 크게 영향을 받으며 이차 감염이나 예방접종 상황에서 크게 변동할 수 있으므로, 단일 측정치만으로 치료 결정을 내려서는 절대 안 된다. - **측정 주기**: HIV 진단 시점과 미치료 환자에서는 이후 3~6개월마다 측정한다. 치료 시작 또는 치료 요법 변경 후에는 새로운 항정 상태(steady-state)의 HIV RNA 수치가 확립되어 치료 요법의 효과가 판정될 때까지 약 4주마다 모니터링한다. - 효과적인 항레트로바이러스 치료(antiretroviral therapy)의 대다수 사례에서 혈장 HIV RNA 수치는 치료 시작 후 6개월 이내에 \<50 copies/mL로 떨어진다. 치료 중에는 지속적인 효과를 평가하기 위해 3~6개월마다 모니터링한다. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 32]
+> [그림 1: **도해 캡션 (Figure 197-32)**: CD4+ T 세포 수와 기회질환(opportunistic diseases) 발생 간의 관계. 기회질환 발생 시점의 CD4+ 림프구 수 중앙값(상자 내부 선), 제1사분위수(상자 하단), 제3사분위수(상자 상단), 평균(별표 *)을 나타낸 상자 수염 그림(boxplot)이다. 약어: Can, 칸디다 식도염(candidal esophagitis); CMV, 거대세포바이러스 감염(cytomegalovirus infection); Crp, 크립토스포리디움증(cryptosporidiosis); Cry, 크립토코쿠스 수막염(cryptococcal meningitis); DEM, AIDS 치매 복합체(AIDS dementia complex); HSV, 단순포진바이러스 감염(herpes simplex virus infection); HZos, 대상포진(herpes zoster); KS, 카포시 육종(Kaposi's sarcoma); MAC, *Mycobacterium avium* complex 균혈증; NHL, 비호지킨 림프종(non-Hodgkin's lymphoma); PCP, 일차성 *Pneumocystis jirovecii* 폐렴; PCP2, 이차성 *P. jirovecii* 폐렴; PML, 진행성 다초점 백질뇌병증(progressive multifocal leukoencephalopathy); Tox, *Toxoplasma gondii* 뇌염; WS, 소모증후군(wasting syndrome). *(출처: RD Moore, RE Chaisson: Ann Intern Med 124:633, 1996.)* (p. 1428) - **혈장 HIV RNA 측정의 임상적 가치와 주기 (p. 1428)**: - 시간에 따른 HIV RNA 수치 변화 측정은 바이러스 수치와 질환 진행 속도 간의 관계(Fig. 197-22), 바이러스 회전율(turnover rates), 면역계 활성화와 바이러스 복제 간의 관계, 약제 내성 발현까지의 시간을 규명하는 데 큰 가치를 지닌다. - HIV RNA 측정치는 면역계 활성화 상태에 크게 영향을 받으며 이차 감염이나 예방접종 상황에서 크게 변동할 수 있으므로, 단일 측정치만으로 치료 결정을 내려서는 절대 안 된다. - **측정 주기**: HIV 진단 시점과 미치료 환자에서는 이후 3~6개월마다 측정한다. 치료 시작 또는 치료 요법 변경 후에는 새로운 항정 상태(steady-state)의 HIV RNA 수치가 확립되어 치료 요법의 효과가 판정될 때까지 약 4주마다 모니터링한다. - 효과적인 항레트로바이러스 치료(antiretroviral therapy)의 대다수 사례에서 혈장 HIV RNA 수치는 치료 시작 후 6개월 이내에 \<50 copies/mL로 떨어진다. 치료 중에는 지속적인 효과를 평가하기 위해 3~6개월마다 모니터링한다. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 32] ![[Harrison_V1_Ch197_Fig22.png]]  
 
 ### **1.2 HIV 약제 내성 검사 (HIV Resistance Testing) (p. 1428)**
 
@@ -38,7 +38,7 @@ type: 의학원서_요약노트
 > * 대안으로 HIV-1 V3 부위의 유전형 검사를 얻어 컴퓨터 알고리즘으로 바이러스 친화성을 예측하는 방법이 있으나(비용은 낮음), 예측 가치를 검증하는 데이터는 더 적다.  
 > * **기타 질병 활성도 표지자 (pp. 1428–1429)**:  
 > * 혈장·말초혈액 단핵구(PBMC)·휴지기 기억 CD4+ T 세포에서의 복제 가능 HIV 정량 배양, 순환 ${\beta }_{2}$-microglobulin, 가용성 IL-2 수용체, IgA, 산-불안정 내인성 IFN, TNF-$\alpha$ 수치, CD4+ 또는 CD8+ T 세포 표면의 활성화 표지자(CD38, HLA-DR, PD-1) 유무 등이 연구되었다.  
-> * IL-6, D-dimer, sCD14 같은 비특이적 염증 및/또는 응고 혈청 표지자는 모든 원인에 의한 사망률(all-cause mortality)과 높은 상관관계를 보인다(Table 197-9). 다만 현재 환자 모니터링에서 주요 역할을 하지는 않는다.
+> * IL-6, D-dimer, sCD14 같은 비특이적 염증 및/또는 응고 혈청 표지자는 모든 원인에 의한 사망률(all-cause mortality)과 높은 상관관계를 보인다(Table 197-9). 다만 현재 환자 모니터링에서 주요 역할을 하지는 않는다. ![[Harrison_V1_Ch197_Tab9.png]]  
 
 > ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
 > [그림 2: **표 캡션 (Table 197-9)**: HIV 감염 환자에서 고감도 CRP(Hs-CRP), IL-6, D-Dimer와 모든 원인에 의한 사망률 간의 연관성 *(출처: LH Kuller et al: PLoS Med 5:e203, 2008.)* (p. 1429) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 9]
@@ -56,7 +56,7 @@ type: 의학원서_요약노트
 > * **임상 스펙트럼 (p. 1429)**: 일차 감염과 연관된 급성 증후군에서 장기간의 무증상 상태, 진행성 질환에 이르는 스펙트럼을 포괄한다. 드문 진정한 "엘리트(elite)" 바이러스 조절자나 장기 비진행자(long-term nonprogressors)를 제외하면, 미치료 환자의 HIV 질환은 임상적 잠복기 동안에도 끊임없이 진행한다. 1990년대 중반 이후 cART의 도입으로 오늘날 HIV 감염을 진단받고 cART로 치료받는 사람은 정상에 가까운 기대수명을 가진다.  
 > * **급성 HIV 증후군 (p. 1429)**:  
 > * HIV 감염자의 50~70%가 일차 감염 후 ~3–6주에 급성 임상 증후군을 경험한다(Fig. 197-33). 급성 HIV 감염 시 초기 바이러스혈증 폭발(burst of viremia) 수준과 이후 질환 경과 간에는 상관관계가 없는 것으로 보인다.  
-> * 전형적인 임상 소견(Table 197-10)은 혈장 바이러스혈증 폭발과 함께 나타나며, 주사 약물 사용자(IDU)로 감염된 경우 성접촉으로 감염된 경우보다 발열, 피부 발진, 인두염, 근육통 같은 여러 증상이 덜 빈번하게 발생한다고 보고되었다.  
+> * 전형적인 임상 소견(Table 197-10)은 혈장 바이러스혈증 폭발과 함께 나타나며, 주사 약물 사용자(IDU)로 감염된 경우 성접촉으로 감염된 경우보다 발열, 피부 발진, 인두염, 근육통 같은 여러 증상이 덜 빈번하게 발생한다고 보고되었다. ![[Harrison_V1_Ch197_Tab10.png]]  
 > * 급성 전염성 단핵구증(infectious mononucleosis)과 유사한 급성 바이러스 증후군 양상을 보이며, 증상은 대개 1주에서 수주간 지속되다가 HIV에 대한 면역반응이 발달하고 혈장 바이러스혈증 수치가 감소함에 따라 서서히 호전된다.  
 > * 급성 감염의 단계는 **Fiebig 병기 체계(Fiebig staging system)**를 사용하여 Stage I(HIV RNA 단독 양성)부터 Stage VI(HIV RNA 및 완전한 웨스턴 블롯 양성)까지 기술한다.  
 > * **면역학적 이상**: 초기에는 총 림프구 및 T 세포 아집단(CD4+, CD8+) 수가 모두 감소하며, 이후 CD8+ T 세포 수 증가로 인해 CD4+/CD8+ T 세포 비율 역전이 발생한다. 일차 HIV 감염자의 ~70%에서 림프절병증(lymphadenopathy)이 발생한다. 환자의 약 10%는 초기 증상 소실 후에도 급격한(fulminant) 면역학적·임상적 악화 경과를 보인다.
@@ -80,26 +80,26 @@ type: 의학원서_요약노트
 ### **3.1 증상성 질환의 총론 및 기회감염 예방 지침 (pp. 1430–1433)**
 
 > * **AIDS 진단 기준 및 사망 원인의 변화 (p. 1430)**:  
-> * 6세 이상의 HIV 감염자에서 CD4+ T 세포 수가 \<200/µL(Stage 3, Table 197-2)이거나 세포매개 면역의 중증 결함을 시사하는 HIV 연관 질환(Table 197-1)이 발생한 경우 AIDS로 진단한다.  
-> * cART와 기회감염 예방 지침(Table 197-11) 도입 이후 이차 감염 발생률은 극적으로 감소했다(Fig. 197-34).  
+> * 6세 이상의 HIV 감염자에서 CD4+ T 세포 수가 \<200/µL(Stage 3, Table 197-2)이거나 세포매개 면역의 중증 결함을 시사하는 HIV 연관 질환(Table 197-1)이 발생한 경우 AIDS로 진단한다. ![[Harrison_V1_Ch197_Tab2.png]] ![[Harrison_V1_Ch197_Tab1.png]]  
+> * cART와 기회감염 예방 지침(Table 197-11) 도입 이후 이차 감염 발생률은 극적으로 감소했다(Fig. 197-34). ![[Harrison_V1_Ch197_Tab11.png]]  
 > * 선진국에서 AIDS 관련 질환은 HIV 감염자 사망의 약 25%만을 차지하며, 비-AIDS 정의 악성종양(non-AIDS-defining malignancies)이 유사한 비율(~25%)을 차지하고, 심혈관 질환과 간 질환이 각각 약 15%의 사망을 차지한다.  
 > * **표 (Table 197-11)**: HIV 감염인의 기회감염 예방을 위한 2013 NIH/CDC/IDSA 가이드라인 (pp. 1431–1433)
 
 | 병원체 (Pathogen) | 적응증 (Indications) | 1차 선택 약제 (First Choice) | 대안 약제 (Alternatives)   |
 | :---- | :---- | :---- | :---- |
-| ***Pneumocystis jirovecii*** | CD4+ \<200/µL 또는 구강인두 칸디다증 또는 이전 PCP 병력 (CD4+ >200/µL가 $\geq 3$개월 유지 시 중단 가능) | TMP-SMX 1 DS 정 qd PO 또는 1 SS 정 qd PO | Dapsone 50 mg bid 또는 100 mg/d PO; Dapsone 50 mg/d + Pyrimethamine 50 mg/wk + Leucovorin 25 mg/wk PO; (Dapsone 200 mg + Pyrimethamine 75 mg + Leucovorin 25 mg) 매주 PO; 에어로졸 pentamidine 300 mg(Respirgard II) 매월; Atovaquone 1500 mg/d PO; TMP-SMX 1 DS 정 주 3회 PO |
-| ***M. tuberculosis*** **(INH 감수성)** | 피부반응검사 >5 mm 또는 IGRA 양성 또는 치료받지 않은 과거 양성 또는 활동성 폐결핵 환자와의 밀접 접촉 | (Isoniazid 300 mg + Pyridoxine 25 mg) qd PO $\times$ 9개월 또는 Isoniazid 900 mg 주 2회 PO + Pyridoxine 25 mg qd PO $\times$ 9개월 | Rifabutin(cART에 따라 용량 조절) 또는 Rifampin 600 mg qd PO $\times$ 4개월 (약제내성 결핵 노출 가능성이 높으면 보건당국 자문) |
-| ***Mycobacterium avium*** **complex (MAC)** | 1차: CD4+ \<50/µL (CD4+ >100/µL가 $\geq 6$개월 유지 시 중단 가능) 2차: 과거 파종성 질환 확인 | 1차: Azithromycin 1200 mg 주 1회(또는 600 mg 주 2회) PO 또는 Clarithromycin 500 mg bid PO 2차: Clarithromycin 500 mg bid PO + Ethambutol 15 (mg/kg)/d PO | 1차: Rifabutin(cART에 따라 용량 조절) 2차: Azithromycin 500–600 mg/d PO + Ethambutol 15 (mg/kg)/d PO |
-| ***Toxoplasma gondii*** | 1차: Toxo IgG 양성 및 CD4+ \<100/µL 2차: 과거 톡소플라스마 뇌염 및 CD4+ \<200/µL (1·2차 모두 CD4+ >200/µL가 $\geq 3$개월[본문 p.1445는 2차 6개월] 유지 시 중단 가능) | 1차: TMP-SMX 1 DS 정 qd PO 2차: Sulfadiazine 2000–4000 mg(2~4회 분복)/d PO + Pyrimethamine 25–50 mg/d PO + Leucovorin 10–25 mg/d PO | 1차: TMP-SMX 1 DS 주 3회 또는 1 SS qd PO; Dapsone + Pyrimethamine + Leucovorin; Atovaquone 1500 mg qd PO $\pm$ (Pyrimethamine 25 mg + Leucovorin 10 mg) qd PO 2차: Clindamycin 600 mg q8h PO + Pyrimethamine 25–50 mg/d + Leucovorin 10–25 mg/d PO; TMP-SMX 1 DS bid; Atovaquone 750–1500 mg bid $\pm$ (Pyrimethamine + Leucovorin) |
+| **Pneumocystis jirovecii** | CD4+ \<200/µL 또는 구강인두 칸디다증 또는 이전 PCP 병력 (CD4+ >200/µL가 $\geq 3$개월 유지 시 중단 가능) | TMP-SMX 1 DS 정 qd PO 또는 1 SS 정 qd PO | Dapsone 50 mg bid 또는 100 mg/d PO; Dapsone 50 mg/d + Pyrimethamine 50 mg/wk + Leucovorin 25 mg/wk PO; (Dapsone 200 mg + Pyrimethamine 75 mg + Leucovorin 25 mg) 매주 PO; 에어로졸 pentamidine 300 mg(Respirgard II) 매월; Atovaquone 1500 mg/d PO; TMP-SMX 1 DS 정 주 3회 PO |
+| **M. tuberculosis** **(INH 감수성)** | 피부반응검사 >5 mm 또는 IGRA 양성 또는 치료받지 않은 과거 양성 또는 활동성 폐결핵 환자와의 밀접 접촉 | (Isoniazid 300 mg + Pyridoxine 25 mg) qd PO $\times$ 9개월 또는 Isoniazid 900 mg 주 2회 PO + Pyridoxine 25 mg qd PO $\times$ 9개월 | Rifabutin(cART에 따라 용량 조절) 또는 Rifampin 600 mg qd PO $\times$ 4개월 (약제내성 결핵 노출 가능성이 높으면 보건당국 자문) |
+| **Mycobacterium avium** **complex (MAC)** | 1차: CD4+ \<50/µL (CD4+ >100/µL가 $\geq 6$개월 유지 시 중단 가능) 2차: 과거 파종성 질환 확인 | 1차: Azithromycin 1200 mg 주 1회(또는 600 mg 주 2회) PO 또는 Clarithromycin 500 mg bid PO 2차: Clarithromycin 500 mg bid PO + Ethambutol 15 (mg/kg)/d PO | 1차: Rifabutin(cART에 따라 용량 조절) 2차: Azithromycin 500–600 mg/d PO + Ethambutol 15 (mg/kg)/d PO |
+| **Toxoplasma gondii** | 1차: Toxo IgG 양성 및 CD4+ \<100/µL 2차: 과거 톡소플라스마 뇌염 및 CD4+ \<200/µL (1·2차 모두 CD4+ >200/µL가 $\geq 3$개월[본문 p.1445는 2차 6개월] 유지 시 중단 가능) | 1차: TMP-SMX 1 DS 정 qd PO 2차: Sulfadiazine 2000–4000 mg(2~4회 분복)/d PO + Pyrimethamine 25–50 mg/d PO + Leucovorin 10–25 mg/d PO | 1차: TMP-SMX 1 DS 주 3회 또는 1 SS qd PO; Dapsone + Pyrimethamine + Leucovorin; Atovaquone 1500 mg qd PO $\pm$ (Pyrimethamine 25 mg + Leucovorin 10 mg) qd PO 2차: Clindamycin 600 mg q8h PO + Pyrimethamine 25–50 mg/d + Leucovorin 10–25 mg/d PO; TMP-SMX 1 DS bid; Atovaquone 750–1500 mg bid $\pm$ (Pyrimethamine + Leucovorin) |
 | **Varicella zoster virus** | 예방접종력이나 과거 감염력이 없는 환자에서 수두 또는 대상포진에 유의한 노출 | 노출 10일 이내 Varicella zoster 면역글로불린(VZIG) IM | Acyclovir 800 mg 하루 5회 PO 5–7일 또는 Valacyclovir 1 g tid PO 5–7일 |
-| ***Cryptococcus neoformans*** | 과거 확인된 질환 (CD4+ >100/µL, 활동성 진균 감염 증거 없음, HIV RNA \<500 copies/mL가 >3개월 유지 시 중단 가능) | Fluconazole 200 mg/d PO | Itraconazole 200 mg/d PO |
-| ***Histoplasma capsulatum*** | 과거 확인된 질환 또는 CD4+ \<150/µL이면서 고위험(토착 지역 또는 직업적 노출). 1년 후 CD4+ >150/µL 및 cART $\geq 6$개월 시 중단 가능 | Itraconazole 200 mg bid PO | Fluconazole 400 mg/d PO |
-| ***Coccidioides immitis*** | 과거 확인된 질환 또는 토착 지역 출신으로 혈청 양성 및 CD4+ \<250/µL (이 적응증은 CD4+ $\geq 250$이 6개월 유지 시 중단 가능) | Fluconazole 400 mg/d PO | — |
-| ***Penicillium marneffei*** | 과거 확인된 질환 또는 태국 북부·중국 남부·베트남 거주/체류 중인 CD4+ \<100 환자 (ARV 치료 중 CD4+ >100/µL가 $\geq 6$개월 유지 시 2차 예방 중단 가능) | Itraconazole 200 mg/d PO | Fluconazole 400 mg 주 1회 PO |
-| ***Salmonella*** **species** | 과거 재발성 균혈증 | Ciprofloxacin 500 mg bid PO $\geq 6$개월 | — |
-| ***Bartonella*** | 과거 감염 (CD4+ >200/µL가 >3개월 유지 시 중단 가능) | Doxycycline 200 mg/d PO 또는 Azithromycin 1200 mg 주 1회 PO 또는 Clarithromycin 500 mg bid PO | — |
+| **Cryptococcus neoformans** | 과거 확인된 질환 (CD4+ >100/µL, 활동성 진균 감염 증거 없음, HIV RNA \<500 copies/mL가 >3개월 유지 시 중단 가능) | Fluconazole 200 mg/d PO | Itraconazole 200 mg/d PO |
+| **Histoplasma capsulatum** | 과거 확인된 질환 또는 CD4+ \<150/µL이면서 고위험(토착 지역 또는 직업적 노출). 1년 후 CD4+ >150/µL 및 cART $\geq 6$개월 시 중단 가능 | Itraconazole 200 mg bid PO | Fluconazole 400 mg/d PO |
+| **Coccidioides immitis** | 과거 확인된 질환 또는 토착 지역 출신으로 혈청 양성 및 CD4+ \<250/µL (이 적응증은 CD4+ $\geq 250$이 6개월 유지 시 중단 가능) | Fluconazole 400 mg/d PO | — |
+| **Penicillium marneffei** | 과거 확인된 질환 또는 태국 북부·중국 남부·베트남 거주/체류 중인 CD4+ \<100 환자 (ARV 치료 중 CD4+ >100/µL가 $\geq 6$개월 유지 시 2차 예방 중단 가능) | Itraconazole 200 mg/d PO | Fluconazole 400 mg 주 1회 PO |
+| **Salmonella** **species** | 과거 재발성 균혈증 | Ciprofloxacin 500 mg bid PO $\geq 6$개월 | — |
+| **Bartonella** | 과거 감염 (CD4+ >200/µL가 >3개월 유지 시 중단 가능) | Doxycycline 200 mg/d PO 또는 Azithromycin 1200 mg 주 1회 PO 또는 Clarithromycin 500 mg bid PO | — |
 | **Cytomegalovirus (CMV)** | 과거 말단 장기 질환(end-organ disease). CD4+ >100/µL가 6개월간 유지되고 활동성 CMV 증거 없으면 중단 가능(과거 망막염 환자는 CD4+ \<100/µL 시 재개) | Valganciclovir 900 mg bid PO | Cidofovir 5 mg/kg 격주 IV + Probenecid 또는 Foscarnet 90–120 (mg/kg)/d IV |
-| **권장 예방접종** | HBV(anti-HBc 및 anti-HBs 음성): 3회; HAV(anti-HAV 음성): 2회; 인플루엔자: 매년 불활성화 3가 백신 1회(대안: Oseltamivir 75 mg qd 또는 Rimantadine/amantadine 100 mg bid[A형만]); *S. pneumoniae*: 가급적 CD4+ \$\\le 200/\\mu\\text{L}\$ 이전에 PCV13 0.5 mL IM $\times 1$ 투여 후 $\geq 8$주 뒤 CD4+ >200/µL이면 PPSV23 투여(CD4+ \<100/µL에서 첫 접종 후 >200/µL로 상승 시 재접종); HPV(13–26세 모든 환자): 3회 |  |  |
+| **권장 예방접종** | HBV(anti-HBc 및 anti-HBs 음성): 3회; HAV(anti-HAV 음성): 2회; 인플루엔자: 매년 불활성화 3가 백신 1회(대안: Oseltamivir 75 mg qd 또는 Rimantadine/amantadine 100 mg bid[A형만]); *S. pneumoniae*: 가급적 CD4+ $\le 200/\mu\text{L}$ 이전에 PCV13 0.5 mL IM $\times 1$ 투여 후 $\geq 8$주 뒤 CD4+ >200/µL이면 PPSV23 투여(CD4+ \<100/µL에서 첫 접종 후 >200/µL로 상승 시 재접종); HPV(13–26세 모든 환자): 3회 |  |  |
 
 ![[Harrison_V1_Ch197_Fig34.png]]
 > [그림 5: **도해 캡션 (Figure 197-34)**: **A.** 1992년부터 1998년까지 CD4+ T 세포 수 \<100/µL인 HIV 감염인에서 기회감염 및 카포시 육종 발생률(100인년당)의 감소. *(Adapted from FJ Palella et al: N Engl J Med 338:853, 1998, and JE Kaplan et al: Clin Infect Dis 30[S1]:S5, 2000.)* **B.** 1995년부터 2001년까지 CMV, *Pneumocystis jirovecii* 폐렴(PCP), *Mycobacterium avium* complex(MAC)의 분기별 발생률(100인년당). *(From FJ Palella et al: AIDS 16:1617, 2002.)* (p. 1433) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 34]
@@ -108,7 +108,7 @@ type: 의학원서_요약노트
 
 > * **급성 기관지염 및 부비동염 (p. 1430)**: 모든 병기에서 흔하며 상악동(maxillary sinuses)이 가장 흔히 침범되나 사골동·접형동·전두동에서도 흔히 관찰된다. *H. influenzae*, *S. pneumoniae* 등 피막 보유 세균 감염 빈도 증가 때문으로 추정되며, 낮은 CD4+ T 세포 수에서는 진행이 비교적 느린 부비동 털곰팡이증(mucormycosis)이 발생할 수 있다(반복적 국소 변연절제술 및 국소·전신 암포테리신 B로 치료).  
 > * **세균성 폐렴 (p. 1430)**: 100인년당 0.8–2.0건으로 발생률이 증가한다. *S. pneumoniae*와 *H. influenzae*가 대부분을 차지하며 *S. aureus*, *P. aeruginosa*도 증가한다. 미치료 HIV 감염자는 폐렴구균 폐렴 발생률이 **6배**, 폐렴구균 균혈증 발생률이 **100배** 높다. 첫 폐렴구균 폐렴 발생 시점의 기저 CD4+ T 세포 수는 ~300/µL였다. 금연 시 세균성 폐렴 발생률이 절반으로 줄어든다.  
-> * ***Pneumocystis*** **폐렴 (PCP) (pp. 1430, 1433)**:  
+> * **Pneumocystis** **폐렴 (PCP) (pp. 1430, 1433)**:  
 > * 미국 내 HIV 감염자 폐렴 원인의 25%를 차지하는 단일 최다 원인(100인년당 2–3건)이며, 약 30%는 본인의 HIV 감염 사실을 모르는 환자에서 발생한다. PCP 환자의 79%는 CD4+ \<100/µL, 95%는 \<200/µL이다. 미국에서 일차성 PCP는 중앙값 CD4+ 36/µL, 이차성 PCP는 중앙값 10/µL에서 발생한다.  
 > * 흡기 시 악화되는 특징적인 날카롭거나 타는 듯한 흉골후방 흉통(retrosternal chest pain), 발열, 마른기침을 호소한다. 에어로졸 펜타미딘 예방요법 중인 환자에서는 결핵과 유사한 상엽 공동성 병변(upper lobe cavitary disease)이나 폐외 소견(외이도 폴립양 종괴, 맥관막 안구 병변, Buerger 병 유사 괴사성 혈관염, 골수 형성저하증, 장폐색 등)이 나타날 수 있다.  
 > * **치료**: 표준 치료는 TMP-SMX(21일간 투여 후 2차 예방)이며 HIV 환자에서 피부 발진·골수억제 등 부작용 발생률이 20–85%로 높다. 경증~중등도 대안은 dapsone/trimethoprim, clindamycin/primaquine, atovaquone이고 중증 불내성 환자에서는 IV pentamidine이 선택약이다. $Pa{O}_{2}<70mmHg$ 또는 폐포-동맥 산소분압차(a-a gradient) >35 mmHg인 환자에서는 보조적 글루코코르티코이드를 병용한다.  
@@ -118,7 +118,7 @@ type: 의학원서_요약노트
 > * **cART 시작 시점**: IRIS 위험 때문에 CD4 수치가 >50 cells/µL인 항레트로바이러스 미치료 환자에서는 결핵 치료 시작 후 **2~4주**까지 cART 시작을 지연하는 것이 권장된다. 반면 CD4 \<50 cells/µL인 환자에서는 즉각적인 cART의 이득이 IRIS 위험을 상회하므로 가능한 한 빨리 cART를 시작한다.  
 > * **비정형 마이코박테리아 감염 (MAC 등) 및 기타 호흡기 질환 (pp. 1434–1435)**:  
 > * **MAC (*M. avium* 또는 *M. intracellulare*)**: 대개 CD4+ \<50/µL(진단 시 평균 CD4+ 10/µL)에서 발생하는 후기 합병증이다. 최소 85%에서 마이코박테리아혈증(mycobacteremic)이 있으며, 흉부 X선은 ~25%에서 비정상이다. 치료는 마크로라이드(대개 clarithromycin) + ethambutol(광범위 질환 시 rifabutin, ciprofloxacin, amikacin 중 제3약제 추가 가능)이다.  
-> * ***Rhodococcus equi***: 그람양성 다형성 항산성 비아포형성 간균으로 공동성 폐병변 및 균혈증을 유발한다.  
+> * **Rhodococcus equi**: 그람양성 다형성 항산성 비아포형성 간균으로 공동성 폐병변 및 균혈증을 유발한다.  
 > * **폐 진균 감염**: 폐 크립토코쿠스증(>90%에서 흉부 X선 침윤, 절반 이상 진균혈증, 90%에서 CNS 감염 동반), *Coccidioides immitis*(대개 CD4+ \<250/µL, 25%에서 혈청 음성), 침습성 아스페르길루스증(호중구감소증이나 글루코코르티코이드 투여 시 주로 발생, 기관지 내 위막성 기관기관지염 양상 가능), 히스토플라스마증(파종성 재활성화가 흔하며 ~50%에서 흉부 X선 이상, 소변 항원 양성).  
 > * **특발성 간질성 폐렴 및 폐동맥 고혈압 (pp. 1434–1435)**: 림프구성 간질성 폐렴(LIP, 미치료 성인의 약 1%, 소아에서 흔함)과 비특이적 간질성 폐렴(NIP, 미치료 환자의 최대 절반에서 조직학적 증거)은 대개 자연 호전된다. HIV 관련 폐동맥 고혈압(HIV-PAH)은 약 0.5%에서 관찰되며 중앙 생존기간이 약 2년으로 예후가 불량하다.
 
@@ -147,7 +147,7 @@ type: 의학원서_요약노트
 
 > * **장관 감염 및 설사 (pp. 1435–1437)**:  
 > * **세균성**: *Salmonella*(미치료 HIV 환자에서 *S. typhimurium* 감염 위험 약 20배 증가, 장기 ciprofloxacin 치료 권장), *Shigella*(특히 *S. flexneri*, 최대 50%에서 균혈증 동반), *Campylobacter*(대개 *C. jejuni*, 최대 10%에서 균혈증, 대부분 erythromycin 감수성), MAC 등.  
-> * **원충성**: **크립토스포리디움(Cryptosporidia)**(미치료 CD4+ \<300/µL에서 연간 ~1% 발생, 75%에서 복통, 25%에서 오심/구토, 유두부 협착에 의한 담낭염·담관염·췌장염 유발 가능; 산성 염색 난포낭 확인; cART 및 최대 2000 mg/d nitazoxanide[약 절반에서 증상 호전]), **마이크로포자충(Microsporidia)**(주로 *Enterocytozoon bieneusi*, chromotrope 염색 또는 전자현미경 확진, cART 및 albendazole 400 mg bid), ***Isospora belli***(대형 항산성 포낭, TMP-SMX에 잘 반응하며 주 3회 유지요법으로 재발 예방).  
+> * **원충성**: **크립토스포리디움(Cryptosporidia)**(미치료 CD4+ \<300/µL에서 연간 ~1% 발생, 75%에서 복통, 25%에서 오심/구토, 유두부 협착에 의한 담낭염·담관염·췌장염 유발 가능; 산성 염색 난포낭 확인; cART 및 최대 2000 mg/d nitazoxanide[약 절반에서 증상 호전]), **마이크로포자충(Microsporidia)**(주로 *Enterocytozoon bieneusi*, chromotrope 염색 또는 전자현미경 확진, cART 및 albendazole 400 mg bid), **Isospora belli**(대형 항산성 포낭, TMP-SMX에 잘 반응하며 주 3회 유지요법으로 재발 예방).  
 > * **CMV 대장염**: 과거 AIDS 환자의 5–10%에서 발생했으며 비혈성 설사, 다발성 점막 궤양 및 핵내·세포질내 봉입체를 보인다(ganciclovir 또는 foscarnet 3~6주 치료).  
 > * **HIV 장병증(AIDS/HIV enteropathy)**: 초기 대변 검사에서 약 50%가 진단되고, 음성 시 상·하부 내시경 생검으로 약 30%에서 소장 마이크로포자충증이나 마이코박테리아 감염이 진단되며, 모두 음성이고 설사가 >1개월 지속될 때 추정 진단한다(Fig. 197-37).  
 > * **직장 병변**: HSV 재활성화에 의한 직장주위 궤양·미란(Fig. 197-38; valacyclovir, famciclovir, foscarnet에 반응), 첨규콘딜로마(condylomata acuminata), 카포시 육종, 상피내 종양 등.  
@@ -199,9 +199,9 @@ type: 의학원서_요약노트
 ### **3.8 조혈기계 및 피부 질환 (pp. 1441–1443)**
 
 > * **조혈기계 질환 (pp. 1441–1442)**:  
-> * **골수억제 원인 (Table 197-13)**: 기저 질환(HIV 감염, 마이코박테리아 감염, 진균 감염, 파르보바이러스 B19 감염, 림프종) 및 약제(Zidovudine, Dapsone, TMP-SMX, Pyrimethamine, 5-Flucytosine, Ganciclovir, Interferon $\alpha$, Trimetrexate, Foscarnet).  
+> * **골수억제 원인 (Table 197-13)**: 기저 질환(HIV 감염, 마이코박테리아 감염, 진균 감염, 파르보바이러스 B19 감염, 림프종) 및 약제(Zidovudine, Dapsone, TMP-SMX, Pyrimethamine, 5-Flucytosine, Ganciclovir, Interferon $\alpha$, Trimetrexate, Foscarnet). ![[Harrison_V1_Ch197_Tab13.png]]  
 > * **지속성 전신 림프절병증(PGL)**: 원인 없이 2개 이상의 서혜부 외 부위에서 >1 cm의 림프절 비대가 >3개월 지속되는 상태. 3%에서 의미 불명의 단클론성 감마병증(MGUS)이 보고된다.  
-> * **빈혈·호중구감소증·혈소판감소증**: 빈혈이 가장 흔하며 zidovudine은 적혈구 성숙 차단 및 평균적혈구용적(MCV) 상승을, dapsone은 G6PD 결핍 환자에서 용혈성 빈혈 및 메트헤모글로빈혈증을, 파르보바이러스 B19는 IVIg에 반응하는 빈혈을 유발한다. 호중구감소증은 약 절반에서 관찰된다. 혈소판감소증(25-kDa 혈소판 표면 성분에 대한 항체 등 연관)은 미치료 CD4+ \$\\ge 400/\\mu\\text{L}\$의 3%, \<400/µL의 10%에서 혈소판 \<150,000/µL로 나타나며 cART에 잘 반응한다(\<20,000/µL 시 IVIg 또는 anti-Rh Ig + cART). 비장절제술 시 말초혈액 림프구 수가 증가하므로 CD4+ T 세포 절대수 대신 **CD4+ 백분율(15% \$\\approx 200/\\mu\\text{L}\$)**로 면역능을 평가해야 한다.  
+> * **빈혈·호중구감소증·혈소판감소증**: 빈혈이 가장 흔하며 zidovudine은 적혈구 성숙 차단 및 평균적혈구용적(MCV) 상승을, dapsone은 G6PD 결핍 환자에서 용혈성 빈혈 및 메트헤모글로빈혈증을, 파르보바이러스 B19는 IVIg에 반응하는 빈혈을 유발한다. 호중구감소증은 약 절반에서 관찰된다. 혈소판감소증(25-kDa 혈소판 표면 성분에 대한 항체 등 연관)은 미치료 CD4+ $\ge 400/\mu\text{L}$의 3%, \<400/µL의 10%에서 혈소판 \<150,000/µL로 나타나며 cART에 잘 반응한다(\<20,000/µL 시 IVIg 또는 anti-Rh Ig + cART). 비장절제술 시 말초혈액 림프구 수가 증가하므로 CD4+ T 세포 절대수 대신 **CD4+ 백분율(15% $\approx 200/\mu\text{L}$)**로 면역능을 평가해야 한다.  
 > * **정맥 혈전색전증**: 심부정맥혈전증·폐색전증 발생률이 연간 약 1%(연령 매칭 인구 대비 약 10배)이며, 50% 이상에서 protein S 활성 감소, factor VIII 증가, 항카디오리핀 항체, 루푸스 유사 항응고인자 등 응고 이상이 보고된다.  
 > * **피부 질환 (pp. 1442–1443)**:  
 > * HIV 감염자의 >90%에서 피부 문제가 발생한다. **지루성 피부염**(일반 인구 3% vs HIV 환자 최대 50%, *Pityrosporum* 동반 가능), **모낭염**(~20%, 호산구성 농포성 모낭염 포함), 노르웨이 옴(Norwegian scabies), **대상포진**(10–20%, 재발률 ~20%), **단순포진(HSV)**(둔부 틈새 상부의 통증성 병변 및 포진성 생손앓이[herpetic whitlow]), **전염성 연속종(Molluscum contagiosum)**(배꼽 모양 함몰 병변으로 *P. marneffei*나 크립토코쿠스증과 유사), 중증 약물 발진(SJS/TEN), 황색 손발톱·모발 직모화 및 zidovudine에 의한 속눈썹 길어짐·푸른빛 손발톱 변색 등.
@@ -248,7 +248,7 @@ type: 의학원서_요약노트
 > * **척수병증·말초신경병증·근육병증 (pp. 1446–1447)**: AIDS 환자의 ~20%에서 척수병증(공포성 척수병증, 후주 감각성 운동실조, 하지 이상감각)이 나타나며, CMV 다발신경근병증(호중구 우세 CSF 세포증가증, ganciclovir/foscarnet 즉각 치료)과 구별해야 한다. 가장 흔한 말초신경병증은 원위부 대칭성 감각 다발신경병증(DSPN; dideoxynucleoside 유발 시 얼음 위를 걷는 듯한 느낌 호소)이다. Zidovudine 유발 근육병증은 조직학적으로 **적색 불규칙 섬유(red ragged fibers)**가 특징이다.  
 > * **안과 질환 (p. 1447)**: 가장 흔한 안저 이상은 면화반(cotton-wool spots, 시력 상실 없음)이다. **CMV 망막염**은 대개 CD4+ \<50/µL에서 무통성 진행성 시력 상실, 혈관주위 출혈 및 삼출물을 유발하며 경구 valganciclovir, IV ganciclovir, IV foscarnet(3주 유도 후 valganciclovir 유지; CD4+ >100/µL가 >6개월 유지될 때까지 지속)로 치료한다. HSV와 VZV는 통증·각막염·홍채염과 망막박리를 동반하는 **진행성 외망막 괴사(PORN / 급성 망막 괴사 증후군)**를 일으키며 즉각적인 IV acyclovir 치료가 필요하다.  
 > * **기타 파종성 감염 및 전신 소모증후군 (pp. 1447–1448)**:  
-> * ***Bartonella*** **감염 (\<100/µL)**: *B. henselae*(벼룩 감염 고양이 노출, 세균성 혈관종증[bacillary angiomatosis — 카포시 육종과 달리 압박 시 창백해지고 통증이 있음], 간 자반증[peliosis hepatis], 묘소병), *B. quintana*(이 매개, 참호열, 심내막염). Warthin-Starry 염색으로 진단하며 doxycycline 또는 erythromycin을 최소 3개월간 투여한다.  
+> * **Bartonella** **감염 (\<100/µL)**: *B. henselae*(벼룩 감염 고양이 노출, 세균성 혈관종증[bacillary angiomatosis — 카포시 육종과 달리 압박 시 창백해지고 통증이 있음], 간 자반증[peliosis hepatis], 묘소병), *B. quintana*(이 매개, 참호열, 심내막염). Warthin-Starry 염색으로 진단하며 doxycycline 또는 erythromycin을 최소 3개월간 투여한다.  
 > * **히스토플라스마증(중앙값 CD4+ 33/µL), *Penicillium marneffei*(태국 내 3대 AIDS 정의 질환), 내장 리슈만편모충증, 말라리아, 전신 소모증후군(비자발적 체중 감소 >10% + >30일 지속되는 발열 및 만성 설사/피로)** (pp. 1447–1448).  
 > * **신생물 질환 (Neoplastic Diseases) 및 특발성 CD4+ T 림프구감소증 (pp. 1448–1451)**:  
 > * **카포시 육종 (KS) (pp. 1448–1449)**: HHV-8(KSHV)이 보조인자이며 피부·점막·림프절·위장관(50%)·폐(80%에서 피부 병변 동반, 70%에서 흉수 동반, Fig. 197-43)를 침범한다.
@@ -258,12 +258,12 @@ type: 의학원서_요약노트
 ![[Harrison_V1_Ch197_Fig43.png]]
 > [그림 18: **도해 캡션 (Figure 197-43)**: 폐 카포시 육종이 있는 AIDS 환자의 흉부 X선. 심장 경계를 가리는 치밀한 양측 하엽 침윤과 흉수가 특징적이다. (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 43]
 > ⚠️ **이미지 미확보 (2026-11-01)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다
-> [그림 19: **표 캡션 (Table 197-17)**: 카포시 육종에 대한 NIAID AIDS 임상시험그룹(ACTG) TIS 병기 체계 (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 17]
+> [그림 19: **표 캡션 (Table 197-17)**: 카포시 육종에 대한 NIAID AIDS 임상시험그룹(ACTG) TIS 병기 체계 (p. 1449) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 17] ![[Harrison_V1_Ch197_Tab17.png]]  
 
 | 지표 (Parameter) | 양호 위험군 (Good Risk, Stage 0: 아래 모두 충족) | 불량 위험군 (Poor Risk, Stage 1: 아래 중 하나라도 해당)   |
 | :---- | :---- | :---- |
 | **종양 (Tumor, T)** | 피부 및/또는 림프절 및/또는 최소한의 구강 질환에 국한 | 종양 연관 부종 또는 궤양, 광범위한 구강 병변, 위장관 병변, 비림프절 내장 병변 |
-| **면역계 (Immune system, I)** | CD4+ T 세포 수 \$\\ge 200/\\mu\\text{L}\$ | CD4+ T 세포 수 \<200/µL |
+| **면역계 (Immune system, I)** | CD4+ T 세포 수 $\ge 200/\mu\text{L}$ | CD4+ T 세포 수 \<200/µL |
 | **전신 질환 (Systemic illness, S)** | B 증상 없음, Karnofsky 수행상태 $\geq 70$, 기회감염·신경계 질환·림프종·아구창 병력 없음 | B 증상(원인 불명 발열, 야간 발한, >10% 비자발적 체중 감소, >2주 설사) 존재, Karnofsky \<70, 기회감염·신경계 질환·림프종·아구창 병력 존재 |
 
 ![[Harrison_V1_Ch197_Tab18.png]]
@@ -284,8 +284,8 @@ type: 의학원서_요약노트
 
 ### **4.1 초기 평가 및 항레트로바이러스 약제 분류 (pp. 1452–1458)**
 
-> * **초기 평가 항목 (Table 197-19, p. 1452)**: 병력 및 신체진찰, 기본 화학·혈액학 검사, AST/ALT/ALP/빌리루빈, 지질 프로파일 및 공복 혈당, CD4+ T 림프구 수, 혈장 HIV RNA 수치, HIV 내성 검사, **HLA-B5701 선별검사**(abacavir 고려 시), RPR 또는 VDRL, 항-*Toxoplasma* 항체 역가, 소변검사, PPD 또는 IGRA, MMSE, HAV/HBV/HCV 혈청검사, 임신 검사(efavirenz 고려 여성), 예방접종(폐렴구균 다당백신, 인플루엔자, HPV, 혈청 음성 시 HAV/HBV), 자연 경과 및 전파 상담. (웹 리소스 Table 197-20: www.aidsinfo.nih.gov, www.cdcnpin.org).  
-> * **상용 항레트로바이러스 약제 요약 (Table 197-21, pp. 1453–1455)**:  
+> * **초기 평가 항목 (Table 197-19, p. 1452)**: 병력 및 신체진찰, 기본 화학·혈액학 검사, AST/ALT/ALP/빌리루빈, 지질 프로파일 및 공복 혈당, CD4+ T 림프구 수, 혈장 HIV RNA 수치, HIV 내성 검사, **HLA-B5701 선별검사**(abacavir 고려 시), RPR 또는 VDRL, 항-*Toxoplasma* 항체 역가, 소변검사, PPD 또는 IGRA, MMSE, HAV/HBV/HCV 혈청검사, 임신 검사(efavirenz 고려 여성), 예방접종(폐렴구균 다당백신, 인플루엔자, HPV, 혈청 음성 시 HAV/HBV), 자연 경과 및 전파 상담. (웹 리소스 Table 197-20: www.aidsinfo.nih.gov, www.cdcnpin.org). ![[Harrison_V1_Ch197_Tab19.png]]  
+> * **상용 항레트로바이러스 약제 요약 (Table 197-21, pp. 1453–1455)**: ![[Harrison_V1_Ch197_Tab21.png]]  
 > * **뉴클레오시드/뉴클레오티드 역전사효소 억제제 (NRTIs)**:  
   * **Zidovudine (AZT)**: 200 mg q8h 또는 300 mg bid. 모자 수직감염 예방(임신 14~34주 경구 + 분만 중 IV + 신생아 6주 경구 투여로 전파율을 25.5%에서 8.3%로 67.5% 감소). 독성: 빈혈, 과립구감소증, 근육병증, 유산산증, 지방간 동반 간비대, 손발톱 색소침착, 지방위축.  
   * **Lamivudine (3TC)**: 150 mg bid 또는 300 mg qd. 독성: HBV 동시감염자에서 중단 시 간염 악화(flare).  
@@ -315,11 +315,11 @@ type: 의학원서_요약노트
 ![[Harrison_V1_Ch197_Fig46.png]]
 > [그림 23: **도해 캡션 (Figure 197-46)**: 항레트로바이러스제의 분자 구조(Molecular structures of antiretroviral agents). NRTIs(Zidovudine, Didanosine, Zalcitabine, Stavudine, Lamivudine, Abacavir, Tenofovir alafenamide, Tenofovir disoproxil fumarate, Emtricitabine), NNRTIs(Nevirapine, Delavirdine, Efavirenz, Rilpivirine, Etravirine), Protease Inhibitors(Saquinavir, Ritonavir, Indinavir, Nelfinavir, Amprenavir, Lopinavir, Atazanavir, Tipranavir, Darunavir), Entry Inhibitors(Maraviroc, Ibalizumab, Enfuvirtide), Integrase Inhibitors(Raltegravir, Elvitegravir, Dolutegravir, Bictegravir). (pp. 1456–1457) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 46]
 ![[Harrison_V1_Ch197_Tab22.png]]
-> [그림 24: **표 캡션 (Table 197-22)**: 항레트로바이러스제의 복합 제형 (Combination Formulations of Antiretroviral Drugs) (*표시는 1일 1회 단일정 요법[STR]) (p. 1458) - **Atripla***: TDF + FTC + efavirenz | Biktarvy***: TAF + FTC + bictegravir |** Cimduo**: TDF + 3TC |** Combivir**: AZT + 3TC |** Complera***: TDF + FTC + rilpivirine |*** ***Descovy**: TAF + FTC | **Dutrebis**: Raltegravir + 3TC | **Epzicom**: Abacavir + 3TC | **Evotaz**: Atazanavir + cobicistat | **Genvoya***: TAF + FTC + elvitegravir + cobicistat | Juluca: Dolutegravir + rilpivirine | Kaletra: Lopinavir + ritonavir | Odefsey***: TAF + FTC + rilpivirine |** Prezcobix**: Darunavir + cobicistat |** Stribild***: TDF + FTC + elvitegravir + cobicistat |*** ***Symfi***: TDF + 3TC + efavirenz(600 mg) | Symfi Lo***: TDF + 3TC + efavirenz(400 mg) |** Triumeq***: Abacavir + 3TC + dolutegravir |*** ***Truvada**: TDF + FTC | **Trizivir**: AZT + 3TC + abacavir. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 22]
+> [그림 24: **표 캡션 (Table 197-22)**: 항레트로바이러스제의 복합 제형 (Combination Formulations of Antiretroviral Drugs) (*표시는 1일 1회 단일정 요법[STR]) (p. 1458) - **Atripla**: TDF + FTC + efavirenz | Biktarvy**: TAF + FTC + bictegravir |** Cimduo**: TDF + 3TC |** Combivir**: AZT + 3TC |** Complera**: TDF + FTC + rilpivirine |** ***Descovy**: TAF + FTC | **Dutrebis**: Raltegravir + 3TC | **Epzicom**: Abacavir + 3TC | **Evotaz**: Atazanavir + cobicistat | **Genvoya***: TAF + FTC + elvitegravir + cobicistat | Juluca: Dolutegravir + rilpivirine | Kaletra: Lopinavir + ritonavir | Odefsey***: TAF + FTC + rilpivirine |** Prezcobix**: Darunavir + cobicistat |** Stribild***: TDF + FTC + elvitegravir + cobicistat |** **Symfi***: TDF + 3TC + efavirenz(600 mg) | Symfi Lo***: TDF + 3TC + efavirenz(400 mg) |** Triumeq**: Abacavir + 3TC + dolutegravir |** ***Truvada**: TDF + FTC | **Trizivir**: AZT + 3TC + abacavir. — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Table 22]
 
 ### **4.2 치료 원칙, 초치료 요법, 약제 변경 기준 및 내성 변이 (pp. 1457–1461)**
 
-> * **완치 예외 증례 및 치료 원칙 (pp. 1457–1458, Table 197-23 on p. 1461)**:  
+> * **완치 예외 증례 및 치료 원칙 (pp. 1457–1458, Table 197-23 on p. 1461)**: ![[Harrison_V1_Ch197_Tab23.png]]  
 > * cART는 HIV의 박멸이나 완치를 유도하지 못한다(유일한 예외는 급성 골수성 백혈병 치료를 위해 **CCR5$\Delta$32 동형접합(homozygous)** 공여자로부터 동종 조혈모세포 이식을 받고 이식 당일 cART를 중단한 후에도 8년 이상 활동성 HIV 감염 징후가 없는 환자 1명이다).  
 > * 미국 보건복지부(DHHS) 가이드라인 패널은 모든 HIV 감염자를 진단 후 가능한 한 빨리 cART로 치료할 것을 권장한다(기회감염 동시 진단 시 결핵·크립토코쿠스 감염 등에서는 IRIS 중증도를 낮추기 위해 2~4주 지연을 고려할 수 있으나, CD4+ \<50 cells/µL인 진행성 HIV 감염에서는 가능한 한 빨리 시작한다).  
 > * 치료 시작 후 1~2개월 내에 혈장 HIV RNA가 최소 1-log(10배) 감소하고 6개월 내에 \<50 copies/mL로 감소하며, 첫 달에 특히 뚜렷하게 CD4+ T 세포 수가 100–150 cells/µL 상승한 뒤 정상에 가까워질 때까지 매년 50–100 cells/year 증가하는 것을 기대해야 한다.  
@@ -329,7 +329,7 @@ type: 의학원서_요약노트
   3. Bictegravir + tenofovir + emtricitabine  
   4. Elvitegravir + cobicistat + tenofovir + emtricitabine  
   5. Dolutegravir + abacavir + lamivudine (**HLA-B*5701 음성**인 경우에만 해당)  
-> * **항레트로바이러스 치료 변경 적응증 (Table 197-25, p. 1461)**: 치료 시작 후 4주까지 혈장 HIV RNA가 1-log 미만으로 감소한 경우, 동반 감염·예방접종·검사법으로 설명되지 않는 최저점(nadir) 대비 재현성 있는 유의한 상승(3배 이상 또는 >200 copies/mL), 지속적인 CD4+ T 세포 수 감소, 임상적 악화, 약제 부작용(치료 실패 시 최소 2개의 새로운 활성 약제 포함, 독성 때문인 경우 단일 약제 교체 가능).
+> * **항레트로바이러스 치료 변경 적응증 (Table 197-25, p. 1461)**: 치료 시작 후 4주까지 혈장 HIV RNA가 1-log 미만으로 감소한 경우, 동반 감염·예방접종·검사법으로 설명되지 않는 최저점(nadir) 대비 재현성 있는 유의한 상승(3배 이상 또는 >200 copies/mL), 지속적인 CD4+ T 세포 수 감소, 임상적 악화, 약제 부작용(치료 실패 시 최소 2개의 새로운 활성 약제 포함, 독성 때문인 경우 단일 약제 교체 가능). ![[Harrison_V1_Ch197_Tab25.png]]  
 
 ![[Harrison_V1_Ch197_Fig47.png]]
 > [그림 25: **도해 캡션 (Figure 197-47)**: 항레트로바이러스제 내성을 부여하는 아미노산 치환(Amino acid substitutions conferring resistance to antiretroviral drugs). 막대 위의 문자는 야생형 바이러스 아미노산, 막대 아래 문자는 내성을 부여하는 치환 아미노산, 숫자는 단백질 내 코돈 위치를 나타낸다(nRTIs [69 삽입 복합체, 151 복합체, 티미딘 유사체 연관 변이(TAMs), K65R, M184V 등], NNRTIs [K103N, Y181C 등], Protease Inhibitors, Entry Inhibitors [Enfuvirtide], Integrase Inhibitors [Q148, N155, R263K 등]). *(Reprinted with permission from the International Antiviral Society-USA. AM Wensing et al: Top Antivir Med 22:642, 2014.)* (pp. 1459–1460) — 출처: Harrison's Principles of Internal Medicine, 20th ed., Ch197 Figure 47]

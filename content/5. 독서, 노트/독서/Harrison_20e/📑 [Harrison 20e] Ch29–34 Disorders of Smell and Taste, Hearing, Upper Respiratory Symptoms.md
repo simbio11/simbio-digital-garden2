@@ -19,7 +19,7 @@ type: 의학원서_요약노트
 > * 비강 천장(사골 체판[Cribriform plate], 비중격 상부, 상비갑개)의 후각상피에는 약 **600만~1,000만 개**의 양극성 후각수용체 뉴런(Olfactory receptor neurons, ORNs)이 분포하며, 신경계에서 유일하게 기저 줄기세포(Basal stem cells)로부터 평생 재생되는 능력을 가진다(Figure 29-1).  
 > * 각 후각수용체 뉴런은 약 400종의 G단백결합 후각수용체(GPCR) 유전자 중 단 1종만 발현하며, 동일한 수용체를 발현하는 뉴런들의 축삭(제1뇌신경, CN I)은 체판을 통과하여 후각망울(Olfactory bulb) 내의 동일한 사구체(Glomerulus)로 수렴한 뒤 승모세포(Mitral cells) 및 다발세포(Tufted cells)와 시냅스한다(Figure 29-2).  
 > * 후각 정보는 다른 감각계와 달리 **시상(Thalamus)을 먼저 거치지 않고** 전방 후각핵, 이상엽 피질(Piriform cortex), 편도체(Amygdala), 내후각피질(Entorhinal cortex) 등 일차 후각피질로 직접 투사된 후 안와전두피질로 전달된다(Figure 29-3).  
-> * **노인 후각 저하와 사망률 및 후각·미각 수용체 분자 생리 보충 (p.194–196)**: 치매가 없는 노인 1,162명을 4년간 추적한 연구에서 기저 후각 검사 점수가 가장 낮은 군의 **4년 사망률은 45%**로 가장 높은 군(**18%**)보다 현저히 높았다. 인간은 약 **7,500개의 미뢰(taste buds)**를 가지며 단맛·감칠맛은 T1R1, T1R2, T1R3 GPCR이, 쓴맛은 약 30종의 T2R GPCR이(상기도 상피의 **T2R38 수용체**는 *Pseudomonas aeruginosa* 등 그람음성균의 쿼럼 센싱 분자를 감지하여 섬모 운동을 촉진함), 신맛은 TRP 계열인 **PKD2L1 수용체**가, 짠맛은 아밀로라이드 민감성 \$ ext{Na}^+\$ 채널이 매개한다.
+> * **노인 후각 저하와 사망률 및 후각·미각 수용체 분자 생리 보충 (p.194–196)**: 치매가 없는 노인 1,162명을 4년간 추적한 연구에서 기저 후각 검사 점수가 가장 낮은 군의 **4년 사망률은 45%**로 가장 높은 군(**18%**)보다 현저히 높았다. 인간은 약 **7,500개의 미뢰(taste buds)**를 가지며 단맛·감칠맛은 T1R1, T1R2, T1R3 GPCR이, 쓴맛은 약 30종의 T2R GPCR이(상기도 상피의 **T2R38 수용체**는 *Pseudomonas aeruginosa* 등 그람음성균의 쿼럼 센싱 분자를 감지하여 섬모 운동을 촉진함), 신맛은 TRP 계열인 **PKD2L1 수용체**가, 짠맛은 아밀로라이드 민감성 $\text{Na}^+$ 채널이 매개한다.
 
 **FIGURE 29-2 (p.194)**: Schematic of the layers and wiring of the olfactory bulb. Each receptor type (red, green, blue) projects to a common glomerulus. The neural activity within each glomerulus is modulated by periglomerular cells. The activity of the primary projection cells, the mitral and tufted cells, is modulated by granule cells, periglomerular cells, and secondary dendrites from adjacent mitral and tufted cells. — 후각망울의 층판 구조와 수용체 유형별 사구체(Glomerulus) 수렴 및 승모세포·다발세포·사구체주위세포·과립세포 회로. ![[Harrison_V1_Ch29_Fig2.png]]  
 **FIGURE 29-1 (p.194)**: Anatomy of the nose, showing the distribution of olfactory receptors in the roof of the nasal cavity. (Copyright David Klemm, Faculty and Curriculum Support [FACS], Georgetown University Medical Center; used with permission.) — 비강 천장(사골 체판, 비중격 상부, 상비갑개 및 중비갑개 일부)에 분포하는 후각수용체와 후각망울의 해부학적 위치. ![[Harrison_V1_Ch29_Fig1.png]]  
@@ -46,8 +46,6 @@ type: 의학원서_요약노트
 **Figure 29-6, p.196**: Scores on the University of Pennsylvania Smell Identification Test (UPSIT) as a function of subject age and sex. — 연령 및 성별에 따른 UPSIT 후각 점수 백분위 분포 곡선. ![[Harrison_V1_Ch29_Fig6.png]]  
 **Table 29-1, p.197**: Table 29-1 Disorders and Conditions Associated with Compromised Olfactory Function — 후각 기능 저하와 연관된 질환 및 약물·독소·감염·신경퇴행성·내분비·선천성 원인 목록. ![[Harrison_V1_Ch29_Tab1.png]]
 
-## ---
-
 **2. 제30장 청각 장애 (Chapter 30: Disorders of Hearing) (p.200–208)**
 
 > * **역학 및 유전성 난청 비율 (p.200, 203–204)**: 성인 인구의 **거의 10%**가 난청을 가지며 **65세 초과 인구의 1/3**은 보청기가 필요할 정도의 난청을 겪는다. 소아 난청의 **절반 이상**은 유전성(HHI)으로 그중 **거의 2/3가 비증후군성**(상염색체 열성 DFNB **70–80%**, 상염색체 우성 DFNA **15–20%**, X연관 DFNX 또는 미토콘드리아 유전 **\<5%**, 150개 이상의 유전자자리 규명)이고 **1/3이 증후군성**(Table 30-2)이다. 정상 청력 또는 전음성 난청 환자는 어음분별검사에서 단어의 **88–100%**를 정확히 따라 말한다(p.206).
@@ -62,7 +60,7 @@ type: 의학원서_요약노트
 
 > * **난청의 진단 알고리즘 및 Rinne·Weber 음차 검사, 순음청력검사 (pp.201–206, Figure 30-2, Figure 30-3, Tables 30-2, 30-3, 30-5)**:  
 > * **Weber 검사(512 Hz 음차를 이마 중앙에 댐)**: **전음성 난청(Conductive hearing loss)**에서는 환측 귀로 소리가 편위되고, **감각신경성 난청(Sensorineural hearing loss, SNHL)**에서는 정상(건측) 귀로 편위된다.  
-> * **Rinne 검사(유양돌기 골전도[BC] vs 외이도 공기전도[AC])**: 정상 및 감각신경성 난청에서는 공기전도가 골전도보다 길게 들리나(\$ ext{AC} > ext{BC}$,Rinne양성),전음성난청에서는골전도가공기전도보다크게/길게들린다($ ext{BC} \\ge ext{AC}\$, Rinne 음성).  
+> * **Rinne 검사(유양돌기 골전도[BC] vs 외이도 공기전도[AC])**: 정상 및 감각신경성 난청에서는 공기전도가 골전도보다 길게 들리나($\text{AC} >\text{BC}$,Rinne양성),전음성난청에서는골전도가공기전도보다크게/길게들린다($\text{BC} \ge\text{AC}$, Rinne 음성).  
 > * **전음성 난청의 주요 원인**: 귀지 매복(Cerumen impaction), 삼출성·만성 중이염, 고막 천공, 진주종(Cholesteatoma: 각질 상피가 중이·유양돌기 뼈를 파괴함 — 수술 필요), **이경화증(Otosclerosis: 등골 족판[Stapes footplate]이 난원창에 골성 고정되어 성인 진행성 전음성 난청을 유발 — 등골절제술[Stapedectomy] 또는 보청기로 치료)**.  
 > * **감각신경성 난청의 주요 원인**:  
   * **노인성 난청(Presbyacusis, Figure 30-3)**: 양측 대칭성 고주파수 감각신경성 난청으로 자음 분별력과 소음 환경에서의 어음 이해력이 저하된다.  
@@ -77,8 +75,6 @@ type: 의학원서_요약노트
 **Figure 30-4, p.207**: A cochlear implant is composed of an external microphone and speech processor worn on the ear and a receiver implanted under the skin with an electrode array inserted into the cochlea. — 외부 마이크·어음처리기와 피하 수신기 및 와우 내 삽입 전극 배열로 구성된 인공와우(Cochlear implant) 모식도. ![[Harrison_V1_Ch30_Fig4.png]]  
 **Table 30-5, p.208**: Table 30-5 OSHA Daily Permissible Noise Level Exposure — 미국 직업안전보건청(OSHA)의 소음 데시벨(90 dBA에서 8시간, 95 dBA에서 4시간, 100 dBA에서 2시간, 115 dBA에서 0.25시간)별 일일 허용 노출 시간 기준. ![[Harrison_V1_Ch30_Tab5.png]]
 
-## ---
-
 **3. 제31장 인후통, 이통 및 상기도 증상 (Chapter 31: Sore Throat, Earache, and Upper Respiratory Symptoms, pp. 208–218) (p.208–218)**
 
 ### **3.1 부비동염 (Sinusitis), 외이도염 및 중이염 (Otitis), 인두염 및 후두개염 (p.208–218)**
@@ -91,7 +87,7 @@ type: 의학원서_요약노트
 **Table 31-1, p.210**: Table 31-1 Guidelines for the Diagnosis and Treatment of Acute Bacterial Rhinosinusitis in Adults — 성인 급성 세균성 비부비동염의 임상 진단 기준(지속성 ≥10일, 중증 고열 ≥39°C, 이중 악화) 및 경험적 항생제 치료 지침. ![[Harrison_V1_Ch31_Tab1.png]]
 
 > 1. **외이도염, 급성 중이염(AOM) 및 유양돌기염 (pp.211–214, Table 31-2, Figure 31-1)**:  
-> 2. **악성(괴사성) 외이도염(Malignant/Necrotizing otitis externa)**: 고령 당뇨병 환자나 면역저하자에서 ***Pseudomonas aeruginosa***에 의해 발생하며, 심한 이통, 외이도 바닥(골-연골 접합부)의 육아조직, 제7뇌신경(안면신경) 및 하부 뇌신경(CN IX–XII) 마비, 두개저 골수염을 일으키므로 장기간(6~8주) 항녹농균 플루오로퀴놀론(Ciprofloxacin) 또는 베타락탐 투여가 필요하다.  
+> 2. **악성(괴사성) 외이도염(Malignant/Necrotizing otitis externa)**: 고령 당뇨병 환자나 면역저하자에서 **Pseudomonas aeruginosa**에 의해 발생하며, 심한 이통, 외이도 바닥(골-연골 접합부)의 육아조직, 제7뇌신경(안면신경) 및 하부 뇌신경(CN IX–XII) 마비, 두개저 골수염을 일으키므로 장기간(6~8주) 항녹농균 플루오로퀴놀론(Ciprofloxacin) 또는 베타락탐 투여가 필요하다.  
 > 3. **급성 중이염(Acute Otitis Media, AOM, Table 31-2)**: 이통·발열과 함께 공기이경(Pneumatic otoscopy)상 고막의 팽륭(Bulging) 및 운동성 감소가 핵심 소견이며, 원인균은 *S. pneumoniae*, *H. influenzae*, *M. catarrhalis*이다. 1차 항생제는 **고용량 아목시실린(Amoxicillin)** 또는 아목시실린-클라불란산이다.  
 > 4. **급성 유양돌기염(Acute mastoiditis, Figure 31-1)**: 후이개 발적·부종·압통과 귓바퀴의 전하방 돌출을 보이며, 측두골 CT로 유양돌기 함기세포 파괴(Coalescent mastoiditis)를 확인하고 정맥 항생제 및 고막절개/유양돌기절제술로 치료한다.
 
@@ -106,8 +102,6 @@ type: 의학원서_요약노트
 **Figure 31-2, p.216**: Algorithm for the diagnosis and treatment of acute pharyngitis. — Centor 임상 점수 및 신속항원검사(RADT)/인후배양을 이용한 급성 인두염의 진단 및 항생제 치료 알고리즘. ![[Harrison_V1_Ch31_Fig2.png]]  
 **Figure 31-3, p.218**: Acute epiglottitis. In this lateral soft-tissue radiograph of the neck, the arrow indicates the enlarged edematous epiglottis ("thumbprint sign"). — 급성 후두개염 환자의 경부 측면 연부조직 방사선 사진에서 부종으로 비대해진 후두개가 엄지손가락 자국처럼 보이는 "Thumbprint sign"(화살표). ![[Harrison_V1_Ch31_Fig3.png]]
 
-## ---
-
 **4. 제32장 전신 질환의 구강 발현 (Chapter 32: Oral Manifestations of Disease, pp. 219–225) (p.219–225)**
 
 ### **4.1 치아·치주 질환 및 구강 점막 궤양·백색·색소 병변과 타액선·HIV 구강 병변 (p.219–225)**
@@ -115,14 +109,12 @@ type: 의학원서_요약노트
 > * **치아 발달과 구강건조증 및 치과 시술 시 항응고제 관리 (p.219–220, 224–225)**: 치아 형성은 배아 **6주**에 시작해 **17세**까지 이어지며, **20개의 유치**는 3세까지 모두 나고 13세까지 빠지며 **32개의 영구치**는 6세에 나기 시작해 14세까지(제3대구치 제외) 맹출한다(생후 첫 **8년 이내** 고용량 테트라사이클린 노출 시 법랑질 저형성 및 치아 변색 유발). 구강건조증(xerostomia)은 타액 분비량이 **50% 감소**할 때 인지되며 필로카르핀 또는 세비멜린(cevimeline)과 불소 보충을 사용한다. 와파린 복용 환자에서 치료적 INR 범위가 유지되는 한 발치·치은 수술 시 조절되지 않는 출혈은 극히 드물며, 중단 시 색전증·사망 위험이 있으므로 **항응고 치료를 중단하지 않고 유지한 채 치과 시술을 시행**한다.  
 > * **구강 궤양성·수포성 병변 (pp.220–222)**:  
 > * 재발성 아프타성 구내염(Recurrent aphthous stomatitis — 베체트병, 크론병, 셀리악병, HIV, 영양 결핍 연관), 단순포진(HSV-1: 치은구강염 및 입술포진), 심상성 천포창(구강 미란이 피부 수포보다 먼저 나타나는 경우가 흔함), 편평태선(Lichen planus: 협점막의 흰 그물 모양 **Wickham 선조**).  
-> * **백색 병변 및 색소성 병변 (pp.222–224, Table 32-2)**:  
+> * **백색 병변 및 색소성 병변 (pp.222–224, Table 32-2)**: ![[Harrison_V1_Ch32_Tab2.png]]  
 > * 문질러서 벗겨지는 위막성 캔디다증(아구창, Thrush) vs 벗겨지지 않는 전암성 백반증(Leukoplakia) 및 적색반증(Erythroplakia, 악성화 위험이 훨씬 높으므로 생검 필수), 그리고 애디슨병(Addison's disease), Peutz-Jeghers 증후군, 아말감 문신, 중금속 중독, 흑색종 등 구강 점막 색소 병변을 감별한다(Table 32-2).  
 > * **HIV 감염 연관 구강 병변 (p.224, Table 32-5)**: 구강 캔디다증, 혀 외측연의 **구강 모상 백반증(Oral hairy leukoplakia — EBV에 의해 발생하며 문질러도 벗겨지지 않음)**, 카포시 육종(Kaposi's sarcoma — HHV-8), 선상 치은 홍반 및 괴사성 궤양성 치주염(Table 32-5).
 
 **Table 32-2 [라벨: Harrison_V1_Ch3_Tab2.png], p.223**: Table 32-2 Pigmented Lesions of the Oral Mucosa — 구강 점막 색소성 병변의 감별진단(청회색/검은색: 아말감 문신, 청색 모반, 카포시 육종; 갈색: 흑색종, 멜라닌 반점, Peutz-Jeghers 증후군, 애디슨병, 흡연자 흑색증, 약물 유발성). ![[Harrison_V1_Ch3_Tab2.png]]  
 **Table 32-5, p.224**: Table 32-5 Oral Lesions Associated with HIV Infection — HIV 감염과 연관된 진균성·바이러스성(EBV 구강 모상 백반증, HSV, CMV, HPV)·세균성(괴사성 치주염)·종양성(카포시 육종, 비호지킨 림프종) 구강 병변. ![[Harrison_V1_Ch32_Tab5.png]]
-
-## ---
 
 **5. 제33장 호흡곤란 (Chapter 33: Dyspnea, pp. 226–229) 및 제34장 기침 (Chapter 34: Cough, pp. 230–231) (p.226–229)**
 

@@ -33,7 +33,7 @@ type: 의학원서_요약노트
 
 > * **4. 두개내압 상승, 연수막 암종증(Neoplastic Meningitis), 백혈구울체증(Leukostasis), 객혈 및 기도폐쇄(Figure 71-3) (p.515–518)**:  
 > * **뇌전이/두개내압 상승**: 폐암·유방암·흑색종이 주원인이며 **덱사메타손(4 mg q6h)**과 정위방사선수술/수술/전뇌방사선으로 치료한다. **연수막 암종증**: 다발성 뇌신경 마비, 두통, 신경근 통증을 보이며 뇌척수액 세포진 및 가돌리늄 MRI로 진단하고 척수강내 메토트렉세이트·시타라빈·티오테파로 치료한다.  
-> * **폐 및 뇌 백혈구울체증(Leukostasis)**: 주로 급성 골수성 백혈병(AML의 5–13%)에서 말초 모세포(blast)가 **\$>100,000/\\mu\\text{L}\$**일 때 발생하며, 채혈 시험관 내에서 백혈구가 산소를 급속 소비하여 동맥혈 가스분석상 **가성 저산소혈증(spuriously low $Pa{O}_{2}$ — 산소포화도 산정에는 맥박산소측정기[pulse oximetry]가 가장 정확함)**을 일으키고 불필요한 적혈구 수혈은 혈액 점도를 높여 증상을 악화시키므로 피해야 한다. **히드록시우레아(hydroxyurea)**, 백혈구분리반출술(leukapheresis), 즉각적 관해유도 화학요법으로 치료한다.  
+> * **폐 및 뇌 백혈구울체증(Leukostasis)**: 주로 급성 골수성 백혈병(AML의 5–13%)에서 말초 모세포(blast)가 **$>100,000/\mu\text{L}$**일 때 발생하며, 채혈 시험관 내에서 백혈구가 산소를 급속 소비하여 동맥혈 가스분석상 **가성 저산소혈증(spuriously low $Pa{O}_{2}$ — 산소포화도 산정에는 맥박산소측정기[pulse oximetry]가 가장 정확함)**을 일으키고 불필요한 적혈구 수혈은 혈액 점도를 높여 증상을 악화시키므로 피해야 한다. **히드록시우레아(hydroxyurea)**, 백혈구분리반출술(leukapheresis), 즉각적 관해유도 화학요법으로 치료한다.  
 > * **기도 폐쇄(Airway obstruction, Figure 71-3)**: 기관지경 레이저·광역학치료·실리콘 또는 금속 **기도 스텐트 삽입(Figure 71-3)** 및 외부 방사선으로 신속히 기도를 확보한다.
 
 **Figure 71-3, p.518**: Airway obstruction. A. Computed tomography scan of a 62-year-old man with tracheal obstruction caused by renal carcinoma — 신장암 전이에 의해 기관 폐쇄가 발생한 62세 남성의 흉부 CT(A) 및 기관 스텐트 삽입 후 기도 개통이 회복된 흉부 X선(B). ![[Harrison_V1_Ch71_Fig3.png]]
@@ -52,14 +52,12 @@ type: 의학원서_요약노트
 **Figure 71-4, p.520**: Management of patients at high risk for the tumor lysis syndrome. — 종양용해증후군(TLS) 고위험 환자의 정맥 수액 부하, 전해질·요산 감시 및 기저 요산 수치에 따른 알로푸리놀 대 라스부리카제 투여 알고리즘. ![[Harrison_V1_Ch71_Fig4.png]]  
 **Figure 71-5, p.521**: Abdominal computed tomography (CT) scans of a 72-year-old woman with neutropenic enterocolitis secondary to chemotherapy. — 항암화학요법 후 호중구감소성 장염이 발생한 72세 여성의 복부 CT: 하장간막정맥 내 공기 및 장벽 공기증(A)과 간문맥 내 공기(B). ![[Harrison_V1_Ch71_Fig5.png]]
 
-## ---
-
 **2. 제72장 피부암: 악성 흑색종 및 비흑색종 피부암 (Chapter 72: Cancer of the Skin) (p.522–531)**
 
 ### **2.1 악성 흑색종(Melanoma)의 역학, 4대 조직 아형(Table 72-1), 분자 발암 경로(Figure 72-2) 및 병기·치료 (Figure 72-1 ~ 72-3, Table 72-3) (p.522–529)**
 
 > * **역학, 위험인자, 임상 진단(ABCDE) 및 4대 조직학적 아형 (p.522–525, Figure 72-1, Table 72-1)**:  
-> * 가족성 흑색종의 가장 흔한 고침투율 생식세포 변이는 염색체 9p21의 ***CDKN2A*** **($p16$ 및 $p1{4}^{ARF}$ 암호화)** 변이이며 *CDK4*, *MITF*, *TERT* 및 적모·흰 피부 표현형을 결정하는 멜라노코르틴-1 수용체(***MC1R***) 다형성이 관여한다.  
+> * 가족성 흑색종의 가장 흔한 고침투율 생식세포 변이는 염색체 9p21의 **CDKN2A** **($p16$ 및 $p1{4}^{ARF}$ 암호화)** 변이이며 *CDK4*, *MITF*, *TERT* 및 적모·흰 피부 표현형을 결정하는 멜라노코르틴-1 수용체(**MC1R**) 다형성이 관여한다.  
 > * 임상 의심 기준은 **ABCDE**(비대칭성[Asymmetry], 경계 불규칙성[Border irregularity], 색조 다양성[Color variation], 직경 >6 mm [Diameter], 크기·모양·색조의 변화)이며 의심 병변은 피하지방층까지 포함하는 전층 절제 생검을 원칙으로 한다(Figure 72-1, Table 72-1).
 
 **Figure 72-1, p.523**: Atypical and malignant pigmented lesions. The most common melanoma is superficial spreading melanoma (not pictured). A. Acral lentiginous melanoma — 손발바닥에 호발하며 흑인·아시아인·히스패닉에서 가장 흔한 말단흑자성 흑색종(A), 빠르게 자라는 궤양성 흑색 결절인 결절성 흑색종(B), 만성 일광노출부의 악성흑자 흑색종(C), 그리고 가족성 흑색종과 흔히 연관되는 이형성 모반(D). ![[Harrison_V1_Ch72_Fig1.png]]  
@@ -81,7 +79,7 @@ type: 의학원서_요약노트
 ### **2.2 비흑색종 피부암: 기저세포암(Hedgehog 경로 Figure 72-4) 및 편평세포암 (Figure 72-5) (p.530–531)**
 
 > * **기저세포암(BCC)과 Hedgehog (Hh) 신호전달 경로 억제제 (p.530–531, Figure 72-4, 72-5)**:  
-> * 비흑색종 피부암의 **70–80%**를 차지하는 가장 흔한 피부암으로, 자외선에 의한 종양억제유전자 ***PTCH1*** **(patched homolog 1) 기능 상실 변이**로 인해 **SMO (smoothened homolog)** 억제가 풀리고 **Gli1/Gli2** 전사인자가 활성화되어 발생한다(Figure 72-4).  
+> * 비흑색종 피부암의 **70–80%**를 차지하는 가장 흔한 피부암으로, 자외선에 의한 종양억제유전자 **PTCH1** **(patched homolog 1) 기능 상실 변이**로 인해 **SMO (smoothened homolog)** 억제가 풀리고 **Gli1/Gli2** 전사인자가 활성화되어 발생한다(Figure 72-4).  
 > * 가장 흔한 결절궤양성 BCC는 진주빛 반투명 구진·결절과 말려 올라간 경계(rolled border) 및 표면 모세혈관확장증, 중심부 궤양을 보인다(Figure 72-5G). 표준 치료는 외과적 절제 또는 **모스 미세도식 수술(Mohs micrographic surgery, MMS — 정상 조직을 최대한 보존하면서 99% 완치율 달성)**이며, 수술·방사선이 불가능한 국소 진행성 또는 전이성 BCC(및 *PTCH1* 변이에 의한 기저세포모반 증후군[Gorlin 증후군])에는 경구 SMO 길항제인 **비스모데깁(vismodegib)과 소니데깁(sonidegib)**이 승인되어 있다(Figure 72-4, p.532로 이어짐).
 
 **Figure 72-4, p.530**: Inhibition of the hedgehog (Hh) pathway. The Hh pathway promotes gene transcription and is important in the pathogenesis of BCC. — 기저세포암(BCC) 발암에서 Hedgehog (Hh) 리간드 결합 및 *PTCH1* 불활성화에 따른 SMO 방출·SUFU 억제·Gli1/Gli2 핵 이동 경로와 경구 SMO 길항제(비스모데깁, 소니데깁)의 억제 작용 부위. ![[Harrison_V1_Ch72_Fig4.png]]  

@@ -11,15 +11,13 @@ type: 의학원서_요약노트
 
 title: "Ch181(Part 2)-185: Rickettsial Diseases, Infections Due to Mycoplasmas, Chlamydial Infections, and Medical Virology" aliases: - "해리슨 20판 Ch182-185" - "Rickettsial Diseases" - "Infections Due to Mycoplasmas" - "Chlamydial Infections" - "Medical Virology" tags: - Harrison20e - InternalMedicine - Part5 - Ch182-185 - InfectiousDiseases - Rickettsia - Orientia - Ehrlichia - Anaplasma - Coxiella - Mycoplasma - Chlamydia - MedicalVirology source_pdf: "https\://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a" source_pages: "pp. 1303–1333" created: "2026-10-23"
 
-# ---
-
 **📑 [20e] 181(후반)–185: Rickettsial Diseases, Infections Due to Mycoplasmas, Chlamydial Infections, and Medical Virology**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_1239-1392.pdf](https://drive.google.com/open?id=1c-rifW36HdiMc2MHfYQ2lwoZyeyAFT3a) (pp. 1303–1333, 해리슨 내과학 1권-3.pdf) - **범위 경계 안내**: p. 1303 좌측 상단에는 직전 범위(pp. 1298–1302)에서 이어지는 **Ch 181** *Lyme Borreliosis*(라임 보렐리아증)의 결말부(고도 방실차단 치료, 만성 라임병 임상시험 결과, 진드기 교상 후 예방요법, 예후·재감염·예방)가 수록되어 있으며, 이어서 **Ch 182** *Rickettsial Diseases* (pp. 1303–1313), **Ch 183** *Infections Due to Mycoplasmas* (pp. 1313–1316), **Ch 184** *Chlamydial Infections* (pp. 1316–1324), 그리고 **Ch 185** *Medical Virology* (pp. 1325–1333, 바이러스 백터 실험적 치료 일부는 p. 1334 상단으로 이어짐)가 순서대로 수록되어 있다.
 
 ## **1. 제181장 라임 보렐리아증(Lyme Borreliosis) — 후반부 (p.1303)**
 
-**※ 제181장 중간부터**: 직전 범위(p. 1302)에서는 라임병의 경구 및 정주 항생제 치료 알고리즘(Figure 181-2)이 제시되었으며, p. 1303 첫 문단은 고도 방실차단 환자의 치료와 만성 라임병·진드기 교상 후 예방요법으로 이어진다.
+**※ 제181장 중간부터**: 직전 범위(p. 1302)에서는 라임병의 경구 및 정주 항생제 치료 알고리즘(Figure 181-2)이 제시되었으며, p. 1303 첫 문단은 고도 방실차단 환자의 치료와 만성 라임병·진드기 교상 후 예방요법으로 이어진다. ![[Harrison_V1_Ch181_Fig2.png]]  
 
 > 1. **심장 침범, 무증상 감염 및 임산부 치료** (p. 1303):  
 > 2. 고도 방실차단(high-degree AV block) 또는 **PR 간격 $>0.3s$**인 환자는 최소한 치료 기간의 일부 동안 정주(IV) 항생제 치료와 심장 모니터링이 권장되나 영구 심박동기(permanent pacemaker) 삽입은 필요하지 않다(방실차단 호전 시 경구 항생제로 전환해 총 28일 완료).  
@@ -34,9 +32,9 @@ title: "Ch181(Part 2)-185: Rickettsial Diseases, Infections Due to Mycoplasmas, 
 
 ### **2.1 리케차 질환의 분류 및 총론 (pp.1303–1305)**
 
-> 1. **분류 및 역학적·임상적 특징(Table 182-1)** (pp. 1303–1304):  
-> 2. 리케차 질환의 원인균은 7개 속(***Rickettsia*****, *Orientia*, *Ehrlichia*, *Anaplasma*, *Neorickettsia*, *"Candidatus Neoehrlichia"*, *Coxiella***)에 속하는 소형 절대 세포내 기생 그람음성 구간균/단간균이다(이매개 발진티푸스를 제외하면 인간은 우연 숙주).  
-> 3. *Coxiella burnetii*(단 1개의 균 흡입으로도 폐렴 유발 가능), *R. prowazekii*, *R. typhi*는 숙주 밖 환경에서도 장기간 생존하며, *R. prowazekii*, *R. rickettsii*, *R. typhi*, *R. conorii*, *C. burnetii*는 생물테러 위협 병원체이다. 만성 감염을 일으키는 유일한 균은 ***C. burnetii***이고, 잠복 후 재발(Brill-Zinsser 병)을 일으키는 균은 ***R. prowazekii***이다.
+> 1. **분류 및 역학적·임상적 특징(Table 182-1)** (pp. 1303–1304): ![[Harrison_V1_Ch182_Tab1.png]]  
+> 2. 리케차 질환의 원인균은 7개 속(**Rickettsia****, *Orientia*, *Ehrlichia*, *Anaplasma*, *Neorickettsia*, *"Candidatus Neoehrlichia"*, *Coxiella***)에 속하는 소형 절대 세포내 기생 그람음성 구간균/단간균이다(이매개 발진티푸스를 제외하면 인간은 우연 숙주).  
+> 3. *Coxiella burnetii*(단 1개의 균 흡입으로도 폐렴 유발 가능), *R. prowazekii*, *R. typhi*는 숙주 밖 환경에서도 장기간 생존하며, *R. prowazekii*, *R. rickettsii*, *R. typhi*, *R. conorii*, *C. burnetii*는 생물테러 위협 병원체이다. 만성 감염을 일으키는 유일한 균은 **C. burnetii**이고, 잠복 후 재발(Brill-Zinsser 병)을 일으키는 균은 **R. prowazekii**이다.
 
 | 질환명 (Disease) | 원인균 (Organism) | 매개체 및 전파 (Transmission) | 잠복기(일) | 발진(%) | 가피(Eschar, %) | 림프절병증   |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -98,7 +96,7 @@ title: "Ch181(Part 2)-185: Rickettsial Diseases, Infections Due to Mycoplasmas, 
 
 > 1. **생물학적 특성, 병인 및 역학** (pp. 1313–1314):  
 > 2. 마이코플라스마는 **세포벽(cell wall)이 없고** 유전체가 매우 작아(M. pneumoniae는 800 kbp) 베타락탐계 항생제에 내성이며 그람염색에 염색되지 않는다.  
-> 3. ***M. pneumoniae*** **병인**: 호흡기 섬모상피세포 말단에 **P1 부착 단백질(P1 adhesin)** 복합체로 부착한 뒤 과산화수소(${H}_{2}{O}_{2}$)와 백일해 독소 유사 **CARDS 독소(community-acquired respiratory distress syndrome toxin — 액포 형성 및 ADP-리보실화 독소)**를 생성해 섬모 소실과 세포 손상을 유발한다.  
+> 3. **M. pneumoniae** **병인**: 호흡기 섬모상피세포 말단에 **P1 부착 단백질(P1 adhesin)** 복합체로 부착한 뒤 과산화수소(${H}_{2}{O}_{2}$)와 백일해 독소 유사 **CARDS 독소(community-acquired respiratory distress syndrome toxin — 액포 형성 및 ADP-리보실화 독소)**를 생성해 섬모 소실과 세포 손상을 유발한다.  
 > 4. **역학**: 비말로 전파되며 잠복기는 **2–4주**이다(가족 내 발병률 소아 84%, 성인 41%). 성인 지역사회획득 폐렴(CAP) 연구 13개(6,207명) 분석에서 비정형 병원체 중 *M. pneumoniae*가 **22.7%**로 가장 흔했다(*C. pneumoniae* 11.7%, *Legionella* 4.6%).  
 > 5. **임상 양상** (p. 1314):  
 > 6. **호흡기 감염**: 상기도 감염이 폐렴보다 최대 20배 흔하며, 감염자의 **3–13%**에서 기관지주위 침윤을 동반한 폐렴("walking pneumonia")이 발생한다(고막염[bullous myringitis]의 주요 원인이라는 통념은 근거가 빈약함).  
@@ -120,24 +118,24 @@ title: "Ch181(Part 2)-185: Rickettsial Diseases, Infections Due to Mycoplasmas, 
 
 | 원인균 (Organism[s]) | 선택 항생제 (Drugs of Choice)   |
 | :---- | :---- |
-| ***Mycoplasma pneumoniae*** | Azithromycin, clarithromycin, erythromycin, doxycycline, levofloxacin, moxifloxacin, gemifloxacin (ciprofloxacin·ofloxacin 제외) |
-| ***Ureaplasma urealyticum*****, *Ureaplasma parvum*** | Azithromycin, clarithromycin, erythromycin, doxycycline |
-| ***Mycoplasma hominis*** | **Doxycycline, clindamycin** (**마크로라이드에 자연 내성**) |
-| ***Mycoplasma genitalium*** | **Azithromycin**, **moxifloxacin** (아지스로마이신 내성 시 목시플록사신 사용) |
+| **Mycoplasma pneumoniae** | Azithromycin, clarithromycin, erythromycin, doxycycline, levofloxacin, moxifloxacin, gemifloxacin (ciprofloxacin·ofloxacin 제외) |
+| **Ureaplasma urealyticum****, *Ureaplasma parvum*** | Azithromycin, clarithromycin, erythromycin, doxycycline |
+| **Mycoplasma hominis** | **Doxycycline, clindamycin** (**마크로라이드에 자연 내성**) |
+| **Mycoplasma genitalium** | **Azithromycin**, **moxifloxacin** (아지스로마이신 내성 시 목시플록사신 사용) |
 
 ### **3.2 비뇨생식기 마이코플라스마 (Urogenital Mycoplasmas) (pp.1315–1316)**
 
 > 1. **임상적 역할 및 치료** (pp. 1315–1316):  
-> 2. **비임균성 요도염(NGU)**: *Ureaplasma* 종과 ***M. genitalium***이 원인이 되며, *M. genitalium*은 남성의 부고환염과 여성의 자궁경부염·골반염(PID: 내막염·난관염)도 유발한다.  
-> 3. ***Mycoplasma hominis***: 세균성 질증(bacterial vaginosis) 시 공생 증식하며 골반염, 산후열(분만 후 자궁내막염의 약 10%), 제왕절개 창상 감염을 일으킨다(**마크로라이드에 내성**이므로 독시사이클린이나 클린다마이신으로 치료).  
-> 4. ***Ureaplasma*** **종**: 조산·융모양막염, 미숙아의 기관지폐이형성증(BPD) 및 신생아 수막염과 연관되며, 요중 요소 분해효소(urease) 활성으로 인해 **스트루바이트(struvite) 신결석**을 형성하고 폐이식 환자에서 고암모니아혈증을 유발할 수 있다.
+> 2. **비임균성 요도염(NGU)**: *Ureaplasma* 종과 **M. genitalium**이 원인이 되며, *M. genitalium*은 남성의 부고환염과 여성의 자궁경부염·골반염(PID: 내막염·난관염)도 유발한다.  
+> 3. **Mycoplasma hominis**: 세균성 질증(bacterial vaginosis) 시 공생 증식하며 골반염, 산후열(분만 후 자궁내막염의 약 10%), 제왕절개 창상 감염을 일으킨다(**마크로라이드에 내성**이므로 독시사이클린이나 클린다마이신으로 치료).  
+> 4. **Ureaplasma** **종**: 조산·융모양막염, 미숙아의 기관지폐이형성증(BPD) 및 신생아 수막염과 연관되며, 요중 요소 분해효소(urease) 활성으로 인해 **스트루바이트(struvite) 신결석**을 형성하고 폐이식 환자에서 고암모니아혈증을 유발할 수 있다.
 
 ## **4. 제184장 클라미디아 감염 (Chlamydial Infections) (pp.1316–1324)**
 
 ### **4.1 클라미디아의 생물학적 특성 및 이상성 증식 주기 (pp.1316–1317)**
 
 > 1. **원인균 분류 및 생물학적 특징** (p. 1316):  
-> 2. *Chlamydia* 속의 주요 인간 병원체는 ***Chlamydia trachomatis***(트라코마 혈청형 **A, B, Ba, C**; 안구·비뇨생식기 혈청형 **D–K**; 성병성 림프육아종[LGV] 혈청형 ${L}_{1},{L}_{2},{L}_{3}$의 총 18개 혈청형), ***Chlamydia psittaci***(앵무병), ***Chlamydia pneumoniae***(호흡기 감염)이다.  
+> 2. *Chlamydia* 속의 주요 인간 병원체는 **Chlamydia trachomatis**(트라코마 혈청형 **A, B, Ba, C**; 안구·비뇨생식기 혈청형 **D–K**; 성병성 림프육아종[LGV] 혈청형 ${L}_{1},{L}_{2},{L}_{3}$의 총 18개 혈청형), **Chlamydia psittaci**(앵무병), **Chlamydia pneumoniae**(호흡기 감염)이다.  
 > 3. **특징적인 이상성(Biphasic) 생활사(Figure 184-1, Figure 184-2)** (pp. 1316–1317):  
 > 4. **기본소체(Elementary Body, EB)**: 직경 0.2–0.4 \\mu\\text{m}의 세포외 생존에 적응된 **감염성·대사 비활성** 입자로, 이황화 결합(disulfide bonds)으로 광범위하게 교차결합된 외막 단백질 때문에 포자처럼 단단한 세포벽을 가진다.  
 > 5. **망상소체(Reticulate Body, RB)**: 세포 내 파고솜(봉입체, inclusion)으로 진입한 EB가 식포-리소좀 융합을 억제한 뒤 침입 6–8시간 내에 직경 0.6–1.0 \\mu\\text{m}의 대사 활성·비감염성 **망상소체(RB)**로 분화하여 이분법으로 증식한다. 18–24시간 후 RB가 다시 EB로 재응축되어 48–72시간에 세포 용해 또는 배출을 통해 방출된다. **IFN-$\gamma$**는 트립토판 분해효소(**IDO**)를 유도해 트립토판을 고갈시킴으로써 비정상적인 대형 지속형 RB 상태를 유도한다.
@@ -166,14 +164,14 @@ title: "Ch181(Part 2)-185: Rickettsial Diseases, Infections Due to Mycoplasmas, 
 
 > 1. **앵무병(Psittacosis — *Chlamydia psittaci*)** (p. 1323):  
 > 2. 앵무새·가금류 등 조류의 분변·비즙 에어로졸 흡입으로 전파되며, 잠복기 5–19일 후 고열, 오한, 심한 두통, 근육통, 마른기침, **비종대(10–70%)**, 상대적 서맥, 장티푸스 장미진 유사 반점(**Horder's spots**)을 동반한 비정형 폐렴을 일으킨다. 치료는 **Tetracycline (2 g/d 4회 분할) 또는 Doxycycline (100 mg bid)을 해열 후 최소 7–14일간** 투여한다(대체약: 에리스로마이신).  
-> 3. ***Chlamydia pneumoniae*** **감염** (pp. 1323–1324):  
+> 3. **Chlamydia pneumoniae** **감염** (pp. 1323–1324):  
 > 4. 상기도 감염 및 비정형 폐렴을 유발한다. 관상동맥 죽상경화증 플라크에서 균이 검출되고 동물모델에서 죽상경화증을 가속화시켰으나, 대규모 인체 항생제 임상시험에서는 심혈관 사건 감소 효과가 입증되지 않았다. 치료는 마크로라이드(아지스로마이신 500 mg 1일차 후 250 mg 4일, 또는 클라리스로마이신 10–14일), 테트라사이클린(2 g/d 10–14일), 또는 호흡기 플루오로퀴놀론을 투여한다.
 
 ## **5. 제185장 의학 바이러스학 (Medical Virology) (pp.1325–1333)**
 
 ### **5.1 바이러스의 구조, 분류 및 세포내 증식 전략 (pp.1325–1330)**
 
-> 1. **바이러스의 구조 및 분류(Figure 185-1, Table 185-1, Figure 185-2)** (pp. 1325–1327):  
+> 1. **바이러스의 구조 및 분류(Figure 185-1, Table 185-1, Figure 185-2)** (pp. 1325–1327): ![[Harrison_V1_Ch185_Tab1.png]]  
 > 2. 바이러스는 핵산(단일 또는 이중가닥 DNA/RNA, 양성[sense] 또는 음성[antisense] 가닥, 비분절 또는 분절형)과 단백질 캡시드(정이십면체[icosahedral, 2·3·5회 대칭축] 또는 나선형[helical, 2회 대칭축] 대칭)로 이루어진 **뉴클레오캡시드(nucleocapsid)**를 가지며, 외피(envelope) 유무에 따라 지질 용매/계면활성제 감수성이 결정된다(외피 보유 바이러스는 지질 용매에 쉽게 불활성화됨).
 
 **Figure 185-1, p.1325**: Schematic diagram of an enveloped herpesvirus with an icosahedral nucleocapsid. The approximate respective dimensions of the nucleocapsid and the enveloped particles are 110 and 180 nm. The capsid is composed of 162 capsomeres: 150 with sixfold and 12 with fivefold axes of symmetry. — 정이십면체 뉴클레오캡시드(110 nm, 162개 캡소머)와 외피(180 nm)를 가진 헤르페스바이러스의 모식도. ![[Harrison_V1_Ch185_Fig1.png]]

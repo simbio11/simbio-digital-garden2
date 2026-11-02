@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic Cell Transplantation, Disorders of Platelets and Vessel Wall, and Coagulation Disorders" aliases: - "해리슨 20판 Ch108-112" - "Amyloidosis" - "Transfusion Biology and Therapy" - "Hematopoietic Cell Transplantation" - "Disorders of Platelets and Vessel Wall" - "Coagulation Disorders" tags: - Harrison20e - InternalMedicine - Part4 - Ch108-112 - Hematology - Amyloidosis - TransfusionMedicine - HSCT - Thrombocytopenia - ITP - HIT - TTP - VWD - Hemophilia - DIC source_pdf: "https\://drive.google.com/open?id=1A-lMeXHQAVUT29f_w8ovHI22MnB0V1F4" source_pages: "pp. 803–838" created: "2026-10-22"
 
-# ---
-
 **📑 [20e] 108–112: Amyloidosis, Transfusion Biology, Hematopoietic Cell Transplantation, Platelet/Vessel Wall Disorders, and Coagulation Disorders**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_0769-0938.pdf](https://drive.google.com/open?id=1A-lMeXHQAVUT29f_w8ovHI22MnB0V1F4) (pp. 803–838, 해리슨 내과학 1권-2.pdf) - **범위 경계 안내**: p.803 상단에는 직전 범위에서 이어지는 **Ch 107** *Plasma Cell Disorders*의 마지막 부분(중쇄 질환: 감마[Franklin 병], 알파[Seligmann 병 / 지중해 림프종 / IPSID], 뮤 중쇄병)이 인쇄되어 있으며, 이어서 **Ch 108** *Amyloidosis* (pp. 803–809), **Ch 109** *Transfusion Biology and Therapy* (pp. 809–816), **Ch 110** *Hematopoietic Cell Transplantation* (pp. 816–822), Section 4 *Disorders of Hemostasis*의 **Ch 111** *Disorders of Platelets and Vessel Wall* (pp. 822–829), **Ch 112** *Coagulation Disorders* (pp. 830–838, 다음 장인 p.839 Ch 113으로 이어짐)가 수록되어 있다.
@@ -23,13 +21,11 @@ title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic C
 
 > * 경쇄 없이 결함 있는 중쇄 단편만 분비하는 희귀 림프형질세포 종양으로, **감마($\gamma$) 중쇄병(Franklin 병)**은 Waldeyer 고리 침범에 의한 **구개 부종(palatal edema)**과 자가면역질환(류마티스 관절염) 동반이 특징이고, 가장 흔한 **알파($\alpha$) 중쇄병(Seligmann 병 / 면역증식성 소장 질환[IPSID])**은 *Campylobacter jejuni* 만성 장 감염과 연관되어 근위 소장 고유판 침윤과 만성 설사·흡수장애를 일으키며 초기에는 경구 항생제만으로 30–70%에서 완전관해가 유도된다(**뮤[$\mu$] 중쇄병**은 세포질 공포를 가진 희귀 CLL 아형에서 소변 $k$ 경쇄 배설과 함께 나타남).
 
-## ---
-
 **1. 제108장 아밀로이드증 (Chapter 108: Amyloidosis) (p.803–809)**
 
 ### **1.1 전신 아밀로이드증의 분류, 진단 알고리즘(Figure 108-1) 및 AL·AA·ATTR·$A{b}_{2}M$ 아밀로이드증의 치료 (Figure 108-2, 108-3) (p.803–809)**
 
-> * **병태생리와 조직 확진 및 아형 동정 알고리즘 (p.803–805, Table 108-1, Figure 108-1)**:  
+> * **병태생리와 조직 확진 및 아형 동정 알고리즘 (p.803–805, Table 108-1, Figure 108-1)**: ![[Harrison_V1_Ch108_Tab1.png]]  
 > * 잘못 접힌 전구 단백질이 역평행 $b$-병풍 구조(antiparallel $b$-pleated sheet)의 불용성 원섬유를 형성하여 세포외 조직에 침착되는 질환으로, **Congo red 염색 후 편광현미경 검경 시 특징적인 사과빛 녹색 복굴절(""apple green"" birefringence)**을 보인다.  
 > * **진단 접근(Figure 108-1)**: 가장 비침습적인 1차 생검 부위는 **복부 피하지방 흡인(abdominal fat pad 흡인 — 전신 아밀로이드증의 >80%에서 양성)**이며, 음성일 경우 침범 장기(신장, 심장, 간, 위장관)를 생검한 뒤 반드시 면역조직화학염색, 면역전자현미경, 또는 **질량분석법(mass spectrometry)**과 유전자 염기서열분석으로 정확한 전구 단백 아형(AL 대 AA 대 ATTR)을 확정해야 한다(고령자에서는 단클론 감마글로불린병증[MGUS]이 우연히 공존할 수 있으므로 M단백 검출만으로 AL 아밀로이드증으로 단정해서는 안 됨, Figure 108-1).
 
@@ -42,14 +38,12 @@ title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic C
   * **치료**: 적합한 환자에서는 **고용량 정맥 멜팔란 + 자가 조혈모세포 이식(HDM/SCT — 약 40%에서 혈액학적 완전관해 유도, 단 중증 심장 침범 시 이식 관련 사망률 높음)**을 시행하고, 비이식 환자에서는 **시클로포스파미드 + 보르테조밉 + 덱사메타손(시클로포스파미드-보르테조밉-덱사메타손)**이나 멜팔란+덱사메타손, 레날리도마이드, 다라투무맙으로 형질세포 클론을 제거한다.  
 > * **AA 아밀로이드증 (이차성/반응성)**: 만성 염증성 질환(류마티스 관절염, 강직척추염, 염증성 장질환, **가족성 지중해열[콜히친 1.2–1.8 mg/일로 예방·치료]**, 주석산 저항성 산성 인산분해효소S, 만성 화농성 감염, 결핵, 정맥 마약 사용자의 피부 감염)에서 간이 생성하는 급성기 반응 물질인 **혈청 아밀로이드 A (SAA)**가 침착되어 신장(단백뇨/신부전)과 간·비장·위장관을 침범한다(심장이나 말초신경 침범은 드묾). 기저 염증 질환의 억제(항TNF, 항IL-1 제제 등)가 핵심 치료다.  
 > * **ATTR 아밀로이드증 (트랜스티레틴[Transthyretin]: 유전성 변이형[ATTRm] 및 고령 야생형[ATTRwt, 노인성 전신 아밀로이드증])**:  
-  * 간에서 합성되는 갑상선호르몬·레티놀 결합 단백 수송체인 TTR 사량체가 단량체로 해리되어 침착된다. **ATTRm**(전 세계 100종 이상 점돌연변이: 포르투갈·스웨덴·일본의 **V30M**은 가족성 아밀로이드 다발신경병증 유발; **아프리카계 미국인의 3–4%가 보유한 발린-이소류신 치환 변이**는 노년기 치명적 심근병증 유발)과 65세 이상 남성에서 서서히 진행하는 심부전을 일으키는 **야생형(ATTRwt)**이 있다(\$^{99\\text{m}}\\text{Tc}\$-PYP 스캔이 AL 심장 침범과 달리 ATTR 심근병증에서 강한 양성 섭취를 보임).  
+  * 간에서 합성되는 갑상선호르몬·레티놀 결합 단백 수송체인 TTR 사량체가 단량체로 해리되어 침착된다. **ATTRm**(전 세계 100종 이상 점돌연변이: 포르투갈·스웨덴·일본의 **V30M**은 가족성 아밀로이드 다발신경병증 유발; **아프리카계 미국인의 3–4%가 보유한 발린-이소류신 치환 변이**는 노년기 치명적 심근병증 유발)과 65세 이상 남성에서 서서히 진행하는 심부전을 일으키는 **야생형(ATTRwt)**이 있다($^{99\text{m}}\text{Tc}$-PYP 스캔이 AL 심장 침범과 달리 ATTR 심근병증에서 강한 양성 섭취를 보임).  
   * **치료**: 간이식(초기 V30M 신경병증), TTR 사량체 안정화 소분자 약물인 **디플루니살(diflunisal — 무작위 시험에서 신경병증 진행 억제 입증)** 및 **타파미디스(tafamidis)**, 그리고 간 내 TTR mRNA를 침묵시키는 RNA 간섭(RNAi) 및 안티센스 올리고뉴클레오티드 치료제.  
 > * $A{b}_{2}M$ **아밀로이드증**: 장기 혈액투석 환자에서 ${b}_{2}$-마이크로글로불린(11.8 kDa) 침착으로 **수근관 증후군**, 양측 대관절 지속성 삼출액, 척추관절병증, 골낭종이 발생한다.
 
 **Figure 108-2, p.806**: Clinical signs of AL amyloidosis. A. Macroglossia. B. Periorbital ecchymoses. C. Fingernail dystrophy. — AL 아밀로이드증의 특징적 임상 징후: 대설증(A), 눈주위 반상출혈("너구리 눈", B), 손톱 이영양증(C). ![[Harrison_V1_Ch108_Fig2.png]]  
 **Figure 108-3, p.806**: Laboratory features of AL amyloidosis. — AL 아밀로이드증의 검사실 소견: 혈청 면역고정전기영동(A), 유리경쇄 정량(B), 골수 생검의 CD138 양성 클론성 형질세포 및 $\lambda$ 경쇄 단일클론 염색(C), 복부 지방 흡인 표본의 Congo red 염색 편광현미경 사과빛 녹색 복굴절(D). ![[Harrison_V1_Ch108_Fig3.png]]
-
-## ---
 
 **2. 제109장 수혈 생물학 및 수혈 치료 (Chapter 109: Transfusion Biology and Therapy) (p.809–816)**
 
@@ -75,8 +69,6 @@ title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic C
 **Table 109-3, p.813**: Table 109-3 Risks of Transfusion Complications — 각종 수혈 합병증(발열 반응, 알레르기, 지연성/급성 용혈, TRALI, 이식편대숙주병, 수혈후 자반증 및 B형·C형 간염, HIV, HTLV, 파보바이러스 B19, 적혈구/혈소판 세균 오염)의 단위당 추정 발생 빈도 요약표. ![[Harrison_V1_Ch109_Tab3.png]]  
 **Figure 109-1, p.814**: Direct and indirect Coombs test. — 환자 적혈구 표면에 생체 내에서 결합된 IgG 또는 보체(C3)를 검출하는 직접 항글로불린(직접 Coombs) 검사(상단)와 환자 혈청 내의 유리 항-적혈구 항체를 검출하는 간접 항글로불린(간접 Coombs) 검사(하단) 원리 모식도. ![[Harrison_V1_Ch109_Fig1.png]]
 
-## ---
-
 **3. 제110장 조혈모세포 이식 (Chapter 110: Hematopoietic Cell Transplantation, HCT) (p.816–822)**
 
 ### **3.1 조혈모세포 공급원·HLA 일치 확률(Table 110-1), 전처치 요법 및 이식 후 시기별 합병증 (Figure 110-1) (p.816–822)**
@@ -87,16 +79,14 @@ title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic C
 
 **Table 110-1, p.817**: Table 110-1 Probability of Identifying a Donor Based on Stem Cell Source and Patient Ethnicity — 환자 인종(백인, 히스패닉, 흑인)별 비혈연 성인 공여자(8/8 및 7/8 일치) 및 비혈연 제대혈($\geq 4/6$ 일치) 확보 확률 비교표. ![[Harrison_V1_Ch110_Tab1.png]]
 
-> * **조혈모세포 이식 후 시기별 주요 합병증 (p.818–820, Figure 110-1, 표 110-2, 110-3)**:  
+> * **조혈모세포 이식 후 시기별 주요 합병증 (p.818–820, Figure 110-1, 표 110-2, 110-3)**: ![[Harrison_V1_Ch110_Tab2.png]] ![[Harrison_V1_Ch110_Tab3.png]]  
 > * **초기 비감염성 독성**: 전처치 화학요법·전신방사선조사(TBI)에 의한 구강 점막염, 출혈성 방광염(시클로포스파미드 → 메스나로 예방), 그리고 간 동모양혈관 내피 손상으로 이식 후 첫 3주 내에 압통성 간종대·황달(고빌리루빈혈증)·복수·체중 증가를 일으키는 **간 정맥폐쇄성 질환(VOD / 동모양혈관 폐쇄 증후군[SOS] — 부설판·시클로포스파미드 연관; 데피브로티드[defibrotide]로 치료)** 및 특발성 폐렴 증후군(IPS).  
 > * **급성 및 만성 이식편대숙주병 (GVHD, Figure 110-1, Table 110-2)**:  
   * **급성 GVHD(주로 이식 후 3개월 이내)**: 공여자 T세포가 수혜자 조직을 공격하여 **피부(손바닥·발바닥·귀에서 시작하는 반점구진성 발진 ~ 홍피증·수포), 간(담즙정체성 황달), 위장관(대량 수양성·혈성 설사, 복통, 장폐색)**의 3대 장기를 침범한다(예방: **메토트렉세이트 + 칼시뉴린 억제제[사이클로스포린 또는 타크로리무스]** 또는 이식 후 시클로포스파미드; 치료: **글루코코르티코이드[메틸프레드니솔론 1–2 mg/kg/일]**).  
   * **만성 GVHD(이식 3개월 이후, 동종 이식 생존자의 20–50%)**: 전신경화증·쇼그렌 증후군·원발성 담즙성 간경변증·폐쇄성 세기관지염 등 자가면역질환과 유사한 다장기 침범을 보이며 면역회복을 지연시키나 동시에 백혈병 재발률을 낮추는 강력한 **이식편대종양(GVT) 효과**와 연관된다(만성 골수성 백혈병과 급성 골수성 백혈병에서 GVT 효과가 가장 강력하여 이식 후 재발 시 **공여자 림프구 주입[DLI]**만으로 관해 유도 가능).  
-> * **시기별 감염 합병증(Figure 110-1, Table 110-3)**: 생착 전 호중구감소기에는 세균·단순포진(HSV: 아시클로비르 예방)·칸디다·아스페르길루스 감염, 생착 후~100일 사이에는 **거대세포바이러스(CMV 폐렴/장염: PCR 감시 및 간시클로비르 선제 치료)**와 ***Pneumocystis 폐렴*** **(트리메토프림-설파메톡사졸 예방)** 감염, 후기(만성 GVHD 동반 시)에는 대상포진(VZV) 및 피막 보유 세균 감염이 호발한다.
+> * **시기별 감염 합병증(Figure 110-1, Table 110-3)**: 생착 전 호중구감소기에는 세균·단순포진(HSV: 아시클로비르 예방)·칸디다·아스페르길루스 감염, 생착 후~100일 사이에는 **거대세포바이러스(CMV 폐렴/장염: PCR 감시 및 간시클로비르 선제 치료)**와 **Pneumocystis 폐렴** **(트리메토프림-설파메톡사졸 예방)** 감염, 후기(만성 GVHD 동반 시)에는 대상포진(VZV) 및 피막 보유 세균 감염이 호발한다.
 
 **Figure 110-1, p.818**: Major syndromes complicating marrow transplantation. — 조혈모세포 이식 후 시간 경과(제0일~150일 이후)에 따른 그람양성/음성 세균·진균·단순포진(HSV)·거대세포바이러스(CMV)·수두대상포진(VZV) 감염과 급·만성 이식편대숙주병(GVHD) 및 폐 합병증의 발생 시기 분포도. ![[Harrison_V1_Ch110_Fig1.png]]
-
-## ---
 
 **4. 제111장 혈소판 및 혈관벽 질환 (Chapter 111: Disorders of Platelets and Vessel Wall) (p.822–829)**
 
@@ -110,7 +100,7 @@ title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic C
 **Table 111-1, p.824**: Table 111-1 Drugs Reported as Definitely or Probably Causing Isolated Thrombocytopenia — 고립성 혈소판감소증을 확실히 또는 흔히 유발하는 약물 목록(아세트아미노펜, 아시클로비르, 카르바마제핀, 세프트리악손, 디곡신, 에프티피바타이드/압식시맙/티로피반, 푸로세미드, 골드, 이부프로펜, 리네졸리드, 페니실린, 페니토인, 피페라실린, 퀴닌, 퀴니딘, 리팜핀, 설파메톡사졸, 티아지드, 반코마이신 등). ![[Harrison_V1_Ch111_Tab1.png]]
 
 > * **헤파린 유도 혈소판감소증 (Heparin-Induced Thrombocytopenia, HIT, Figure 111-3) (p.824–825)**:  
-> * **병태생리**: 혈소판 $\alpha$-과립에서 방출된 양전하 단백질인 **혈소판 제4인자(PF4)와 음전하 헤파린의 복합체**에 대한 **IgG 항체**가 형성되어 혈소판 표면 **\$\\text{Fc}\\gamma\\text{RIIa}\$ 수용체**에 결합함으로써 강력한 혈소판 활성화·응집·미세입자 방출과 내피세포·단핵구 조직인자 발현을 유도하여 **역설적인 중증 정맥 및 동맥 혈전증(환자의 최대 50%)**을 일으킨다(미분획 헤파린[UFH]이 저분자량 헤파린[LMWH]보다 발생 위험이 약 10배 높음).  
+> * **병태생리**: 혈소판 $\alpha$-과립에서 방출된 양전하 단백질인 **혈소판 제4인자(PF4)와 음전하 헤파린의 복합체**에 대한 **IgG 항체**가 형성되어 혈소판 표면 **$\text{Fc}\gamma\text{RIIa}$ 수용체**에 결합함으로써 강력한 혈소판 활성화·응집·미세입자 방출과 내피세포·단핵구 조직인자 발현을 유도하여 **역설적인 중증 정맥 및 동맥 혈전증(환자의 최대 50%)**을 일으킨다(미분획 헤파린[UFH]이 저분자량 헤파린[LMWH]보다 발생 위험이 약 10배 높음).  
 > * **임상 특징("4Ts": 혈소판감소 정도[대개 기저치의 >50% 감소하되 중증 \<20,000/µL는 드묾], 발생 시기[Figure 111-3: 헤파린 노출 후** 5–14일**에 발생하나** 최근 100일 이내 헤파린 노출력이 있으면 잔류 항체에 의해 24시간 내 급속 발병**], 혈전증 동반, 타 원인 배제) 및 진단·치료**: PF4/폴리음이온 ELISA(민감도 높으나 특이도 낮음)와 확진을 위한 **세로토닌 방출 검사(SRA)**를 시행한다. HIT가 의심되면 **모든 헤파린(카테터 세척액 및 LMWH 포함)을 즉시 중단**하고 혈전 유무와 무관하게 **비헤파린계 항응고제(직접 트롬빈 억제제인 아르가트로반[argatroban] 또는 비발리루딘[bivalirudin], 혹은 폰다파리눅스[fondaparinux])**를 투여한다(혈소판 수혈은 피하며, 혈소판이 회복되기 전에 와파린을 단독 투여하면 프로테인 C 급감으로 사지 정맥 괴저를 유발하므로 금기!).
 
 **Figure 111-3, p.825**: Time course of heparin-induced thrombocytopenia (HIT) development after heparin exposure. — 헤파린 노출 후 전형적 HIT(5–14일 후 발생), 최근 100일 내 헤파린 노출력이 있는 환자에서의 급속 발병 HIT, 그리고 헤파린 중단 수일 후 발생하는 지연 발병 HIT의 시간적 경과. ![[Harrison_V1_Ch111_Fig3.png]]
@@ -134,17 +124,15 @@ title: "Ch108-112: Amyloidosis, Transfusion Biology and Therapy, Hematopoietic C
 **Table 111-2, p.828**: Table 111-2 Laboratory Diagnosis of von Willebrand Disease (VWD) — 폰빌레브란트병 아형(1형, 2A형, 2B형, 2M형, 2N형, 3형)별 aPTT, VWF 항원, VWF 활성도, 인자 VIII 활성도 및 다량체(multimer) 분포 비교표. ![[Harrison_V1_Ch111_Tab2.png]]  
 **Figure 111-5, p.828**: Pattern of inheritance and laboratory findings in von Willebrand disease (VWD). — 제1형, 제2A형, 제2B형 폰빌레브란트병 가계의 유전 양상과 인자 VIII, VWF:Ag, VWF:RCoF, RIPA 및 폴리아크릴아미드 겔 다량체(multimer) 전기영동 패턴 비교. ![[Harrison_V1_Ch111_Fig5.png]]
 
-## ---
-
 **5. 제112장 혈액응고 장애: 혈우병, 비타민 K 결핍, DIC 및 간질환 응고장애 (Chapter 112: Coagulation Disorders) (p.830–838)**
 
 ### **5.1 혈우병 A·B(Figure 112-1), 인자 XI 결핍증 및 비타민 K 결핍·파종성 혈관내응고(DIC)·간질환 응고장애 (Figure 112-2 ~ 112-4, 표 112-2, 112-3) (p.830–838)**
 
-> * **혈우병 A (인자 VIII 결핍, 80%) 및 혈우병 B (인자 IX 결핍, 20%) (p.830–833, Figure 112-1, Table 112-1)**:  
+> * **혈우병 A (인자 VIII 결핍, 80%) 및 혈우병 B (인자 IX 결핍, 20%) (p.830–833, Figure 112-1, Table 112-1)**: ![[Harrison_V1_Ch112_Tab1.png]]  
 > * X-연관 열성 질환(남아 10,000명당 1명)으로 잔존 인자 활성도에 따라 **중증(\<1%, 자발성 관절혈증[hemarthrosis: 무릎·팔꿈치·발목] 및 심부 근육[장요근]·두개내 출혈)**, **중등증(1–5%)**, **경증(6–30%)**으로 나뉜다. PT와 혈소판·vWF는 정상이고 **aPTT만 단독 연장**된다(Figure 112-1).  
 > * **인자 보충 계산 공식과 치료**:  
-  * **인자 VIII (반감기 8–12시간)**: 혈장 1 mL당 1단위(U)가 정의이므로 **인자 VIII 1 U/kg 투여 시 혈장 인자 VIII 활성도가 2% 상승**한다(\$\\text{필요 단위} \= \\text{목표 상승률}[\\%] \\times \\text{체중}[\\text{kg}] \\div 2\$; 중증 출혈·대수술 시 목표 활성도 80–100%를 7–14일간 유지). 경증·중등증 혈우병 A에서는 **DDAVP(0.3 µg/kg)**로 내인성 인자 VIII을 2–4배 상승시킬 수 있다(혈우병 B에는 DDAVP가 전혀 효과가 없음!).  
-  * **인자 IX (반감기 18–24시간)**: 분포용적이 더 크므로 **혈장 유래 인자 IX 1 U/kg 투여 시 활성도가 1% 상승**한다(\$\\text{필요 단위} \= \\text{목표 상승률}[\\%] \\times \\text{체중}[\\text{kg}]\$; 재조합 인자 IX는 회수율이 낮아 성인 1.2 U/kg, 소아 1.4 U/kg 필요).  
+  * **인자 VIII (반감기 8–12시간)**: 혈장 1 mL당 1단위(U)가 정의이므로 **인자 VIII 1 U/kg 투여 시 혈장 인자 VIII 활성도가 2% 상승**한다($\text{필요 단위} \= \text{목표 상승률}[\%] \times \text{체중}[\text{kg}] \div 2$; 중증 출혈·대수술 시 목표 활성도 80–100%를 7–14일간 유지). 경증·중등증 혈우병 A에서는 **DDAVP(0.3 µg/kg)**로 내인성 인자 VIII을 2–4배 상승시킬 수 있다(혈우병 B에는 DDAVP가 전혀 효과가 없음!).  
+  * **인자 IX (반감기 18–24시간)**: 분포용적이 더 크므로 **혈장 유래 인자 IX 1 U/kg 투여 시 활성도가 1% 상승**한다($\text{필요 단위} \= \text{목표 상승률}[\%] \times \text{체중}[\text{kg}]$; 재조합 인자 IX는 회수율이 낮아 성인 1.2 U/kg, 소아 1.4 U/kg 필요).  
   * **억제항체(Inhibitors, 중증 혈우병 A의 25–30%, 혈우병 B의 3–5%에서 발생)**: Bethesda 단위로 정량하며, 고역가(>5 BU) 억제항체 환자의 급성 출혈에는 **우회 인자 제제(활성화 프로트롬빈 복합체 농축액[aPCC / 활성화 프로트롬빈 복합체 농축액] 또는 재조합 인자 VIIa [재조합 활성 제VII인자])**를 투여하고 근본적 박멸을 위해 **면역관용 유도(ITI)**를 시행한다(최근에는 인자 IXa와 인자 X을 동시에 연결해 인자 VIII 기능을 모방하는 피하주사 이중특이 단클론항체[에미시주맙 등]와 Fc/알부민 융합 반감기 연장 제제 및 AAV 벡터 유전자 치료가 도입됨).  
 > * **인자 XI 결핍증(상염색체 유전, 아쉬케나지 유대인에 흔함, 인자 수치와 출혈 경향이 비례하지 않으며 FFP 또는 항선용해제로 치료; 인자 XIII 결핍증은 PT·aPTT 모두 정상이나 제대 출혈·두개내 출혈 및 지연 창상 치유 유발) (p.833–834)**.
 

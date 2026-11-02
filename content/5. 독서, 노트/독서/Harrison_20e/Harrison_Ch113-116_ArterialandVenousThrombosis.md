@@ -11,8 +11,6 @@ type: 의학원서_요약노트
 
 title: "Ch113-116: Arterial and Venous Thrombosis, Antiplatelet/Anticoagulant/Fibrinolytic Drugs, Approach to the Patient with an Infectious Disease, and Molecular Mechanisms of Microbial Pathogenesis" aliases: - "해리슨 20판 Ch113-116" - "Arterial and Venous Thrombosis" - "Antiplatelet, Anticoagulant, and Fibrinolytic Drugs" - "Approach to the Patient with an Infectious Disease" - "Molecular Mechanisms of Microbial Pathogenesis" tags: - Harrison20e - InternalMedicine - Part4 - Part5 - Ch113-116 - Thrombosis - Anticoagulants - AntiplateletDrugs - Fibrinolytics - InfectiousDiseases - MicrobialPathogenesis source_pdf: "https\://drive.google.com/open?id=1A-lMeXHQAVUT29f_w8ovHI22MnB0V1F4" source_pages: "pp. 839–876" created: "2026-10-22"
 
-# ---
-
 **📑 [20e] 113–116: Arterial and Venous Thrombosis, Antithrombotic Drugs, Approach to Infectious Diseases, and Microbial Pathogenesis**
 
 **[원문 출처 및 범위 안내]** - **원본 자료**: [Harrison20e_V1_0769-0938.pdf](https://drive.google.com/open?id=1A-lMeXHQAVUT29f_w8ovHI22MnB0V1F4) (pp. 839–876, 해리슨 내과학 1권-2.pdf) - **범위 경계 안내**: 본 범위(pp. 839–876)에는 Part 4 Section 4의 **Ch 113** *Arterial and Venous Thrombosis* (pp. 839–843), **Ch 114** *Antiplatelet, Anticoagulant, and Fibrinolytic Drugs* (pp. 843–858), 그리고 Part 5 *Infectious Diseases* Section 1의 **Ch 115** *Approach to the Patient with an Infectious Disease* (pp. 859–866), **Ch 116** *Molecular Mechanisms of Microbial Pathogenesis* (pp. 866–876, 새로운 숙주로의 전파 및 요약 말미가 p.877로 이어짐)가 수록되어 있다.
@@ -23,7 +21,7 @@ title: "Ch113-116: Arterial and Venous Thrombosis, Antiplatelet/Anticoagulant/Fi
 
 > * **혈소판 활성화와 동맥 혈전 형성 (p.839–841, Figure 113-1, Table 113-2)**:  
 > * 동맥 혈전(급성 관상동맥 증후군, 허혈성 뇌졸중, 말초동맥질환)은 죽상경화반 파열 부위에 고전단력 하에서 혈소판이 주도하는 **"백색 혈전(white thrombus)"**이다.  
-> * 내피하 콜라겐(GPVI, ${\alpha }_{2}{b}_{1}$ 결합)과 노출된 **폰빌레브란트 인자(vWF)가 혈소판 Gp Ib/IX/V 복합체에 결합**하여 부착이 개시되고(Figure 113-1), 알파과립 및 치밀과립(ADP, 세로토닌) 방출과 트롬빈 수용체(**PAR1, PAR4**), ADP 수용체(**\$\\text{P2Y}*1, \\text{P2Y}*{12}\$**), 트롬복산 ${A}_{2}$($TX{A}_{2}$) 자극을 통해 **Gp IIb/IIIa (${\alpha }_{IIb}{b}_{3}$) 인테그린**이 고친화성 상태로 전환되어 피브리노겐 가교를 통한 혈소판 응집과 P-selectin(CD62P)–백혈구 PSGL-1 결합 및 CD40L 매개 염증을 유도한다(Table 113-2: 클로피도그렐의 약동학·항혈소판 반응 변이의 5–12%는 *CYP2C19*2* 기능상실 대립유전자가 설명함).
+> * 내피하 콜라겐(GPVI, ${\alpha }_{2}{b}_{1}$ 결합)과 노출된 **폰빌레브란트 인자(vWF)가 혈소판 Gp Ib/IX/V 복합체에 결합**하여 부착이 개시되고(Figure 113-1), 알파과립 및 치밀과립(ADP, 세로토닌) 방출과 트롬빈 수용체(**PAR1, PAR4**), ADP 수용체(**$\text{P2Y}*1, \text{P2Y}*{12}$**), 트롬복산 ${A}_{2}$($TX{A}_{2}$) 자극을 통해 **Gp IIb/IIIa (${\alpha }_{IIb}{b}_{3}$) 인테그린**이 고친화성 상태로 전환되어 피브리노겐 가교를 통한 혈소판 응집과 P-selectin(CD62P)–백혈구 PSGL-1 결합 및 CD40L 매개 염증을 유도한다(Table 113-2: 클로피도그렐의 약동학·항혈소판 반응 변이의 5–12%는 *CYP2C19*2* 기능상실 대립유전자가 설명함).
 
 **Figure 113-1, p.839**: Platelet activation and thrombosis. — 내피 손상 부위의 콜라겐 및 vWF에 혈소판 Gp Ib/IX/V 복합체가 결합하여 부착·과립 방출·$TX{A}_{2}$ 합성 및 활성화된 Gp IIb/IIIa 수용체의 피브리노겐 가교를 통해 혈소판 응집체를 형성하는 기전. ![[Harrison_V1_Ch113_Fig1.png]]  
 **Table 113-2, p.841**: Table 113-2 Genetic Variation and Pharmacogenetic Responses to Platelet Inhibitors — 항혈소판제(클로피도그렐·프라수그렐[*P2Y1, P2Y12, CYP2C19, CYP3A4, CYP3A5*], 아스피린[*COX1, COX2*], Gp IIb/IIIa 억제제[*인테그린 베타3, GPIBA*]) 반응에 관여하는 유전적 변이 요약표. ![[Harrison_V1_Ch113_Tab2.png]]
@@ -37,8 +35,6 @@ title: "Ch113-116: Arterial and Venous Thrombosis, Antiplatelet/Anticoagulant/Fi
 
 **Table 113-3, p.842**: Table 113-3 Acquired Causes of Venous Thrombosis — 정맥 혈전증의 후천적 원인(신경외과·복부·고관절/슬관절 대수술, 악성종양, 항인지질증후군, 외상, 임신, 장거리 여행, 비만, 경구피임약/호르몬대체요법, 골수증식질환/진성 적혈구증가증). ![[Harrison_V1_Ch113_Tab3.png]]  
 **Figure 113-2, p.842**: Summary of the coagulation pathways. — 내인계(접촉 활성화) 및 외인계(조직인자-VIIa) 응고 폭포와 프로트롬비나제 복합체를 통한 트롬빈·가교 피브린 생성 및 생리적 억제 경로 요약도. ![[Harrison_V1_Ch113_Fig2.png]]
-
-## ---
 
 **2. 제114장 항혈소판제, 항응고제 및 혈전용해제 (Chapter 114: Antiplatelet, Anticoagulant, and Fibrinolytic Drugs) (p.843–858)**
 
@@ -66,7 +62,7 @@ title: "Ch113-116: Arterial and Venous Thrombosis, Antiplatelet/Anticoagulant/Fi
   * **미분획 헤파린(UFH, 평균 분자량 15,000 Da, ~45개 당단위)**: 안티트롬빈(AT)에 결합하는 오당류(pentasaccharide) 서열을 포함하며, **안티트롬빈과 트롬빈(IIa)을 동시에 다리 놓아 억제하려면 최소 18개 이상의 당단위 사슬 길이(분자량 >5,400)가 필수적**이므로 UFH는 **항-Xa : 항-IIa 비율이 1:1**이다(aPTT 또는 항-Xa 0.3–0.7 U/mL로 감시; 출혈 시 **황산프로타민[protamine sulfate: 헤파린 100단위당 1 mg IV]**으로 완전 중화; 부작용으로 HIT[Table 114-4], 1개월 이상 투여 시 골다공증, 알도스테론 합성 억제에 의한 고칼륨혈증, 아미노전이효소 상승).  
   * **저분자량 헤파린(LMWH: 에녹사파린, 달테파린 — 평균 분자량 5,000 Da, ~17개 당단위, Table 114-5)**: 사슬의 절반 이상이 18개 당단위 미만이어서 트롬빈보다 인자 Xa를 우세하게 억제(**항-Xa : 항-IIa 비율 2:1 ~ 4:1**)하며, 피하 생체이용률이 90%, 반감기가 ~4시간으로 예측 가능하여 일반 환자에서는 모니터링이 불필요하다(단, **신장으로 배설되므로 $크레아티닌청소율\leq 30–50mL/min$ 신부전이나 고도비만·임산부에서는 투여 3–4시간 후 최고 항-Xa 농도[치료 목표 0.5–1.2 U/mL] 감시 필요**; 프로타민에 의해 부분적으로만 중화됨).  
   * **폰다파리눅스(Fondaparinux, 분자량 1,728 Da, 합성 오당류)**: 오직 안티트롬빈에만 결합하여 **순수하게 인자 Xa만 억제**하고 트롬빈은 전혀 억제하지 않는다(피하 생체이용률 100%, 반감기 **17시간**, 1일 1회 투여, **HIT를 유발하거나 교차반응하지 않음**, $크레아티닌청소율<30mL/min$에서 금기, 프로타민에 전혀 중화되지 않음).  
-> * **비경구 직접 트롬빈 억제제(Table 114-7)**: **아르가트로반(argatroban: 간 대사, 신부전 동반 HIT에 안전, INR도 함께 연장시킴)**, **비발리루딘(bivalirudin: 반감기 25분, PCI 시술 시 사용)**, 재조합 히루딘(레피루딘, 데시루딘).
+> * **비경구 직접 트롬빈 억제제(Table 114-7)**: **아르가트로반(argatroban: 간 대사, 신부전 동반 HIT에 안전, INR도 함께 연장시킴)**, **비발리루딘(bivalirudin: 반감기 25분, PCI 시술 시 사용)**, 재조합 히루딘(레피루딘, 데시루딘). ![[Harrison_V1_Ch114_Tab7.png]]  
 
 **Figure 114-5, p.848**: Mechanism of action of heparin, low-molecular-weight heparin (LMWH), and fondaparinux, a synthetic pentasaccharide. — 미분획 헤파린(사슬 길이 $\geq 18$ 당단위로 트롬빈과 인자 Xa를 1:1 동시 억제, A), 저분자량 헤파린(인자 Xa 우세 억제, B), 합성 오당류 폰다파리눅스(순수 인자 Xa 선택적 억제, C)의 안티트롬빈 촉매 기전 비교. ![[Harrison_V1_Ch114_Fig5.png]]  
 **Table 114-4, p.850**: Table 114-4 Management of Heparin-Induced Thrombocytopenia — 헤파린 유도 혈소판감소증(HIT)의 관리 원칙(모든 헤파린 즉각 중단, 비헤파린 항응고제[아르가트로반, 레피루딘, 폰다파리눅스] 투여, 혈소판 수혈 회피, 혈소판 회복 전 와파린 투여 금지 및 이미 투여 시 비타민 K로 역전, 혈전증 초음파 선별). ![[Harrison_V1_Ch114_Tab4.png]]  
@@ -88,23 +84,21 @@ title: "Ch113-116: Arterial and Venous Thrombosis, Antiplatelet/Anticoagulant/Fi
 **Figure 114-8, p.857**: Mechanism of action of streptokinase. — 스트렙토키나제가 플라스미노겐과 1:1 화학량론적 복합체를 형성하여 활성 부위를 노출시키고 유리 및 피브린 결합 플라스미노겐을 비선택적으로 플라스민으로 전환하는 기전. ![[Harrison_V1_Ch114_Fig8.png]]  
 **Figure 114-9, p.857**: Domain structures of alteplase (tPA), tenecteplase (TNK-tPA), and reteplase (r-PA). — 알테플라제(tPA: Finger, EGF, Kringle 1/2, 촉매 프로테아제 도메인), 테넥테플라제(TNK-tPA: T, N 당화 변이 및 K [PAI-1 결합 부위 4개 알라닌 치환]), 레테플라제(r-PA: Finger·EGF·Kringle 1 도메인 결실)의 도메인 구조 비교. ![[Harrison_V1_Ch114_Fig9.png]]
 
-## ---
-
 **3. 제115장 감염 질환 환자에 대한 접근(p.859–866) 및 제116장 미생물 발병의 분자 기전 (p.866–876)**
 
 ### **3.1 전 세계 감염병 사망 부담(Figure 115-1), 미생물총(Microbiota) 및 감염병 환자의 임상·검사실 접근 (p.859–866)**
 
 > * **전 세계 감염병 부담(Figure 115-1)과 인체 미생물총(Microbiota) (p.859–860)**:  
 > * 감염 질환은 전 세계 사망 원인 **2위**(2013년 연간 **1,090만 명 사망**, 전체 사망의 20%, 사하라 이남 아프리카에서는 >50%, Figure 115-1)이며 전체 악성종양의 **~16%**가 감염 원인과 연관된다. 정상 인체에는 인간 세포 수의 약 10배에 달하는 **~50조 개의 세균**이 상주하며 대다수 감염은 엄격한 외인성 병원체가 아니라 정상 미생물총 구성원에 의해 발생한다.  
-> * **병력(약제내성균·직업·식이·동물·여행력, 숙주 면역결핍), 신체검진 및 검사실 단서 (p.861–866, 표 115-1 ~ 115-5)**:  
+> * **병력(약제내성균·직업·식이·동물·여행력, 숙주 면역결핍), 신체검진 및 검사실 단서 (p.861–866, 표 115-1 ~ 115-5)**: ![[Harrison_V1_Ch115_Tab1.png]]  
 > * **상대적 서맥(맥박-체온 해리, Table 115-1)**: 장티푸스, 브루셀라증, 렙토스피라증, *Legionella*, *Mycoplasma*, *Chlamydia*, 리케차, 뎅기열, 황열, 바이러스성 출혈열, 바베시아증, 말라리아(및 약물열, 중추신경계 병변, 림프종).  
-> * **호산구증가증 동반 감염(Table 115-2)**: 조직 침습성 다세포 연충(기생충) 감염, 콕시디오이데스진균증, 알레르기성 기관지폐 아스페르길루스증(알레르기성 기관지폐 아스페르길루스증). **ESR 극도 상승(>100 mm/h, Table 115-3)**: 세균성 심내막염, 골수염, 결핵, 농양.
+> * **호산구증가증 동반 감염(Table 115-2)**: 조직 침습성 다세포 연충(기생충) 감염, 콕시디오이데스진균증, 알레르기성 기관지폐 아스페르길루스증(알레르기성 기관지폐 아스페르길루스증). **ESR 극도 상승(>100 mm/h, Table 115-3)**: 세균성 심내막염, 골수염, 결핵, 농양. ![[Harrison_V1_Ch115_Tab2.png]] ![[Harrison_V1_Ch115_Tab3.png]]  
 
 **Figure 115-1, p.860**: Magnitude of infectious disease-related deaths globally. — 1990년 이후 전 세계 감염 질환 관련 사망자 수 및 사망률 추이(A), 2013년 연령별 사망률 분포(1세 미만 영아 및 70세 초과 노인에 집중, B), 국가별 감염·모성·신생아·영양 질환 사망 비중 지도(C). ![[Harrison_V1_Ch115_Fig1.png]]
 
 ### **3.2 미생물의 부착(Figure 116-1)·세포 침입(Figure 116-2), 선천 면역 감지(TLR/NLR: Figure 116-3), 외독소·내독소 및 숙주 세포사멸 경로(Figure 116-4) (p.866–876)**
 
-> * **미생물의 숙주 부착(Adhesins) 및 상피세포 침입 (p.867–870, Table 116-1, Figure 116-1, Figure 116-2)**:  
+> * **미생물의 숙주 부착(Adhesins) 및 상피세포 침입 (p.867–870, Table 116-1, Figure 116-1, Figure 116-2)**: ![[Harrison_V1_Ch116_Tab1.png]]  
 > * **바이러스 부착소**: HIV 외피 당단백질 (CD4 및 CCR5/CXCR4 결합), 홍역 바이러스 H 당단백(SLAM [CD150] 및 nectin-4 결합), 인플루엔자 바이러스 혈구응집소(인간 균주 H1은 상기도의 $\alpha$**-2-6 시알산-갈락토스**에 결합해 기침 전파가 쉬운 반면, 고병원성 조류 인플루엔자 **H5N1**은 종말 세기관지·제II형 폐포세포의 $\alpha$**-2-3 시알산**에 결합해 중증 폐렴과 높은 치사율을 보임).  
 > * **세균 섬모(Pili/Fimbriae)·편모(Flagella, Figure 116-1) 및 생물막**: 요로감염 대장균의 만노스 결합 제1형 섬모(방광 유로플라킨 결합) 및 신우신염 연관 **P 섬모**(P 혈액형 디갈락토스 결합), 다수의 그람양성·음성균 및 진균이 카테터·삽입기구에 생물막(biofilm)을 형성하게 하는 표면 다당류인 **PNAG ($b$-1-6-linked poly-N-acetyl-D-glucosamine)**. 세균이 숙주 상피세포 액틴 세포골격을 재구성하여 침입하는 과정은 Figure 116-2와 같다.
 

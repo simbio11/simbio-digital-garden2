@@ -15,8 +15,6 @@ type: 의학원서_요약노트
 
 ## **1. 머리, 목, 그리고 얼굴의 그 외 구조들 (Other Structures of the Head, Neck and Face) (PDF pp.281–285 / 인쇄면 pp.270–274)**
 
-### ---
-
 **1.1 동맥(온목동맥·얕은관자동맥·얼굴동맥·척추동맥), 얼굴신경, 침샘, 방패샘, 목림프절 및 팔신경얼기 (PDF pp.281–285 / 인쇄면 pp.270–274)**
 
 ![[근육뼈대계통_p0281.png]] - **그림 5.123 얕은쪽 근육들이 제거된 머리·목·얼굴의 가쪽면 (PDF p.281 / 인쇄면 p.270)**: - 얕은관자동맥(Superficial temporal artery, 천측두동맥), 관자근(Temporalis, 측두근), 얼굴신경(Facial nerve, 안면신경), 바깥귀길(External auditory meatus, 외이도), 귀밑샘관(Parotid duct, 이하선관), 귀밑샘(Parotid gland, 이하선), 온목동맥(Common carotid artery, 총경동맥), 얼굴동맥(Facial artery, 안면동맥), 턱밑샘(Submandibular gland, 악하선), 방패연골, 반지연골, 방패샘(Thyroid gland, 갑상선), 기관(Trachea). - **귀 움직임 비교해부학 노트**: 인간은 귀를 움직이는 근육을 단 3개만 가진 반면(감정을 얼굴 표정으로 표현하므로 퇴화), 말은 감정을 주로 귀로 표현하기 때문에 13개의 귀 근육을 가지고 있다.  
@@ -39,8 +37,6 @@ type: 의학원서_요약노트
 
 ## **2. chapter 6 골반과 넙다리 (Pelvis & Thigh) — 국소해부학, 피부와 근막 탐색, 뼈와 표지점 (PDF pp.286–294 / 인쇄면 pp.275–283)**
 
-### ---
-
 **2.1 6장 목차, 국소해부학, 피부와 근막 탐색 및 골반·볼기뼈·엉치뼈·꼬리뼈·넙다리뼈 표지점 (PDF pp.286–294 / 인쇄면 pp.275–283)**
 
 ![[근육뼈대계통_p0286.png]] - **chapter 6 골반과 넙다리(Pelvis & Thigh) 표지 및 목차 (PDF p.286 / 인쇄면 p.275)**: 국소해부학(276), 피부와 근막 탐색(277), 골반과 넙다리의 뼈(278), 골반과 넙다리뼈 표지점(279), 볼기뼈의 뼈 표지점(281), 엉치뼈와 꼬리뼈(282), 넙다리뼈(283), 뼈 표지점의 추적경로(284), 골반과 넙다리의 근육(296), 샅과 골반바닥(300), 협동근(302), 넙다리네갈래근무리(306), 뒤넙다리근(311), 볼기근(315), 모음근육무리(319), 넙다리근막긴장근과 엉덩정강띠(324), 넙다리빗근(326), 무릎 뒤쪽의 힘줄(327), 엉덩관절의 가쪽돌림근육(328), 엉덩허리근(332), 골반과 넙다리의 그 외 구조들(336).  
@@ -60,8 +56,6 @@ type: 의학원서_요약노트
 | **넙다리뼈 (Femur, 대퇴골)** *(p.278–283)* | 몸쪽 끝은 절구와 절구공이관절인 **엉덩관절(Coxal/hip joint)** 형성; 먼쪽 끝은 몸쪽 정강뼈와 변형된 경첩관절인 **정강넙다리관절(Tibiofemoral/knee joint)** 형성(6.17, 6.18). | • **몸쪽(Proximal)**: 넙다리뼈머리(Head, 대퇴골두), 넙다리뼈머리오목(Fovea of head, 대퇴골두와), 넙다리뼈목(Neck, 대퇴경), 큰돌기(Greater trochanter, 대전자), 작은돌기(Lesser trochanter, 소전자), 돌기오목(Trochanteric fossa, 전자와), 돌기사이선(Intertrochanteric line, 전자간선 — 앞면), 돌기사이능선(Intertrochanteric crest, 전자간능 — 뒤면) • **몸통(Shaft)**: 볼기근거친면(Gluteal tuberosity, 둔근조면), 두덩근선(Pectineal line, 치골근선), 거친선의 안쪽입술(Medial lip of linea aspera, 조선의 내측순), 거친선의 가쪽입술(Lateral lip of linea aspera, 조선의 외측순) • **먼쪽(Distal)**: 안쪽관절융기위선(Medial supracondylar line, 내측과상선), 가쪽관절융기위선(Lateral supracondylar line, 외측과상선), 모음근결절(Adductor tubercle, 내전근결절), 안쪽위관절융기(Medial epicondyle, 내측상과), 가쪽위관절융기(Lateral epicondyle, 외측상과), 안쪽관절융기(Medial condyle, 내측과), 가쪽관절융기(Lateral condyle, 외측과), 융기사이오목(Intercondylar fossa, 과간와 — 뒤면), 무릎면(Patellar surface, 슬개면 — 앞면) |
 
 ## **3. 골반과 넙다리의 뼈 표지점 추적경로 (Bony Landmark Trails) — 경로 1~2 (PDF pp.295–300 / 인쇄면 pp.284–289)**
-
-### ---
 
 **3.1 추적경로 1~5 개관, 경로 1 "자기 것 촉지(Solo Pass)" 및 경로 2 "엉덩뼈의 거리(Iliac Avenue)" (PDF pp.295–300 / 인쇄면 pp.284–289)**
 

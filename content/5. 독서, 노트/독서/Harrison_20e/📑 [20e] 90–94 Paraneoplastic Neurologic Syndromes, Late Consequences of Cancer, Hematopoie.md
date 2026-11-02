@@ -19,12 +19,12 @@ type: 의학원서_요약노트
 > * 부종양 신경학적 질환(PND, Table 90-1)의 **60% 이상에서 신경 증상이 암 진단보다 수개월~수년 먼저 발현**하므로 원인 불명의 아급성 신경 증후군에서는 전신 CT 및 PET 등으로 잠복 종양을 적극 탐색해야 한다.  
 > * **1. 세포내 신경 항원 표적 증후군(Table 90-2: 항-Hu [소세포폐암], 항-Yo [PCA1, 유방암·난소암 소뇌변성], 항-Ri [유방암·소세포폐암 안구간대경련], 항-Ma2 [고환 생식세포종양 변연계·시상하부·뇌간 뇌염], 항-CRMP5 [소세포폐암·흉선종 무도병·말초신경병증], 항-amphiphysin [유방암·소세포폐암 강직인간증후군])**:  
   * 거의 항상 기저 악성종양과 연관되며, 항체 자체는 살아 있는 신경세포 내부로 들어가지 못하므로(Figure 90-1B, D, F) 실제 신경세포 파괴는 **항원 특이적 세포독성 T세포($CD{8}^{+}$)**가 매개한다. 따라서 비가역적 신경세포 소실이 일어나 면역치료(IVIg, 혈장교환술)에 대한 반응이 불량하다(단, 항-Ma2 뇌염은 종양 절제와 면역치료에 ~30% 반응).  
-> * **2. 신경세포 표면 또는 시냅스 단백질 표적 증후군(Table 90-3: 항-NMDAR, 항-LGI1, 항-Caspr2, 항-\$\\text{GABA}*\\text{B}$R,항-$\\text{GABA}*\\text{A}\$R, 항-AMPAR, 항-mGluR1/5, 항-GlyR, 항-DPPX, 항-P/Q형 VGCC, 항-AChR)**:  
+> * **2. 신경세포 표면 또는 시냅스 단백질 표적 증후군(Table 90-3: 항-NMDAR, 항-LGI1, 항-Caspr2, 항-$\text{GABA}*\text{B}$R,항-$\text{GABA}*\text{A}$R, 항-AMPAR, 항-mGluR1/5, 항-GlyR, 항-DPPX, 항-P/Q형 VGCC, 항-AChR)**:  
   * 종양 동반 유무와 무관하게(소아 및 젊은 성인 포함) 발생할 수 있으며, **항체 자체가 살아 있는 신경세포 표면 수용체·시냅스 단백질에 직접 결합하여 내재화·기능 차단을 유발**하므로(Figure 90-1A, C, E) 증상이 아무리 위중하더라도 종양 제거 및 면역치료(글루코코르티코이드, IVIg, 혈장교환술 → 리툭시맙 또는 시클로포스파미드)에 **70–80% 이상이 극적으로 회복**된다(Table 90-3).
 
 **Table 90-1, p.668**: Table 90-1 Paraneoplastic Syndromes of the Nervous System — 중추신경계, 말초신경계(후근신경절염, 말초신경병증, 자율신경병증), 신경근접합부(Lambert-Eaton 근무력증후군, 중증근무력증) 및 근육/시각계의 고전적·비고전적 부종양 신경 증후군 목록. ![[Harrison_V1_Ch90_Tab1.png]]  
 **Table 90-2, p.668**: Table 90-2 Antibodies to Intracellular Antigens, Syndromes, and Associated Cancers — 세포내 신경 항원에 대한 항체(Anti-Hu, Anti-Yo, Anti-Ri, Anti-Ma2, Anti-CRMP5, Anti-amphiphysin, Anti-GAD, recoverin)와 연관 신경 증후군 및 종양. ![[Harrison_V1_Ch90_Tab2.png]]  
-**Table 90-3, p.670**: Table 90-3 Antibodies to Cell Surface or Synaptic Antigens, Syndromes, and Associated Tumors — 세포표면 또는 시냅스 항원에 대한 항체(NMDAR, AMPAR, \$\\text{GABA}*\\text{B}\$R, \$\\text{GABA}*\\text{A}\$R, LGI1, Caspr2, DPPX, mGluR1, mGluR5, GlyR, D2R, IgLON5, Tr [DNER], P/Q형 VGCC, AChR)와 임상 증후군 및 종양 빈도. ![[Harrison_V1_Ch90_Tab3.png]]  
+**Table 90-3, p.670**: Table 90-3 Antibodies to Cell Surface or Synaptic Antigens, Syndromes, and Associated Tumors — 세포표면 또는 시냅스 항원에 대한 항체(NMDAR, AMPAR, $\text{GABA}*\text{B}$R, $\text{GABA}*\text{A}$R, LGI1, Caspr2, DPPX, mGluR1, mGluR5, GlyR, D2R, IgLON5, Tr [DNER], P/Q형 VGCC, AChR)와 임상 증후군 및 종양 빈도. ![[Harrison_V1_Ch90_Tab3.png]]  
 **Figure 90-1, p.670**: Comparison of brain and neuronal reactivity of antibodies against a neuronal cell surface, and an intracellular antigen. — 세포표면 항원(NMDA 수용체: 살아 있는 해마 신경세포 표면 및 신경망에 직접 강하게 결합, A·C·E)과 세포내 항원(Hu: 세포막 투과화 처리 후에만 핵/세포질과 반응하고 살아 있는 신경세포에는 접근하지 못함, B·D·F)에 대한 항체 반응성 비교. ![[Harrison_V1_Ch90_Fig1.png]]
 
 ### **1.2 자가면역 뇌염 각론(항-NMDAR, 항-LGI1, 항-$GAB{A}_{A}$R: Figure 90-2 ~ 90-4) 및 소뇌변성·강직인간·말초신경·근육 증후군(Figure 90-5) (p.670–674)**
@@ -47,8 +47,6 @@ type: 의학원서_요약노트
 
 **Figure 90-5, p.673**: Autoantibodies in stiff-person spectrum disorders. Schematic representation of an inhibitory synapse including the three main targets of autoantibodies in patients with stiff-person spectrum disorders: the presynaptic proteins GAD and amphiphysin, and the postsynaptic glycine receptor (GlyR). — 강직인간 스펙트럼 장애에서 억제성 시냅스의 3대 자가항체 표적(시냅스전 GAD 및 amphiphysin, 시냅스후 글리신 수용체[GlyR]) 모식도. ![[Harrison_V1_Ch90_Fig5.png]]
 
-## ---
-
 **2. 제91장 암 및 암 치료의 후기 합병증 (Chapter 91: Late Consequences of Cancer and Its Treatment) (p.674–679)**
 
 ### **2.1 장기별 암 치료 후기 합병증(Table 91-1) 및 이차 악성종양·추적관찰 지침(Table 91-2) (p.674–679)**
@@ -62,8 +60,6 @@ type: 의학원서_요약노트
 **Table 91-1, p.675**: Table 91-1 Late Effects of Cancer Therapy — 외과적 수술, 방사선 치료, 항암화학요법의 장기 계통별(신경계, 안구, 두경부, 심혈관계, 호흡기계, 위장관계, 비뇨생식기계, 근골격계, 내분비계, 혈액/면역계) 후기 합병증 총괄표. ![[Harrison_V1_Ch91_Tab1.png]]  
 **Table 91-2, p.678**: Table 91-2 Long-Term Treatment Effects by Cancer Type — 주요 암종(유방암, 전립선암, 대장직장암, 비호지킨 림프종, 호지킨 림프종, 급성 림프모구 백혈병, 고환암)별 후기 치료 부작용과 권고 추적관찰 지침. ![[Harrison_V1_Ch91_Tab2.png]]
 
-## ---
-
 **3. 제92장 조혈모세포 (Chapter 92: Hematopoietic Stem Cells) (p.679–683)**
 
 ### **3.1 조혈모세포의 2대 본질적 특성(Figure 92-1), 미세환경 니치 및 분화 계층 구조 (Figure 92-2, 92-3) (p.679–683)**
@@ -76,8 +72,6 @@ type: 의학원서_요약노트
 **Figure 92-1, p.679**: Signature characteristics of the stem cell. Stem cells have two essential features: the capacity to differentiate into a variety of mature cell types and the capacity for self-renewal. — 줄기세포의 2대 필수 특성(자기재생능과 분화능), 내인성·외인성 자기재생 조절 인자 및 조혈모세포 표면 표지자(CD34, CD90, CD117, CD133, CD164, CD110). ![[Harrison_V1_Ch92_Fig1.png]]  
 **Figure 92-2, p.681**: Hierarchy of hematopoietic differentiation. — 장기 및 단기 조혈모세포에서 골수계·림프계 전구세포를 거쳐 성숙 적혈구·혈소판·과립구·단핵구·수지상세포·B세포·T세포·NK세포로 분화하는 조혈 계층 구조와 핵심 전사인자(PU.1, GATA-1, GATA2, C/EBP$\alpha$, Gfi-1 등) 및 성장인자(EPO, TPO, G-CSF, GM-CSF, M-CSF). ![[Harrison_V1_Ch92_Fig2.png]]  
 **Figure 92-3, p.681**: Relative function of cells in the hematopoietic hierarchy. — 조혈 분화 단계(줄기세포 → 전구세포 → 전구체 → 성숙 세포)에 따른 자기재생능, 증식률, 분화 잠재력 및 성숙 혈구 기능의 상대적 변화. ![[Harrison_V1_Ch92_Fig3.png]]
-
-## ---
 
 **4. 제93장 철결핍 및 기타 저증식성 빈혈 (Chapter 93: Iron Deficiency and Other Hypoproliferative Anemias) (p.683–689)**
 
@@ -113,14 +107,12 @@ type: 의학원서_요약노트
 **Figure 93-4, p.688**: Suppression of erythropoiesis by inflammatory cytokines. — 염증성 사이토카인(TNF, IFN-$\beta$, IL-1, IFN-$\gamma$)에 의한 신장 에리스로포이에틴(EPO) 생성 억제, 골수 적혈구 전구세포(BFU-E/CFU-E) 증식 억제 및 대식세포 철 억류 기전. ![[Harrison_V1_Ch93_Fig4.png]]  
 **Table 93-6, p.688**: Table 93-6 Diagnosis of Hypoproliferative Anemias — 저증식성 빈혈(철결핍, 염증, 신질환, 대사저하 상태)의 혈색소, 적혈구 형태, 혈청 철, TIBC, 혈청 페리틴, 가용성 트랜스페린 수용체, 내인성 EPO 수치 감별진단표. ![[Harrison_V1_Ch93_Tab6.png]]
 
-## ---
-
 **5. 제94장 혈색소 질환: 겸상적혈구 증후군 및 지중해빈혈 (Chapter 94: Disorders of Hemoglobin) (p.690–697)**
 
 ### **5.1 인간 혈색소의 유전학(Figure 94-1), 산소해리곡선(Figure 94-2) 및 혈색소병증 분류(Table 94-1) (p.690–692)**
 
 > * **글로빈 유전자 클러스터와 발달 단계별 전환 (p.690–691, Figure 94-1, Figure 94-2, Table 94-1)**:  
-> * **16번 염색체**의 $\alpha$-유사 유전자(${\zeta }_{2}$, 두 개의 복제 유전자인 ${\alpha }_{2},{\alpha }_{1}$)와 **11번 염색체**의 $\beta$-유사 유전자(${}^{G}\gamma ,{}^{A}\gamma ,\delta ,\beta$)가 배아기($HbGower1[{\zeta }_{2}{\varepsilon }_{2}],HbPortland[{\zeta }_{2}{\gamma }_{2}],HbGower2[{\alpha }_{2}{\varepsilon }_{2}]$) → 태아기($HbF[{\alpha }_{2}{\gamma }_{2}]$) → 성인기(**\$\\text{HbA } [\\alpha_2\\beta_2, \\sim 97\\%]\$, \$\\text{HbA}_2 [\\alpha_2\\delta_2, \\sim 2\\%]\$, \$\\text{HbF } [\<1\\%]\$**)로 순차 발현된다(Figure 94-1).  
+> * **16번 염색체**의 $\alpha$-유사 유전자(${\zeta }_{2}$, 두 개의 복제 유전자인 ${\alpha }_{2},{\alpha }_{1}$)와 **11번 염색체**의 $\beta$-유사 유전자(${}^{G}\gamma ,{}^{A}\gamma ,\delta ,\beta$)가 배아기($HbGower1[{\zeta }_{2}{\varepsilon }_{2}],HbPortland[{\zeta }_{2}{\gamma }_{2}],HbGower2[{\alpha }_{2}{\varepsilon }_{2}]$) → 태아기($HbF[{\alpha }_{2}{\gamma }_{2}]$) → 성인기(**$\text{HbA } [\alpha_2\beta_2, \sim 97\%]$, $\text{HbA}_2 [\alpha_2\delta_2, \sim 2\%]$, $\text{HbF } [<1\%]$**)로 순차 발현된다(Figure 94-1).  
 > * 혈색소 사량체의 S자형 산소해리곡선은 수소이온(${H}^{+}$, **Bohr 효과**), $C{O}_{2}$, 온도, 그리고 적혈구 내 **2,3-비스포스포글리세레이트(2,3-BPG; $HbF$는 2,3-BPG와 결합하지 않아 산소 친화도가 높음)**에 의해 우측으로 이동하여 조직으로의 산소 방출을 촉진한다(Figure 94-2, Table 94-1).
 
 **Figure 94-1, p.690**: The globin genes. The a-like genes (a, ζ) are encoded on chromosome 16; the 베타-유사 genes (b, g, d, e) are encoded on chromosome 11. — 16번 염색체의 알파-글로빈 유전자 클러스터와 11번 염색체의 베타-글로빈 유전자 클러스터 및 배아·태아·출생 후 시기별 글로빈 사슬 합성 비율 변화. ![[Harrison_V1_Ch94_Fig1.png]]  
@@ -129,7 +121,7 @@ type: 의학원서_요약노트
 
 ### **5.2 겸상적혈구 증후군(Figure 94-3, 94-4), 불안정 혈색소·메트헤모글로빈혈증 및 지중해빈혈(Figure 94-5) (p.692–697)**
 
-> * **겸상적혈구 빈혈 (Sickle Cell Anemia: $\beta$-글로빈 6번 아미노산 글루탐산 $\rightarrow$ 발린 치환, \$\\text{HbS } [\\alpha_2\\beta_2^{6\\text{Glu}\\to\\text{Val}}]\$) (p.692–695, Figure 94-3, 94-4, Table 94-2)**:  
+> * **겸상적혈구 빈혈 (Sickle Cell Anemia: $\beta$-글로빈 6번 아미노산 글루탐산 $\rightarrow$ 발린 치환, $\text{HbS } [\alpha_2\beta_2^{6\text{Glu}\to\text{Val}}]$) (p.692–695, Figure 94-3, 94-4, Table 94-2)**:  
 > * 탈산소화 상태에서 $HbS$가 중합체 섬유를 형성하여 적혈구 변형성과 수명(10–20일로 단축)을 떨어뜨리고, 망상적혈구·백혈구·혈소판의 내피 부착 및 미세혈관 폐쇄(**혈관폐색 위기**, Figure 94-3, Figure 94-4)를 일으킨다.  
 > * **주요 임상 합병증**: 반복적인 뼈·흉부·복부 통증 위기, 영유아 손발 부종(**수족증후군[hand-foot syndrome / dactylitis]**), 생후 18–36개월 이내 비장 자가경색에 의한 기능적 무비증(**폐렴구균 패혈증 및 *Salmonella* 골수염 위험 증가**), 골수 무형성 위기(파보바이러스 B19 감염), 비장 격리 위기, **급성 흉부 증후군(acute chest syndrome — 사망의 주원인, 동맥혈 산소포화도 저하 시 응급 단순/교환 수혈 적응증)**, 소아 뇌졸중(**경두개 도플러[TCD] 선별검사 및 만성 수혈로 뇌졸중 90% 예방**), 음경지속발기증, 신유두 괴사(등장뇨), 대퇴골두 무혈성 괴사, 망막병증(HbSC에서 더욱 흔함).  
 > * **치료**: 폐렴구균·수막구균·*H. influenzae* 예방접종 및 소아 경구 페니실린 예방요법, 엽산 보충, 급성 통증 위기 시 수액 공급과 진통제 투여. **질병 조절의 초석은 태아 혈색소(HbF) 합성을 유도하고 백혈구 수를 낮추어 통증 위기·급성 흉부 증후군·수혈 요구량·사망률을 유의하게 감소시키는 히드록시우레아(hydroxyurea 10–30 mg/kg/일)**이며, HLA 일치 형제 조혈모세포 이식은 완치법이다.
@@ -141,7 +133,7 @@ type: 의학원서_요약노트
 > * **지중해빈혈 증후군 (Thalassemia Syndromes: $\beta$-지중해빈혈 및 $\alpha$-지중해빈혈) (p.696–697, Figure 94-5, Table 94-4, p.698로 이어짐)**:  
 > * $\beta$**-지중해빈혈(11번 염색체 $\beta$-글로빈 유전자 점돌연변이에 의한 생성 감소[${\beta }^{+}$] 또는 소실[${\beta }^{0}$])**: 과잉의 불용성 $\alpha$-글로빈 사슬이 적혈구 전구세포에 침전되어 극심한 **무효조혈(ineffective erythropoiesis)**과 용혈을 일으킨다.  
   * **중증 $\beta$-지중해빈혈(동형접합)**: 생후 6–9개월에 $\gamma \rightarrow \beta$ 전환과 함께 중증 빈혈, 골수 확장에 의한 다람쥐 얼굴("chipmunk" facies) 골 기형, 간비장종대, 그리고 장관 철 흡수 증가와 반복 수혈에 의한 **수혈성 혈철소침착증(심부전·부정맥[사망 1위 원인], 간경변증, 당뇨병·갑상선/부갑상선/뇌하수체 기능저하증)**이 발생한다. 헤마토크릿을 27–30% 이상으로 유지하는 만성 과수혈 요법과 **철 킬레이트제(철 킬레이트제)**가 필수적이다.  
-  * **중간형(Thalassemia intermedia, Figure 94-5: 정기적 수혈 없이도 Hb 6–9 g/dL 유지)** 및 **경증 보인자(Thalassemia minor/trait: 무증상 소적혈구증[\$ ext{MCV} \<75\\text{ fL}\$], 철결핍과 달리 적혈구 수가 정상/증가하고 $Hb{A}_{2}$**가 4–8%로 특징적 상승**)**.  
+  * **중간형(Thalassemia intermedia, Figure 94-5: 정기적 수혈 없이도 Hb 6–9 g/dL 유지)** 및 **경증 보인자(Thalassemia minor/trait: 무증상 소적혈구증[$\text{MCV} <75\text{ fL}$], 철결핍과 달리 적혈구 수가 정상/증가하고 $Hb{A}_{2}$**가 4–8%로 특징적 상승**)**.  
 > * $\alpha$**-지중해빈혈(16번 염색체의 4개 $\alpha$-글로빈 유전자 결실 개수에 따른 4단계 임상상, Table 94-4)**:  
   * **1개 결실($-\alpha /\alpha \alpha$)**: 무증상 보인자(silent carrier, 혈액소견 정상).  
   * **2개 결실($--/\alpha \alpha$ [cis형, 아시아인에 흔함] 또는 $-\alpha /-\alpha$ [trans형, 아프리카인에 흔함])**: $\alpha$-지중해빈혈 형질(경미한 소적혈구증, $Hb{A}_{2}$ 정상).  

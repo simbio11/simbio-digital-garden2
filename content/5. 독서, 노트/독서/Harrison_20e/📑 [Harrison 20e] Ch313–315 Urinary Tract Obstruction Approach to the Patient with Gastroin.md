@@ -11,13 +11,13 @@ type: 의학원서_요약노트
 
 📖 **원서 출처**: [*Harrison's Principles of Internal Medicine, 20th ed.* (Harrison20e_V2_2099-2257.pdf, pp. 2173–2208)](https://drive.google.com/open?id=11PPRo5vaFI_ZB5-KIGO8in9iaAH-kkRN) 🏷️ **범위**: Ch 313 Urinary Tract Obstruction (pp. 2173–2175), Ch 314 Approach to the Patient with Gastrointestinal Disease (pp. 2176–2181), Ch 315 Gastrointestinal Endoscopy (pp. 2181–2208), 및 Ch 316 도입부 (p. 2208) 📌 **핵심 테마**: 요로폐쇄(UTO)의 병태생리·진단 알고리즘·폐쇄 후 이뇨(postobstructive diuresis), 위장관 질환의 기능적 분류·주요 증상 감별·진단 및 치료 원칙, 위장관 내시경(상부내시경, 대장내시경, 캡슐/풍선 소장내시경, ERCP, EUS, NOTES/POEM/POET/EFTR, EMR/ESD)의 수기·예방적 항생제·항혈전제 중단 지침·위장관 출혈/폐쇄/담도 응급 내시경 및 대장암 선별검사 지침
 
-※ **제313장 중간부터 시작**: 직전 범위 마지막 페이지(p. 2172)에서 요로폐쇄(UTO)의 선천성·후천성 기계적 원인과 기능적 배뇨 장애(Table 313-1)를 다룬 데 이어, p. 2173부터 양측 요관 폐쇄의 혈역학적·세뇨관 병태생리, 진단 알고리즘, 치료 및 폐쇄 후 이뇨를 서술하고, 이어서 인쇄면 pp. 2176–2208에 수록된 제314장(위장관 질환 환자 접근법)과 제315장(위장관 내시경) 전체를 빠짐없이 해체한다.
+※ **제313장 중간부터 시작**: 직전 범위 마지막 페이지(p. 2172)에서 요로폐쇄(UTO)의 선천성·후천성 기계적 원인과 기능적 배뇨 장애(Table 313-1)를 다룬 데 이어, p. 2173부터 양측 요관 폐쇄의 혈역학적·세뇨관 병태생리, 진단 알고리즘, 치료 및 폐쇄 후 이뇨를 서술하고, 이어서 인쇄면 pp. 2176–2208에 수록된 제314장(위장관 질환 환자 접근법)과 제315장(위장관 내시경) 전체를 빠짐없이 해체한다. ![[Harrison_V2_Ch313_Tab1.png]]  
 
 ## **1. 개요 및 마스터 요약 (pp. 2173–2208)**
 
 > * **요로폐쇄(UTO)의 병태생리와 폐쇄 후 이뇨 (Ch 313)**: 급성 부분 양측 폐쇄는 사구체 혈류 증가(혈관확장성 프로스타글란딘·NO 매개)와 함께 고질소혈증·요 농축·나트륨 저류로 신전성 질소혈증을 모방하나, 만성화되면 안지오텐신 II·혈관수축성 프로스타글란딘 증가로 신혈류와 GFR이 급감하고 $N{a}^{+}/{K}^{+}$-ATPase·NKCC2·ENaC·AQP2 하향조절 및 집합관 정단막 ${H}^{+}$-ATPase 이동 장애로 인해 **바소프레신 불응성 다뇨(후천성 신성 요붕증), 나트륨 소실, 고칼륨혈증성·고염소혈증성 원위 신세뇨관 산증(RTA)**을 유발한다. 양측 완전 폐쇄 해소 후에는 축적된 요소와 나트륨이뇨인자, 세뇨관 재흡수 저하로 인해 대량의 **폐쇄 후 이뇨(postobstructive diuresis)**가 발생할 수 있다(pp. 2173–2175).  
 > * **위장관 질환 환자에 대한 접근법 (Ch 314)**: 위장관은 영양분 동화와 노폐물 배설을 담당하며(소장에서 회장으로 1000–1500 mL 유입 → 결장에서 수분 흡수 후 직장으로 100–200 mL 배출), 소화·흡수 장애, 분비 변화, 장 통과 이상, 면역 조절 이상, 혈류 장애, 신생물 변성, 기질적 이상 없는 기능성 장질환(Rome 기준 민감도·특이도 55–75%)으로 분류된다(pp. 2176–2181).  
-> * **진단·치료 위장관 내시경 수기 및 시술 전 약물 관리 (Ch 315 전반부)**: 상부위장관 내시경(EGD), 대장내시경(>95% 맹장 도달), 구불결장경(항문연 상방 60 cm), 소장내시경(캡슐내시경, 밀기 소장내시경, 단일/이중 풍선 및 나선형 기구보조 소장내시경), ERCP(시술 후 췌장염 전체 ~5%, 오디괄약근 기능장애 환자 최대 30%), 초음파내시경(EUS 및 EUS-FNA), NOTES(PEG, 췌장 괴사절제술, 아칼라시아에 대한 POEM, 점막하 종양에 대한 POET 및 전층절제술[EFTR]), 내시경 점막절제술(EMR)·점막하박리술(ESD)의 적응증과 예방적 항생제(Table 315-1)·항혈전제 중단 지침(Table 315-2)을 숙지한다(pp. 2181–2195).  
+> * **진단·치료 위장관 내시경 수기 및 시술 전 약물 관리 (Ch 315 전반부)**: 상부위장관 내시경(EGD), 대장내시경(>95% 맹장 도달), 구불결장경(항문연 상방 60 cm), 소장내시경(캡슐내시경, 밀기 소장내시경, 단일/이중 풍선 및 나선형 기구보조 소장내시경), ERCP(시술 후 췌장염 전체 ~5%, 오디괄약근 기능장애 환자 최대 30%), 초음파내시경(EUS 및 EUS-FNA), NOTES(PEG, 췌장 괴사절제술, 아칼라시아에 대한 POEM, 점막하 종양에 대한 POET 및 전층절제술[EFTR]), 내시경 점막절제술(EMR)·점막하박리술(ESD)의 적응증과 예방적 항생제(Table 315-1)·항혈전제 중단 지침(Table 315-2)을 숙지한다(pp. 2181–2195). ![[Harrison_V2_Ch315_Tab1.png]]  
 > * **응급 및 선택적 위장관 내시경과 대장암 선별검사 (Ch 315 후반부)**: 소화성 궤양 출혈의 내시경 소견별 재출혈 위험(깨끗한 기저부 3–5%, 편평 색소 반점 10%, 부착 혈괴 20%, 노출 혈관 40%, 활동성 분출 출혈 90% — 내시경 지혈술 + PPI로 재출혈률 5–10%로 감소), 식도정맥류 결찰술(EVL) 및 위정맥류 시아노아크릴레이트 주입술, Dieulafoy 병변, Mallory-Weiss 열창, 혈관확장증(GAVE 등), 급성 가성결장폐쇄(맹장 직경 >12 cm 시 천공 위험 증가; 정주 네오스티그민 또는 대장내시경 감압), 담도 폐쇄/급성 담관염(Charcot 3징 70%, Reynolds 5징), 바렛 식도·호산구성 식도염($>15–20호산구/HPF$), 그리고 평균/고위험군 대장암 선별검사 주기를 다룬다(pp. 2195–2208).
 
 ## **2. Chapter 313: 요로폐쇄 (Urinary Tract Obstruction) — 계속 (pp. 2173–2175)**
@@ -26,7 +26,7 @@ type: 의학원서_요약노트
 
 > * **요역학 검사 및 통증의 특성** (p. 2173):  
 > * 여성의 방광 출구 폐쇄는 높은 배뇨압이 특징이며 남성에서는 요속과 배뇨압을 함께 평가한다. 옆구리 통증은 집합계나 신피막의 팽창 정도보다 **팽창이 발생하는 속도**에 좌우되며, **배뇨 시에만 발생하는 옆구리 통증은 방광요관역류(VUR)의 특징적 징후(pathognomonic)**이다.  
-> * **양측 요관 폐쇄의 시기별 혈역학·세뇨관 병태생리 (Table 313-2)** (p. 2173):
+> * **양측 요관 폐쇄의 시기별 혈역학·세뇨관 병태생리 (Table 313-2)** (p. 2173): ![[Harrison_V2_Ch313_Tab2.png]]  
 
 | 시기 (Stage) | 혈역학적 영향 (Hemodynamic Effects) | 세뇨관 영향 (Tubule Effects) | 임상적 특징 (Clinical Features)   |
 | :---- | :---- | :---- | :---- |
@@ -48,8 +48,6 @@ type: 의학원서_요약노트
 > * **감염이 동반된 완전 폐쇄**는 수일 내에 신장을 완전히 파괴하고 패혈증을 유발하므로 즉각적인 감압 배액(신루술, 요관루술, 카테터)이 필수적이다. 감염이 없는 완전 폐쇄는 **1–2주** 지속 후 해소되면 GFR이 부분 회복될 수 있으나, **8주**가 지나면 회복 가능성이 희박하다(장기간 감압 후 신장 핵의학 스캔으로 가역성 예측 가능).  
 > * **폐쇄 후 이뇨**: 양측 완전 폐쇄 해소 후 축적된 요소에 의한 삼투성 이뇨(소변 $[N{a}^{+}+{K}^{+}]<혈청N{a}^{+}$이면 전해질 유리수분 배설로 고나트륨혈증 유발 가능), 세포외액 팽창 교정, 나트륨이뇨인자 축적, 세뇨관 재흡수 장애로 인해 다량의 저장성 소변과 전해질 소실이 발생한다. 소변 배설량보다 적은 양의 정주 수액(흔히 **0.45% 식염수**)으로 보충하여 의인성 체액 과팽창에 의한 이뇨 지속을 막되, 저혈량증·저혈압이 발생하면 적극적으로 염분과 수분을 보충한다.
 
-## ---
-
 **3. Chapter 314: 위장관 질환 환자에 대한 접근법 (Approach to the Patient with Gastrointestinal Disease) (pp. 2176–2181)**
 
 ### **3.1 위장관의 해부·생리적 기능 및 위장관 질환의 기능적 분류 (pp. 2176–2177)**
@@ -69,7 +67,7 @@ type: 의학원서_요약노트
 > * **가슴쓰림(Heartburn)**: 인구의 **40%**가 간헐적으로 경험한다.  
 > * **병력 감별**: 수면 중 통증으로 깨어나는 것은 기능성보다 기질적 질환을 시사하며, 흡수장애에 의한 설사는 금식 시 호전되는 반면 분비성 설사는 금식에도 지속된다. 기능성 장질환 진단을 위한 **Rome 기준**은 구조적 검사 소견과 비교했을 때 민감도와 특이도가 **55–75%**에 불과하므로 기질적 질환 고위험군에서는 신중한 검사 선택이 필요하다.  
 > * **신체진찰**: 장허혈은 통증이 극심한 데 비해 압통이 경미한(pain out of proportion to tenderness) 것이 특징이며, 복벽 근골격계 통증은 발살바 수기나 하지 직거상(leg lift) 시 압통이 악화된다.  
-> * **진단 검사 도구 및 내시경 적응증 (Table 314-2)** (pp. 2179–2180):  
+> * **진단 검사 도구 및 내시경 적응증 (Table 314-2)** (pp. 2179–2180): ![[Harrison_V2_Ch314_Tab2.png]]  
 > * 대변 칼프로텍틴(calprotectin)이나 락토페린 상승은 염증성 장질환(IBD)을 시사한다. 무선 운동성 캡슐, 고해상도 내압검사, 내강 기능성 영상 탐침(FLIP), 수소 호기 검사(탄수화물 불내증 및 소장 세균 과증식 선별), 요소 호기 검사(*H. pylori*)를 활용한다.
 
 | 내시경 종류 | 주요 적응증 (Common Indications — Table 314-2)   |
@@ -84,8 +82,6 @@ type: 의학원서_요약노트
 > * **영양 조작**: 유당 제한(유당분해효소 결핍), 액체 식이(위마비), 탄수화물 제한(덤핑 증후군), **저-FODMAP 식단**(IBS), **글루텐 제한 식단**(셀리악병의 1차 점막 염증 치료), 제거 식단(호산구성 식도염), 중쇄중성지방(MCT, 단장증후군 또는 중증 회장 질환).  
 > * **약물 및 보완대체의학**: 9가지 생약 혼합물인 **STW 5 (Iberogast)**는 기능성 소화불량증과 IBS에 유용하다.  
 > * **장내미생물 불균형(Dysbiosis) 표적 치료**: 재발성·불응성 *Clostridium difficile* 대장염에서 대장내시경이나 관장을 통한 **분변 미생물군 이식(FMT)**은 확립된 효과적 치료이다.
-
-## ---
 
 **4. Chapter 315: 위장관 내시경 (Gastrointestinal Endoscopy) 및 Chapter 316 도입부 (pp. 2181–2208)**
 
@@ -278,7 +274,7 @@ type: 의학원서_요약노트
 
 > ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2199.png)
 
-> [그림 44: FIGURE 315-40 Diverticular hemorrhage. A. Actively bleeding sigmoid diverticulum. B. Hemostasis achieved using endoscopic clips. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-40 (원서 도판)]
+> [그림 44: FIGURE 315-40 Diverticular hemorrhage. A. Actively bleeding sigmoid diverticulum. B. Hemostasis achieved using endoscopic clips. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-40 (원서 도판)] ![[Harrison_V2_Ch315_Fig40.png]]  
 
 > * **급성 위장관 출혈의 평가 및 원인별 내시경 지혈술 (Figs. 315-28 ~ 315-40)** (pp. 2193–2198):  
 > * 흑색변(melena)의 **>90%**는 트라이츠 인대(ligament of Treitz) 상부 출혈이며, 혈변(hematochezia)의 **~85%**는 결장 출혈이다(단, 대량 상부 출혈은 선홍색 혈변으로 발현할 수 있음). 상부내시경 **30–90분 전 에리스로마이신(3–4 mg/kg 또는 250 mg IV)** 단회 투여는 위 배출을 촉진해 시야를 개선한다.  
@@ -295,7 +291,7 @@ type: 의학원서_요약노트
 
 > ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2200.png)
 
-> [그림 47: FIGURE 315-43 Gastric outlet obstruction due to pyloric stenosis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-43 (원서 도판)]
+> [그림 47: FIGURE 315-43 Gastric outlet obstruction due to pyloric stenosis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-43 (원서 도판)] ![[Harrison_V2_Ch315_Fig43.png]]  
 
 ![[Harrison_V2_Ch315_Fig44.png]]
 
@@ -323,7 +319,7 @@ type: 의학원서_요약노트
 
 > ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2202.png)
 
-> [그림 52: FIGURE 315-48 Causes of esophagitis. A. Severe reflux esophagitis. B. Cytomegalovirus esophagitis. C. Herpes simplex virus esophagitis. D. Candida esophagitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-48 (원서 도판)]
+> [그림 52: FIGURE 315-48 Causes of esophagitis. A. Severe reflux esophagitis. B. Cytomegalovirus esophagitis. C. Herpes simplex virus esophagitis. D. Candida esophagitis. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-48 (원서 도판)] ![[Harrison_V2_Ch315_Fig48.png]]  
 
 ![[Harrison_V2_Ch315_Fig49.png]]
 
@@ -351,7 +347,7 @@ type: 의학원서_요약노트
 
 > ⚠️ **이미지 미확보 (2026-11-02)** — Harrison 20e 원서 도판 추출본이 없어 표시만 남깁니다 (Harrison's Principles of Internal Medicine, 20th ed._p2205.png)
 
-> [그림 59: FIGURE 315-55 Biliary and duodenal self-expanding metal stents (SEMS) for obstruction caused by pancreatic cancer. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-55 (원서 도판)]
+> [그림 59: FIGURE 315-55 Biliary and duodenal self-expanding metal stents (SEMS) for obstruction caused by pancreatic cancer. — 출처: Harrison's Principles of Internal Medicine, 20th ed. Figure 315-55 (원서 도판)] ![[Harrison_V2_Ch315_Fig55.png]]  
 
 ![[Harrison_V2_Ch315_Fig56.png]]
 
@@ -386,7 +382,7 @@ type: 의학원서_요약노트
 > * **삼킴곤란(Dysphagia)**: 약 **50%는 기계적 폐쇄**(식도 협착[Fig. 315-49], 식사 시작 시 고형식 간헐적 삼킴곤란을 일으키는 **Schatzki 고리[Fig. 315-50]**, 다수의 동심원 고리['고양이 식도, feline esophagus']와 선상 고랑을 보이며 생검상 **고배율 시야당 >15–20개 호산구**로 진단되는 **호산구성 식도염[Fig. 315-51]**), 나머지 50%는 운동 질환이다.  
 > * **비만의 내시경 치료**: 위내 풍선, 십이지장-공장 우회 라이너, 식후 위내용물 흡인 위루관, 내시경 소매 위성형술(sleeve gastroplasty)은 총 체중의 **7–20%** 감량을 유도한다.  
 > * **철결핍빈혈 및 잠혈 양성**: 남성 및 폐경 후 여성의 철결핍빈혈에서는 대변 잠혈 음성이라도 대장내시경이 필수적이며(약 **30%에서 큰 대장 용종, 10%에서 대장암** 발견), 음성 시 EGD와 **십이지장 생검(셀리악병의 조개껍질 모양 주름[scalloped folds] 확인, Fig. 315-56)**을 시행한다. 원인 불명 소장 출혈에서 캡슐내시경의 양성 진단율은 **50–70%**(점막 혈관확장증 최다, Fig. 315-58)이다.  
-> * **대장암 선별검사 및 감시 내시경 전략 (Table 315-3, Figs. 315-59 ~ 315-62)** (pp. 2204–2208):
+> * **대장암 선별검사 및 감시 내시경 전략 (Table 315-3, Figs. 315-59 ~ 315-62)** (pp. 2204–2208): ![[Harrison_V2_Ch315_Tab3.png]]  
 
 | 대상군 및 위험도 분류 (Patient Risk Group) | 권고 선별·감시 검사 및 주기 (Recommendations — Table 315-3)   |
 | :---- | :---- |

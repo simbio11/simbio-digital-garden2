@@ -105,7 +105,7 @@ type: 의학원서_요약노트
 3. **증상의 근원과 제한적인 조직에 초점을 둔 접근법**: 부수적 관절운동 손상(accessory joint motion impairment)에 기여하는 제한적인 조직을 가동화(mobilization) 또는 도수기법(manipulation)으로 치료하여 부수적 관절운동성을 회복시키는 접근법.  
 4. **기여요소들과 증상의 원인들에 초점을 둔 접근법 (이 책에서 주장하는 MSB 접근법)**:  
    - 관절운동 제한은 운동결함(movement fault)들의 원인이기보다 그 결과로 간주한다.  
-   - 예: 극상근건염(supraspinatus tendinitis)에서 견관절 굴곡·외전 시 견갑골이 \$60^\\circ\$ 상방회전을 달성하도록 외전·상방회전이 충분히 일어나지 않으면 견봉하공간(subacromial space)이 감소되어 극상근건이 자극받는다. 통증은 상완견관절에 있지만 견갑골 운동손상(scapular motion impairment)의 결과로 발생하므로, 극상근건에 직접 치료도구(modality)를 적용하기보다 견갑대(shoulder girdle) 복합체 전체를 검사하여 견갑골 근육 조절을 교정함으로써 기계적 근원(mechanical source)과 스트레스를 경감시킨다.
+   - 예: 극상근건염(supraspinatus tendinitis)에서 견관절 굴곡·외전 시 견갑골이 $60^\circ$ 상방회전을 달성하도록 외전·상방회전이 충분히 일어나지 않으면 견봉하공간(subacromial space)이 감소되어 극상근건이 자극받는다. 통증은 상완견관절에 있지만 견갑골 운동손상(scapular motion impairment)의 결과로 발생하므로, 극상근건에 직접 치료도구(modality)를 적용하기보다 견갑대(shoulder girdle) 복합체 전체를 검사하여 견갑골 근육 조절을 교정함으로써 기계적 근원(mechanical source)과 스트레스를 경감시킨다.
 
 ## 6. 분류의 필요성 (Need for classification) 및 참고문헌 (pp.26–28 / 책 pp.8–10)
 
@@ -121,6 +121,6 @@ type: 의학원서_요약노트
 ## 자체 점검
 
 - 처리 범위: PDF면 pp.19–28  
-- 원문에 없어서 쓰지 않은 항목(수치·증례·고유명사): 없음 (원문에 인쇄된 1967년 NUSTEP 학회, James Cyriax, McKenzie, Hadler, Jett의 유병률 수치[60% 이상, 요통 25%, 경추 12%, 어깨 12%, 무릎·고관절 12%], Nagi 모델, 견갑골 \$60^\\circ\$ 상방회전 등만 정확히 기록함)  
+- 원문에 없어서 쓰지 않은 항목(수치·증례·고유명사): 없음 (원문에 인쇄된 1967년 NUSTEP 학회, James Cyriax, McKenzie, Hadler, Jett의 유병률 수치[60% 이상, 요통 25%, 경추 12%, 어깨 12%, 무릎·고관절 12%], Nagi 모델, 견갑골 $60^\circ$ 상방회전 등만 정확히 기록함)  
 - 확인하지 못한 그림·표: 없음 (라벨이 없는 p.19 단원 시작 도해를 규칙에 따라 `운동손상 증후군의 진단과 치료_p0019.png`로 임베드 완료)  
 - 지정 범위 밖 내용이 노트에 섞였는가: 아니오
