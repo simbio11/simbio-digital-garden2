@@ -50,6 +50,15 @@ aliases:
 
 ---
 
+
+![[불면증 및 주간 과다 졸림증 eds_1_불면증포스터.png|450]]
+
+> [그림 1: 만성 불면증의 진료 의뢰를 권하는 환자교육 포스터 — '만성 불면증이 있으면 의사와 상담하라'는 문구가 담겨 있다 — 출처: Wikimedia Commons — File:Chronic Insomnia Ask Your Doctor.jpg (CC BY-SA 4.0)]
+
+![[불면증 및 주간 과다 졸림증 eds_1_불면증증상인포그래픽.png|450]]
+
+> [그림 2: 불면증의 증상 목록을 정리한 인포그래픽 — 잠들기 어려움·밤중 각성·주간 피로 등이 항목으로 제시된다 — 출처: Wikimedia Commons — File:Symptoms of insomnia.png (CC BY-SA 4.0)]
+
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
 
 ```mermaid
@@ -71,6 +80,11 @@ flowchart TD
 
 ---
 
+
+![[불면증 및 주간 과다 졸림증 eds_2_불면증전신영향도.png|450]]
+
+> [그림 3: 불면증이 신체 각 계통에 미치는 영향을 한국어 라벨로 표시한 전신 도해 — 뇌·심혈관·면역 등 장기별 영향이 표기되어 있다 — 출처: Wikimedia Commons — File:Complications of insomnia.png (CC BY-SA 4.0)]
+
 ## 3. 임상 증상 & 이학적 검사(Physical Exam) 알고리즘
 
 * **주요 임상 증상**:
@@ -86,6 +100,11 @@ flowchart TD
   * **신경학적 검사**: 뇌신경(Cranial Nerves), 건반사, 소뇌 실조 검사를 통해 뇌간 병변이나 중추신경계 종양 배제.
 
 ---
+
+
+![[불면증 및 주간 과다 졸림증 eds_3_수면다원검사모델.png|450]]
+
+> [그림 4: 수면다원검사(polysomnography) 시행 장면 — 침상에서 뇌파·안전도·근전도 등 다채널 센서를 부착한 모습이 라벨과 함께 제시된다 — 출처: Wikimedia Commons — File:Polysomnography model.jpg (CC BY-SA 3.0)]
 
 ## 4. 감별 진단 매트릭스 (Differential Diagnosis)
 
