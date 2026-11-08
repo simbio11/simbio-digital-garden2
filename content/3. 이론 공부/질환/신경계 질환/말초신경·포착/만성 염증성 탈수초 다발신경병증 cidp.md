@@ -1,9 +1,14 @@
 ---
-title: "만성 염증성 탈수초 다발신경병증 cidp"
-created: 2026-09-25
-updated: 2026-10-13
-status: 완결
-출처: MSD 매뉴얼 (전문가용), EAN/PNS 가이드라인
+title: "만성 염증성 탈수초 다발신경병증 cidp"
+
+created: 2026-09-25
+
+updated: 2026-11-08
+
+status: 완결
+
+출처: MSD 매뉴얼 (전문가용), EAN/PNS 가이드라인
+
 분류: 질환
 aliases:
   - 만성 염증성 탈수초성 다발신경병증
@@ -47,6 +52,12 @@ aliases:
 
 ---
 
+![[CIDP_뉴런_수초구조.png|450]]
+> [그림 1: 뉴런의 구조 — 수상돌기·축삭과 축삭을 감싸는 수초(슈반세포) — 출처: Wikimedia Commons — File:Neuron.svg (CC BY-SA 3.0)]
+
+![[CIDP_GBS_임상아형.png|450]]
+> [그림 2: 길랭-바레 증후군의 임상 아형 분포 — 전형적 감각운동형·순수운동형·Miller Fisher형 등, CIDP 감별에 참고 — 출처: Wikimedia Commons — File:Vasculitic neuropathy - plastics - intermed mag.jpg (CC BY-SA 3.0)]
+
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
 
 ### 1) 자가면역 탈수초화 및 결절병증 (Nodopathy)
@@ -75,6 +86,12 @@ aliases:
 ```
 
 ---
+
+![[CIDP_양파구_신경생검.jpg|450]]
+> [그림 3: 수초의 반복적 탈수초·재수초로 형성된 양파구(onion bulb) — 유수신경섬유 둘레에 동심원 층이 겹겹이 쌓인 신경 생검 소견 — 출처: Wikimedia Commons — File:Onion bulb formation HMSN.jpg (CC BY-SA 3.0)]
+
+![[CIDP_신경_횡단면.png|450]]
+> [그림 4: 수지 포매 말초신경의 횡단면 — 수초를 두른 유수신경섬유의 배열과 신경다발 사이의 세포 침윤 — 출처: Wikimedia Commons — File:Neuron.svg (CC BY-SA 3.0)]
 
 ## 3. 임상 증상 & 이학적 검사(Physical Exam) 알고리즘
 
