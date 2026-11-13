@@ -37,6 +37,10 @@ EXCLUDE_REL_PREFIXES = (
     #   그대로 두면 push 1회 2GB 제한·Pages 1GB 한도를 넘겨 배포가 깨진다.
     #   사이트용 경량본은 content/7. 첨부·자료/책노트/ 에 따로 생성한다(prune 보호 대상).
     "7. 첨부·자료/첨부파일/책노트",
+    # 2026-11-13: 첨부파일 폴더에 대량 유입(19,229장 / 6.5GB) → repo 4.55GB + 6.5GB 는
+    #   GitHub push 한도(HTTP 500)를 넘겨 11-08부터 push 가 전부 실패했다.
+    #   신규 유입분은 사이트로 복사하지 않는다(이미 게시된 12,655장은 미러에 남아 유지).
+    "7. 첨부·자료/첨부파일",
 )
 
 # 개별 파일 단위 비공개 목록(content/ 기준 상대경로). scripts/phi_exclude.txt 참조.
@@ -409,11 +413,22 @@ def git_commit_and_push():
     subprocess.run(["git", "commit", "-m", commit_msg], check=True)
 
     print("Pushing to GitHub...")
-    push_res = subprocess.run(["git", "push", "origin", "v5"], capture_output=True, text=True)
+    try:
+        push_res = subprocess.run(["git", "push", "origin", "v5"], capture_output=True,
+                                  text=True, timeout=1800)
+    except subprocess.TimeoutExpired:
+        print("❌ 사이트 업로드 실패 — git push 30분 초과(timeout). "
+              "커밋은 로컬에 남아 있고 다음 실행에서 다시 시도합니다.", file=sys.stderr)
+        sys.exit(1)
     if push_res.returncode == 0:
         print("Successfully pushed to GitHub!")
     else:
-        print(f"Git push failed: {push_res.stderr}")
+        # 2026-11-08~13: push 실패가 조용히 넘어가 사이트가 5일간 동결됐다.
+        #   → 실패는 반드시 비정상 종료로 알린다(크론 failure_deliver 로 통보됨).
+        print("❌ 사이트 업로드 실패 — GitHub push 거부/오류. "
+              "커밋은 로컬에 남아 있고 다음 실행에서 다시 시도합니다.", file=sys.stderr)
+        print(push_res.stderr[-600:], file=sys.stderr)
+        sys.exit(1)
 
 
 def regen_home():
