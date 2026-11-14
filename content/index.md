@@ -29,7 +29,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:STATS:START -->
 <div class="sc-stats">
 <div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,646</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">191,444</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">191,455</span></div>
 <div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+172</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,751</span></div>
 </div>
