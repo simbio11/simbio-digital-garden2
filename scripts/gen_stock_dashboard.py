@@ -24,7 +24,7 @@ from datetime import datetime
 from pathlib import Path
 
 VAULT = Path(r"C:\Simbio")
-REPORT_DIR = VAULT / "_헤르메스" / "보고서" / "주식 브리핑"
+REPORT_DIR = VAULT / "_생활" / "보고서" / "주식 브리핑"
 OUT = REPORT_DIR / "📊 주식 브리핑 대시보드.md"
 CHART_DIR = REPORT_DIR / "차트"
 BACKUP_DIR = Path(r"C:\Users\cmksc\AppData\Local\hermes\profiles\vivi\cache")
@@ -471,7 +471,7 @@ def build() -> str:
     A("| **평일 09:00** | 주식 브리핑 (전일 미장 리뷰 + 오늘 국장 프리뷰) | `주식 브리핑-YYYY-MM-DD.md` |")
     A("| **평일 22:30** | 미장 프리뷰 (오늘 밤 미국장 관전 포인트) | `미장 프리뷰-YYYY-MM-DD.md` |")
     A("")
-    A("- **📁 저장**: `_헤르메스/보고서/주식 브리핑/<YYYY-MM>/<W#>/` (W# = 월요일 시작 주차, 매월 1주차부터)")
+    A("- **📁 저장**: `_생활/보고서/주식 브리핑/<YYYY-MM>/<W#>/` (W# = 월요일 시작 주차, 매월 1주차부터)")
     A("- **📚 출처**: SAVE 리포트 · 오선의 미국 증시 라이브 · insidertracking·KimchiTerminal(텔레그램) · "
       "Yahoo Finance · FRED · 한국은행 ECOS · 관세청 · SEC EDGAR · DART · Finviz")
     A("- **⭐ 관심 종목**: QLD · QQQ · TQQQ · TIGER 미국나스닥100 · NVDA · AVGO · AAPL · 반도체(SOXX·MU) · "
