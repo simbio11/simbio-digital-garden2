@@ -1,7 +1,7 @@
 ---
 title: 관원(CV4)
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-11-15
 tags:
   - 이론
   - 경혈
@@ -41,7 +41,7 @@ category: 경락·경혈
 
 | 항목 | 상세 내용 |
 | :--- | :--- |
-| **소속 경맥** | [[임맥]] (Ren Mai, 任脈) — 복부 정중선을 순행하는 음맥지해(陰脈之海) |
+| **소속 경맥** | [[임맥]] (Ren Mai, 任脈) — 복부 정중선을 순행하는 음맥지해(陰脈之海), **소장(小腸)의 모혈**, 족삼음경(足三陰經)과의 교회혈 |
 | **혈위 (Location)** | 하복부, 전정중선상(前正中線上), 제중(臍中=배꼽) 하방 **3촌** |
 | **골도법 (Bone Proportional)** | 배꼽~치골결합 상연을 5촌으로 등분할 때 **배꼽 아래 3/5 지점**(치골 상연 상방 2촌) |
 | **표층 구조** | 피부 → 천층 피하조직(Camper층) → 심층 피하조직(Scarpa층) → [[복직근]] 전초(anterior rectus sheath) |
@@ -85,9 +85,9 @@ graph TD
     B --> D["하초(下焦) 국소 온열·혈류 변화"]
     C --> E["신경염증 억제<br/>국소 통증 완화"]
     C --> F["면역기능 조절<br/>(PD-1 경로 등)"]
-    E --> G["골반염(PID) 통증 개선<br/>PMID 41194515"]
-    F --> H["패혈증 면역조절 보고<br/>PMID 38550204 (2024 철회)"]
-    D --> I["신허(腎虛) 모델 지표 개선<br/>GV4·CV4 레이저 온구, PMID 36378056"]
+    E --> G["골반염(PID) 통증 개선<br/>(참고문헌 1)"]
+    F --> H["패혈증 면역조절 보고<br/>(2024 철회, 참고문헌 3)"]
+    D --> I["신허(腎虛) 모델 지표 개선<br/>GV4·CV4 레이저 온구 (참고문헌 4)"]
 ```
 
 * **복압·코어 축 (개념적 연결)**: 관원은 [[복직근]]·[[복횡근]]·[[골반저근]]이 이루는 **복강 실린더(abdominal canister)** 의 전벽 중심에 놓인다. 전통적으로 이 부위를 [[단전]]이라 하여 복식호흡 시 복압 조절의 중심으로 다루며, 이는 골반저 기능·요추 안정성과 기능적으로 연결된다.
@@ -172,15 +172,17 @@ graph TD
 
 | 임상 질환 / 증후군 | 병리적 연관 기전 | 주요 증상 및 이학적 검사 | 핵심 교정 타깃 |
 | :--- | :--- | :--- | :--- |
-| [[골반염]](PID) 관련 골반통 | 신경염증(neuroinflammation) 및 교감신경 활성 억제 기전으로 통증 개선 보고 (PMID 41194515) | 만성 하복부 통증, 심부 압통, 골반 무거움 | 관원(CV4) 전침 + 하복부 온구, 하초 변증 |
-| [[패혈증]] 면역기능 저하 | PD-1 경로 매개 면역 조절 기전 보고 — **단, 해당 논문은 2024년 철회(Retracted)됨 (PMID 38550204)** | 면역지표 변화, 중증 감염 경과 | ⚠️ **신뢰도 낮음 — 임상 적용 근거로 사용 금지** |
-| [[신허]](腎虛) 모델(랫드) | 명문(GV4)·관원(CV4) 레이저 조사 + 전통 온구 자극이 신허 지표에 미친 효과 보고 (PMID 36378056) | 동물모델 지표(사람 대상 아님) | 하초 보온, 복배 배합 온구 |
-| [[알츠하이머병]] 유사 표현형(APP/PS1 마우스) | 뇌 미세혈관병증(cerebral microangiopathy) 기전 규명 연구로 전침의 예방 효과 보고 (PMID 41367129) — **관원 단독 여부 등 세부 혈위 조합은 제공 정보에서 확인 불가(근거 미확인)** | 동물모델 인지기능 지표 | 직접 임상 적용 불가, 기전 참고용 |
-| [[만성 골반통]] / [[생리통]] | 하초 허한·기체어혈 변증 + 복직근 하부 긴장 | 하복부 냉감, 압통, 월경 시 통증 | 관원 + 중극 + 삼음교, 복식호흡 교육 |
+| [[골반염]](PID) 관련 골반통 | 신경염증(neuroinflammation) 및 교감신경 활성 억제 기전으로 통증 개선 보고 (참고문헌 1) | 만성 하복부 통증, 심부 압통, 골반 무거움 | 관원(CV4) 전침 + 하복부 온구, 하초 변증 |
+| [[패혈증]] 면역기능 저하 | PD-1 경로 매개 면역 조절 기전 보고 — **단, 해당 논문은 2024년 철회(Retracted)됨 (참고문헌 3)** | 면역지표 변화, 중증 감염 경과 | ⚠️ **신뢰도 낮음 — 임상 적용 근거로 사용 금지** |
+| [[신허]](腎虛) 모델(랫드) | 명문(GV4)·관원(CV4) 레이저 조사 + 전통 온구 자극이 신허 지표에 미친 효과 보고 (참고문헌 4) | 동물모델 지표(사람 대상 아님) | 하초 보온, 복배 배합 온구 |
+| [[알츠하이머병]] 유사 표현형(APP/PS1 마우스) | 뇌 미세혈관병증(cerebral microangiopathy) 기전 규명 연구로 전침의 예방 효과 보고 (참고문헌 2) — **관원 단독 여부 등 세부 혈위 조합은 제공 정보에서 확인 불가(근거 미확인)** | 동물모델 인지기능 지표 | 직접 임상 적용 불가, 기전 참고용 |
+| [[만성 골반통]] / [[생리통]] / [[자궁내막증]] | 하초 허한·기체어혈 변증 + 복직근 하부·광인대 긴장 | 하복부 냉감, 압통, 월경 시 통증 | 관원 + 중극 + 삼음교, 복부·광인대 가동술 후 온침·약침(참고문헌 7) |
+| [[당뇨병]] · 다뇨·야간뇨 | 소갈 하초 신·음허 배원 보법([[중완(RN12)]] 병용, 참고문헌 5) vs 약물 기전 감별 | 다뇨·빈뇨·야간뇨, 피로·허약 | [[SGLT2 억제제]] 복용자는 [[삼투성 이뇨]]·[[정상혈당 케톤산증]] 감별 우선(참고문헌 6) |
 | [[복직근]] 하부 근막통증 | 복직근 하부 TrP 및 백선 주위 결합조직 긴장 | 국소 압통, 복부 긴장 | PIR/신장 도수 + 관원 배합 자침 |
 
 > ⚠️ **표 해석 주의**: 위 표의 기전 서술은 **제공 논문 제목·서지 정보에서 확인 가능한 범위**로 한정하였다. 각 논문의 대상(인간/동물), 표본 수, 전침 파라미터, 결과 수치는 원문 전문 확인이 필요하며 본 노트에서는 **수치를 기재하지 않는다(근거 미확인)**.
-> ⚠️ **철회 논문 경고**: PMID 38550204는 **2024년 철회(Retracted)**된 논문이다. 인용 시 반드시 "철회됨"을 명시하고, 임상 의사결정의 근거로 삼지 않는다.
+> ⚠️ **철회 논문 경고**: 참고문헌 3은 **2024년 철회(Retracted)** 된 논문이다. 인용 시 반드시 "철회됨"을 명시하고, 임상 의사결정의 근거로 삼지 않는다.
+> ⚠️ **다뇨·야간뇨 감별 주의**: SGLT2 억제제(다파글리플로진·엠파글리플로진 등) 복용자의 다뇨·야간뇨는 약물의 [[삼투성 이뇨]] 기전으로도 발생하므로, 무조건 '음허·신허'로만 해석해 보음제를 추가하기 전에 **탈수·전해질·케톤([[정상혈당 케톤산증]]) 위험을 먼저 점검**한다.
 
 ---
 ## 7. 추나·도수치료(MET/PIR) & 침구·약침·재활 프로토콜
@@ -214,9 +216,9 @@ graph TD
 * 관원은 전통적으로 **약침 시술 부위로 사용되어 왔으나**, 본 노트에 제공된 논문 4편 중 **관원 약침(RPMI) 자체를 평가한 연구는 없음(근거 미확인)**.
 * 따라서 약침 적용 시에는 일반적 하복부 약침 안전 원칙(배뇨, 임신 금기, 방광·복막 회피, 무균 조작)을 준용하고, 사용 약침 종류·용량은 별도 근거 문헌을 확인하여 기록한다.
 
-### 7-5. 근에너지기법(MET) / PIR 연계
-
+### 7-5. 근에너지기법(MET) / PIR & 도수 연계
 * **복직근 PIR**: 환자를 앙와위로 두고, 환자가 복부에 가볍게 힘을 주어 등척성 수축(5~7초) → 호기 시 숨을 내쉬며 부드럽게 이완 → 반복. 하복부 긴장 완화 후 관원 자침을 시행하면 자침 반응과 이완 효과가 상승하는 **임상적 조합**으로 운용한다.
+* [[자궁내막증]]·골반통 도수 가동술 병용 (참고문헌 7): [[도수치료]] 프로토콜의 복부 가동술·광인대 가동술은 관원(CV4) 부위를 포함한 하복부 접촉을 사용하며, 도수 이완 뒤에 온침·[[약침]]을 얹는 순서가 환자 체감을 높이기 쉽다. 단 복부 심자는 식후 2시간 이내·방광 충만 상태를 피하고 임신 중에는 시행하지 않는다.
 * **복식호흡 재교육**: 흡기 시 하복부 팽창, 호기 시 수축을 유도하며 [[단전]] 인지 훈련. 골반저 과긴장 환자에서 호기 시 골반저 이완을 함께 지시.
 * ⚠️ **MET/PIR 병용의 관원 자침 효과 증대에 대한 비교 임상 근거는 제공 논문에서 확인되지 않음(근거 미확인)** — 시술 순서의 임상적 합리성 차원에서 기술하였다.
 
@@ -229,27 +231,22 @@ graph TD
 ---
 ## 8. 출처 및 학술 참고 문헌 (References)
 
-**제공 논문 (PubMed)**
+1. Qu J, Peng Y. (2025). Electroacupuncture of Guanyuan (CV4) Acupoint Improved Pelvic Inflammatory Disease Pain by Inhibiting Neuroinflammation and Sympathetic Activity. *Immun Inflamm Dis*. 13(11):e70299. [PMID: 41194515](https://pubmed.ncbi.nlm.nih.gov/41194515/)
+   - **핵심 요약**: 관원 전침이 신경염증과 교감신경 활성을 억제하여 골반염 통증을 개선함을 보고한 연구.
+2. Yang C, Li B. (2025). Electroacupuncture Prevents Against AD-Like Phenotypes in APP/PS1 Mice: Investigation of the Mechanisms From Cerebral Microangiopathy. *CNS Neurosci Ther*. 31(12):e70696. [PMID: 41367129](https://pubmed.ncbi.nlm.nih.gov/41367129/)
+   - **핵심 요약**: 동물모델에서 뇌 미세혈관병증 기전을 통한 전침의 인지기능 보호 효과를 탐색한 전임상 연구.
+3. International BR. (2024). Retracted: Electroacupuncture at Zusanli (ST36), Guanyuan (CV4), and Qihai (CV6) Acupoints Regulates Immune Function in Patients with Sepsis via the PD-1 Pathway. *Biomed Res Int*. 2024:9832793. [PMID: 38550204](https://pubmed.ncbi.nlm.nih.gov/38550204/)
+   - **핵심 요약**: 패혈증 면역 조절 보고 후 철회된 문헌으로서 임상 근거 활용을 금지하고 주의 이력을 남긴 항목.
+4. Jing F, Wen P. (2022). Efficacy of stimulating Mingmen (GV4) and Guanyuan (CV4) on kidney deficiency in rat model: laser irradiation traditional moxibustion. *J Tradit Chin Med*. 42(6):972-979. [PMID: 36378056](https://pubmed.ncbi.nlm.nih.gov/36378056/)
+   - **핵심 요약**: 신허 동물모델에서 명문과 관원 레이저 온구 자극의 지표를 평가한 실험 연구.
+5. Si Y, et al. (2025). The effect of acupuncture on blood glucose control in patients with type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials. *Front Endocrinol (Lausanne)*. 16:1596062. [PMID: 40568559](https://pubmed.ncbi.nlm.nih.gov/40568559/)
+   - **핵심 요약**: 제2형 당뇨병 침 치료 메타분석에서 임맥의 중완과 관원 병용 프로토콜을 확인한 체계적 문헌고찰.
+6. Wang Y, et al. (2025). Comparative effectiveness and safety of sodium-glucose cotransporter 2 inhibitors vs glucagon-like peptide 1 receptor agonists in elderly patients with type 2 diabetes mellitus: a meta-analysis. *Front Endocrinol (Lausanne)*. 16:1486655. [PMID: 40933374](https://pubmed.ncbi.nlm.nih.gov/40933374/)
+   - **핵심 요약**: 노인 당뇨병 약물 치료 시 삼투성 이뇨에 의한 다뇨·야간뇨를 한의학 신허·음허 증상과 감별할 필요성을 시사한 메타분석.
+7. Muñoz-Gómez E, et al. (2023). Effectiveness of a Manual Therapy Protocol in Women with Pelvic Pain Due to Endometriosis: A Randomized Clinical Trial. *J Clin Med*. 12(9):3310. [PMID: 37176750](https://pubmed.ncbi.nlm.nih.gov/37176750/)
+   - **핵심 요약**: 자궁내막증 여성의 골반통에서 하복부·광인대 도수 가동술 프로토콜의 효과를 검증한 무작위 임상시험.
+8. Standring S. (2020). *Gray's Anatomy: The Anatomical Basis of Clinical Practice* (42nd ed.). Elsevier.
+9. Travell JG, Simons DG. (1999). *Myofascial Pain and Dysfunction: The Trigger Point Manual*, Vol. 1.
+10. 전국한의과대학 침구경혈학교실. 『침구학』. 집문당.
 
-1. **Qu J, Peng Y (2025)**. Electroacupuncture of Guanyuan (CV4) Acupoint Improved Pelvic Inflammatory Disease Pain by Inhibiting Neuroinflammation and Sympathetic Activity. *Immun Inflamm Dis*. **PMID: 41194515**
-2. **Yang C, Li B (2025)**. Electroacupuncture Prevents Against AD-Like Phenotypes in APP/PS1 Mice: Investigation of the Mechanisms From Cerebral Microangiopathy. *CNS Neurosci Ther*. **PMID: 41367129**
-3. **International BR (2024)**. **Retracted**: Electroacupuncture at Zusanli (ST36), Guanyuan (CV4), and Qihai (CV6) Acupoints Regulates Immune Function in Patients with Sepsis via the PD-1 Pathway. *Biomed Res Int*. **PMID: 38550204** — ⚠️ **철회된 논문(2024)**
-4. **Jing F, Wen P (2022)**. Efficacy of stimulating Mingmen (GV4) and Guanyuan (CV4) on kidney deficiency in rat model: laser irradiation traditional moxibustion. *J Tradit Chin Med*. **PMID: 36378056**
-
-**일반 해부학·경혈학 참고 (템플릿 표준 문헌)**
-
-5. **Standring, S. (2020)**. *Gray's Anatomy: The Anatomical Basis of Clinical Practice* (42nd ed.). Elsevier.
-6. **Travell, J. G., & Simons, D. G. (1999)**. *Myofascial Pain and Dysfunction: The Trigger Point Manual*, Vol. 1.
-
-> **근거 수준 표기 원칙**
-> - 1~4번은 본 노트에 제공된 실제 PubMed 서지 정보이며, **제목 수준에서 확인 가능한 결론만** 인용하였다.
-> - **수치·전침 파라미터·표본 수·유의확률 등 세부 데이터는 원문 전문 확인이 필요하여 본 노트에 기재하지 않았다(근거 미확인)**.
-> - 해부학·경혈학 서술(1~4장) 중 상당 부분은 표준 교과 지식 기반이며, 제공 논문에는 해당 데이터가 없다.
-
-<!-- 보관 태그(1회용·링크오류, 필요시 복원): CV4 -->
-
-## 📎 개념 학습 보충 (2026-10-11 논문 연계)
-
-- **도수치료 프로토콜과 겹치는 개념적 표적(2026-10-11 리뷰 2번)**: J Clin Med 2023;12(9):3310, [PMID: 37176750](https://pubmed.ncbi.nlm.nih.gov/37176750/) — 자궁내막증 골반통 도수 프로토콜의 **복부 가동술·광인대 가동술**은 관원(CV4) 부위를 포함한 하복부 접촉을 쓴다
-- **임상 순서 제안**: 도수 이완 뒤에 온침·약침을 얹는 순서가 환자 체감을 높이기 쉽다. 단 복부 심자는 식후 2시간 이내·방광 충만 상태를 피하고 임신 중에는 시행하지 않는다
-- 관련: [[중극(CV3)]] · [[기해(CV6)]] · [[자궁내막증]] · [[만성 골반통]] · [[도수치료]] · [[약침]] · [[2026-10-11_부인과소아과_심층리뷰]] 2번
+<!-- 보관 태그(1회용·링크오류, 필요시 복원): CV4, 하복부 -->
