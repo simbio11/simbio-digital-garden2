@@ -28,10 +28,10 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,500</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">188,402</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+184</span></div>
-<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,793</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,505</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">188,414</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+188</span></div>
+<div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,797</span></div>
 </div>
 <!-- SC:STATS:END -->
 
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="560" data-folders="45" data-tags="316"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 560 · 📁 45 · 🏷️ 316</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1400" data-folders="51" data-tags="692"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1400 · 📁 51 · 🏷️ 692</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2670" data-folders="168" data-tags="1573"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2670 · 📁 168 · 🏷️ 1573</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="528" data-folders="105" data-tags="137"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 528 · 📁 105 · 🏷️ 137</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="533" data-folders="108" data-tags="141"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 533 · 📁 108 · 🏷️ 141</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="1133" data-folders="54" data-tags="457"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 1133 · 📁 54 · 🏷️ 457</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[부동산 브리핑-2026-11-16|부동산 브리핑-2026-11-16]]<span class="sc-recent-d">2026-11-16</span>
+- [[개원 리서치-2026-11-16|개원 리서치-2026-11-16]]<span class="sc-recent-d">2026-11-16</span>
+- [[주식 브리핑-2026-11-16|주식 브리핑-2026-11-16]]<span class="sc-recent-d">2026-11-16</span>
+- [[4주차_주식·매크로_주간_요약|4주차_주식·매크로_주간_요약]]<span class="sc-recent-d">2026-11-16</span>
 - [[주간복습_2026-11-15|주간복습_2026-11-15]]<span class="sc-recent-d">2026-11-15</span>
 - [[DASH 식이|DASH 식이]]<span class="sc-recent-d">2026-11-15</span>
 - [[MENQOL|MENQOL]]<span class="sc-recent-d">2026-11-15</span>
 - [[MRS|MRS]]<span class="sc-recent-d">2026-11-15</span>
-- [[STRAW+10|STRAW+10]]<span class="sc-recent-d">2026-11-15</span>
-- [[신음허|신음허]]<span class="sc-recent-d">2026-11-15</span>
-- [[인지행동치료|인지행동치료]]<span class="sc-recent-d">2026-11-15</span>
-- [[최면요법|최면요법]]<span class="sc-recent-d">2026-11-15</span>
 
 </div>
 <!-- SC:RECENT:END -->
