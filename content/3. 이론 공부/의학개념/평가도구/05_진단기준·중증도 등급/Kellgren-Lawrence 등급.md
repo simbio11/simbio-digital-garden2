@@ -13,7 +13,7 @@ tags:
 
 ## 1. 핵심 개념 및 정의
 - **Kellgren-Lawrence (K/L) 등급**은 Kellgren과 Lawrence(1957)가 제안한 **단순 [[방사선촬영]](X-ray) 기반 [[골관절염]](Osteoarthritis, OA) 중증도 분류 표준**이다.
-- [[무릎 골관절염]]을 비롯한 [[고관절 골관절염]], 수지 관절염 등에서 **[[골극]](osteophyte)** 형성, **[[관절강 협소]](joint space narrowing, JSN)**, **[[연골하 경화]](subchondral sclerosis)**, **골단 변형(bony deformity)** 4가지 방사선학적 징후를 종합해 **Grade 0~4**로 분류한다.
+- [[무릎 골관절염]]을 비롯한 [[골관절증(고관절)]], 수지 관절염 등에서 **[[골극]](osteophyte)** 형성, **[[관절강 협소]](joint space narrowing, JSN)**, **[[연골하 경화]](subchondral sclerosis)**, **골단 변형(bony deformity)** 4가지 방사선학적 징후를 종합해 **Grade 0~4**로 분류한다.
 - 역학 연구와 임상시험의 피험자 선정 및 [[인공관절 치환술]](TKA) 적응증 판단에서 전 세계적으로 가장 널리 쓰이는 기준이다.
 
 ## 2. 평가 항목 및 채점 구조
@@ -64,3 +64,14 @@ tags:
 2. Ma P, et al. (2025). Comparative effectiveness of Tuina therapy versus manual physical therapy for knee osteoarthritis: a randomized controlled trial. *BMC Complement Med Ther*. PMID: 40200237
 
 3. Bennell KL, Paterson KL, Metcalf BR, et al. (2021). Effect of Intra-articular Platelet-Rich Plasma vs Placebo Injection on Pain and Medial Tibial Cartilage Volume in Patients With Knee Osteoarthritis: The RESTORE Randomized Clinical Trial. *JAMA*, 326(20), 2021-2030. PMID: 34812863
+---
+
+## 📎 개념 학습 보충 (2026-11-16 논문 연계)
+
+> 원문: [[2026-11-16_근골격계-척추관절_심층리뷰]] 3번 — KL 2~4를 포함 기준으로 사용 (PMID 42061873)
+
+- 이 시험은 **KL 2~4(중등도~중증)** 고관절 골관절염 120명을 대상으로 했다. 결과(THA 우세, 보존군 38% 전환)는 **이 등급 구간에서만** 유효하다.
+- 등급 구간의 임상적 의미: KL 1~2는 보존치료 근거가 유효한 구간이고, KL 3~4는 구조적 병변이 진행돼 운동만으로 통증원을 제거하기 어려운 구간이다. 등급은 **치료 전략 전환의 신호**로 읽어야 한다.
+- 주의: 고관절에서는 KL 등급보다 **Tönnis 분류**를 쓰는 문헌이 많다. 고관절 논문을 읽을 때 등급 체계가 무엇인지 먼저 확인하지 않으면 중증도를 오독한다.
+- 등급은 방사선 소견일 뿐 통증 강도와 일치하지 않는다. 임상 결정은 등급 + 야간통 + 보행거리 + [[WOMAC]] 변화를 함께 보고 내린다.
+- 관련: [[골관절증(고관절)]] · [[인공고관절 전치환술]] · [[WOMAC]] · [[Harris Hip Score]]

@@ -95,3 +95,14 @@ category: 평가도구
    - **핵심 요약**: 만성 무릎 통증 원격재활 대 대면 물리치료 비열등성 시험에서 0~68점 신체기능 척도를 적용한 대표 대규모 임상시험.
 8. Lee YJ, et al. (2025). Combination Treatment with Thread-Embedding Acupuncture and Electroacupuncture for Knee Osteoarthritis Patients with Postoperative Pain: A Randomized Controlled Feasibility Study. *J Pain Res*. 18:89-103. [PMID: 39802413](https://pubmed.ncbi.nlm.nih.gov/39802413/)
    - **핵심 요약**: 무릎 관절염 수술 후 잔존 통증에서 한국어판 도구의 군내 개선과 소규모 표본에서의 군간 무차이를 구분해 해석한 예비 무작위 대조시험.
+---
+
+## 📎 개념 학습 보충 (2026-11-16 논문 연계)
+
+> 원문: [[2026-11-16_근골격계-척추관절_심층리뷰]] 3번 — THA vs 자가운동의 1차 지표 (PMID 42061873)
+
+- 12개월 WOMAC 총점 변화: THA군 **−30.9**(95% CI −34.9~−27.0) vs 자가운동군 **−3.7**(−8.2~0.9), 군간차 **−27.1**(−32.4~−21.8).
+- 사전 정의 [[MCID]]는 **11점**이었다. THA군은 MCID의 약 3배, 운동군은 MCID에 미달했다. "통계적 유의"가 아니라 **임상적으로 의미 있는 차이**를 보여준 사례다.
+- 해석 시 주의: WOMAC은 0~100 총점과 0~96·0~240 등 여러 변환 체계가 있다. 이 시험의 수치를 다른 논문과 비교할 때 **총점 척도 정의가 같은지** 반드시 확인할 것.
+- 임상 활용: 고관절·슬관절 골관절염에서 3~6개월 간격 재측정해 변화량이 MCID(11점)에 못 미치면 치료 전략을 바꾸는 판정 규칙으로 쓸 수 있다.
+- 관련: [[Harris Hip Score]] · [[MCID]] · [[골관절증(고관절)]] · [[인공고관절 전치환술]]
