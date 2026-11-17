@@ -79,3 +79,15 @@ category: 치료기법
 4. Amjad F, et al. (2025). Comparative effects of gong's mobilization and mobilization with movement in patients with adhesive capsulitis: a randomized clinical trial. *Sci Rep*. 15(1):4272. PMID: 39905175
 
 5. García-Juez S, et al. (2025). Effectiveness of Articular and Neural Mobilization for Managing Cervical Radicular Pain: A Systematic Review With Network Meta-Analysis. *Journal of Orthopaedic & Sports Physical Therapy*. 55(7):1-14. PMID: 40576779
+
+---
+
+## 📎 개념 학습 보충 (2026-11-17 논문 연계)
+
+- **이번 논문에서의 역할** — [[만성 발목 불안정증]] 8주 RCT(PMID 39121319)의 중재. 족부(거골하관절) 적용 프로토콜이 구체적으로 기술된 사례다.
+- **3기법 구성** — ① 거골하관절 종축(장축) 견인 ② 전후방 활주(후족 배굴 제한 시) ③ 내외측 활주(내번 제한 시). 각 기법을 grade III(가동범위 끝에서 리듬감 있는 큰 진폭, 통증 경계 직전까지)로 시행한다.
+- **용량** — 기법당 30초×3세트, 세트 간 1분 휴식, 세션 총 10분, 주 3회 8주. 체위는 앙와위 또는 복와위에서 거골하 중립을 기준으로 잡고 세션 중 체위 전환은 1회로 제한한다.
+- **중단·조정 기준** — 시술 중 NRS가 3점 이상 상승하면 grade를 한 단계 낮추고, 시술 후 24시간 지속되는 통증이 있으면 다음 회차 진폭을 줄인다. 4주간 전방 도달거리 증가가 4 cm 미만이면 관절 외 원인(골연골 병변·비골건)을 재감별한다.
+- **근거의 한계** — 등급 정의와 세트 구성이 시험마다 달라 최적 용량은 확립되지 않았다. 이 프로토콜은 재현 가능한 출발점이지 표준 처방이 아니다.
+- **관련 개념** — [[고유수용감각]] · [[피질척수 흥분성]] · [[거골]] · [[종골]] · [[도수치료]]
+- **원문** — [[2026-11-17_근골격계-사지말초_심층리뷰]] 2번 · [[2026-11-17_근골격계-사지말초_개념학습]] 2번
