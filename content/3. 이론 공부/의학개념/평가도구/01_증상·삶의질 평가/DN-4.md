@@ -64,3 +64,14 @@ category: 평가도구
    - **핵심 요약**: 7개 증상 문항과 3개 진찰 항목으로 구성된 DN-4 설문을 개발하고 신경병증성 통증 선별 민감도·특이도를 검증한 원전 논문이다.
 2. Perez Hernandez MF, et al. (2025). Effect of electroacupuncture for pain relief in diabetic distal symmetric polyneuropathy: a pilot randomized clinical trial. *BMC Complement Med Ther*. [PMID: 41366387](https://pubmed.ncbi.nlm.nih.gov/41366387/)
    - **핵심 요약**: 당뇨병성 말초신경병증에서 8주 전침 후 통증 강도는 감소했으나 신경병증 선별 점수는 변하지 않아 선별 도구와 강도 지표의 해리를 보여준 파일럿 무작위 대조시험이다.
+
+---
+
+## 📎 개념 학습 보충 (2026-11-20 논문 연계)
+
+**논문에서의 역할** — SENZA-PDN의 이차 결과지표(PMID 33818600). 6.5→3.5 vs 6.4→6.5로 자극군에서만 개선됐다.
+
+- 절단 4점(10문항 중 4점 이상)이 통상 기준. BOTNEP에서는 **포함 기준**으로도 쓰였다(PMID 26947719) — 같은 도구가 선별과 결과측정에 모두 쓰인다.
+- 결과지표로 쓸 때 주의: DN-4는 예/아니오 문항 합이므로 변화 폭이 거칠고, 통증 강도 변화와 완전히 평행하지 않다.
+- 실무: 치료 전 점수를 반드시 기록해 두면 8~12주 후 의뢰 판단(불응 여부)이 쉬워진다.
+- 관련: [[신경병증성 통증]] · [[당뇨병성 말초신경병증]] · [[IENFD]] · [[VAS]]
