@@ -75,3 +75,25 @@ tags:
 4. Tsujimoto N, et al. (2026). Prognostic validity of the Asian Working Group for Sarcopenia 2025 criteria in patients undergoing hemodialysis: A multicenter retrospective cohort study. *Arch Gerontol Geriatr*. PMID: 42998512
 
 5. Kirk B, Cawthon PM, Arai H, et al. (2024). The Conceptual Definition of Sarcopenia: Delphi Consensus from the Global Leadership Initiative in Sarcopenia (GLIS). *Age Ageing*, 53(3). PMID: 38520141
+
+---
+## 📎 개념 학습 보충 (2026-11-21 논문 연계)
+
+🔗 오늘의 논문: Chen R, Qian Q, Wang B, Chen R. Electroacupuncture Treatment on Sarcopenia in Patients Undergoing Maintenance Haemodialysis: An Effective Therapy. *J Cachexia Sarcopenia Muscle*. 2026;17(4):e70345. [PMID 42473028](https://pubmed.ncbi.nlm.nih.gov/42473028/)
+
+### 이 회차에서의 역할
+투석 유지 환자 36명을 AWGS 2019 기준으로 근감소증 진단한 뒤 전침을 배정한 시험. 모집단이 '투석'이라는 점이 기준 적용의 함정을 만든다.
+
+### 적용 시 확인할 것
+- 진단 3축: 악력(남 <28 kg·여 <18 kg), 골격근지수(생체전기저항분석, 남 <7.0·여 <5.7 kg/m²), 신체 수행(6미터 보행 <1.0 m/s 또는 5회 의자 일어서기 ≥12초)
+- 투석 환자에서는 세포외액 증가로 골격근지수가 과소평가되거나, 반대로 과수화 상태에 따라 값이 흔들린다. 투석 후 일정 시점 측정이 전제다.
+- 이 시험은 2019 기준을 썼다. 이후 개정판이 존재하므로 문헌 인용 시 연도 확인이 필요하다.
+
+### 결과 연결
+기준상 1.0 m/s 미만이던 모집단에서 8주 후 전침군이 +0.10 m/s를 보였다. cut-off를 넘었다는 보고는 아니고 방향 개선이다.
+
+### 인용
+Chen LK, Woo J, Assantachai P, Auyeung TW, et al. Asian Working Group for Sarcopenia: 2019 Consensus Update on Sarcopenia Diagnosis and Treatment. *J Am Med Dir Assoc*. 2020;21(3):300-307.e2. [PMID 32033882](https://pubmed.ncbi.nlm.nih.gov/32033882/)
+
+### 함께 보기
+[[근감소증]] · [[골격근지수(SMI)]] · [[악력]] · [[보행속도]] · [[생체전기저항분석]]

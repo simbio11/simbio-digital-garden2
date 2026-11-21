@@ -76,3 +76,20 @@ category: 평가도구
 2. Sun R, et al. (2025). Effectiveness of resistance training on body composition, muscle strength, and biomarker in sarcopenic older adults: A meta-analysis of randomized controlled trials. *Arch Gerontol Geriatr*. PMID: 39191151
 
 3. Kemmler W, Kohl M, Fröhlich M, et al. (2020). Effects of High-Intensity Resistance Training on Osteopenia and Sarcopenia Parameters in Older Men with Osteosarcopenia-One-Year Results of the Randomized Controlled Franconian Osteopenia and Sarcopenia Trial (FrOST). *J Bone Miner Res*, 35(9), 1634-1644. PMID: 32270891
+
+---
+## 📎 개념 학습 보충 (2026-11-21 논문 연계)
+
+🔗 오늘의 논문: Chen R, Qian Q, Wang B, Chen R. Electroacupuncture Treatment on Sarcopenia in Patients Undergoing Maintenance Haemodialysis: An Effective Therapy. *J Cachexia Sarcopenia Muscle*. 2026;17(4):e70345. [PMID 42473028](https://pubmed.ncbi.nlm.nih.gov/42473028/)
+
+### 이 회차에서의 역할
+이 시험에서 골격근지수는 일차 지표가 아니라 이차 지표였다(일차 = 6미터 보행속도). 8주 전침군 +0.19±0.22 kg/m² (p=0.003), 대조군 무변화.
+
+### 수치 해석 주의
+0.19 kg/m²는 AWGS cut-off(남 7.0·여 5.7 kg/m²)를 넘나드는 크기가 아니다. 진단 재분류를 기대할 수치는 아니고 '방향'의 근거로만 읽는다. 투석 환자는 체액량 변동 폭이 커서 생체전기저항분석 값이 측정 시점에 민감하므로, 투석 종료 후 30분 이내 동일 시점·동일 기기로 측정해야 추세가 성립한다.
+
+### 중복 노트 안내
+같은 이름의 노트가 05_진단기준·중증도 등급 폴더에도 존재한다(11-14 회차 지적). 11-14 보충 블록은 05 쪽에 기록되어 있고, 오늘 블록은 04 쪽에 남긴다. 통합 여부는 비오 원장 확인 후 결정.
+
+### 함께 보기
+[[근감소증]] · [[생체전기저항분석]] · [[AWGS 기준]] · [[악력]] · [[보행속도]]
