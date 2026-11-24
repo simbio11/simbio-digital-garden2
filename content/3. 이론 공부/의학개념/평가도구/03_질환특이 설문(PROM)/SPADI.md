@@ -1,7 +1,7 @@
 ---
 title: SPADI
 created: 2026-09-16
-updated: 2026-11-15
+updated: 2026-11-24
 tags:
   - 이론
   - 개념사전
@@ -94,3 +94,12 @@ category: 평가도구
    - **핵심 요약**: 만성 석회성 어깨 건염에서 일상기능과 악력은 개선되었으나 합산 척도 특성상 어깨 통증 장애 지수 군간 차가 상쇄된 무작위 대조시험.
 5. Lee JH, et al. (2026). Effects of grip strengthening combined with scapular stabilization exercise on shoulder muscle strength and functional outcomes in individuals with subacromial pain syndrome: A randomized controlled trial. *Medicine (Baltimore)*. 105(43):e50944. [PMID: 42937737](https://pubmed.ncbi.nlm.nih.gov/42937737/)
    - **핵심 요약**: 견봉하 통증 증후군에서 시점과 군의 상호작용 유의성과 군 주효과 부재를 구분하여 어깨 통증 장애 지수와 악력의 민감도를 비교한 연구.
+
+---
+
+## 📎 개념 학습 보충 (2026-11-24 논문 연계)
+- **논문**: 회전근개 질환 침+약침 병용 실용적 무작위 대조 예비연구 (PMID 38947130) — SPADI를 2차 결과로 사용.
+- **결과 패턴**: SPADI는 시간 경과에 따른 개선을 유의하게 잡아냈으나(p<0.0001), 군간 차이는 검출하지 못했다. 같은 시험에서 1차 지표였던 VAS도 군간 차이가 없었으므로, 지표 간 불일치 문제가 아니라 중재 간 차이가 실제로 작았다고 읽는 것이 타당하다.
+- **실무 시사**: 4주·8회 수준의 단기 중재에서 VAS와 SPADI를 함께 쓰면 '통증은 그대로인데 장애는 줄었다'는 해리 패턴을 잡을 수 있다. 두 지표를 모두 남길 근거가 된다.
+- **해석 주의**: 총점 변화가 [[MCID]]를 넘었는지 반드시 함께 보고할 것. 통계적 유의성만으로 임상적 이득을 주장하지 않는다.
+- 관련: [[2026-11-24_근골격계-사지말초_개념학습]]

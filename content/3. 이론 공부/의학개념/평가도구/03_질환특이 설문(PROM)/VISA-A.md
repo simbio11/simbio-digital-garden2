@@ -1,7 +1,7 @@
 ---
 title: VISA-A
 created: 2026-09-16
-updated: 2026-11-15
+updated: 2026-11-24
 tags:
   - 이론
   - 개념사전
@@ -82,3 +82,12 @@ category: 평가도구
 ## 7. 참고문헌 및 최신 근거
 1. Pringels L, et al. (2025). Effectiveness of reducing tendon compression in the rehabilitation of insertional Achilles tendinopathy: a randomised clinical trial. *Br J Sports Med*. 59(9):640-650. [PMID: 40011018](https://pubmed.ncbi.nlm.nih.gov/40011018/)
    - **핵심 요약**: 삽입부 아킬레스 건병증 42명에서 힘줄 압박 감소 재활이 12주 및 24주 시점 최소 임상적 중요 차이를 초과하는 점수 개선과 높은 환자 만족도를 보인 무작위 임상시험.
+
+---
+
+## 📎 개념 학습 보충 (2026-11-24 논문 연계)
+- **논문 1**: 중위 아킬레스 건병증 편심성 운동 메타분석 (PMID 36698184) — 포함 연구 대부분이 VISA-A를 1차 기능 지표로 사용. HSR vs 편심성 비교(Beyer 2015)에서 VISA-A 차이는 p=0.62로 유의하지 않았다.
+- **논문 2(대조 사례)**: CMC-1 골관절염 시험(PMID 41138847)은 손 기능에 [[MHQ]]를 썼다. 부위 특이 환자보고 결과지표(PROM)를 쓰는 원칙은 같지만, VISA-A를 다른 부위에 전용할 수는 없다.
+- **해석 실무**: 12주 중재에서 VISA-A 변화가 [[MCID]]를 넘는지로 판정하고, 통증 NRS·단일 다리 뒤꿈치 들기 횟수를 함께 기록한다. VISA-A 단독은 수행 능력의 객관성을 담보하지 못한다.
+- **한계**: 급성 파열·수술 후 초기에는 천장 효과·바닥 효과가 생길 수 있다. 0~100 척도의 양 끝에 몰리면 변화 판별력이 떨어진다.
+- 관련: [[2026-11-24_근골격계-사지말초_개념학습]]
