@@ -1,7 +1,7 @@
 ---
 title: "rh혈액형 부적합"
 created: 2026-09-25
-updated: 2026-10-14
+updated: 2026-11-24
 status: 완성
 출처: "MSD 매뉴얼 (전문가용), ACOG Practice Bulletin, PMID 42441900, PMID 42859971"
 분류: 질환
@@ -38,6 +38,9 @@ tags:
 
 ## 1. 질환 개요 & 해부학적 병태생리
 
+![[Rh부적합_1_Rh양성음성항원비교.png|450]]
+> [그림 1: Rh 양성(RhD 항원 존재)과 Rh 음성 적혈구의 항원 유무를 비교한 모식도 - 출처: Wikimedia Commons - File:Rh positive vs negative.png (Mikael Häggström, Public domain)]
+
 * **질환 정의 및 동종면역의 기전**
   * [[Rh 혈액형]] 부적합은 RhD 음성(Rh-)인 산모가 RhD 양성(Rh+)인 태아를 임신했을 때, 태아 적혈구의 D 항원이 모체 순환계로 유입되어 모체가 항-D 항체(Anti-D antibody)를 생산하는 동종면역(Alloimmunization) 현상에서 시작된다.
   * 첫 임신 중에는 분만 시 소량의 태아-모체 출혈(Fetomaternal hemorrhage, FMH)로 감작(Sensitization)이 일어나 주로 분자량이 큰 IgM 항체가 생성되므로 첫 번째 태아는 대개 영향을 받지 않는다.
@@ -48,6 +51,9 @@ tags:
 ---
 
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
+
+![[Rh부적합_2_모체항체태아적혈구파괴.png|450]]
+> [그림 2: 모체 Rh 항체가 태아 적혈구를 파괴하는 적아구증 기전을 그린 삽화 - 출처: Wikimedia Commons - File:1910 Erythroblastosis Fetalis.jpg (OpenStax College, CC BY 3.0)]
 
 ```
 [Rh- 산모 순환계로 Rh+ 태아 적혈구 유입 (분만, 유산, 양수검사, 외상)]
@@ -72,6 +78,12 @@ tags:
 ---
 
 ## 3. 임상 증상 & 이학적 검사(Physical Exam) 알고리즘
+
+![[Rh부적합_3_태아수종신생아.png|450]]
+> [그림 3: 중증 Rh 부적합으로 전신 부종과 복수(태아수종)를 보이는 신생아 - 출처: Wikimedia Commons - File:Newborn infant with severe hemolytic disease (erythroblastosis fetalis) in hydrops fetalis.jpg (Benkerroum Zineb, Lachiri Boutaina, CC BY 4.0)]
+
+![[Rh부적합_3_핵황달뇌MRI.png|450]]
+> [그림 4: 핵황달(kernicterus)에서 양측 기저핵의 대칭적 T2 고신호강도를 보인 신생아 뇌 MRI - 출처: Wikimedia Commons - File:Kernicterus.jpg (Gladys Cossio de Gurrola, CC BY 2.0)]
 
 ### 1) 모체 및 태아 임상 양상
 * **모체 소견**: 무증상. 전신 활력징후 및 이학적 검사상 정상 임신부와 차이가 없음.
