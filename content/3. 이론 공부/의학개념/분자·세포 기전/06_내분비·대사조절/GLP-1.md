@@ -94,3 +94,13 @@ tags:
 
 4. Wightman H, et al. (2025). Frailty in randomized controlled trials of glucose-lowering therapies for type 2 diabetes: An individual participant data meta-analysis of frailty prevalence, treatment efficacy, and adverse events. *PLoS Med*. 22(4):e1004553. PMID: 40193407
 - **핵심 요약**: 제2형 당뇨병 임상시험 참가자의 노쇠 유병률과 노쇠 정도에 따른 혈당강하제의 치료 효과 및 이상반응 차이를 분석한 개별 환자 데이터 메타분석이다.
+
+## 📎 개념 학습 보충 (2026-11-26 논문 연계)
+
+> 원문: NEJM 2026 삼중작용제 3상 ([PMID 43001755](https://pubmed.ncbi.nlm.nih.gov/43001755/))
+
+- 논문에서의 역할: [[레타트루타이드]]의 세 축 중 하나. GLP-1 수용체 자극이 식욕·보상 억제와 위배출 지연을 담당한다.
+- 실측 규모: 비만 + 무릎 골관절염에서 68주 체중 −20.0%(9 mg)·−23.7%(12 mg) 대 위약 −4.6%. GLP-1 단독 계열의 통상 감량 폭을 크게 넘는 수치다.
+- 계열 안에서의 위치: [[세마글루타이드]]·[[리라글루타이드]]·[[둘라글루타이드]]는 GLP-1 단일, [[레타트루타이드]]는 삼중. **직접 비교(Head-to-head) 시험은 아직 없으므로 우열을 단정하지 않는다.**
+- 안전성: 위장관 이상반응이 축의 공통 부담이다. 삼중작용제에서 중대한 이상반응이 위약보다 많았던 점은 계열 확장의 감시 과제다.
+- 관련: [[GIP]] · [[글루카곤]] · [[인크레틴]] · [[비만]] · [[근감소증]] · [[2026-11-26_통합의학약리학_개념학습]]
