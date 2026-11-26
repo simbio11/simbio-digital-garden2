@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,631</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">203,952</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+318</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,632</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">203,954</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+319</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,854</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="561" data-folders="46" data-tags="315"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 561 · 📁 46 · 🏷️ 315</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1410" data-folders="51" data-tags="705"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1410 · 📁 51 · 🏷️ 705</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2713" data-folders="168" data-tags="1600"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2713 · 📁 168 · 🏷️ 1600</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="579" data-folders="114" data-tags="148"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 579 · 📁 114 · 🏷️ 148</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="580" data-folders="114" data-tags="148"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 580 · 📁 114 · 🏷️ 148</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="1153" data-folders="54" data-tags="465"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 1153 · 📁 54 · 🏷️ 465</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,6 +65,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[주식 브리핑-2026-11-26|주식 브리핑-2026-11-26]]<span class="sc-recent-d">2026-11-26</span>
 - [[갑상선·부신_약물안전·스테로이드감량·위기대응_2026-11-25|갑상선·부신_약물안전·스테로이드감량·위기대응_2026-11-25]]<span class="sc-recent-d">2026-11-25</span>
 - [[견갑흉곽 리듬|견갑흉곽 리듬]]<span class="sc-recent-d">2026-11-25</span>
 - [[운동점|운동점]]<span class="sc-recent-d">2026-11-25</span>
@@ -72,7 +73,6 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 - [[FIFA 11+|FIFA 11+]]<span class="sc-recent-d">2026-11-25</span>
 - [[IASTM|IASTM]]<span class="sc-recent-d">2026-11-25</span>
 - [[2026-11-25_재활운동의학_개념학습|2026-11-25_재활운동의학_개념학습]]<span class="sc-recent-d">2026-11-25</span>
-- [[2026-11-25_재활운동의학_심층리뷰|재활운동의학 심층리뷰]]<span class="sc-recent-d">2026-11-25</span>
 
 </div>
 <!-- SC:RECENT:END -->
