@@ -1,7 +1,7 @@
 ---
 title: "임신 중 covid 19"
 created: 2026-09-25
-updated: 2026-10-14
+updated: 2026-11-27
 status: 완성
 출처: "MSD 매뉴얼 (전문가용), CDC/ACOG Clinical Guidelines, PMID 42048372, PMID 42318393"
 분류: 질환
@@ -38,6 +38,9 @@ tags:
 
 ## 1. 질환 개요 & 해부학적 병태생리
 
+![[임신중코로나_1_바이러스3D모델.png|450]]
+> [그림 1: SARS-CoV-2 바이러스 입자와 스파이크 단백질의 3차원 모델 — 출처: Wikimedia Commons — File:3D print models of SARS-CoV-2 virus.jpg]
+
 * **질환 정의 및 임신부의 취약성**
   * 임신 중 SARS-CoV-2 감염은 비임신 동연령대 여성에 비해 중증 질환(Severe illness)으로 진행할 위험이 3배, 중환자실(ICU) 입원 위험이 2~3배, 체외막산소공급(ECMO) 필요성이 2.4배 높다.
   * 생리적 원인: 임신 후기 자궁 증대에 의한 횡격막 거상(약 4cm 상승)으로 폐 용적 감소, 산소 소비량 20% 증가, 그리고 동종이계 태아를 보호하기 위한 Th1 세포 매개 면역 억제(Th2 우세 환경)가 바이러스 청소율을 떨어뜨린다.
@@ -48,6 +51,12 @@ tags:
 ---
 
 ## 2. 병태생리 메커니즘 & 생체역학적 악순환 네트워크
+
+![[임신중코로나_2_폐렴CT관상면.png|450]]
+> [그림 2: 코로나19 폐렴 환자의 양측 폐 침윤을 보인 흉부 CT 관상면 — 출처: Wikimedia Commons — File:COVID-19-Longontsteking.jpg]
+
+![[임신중코로나_2_폐렴CT간유리음영.png|450]]
+> [그림 3: 양측 폐 하엽 간유리 음영을 보인 흉부 CT 횡단면 — 출처: Wikimedia Commons — File:COVID-19-Longontsteking.jpg]
 
 ```
 [SARS-CoV-2 감염 → ACE2 수용체 결합 & 폐포 상피세포 파괴]
