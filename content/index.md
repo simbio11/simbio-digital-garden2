@@ -28,9 +28,9 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 
 <!-- SC:STATS:START -->
 <div class="sc-stats">
-<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,649</span></div>
-<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">204,855</span></div>
-<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+334</span></div>
+<div class="sc-stat"><span class="sc-stat-k">총 문서</span><span class="sc-stat-v">6,652</span></div>
+<div class="sc-stat"><span class="sc-stat-k">백링크</span><span class="sc-stat-v sc-stat-green">204,860</span></div>
+<div class="sc-stat"><span class="sc-stat-k">이번 달</span><span class="sc-stat-v sc-stat-amber">+337</span></div>
 <div class="sc-stat"><span class="sc-stat-k">태그</span><span class="sc-stat-v sc-stat-blue">2,869</span></div>
 </div>
 <!-- SC:STATS:END -->
@@ -55,7 +55,7 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <a class="sc-card" href="1.-근골격계-공부/00_근골격계_MOC" style="--c:var(--cat-muscle)" data-files="561" data-folders="46" data-tags="314"><span class="sc-ico">🦴</span><span class="sc-txt"><span class="sc-name">근골격계</span><span class="sc-sub"><span class="sc-desc">근육 · 골격 · 신경 · 이학적 검사 · 추나</span><span class="sc-count">📄 561 · 📁 46 · 🏷️ 314</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="2.-약리-공부/00_약리_공부_MOC" style="--c:var(--cat-herb)" data-files="1412" data-folders="51" data-tags="712"><span class="sc-ico">🌿</span><span class="sc-txt"><span class="sc-name">약리 공부</span><span class="sc-sub"><span class="sc-desc">본초 · 처방 · 약리성분 · 약침</span><span class="sc-count">📄 1412 · 📁 51 · 🏷️ 712</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="3.-이론-공부/00_이론_공부_MOC" style="--c:var(--cat-theory)" data-files="2719" data-folders="168" data-tags="1602"><span class="sc-ico">🧠</span><span class="sc-txt"><span class="sc-name">이론 공부</span><span class="sc-sub"><span class="sc-desc">경락 · 생리 · 질환 · 영양학</span><span class="sc-count">📄 2719 · 📁 168 · 🏷️ 1602</span></span></span><span class="sc-go">→</span></a>
-<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="584" data-folders="114" data-tags="153"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 584 · 📁 114 · 🏷️ 153</span></span></span><span class="sc-go">→</span></a>
+<a class="sc-card" href="보고서/주식-브리핑" style="--c:var(--cat-formula)" data-files="587" data-folders="114" data-tags="153"><span class="sc-ico">📊</span><span class="sc-txt"><span class="sc-name">라이프 보고서</span><span class="sc-sub"><span class="sc-desc">주식 · 부동산 브리핑 · 일상 리서치</span><span class="sc-count">📄 587 · 📁 114 · 🏷️ 153</span></span></span><span class="sc-go">→</span></a>
 <a class="sc-card" href="5.-독서,-노트/00_독서_노트_moc" style="--c:var(--cat-books)" data-files="1157" data-folders="54" data-tags="469"><span class="sc-ico">📚</span><span class="sc-txt"><span class="sc-name">독서·노트</span><span class="sc-sub"><span class="sc-desc">강의록 · 논문 리뷰 · 독서 노트 · 여행</span><span class="sc-count">📄 1157 · 📁 54 · 🏷️ 469</span></span></span><span class="sc-go">→</span></a>
 </div>
 <!-- SC:GRID:END -->
@@ -65,14 +65,14 @@ description: 옵시디언 기반 개인 지식 베이스 — 의학·한의학·
 <!-- SC:RECENT:START -->
 <div class="sc-recent">
 
+- [[2026-11-28-YouTube-Digest|2026-11-28 YouTube Daily Productivity Digest]]<span class="sc-recent-d">2026-11-28</span>
+- [[갤럭시 S26 울트라 1개월 실사용 후기 주요 장단점 및 핵심 성능 분석|갤럭시 S26 울트라 1개월 실사용 후기 주요 장단점 및 핵심 성능 분석]]<span class="sc-recent-d">2026-11-28</span>
+- [[미장 주간 마감-2026-11-28|미장 주간 마감-2026-11-28]]<span class="sc-recent-d">2026-11-28</span>
 - [[신장·전해질_만성콩팥병·탈수·전해질이상_2026-11-27|신장·전해질 만성콩팥병·탈수·전해질이상 2026-11-27]]<span class="sc-recent-d">2026-11-27</span>
 - [[월 편두통일수(MMD)|월 편두통일수(MMD)]]<span class="sc-recent-d">2026-11-27</span>
 - [[모델기반 메타분석|모델기반 메타분석]]<span class="sc-recent-d">2026-11-27</span>
 - [[2026-11-27_신경계통증의학_개념학습|2026-11-27 신경계통증의학 개념학습]]<span class="sc-recent-d">2026-11-27</span>
 - [[2026-11-27_신경계통증의학_심층리뷰|신경계통증의학 심층리뷰]]<span class="sc-recent-d">2026-11-27</span>
-- [[부동산 브리핑-2026-11-27|부동산 브리핑-2026-11-27]]<span class="sc-recent-d">2026-11-27</span>
-- [[개원 리서치-2026-11-27|개원 리서치-2026-11-27]]<span class="sc-recent-d">2026-11-27</span>
-- [[주식 브리핑-2026-11-27|주식 브리핑-2026-11-27]]<span class="sc-recent-d">2026-11-27</span>
 
 </div>
 <!-- SC:RECENT:END -->
